@@ -1,0 +1,10 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2023-01-01,Pogon Szczecin,Rakow,500000,400000
+21/22,2021-07-01,Wisla Kraków,Pogon Szczecin,400000,free transfer
+19/20,2019-07-11,Recre Granada,Wisla Kraków,200000,free transfer
+16/17,2016-07-09,RM Castilla,Granada B,-,free transfer
+15/16,2016-06-30,CF Fuenlabrada,RM Castilla,-,End of loan
+15/16,2015-07-28,RM Castilla,CF Fuenlabrada,250000,loan transfer
+15/16,2015-07-01,Real Madrid U19,RM Castilla,250000,-
+14/15,2014-07-01,Real Madrid U18,Real Madrid U19,-,-
+13/14,2013-07-01,Real Madrid U17,Real Madrid U18,-,-

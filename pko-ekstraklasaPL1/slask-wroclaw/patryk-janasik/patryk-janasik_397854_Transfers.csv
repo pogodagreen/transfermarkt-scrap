@@ -1,0 +1,10 @@
+season,date,sourceTeam,destTeam,marketValue,price
+20/21,2020-08-01,Odra Opole,Slask Wroclaw,100000,50000
+19/20,2019-07-01,Blekitni Wronki,Odra Opole,75000,free transfer
+18/19,2019-06-30,Odra Opole,Blekitni Wronki,75000,End of loan
+18/19,2018-07-01,Blekitni Wronki,Odra Opole,-,loan transfer
+17/18,2018-06-30,GKS Belchatow,Blekitni Wronki,-,End of loan
+17/18,2017-07-13,Blekitni Wronki,GKS Belchatow,-,loan transfer
+16/17,2017-06-30,Lech Poznan II,Blekitni Wronki,-,End of loan
+14/15,2015-01-01,Blekitni Wronki,Lech Poznan II,-,loan transfer
+13/14,2013-07-01,Pniewy,Blekitni Wronki,-,free transfer

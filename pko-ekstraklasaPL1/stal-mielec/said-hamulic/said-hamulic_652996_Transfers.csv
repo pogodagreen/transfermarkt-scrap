@@ -1,0 +1,14 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2023-01-24,Stal Mielec,Toulouse,1500000,2500000
+22/23,2023-01-18,DFK Dainava,Stal Mielec,1500000,150000
+22/23,2023-01-17,Stal Mielec,DFK Dainava,1500000,End of loan
+22/23,2022-07-14,DFK Dainava,Stal Mielec,375000,loan transfer
+21/22,2022-06-30,Suduva,DFK Dainava,375000,End of loan
+21/22,2022-03-17,DFK Dainava,Suduva,300000,loan transfer
+22/23,2022-03-16,Botev Plovdiv,DFK Dainava,300000,End of loan
+21/22,2022-02-25,DFK Dainava,Botev Plovdiv,300000,loan transfer
+20/21,2021-02-20,Quick Boys U21,DFK Dainava,-,free transfer
+20/21,2020-07-01,Without Club,Quick Boys U21,-,-
+19/20,2019-07-01,Go Ahead U19,Without Club,-,-
+18/19,2019-02-01,Without Club,Go Ahead U19,-,-
+18/19,2018-07-01,Alphense B. U17,Without Club,-,-

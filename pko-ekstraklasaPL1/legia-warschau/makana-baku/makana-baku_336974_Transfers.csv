@@ -1,0 +1,10 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2022-07-02,Göztepe,Legia Warszawa,700000,350000
+21/22,2021-07-13,Holstein Kiel,Göztepe,900000,350000
+20/21,2021-06-30,Warta Poznan,Holstein Kiel,900000,End of loan
+20/21,2021-01-14,Holstein Kiel,Warta Poznan,600000,loan transfer
+19/20,2019-07-01,Sonnenhof-Gr.,Holstein Kiel,400000,300000
+17/18,2017-07-01,Mainz 05 U19,Sonnenhof-Gr.,-,free transfer
+16/17,2016-07-01,Gonsenheim U19,Mainz 05 U19,-,free transfer
+15/16,2015-07-01,Mainz 05 U17,Gonsenheim U19,-,free transfer
+13/14,2013-07-01,Mainz 05 Yth.,Mainz 05 U17,-,-

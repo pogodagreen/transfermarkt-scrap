@@ -1,0 +1,12 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2022-07-01,Gornik Leczna,Korona Kielce,350000,45000
+19/20,2020-02-12,Without Club,Gornik Leczna,150000,-
+19/20,2019-07-31,Termalica,Without Club,150000,-
+18/19,2019-06-30,GKS Katowice,Termalica,125000,End of loan
+18/19,2018-09-03,Termalica,GKS Katowice,250000,loan transfer
+17/18,2017-07-01,Gornik Leczna,Termalica,300000,200000
+15/16,2015-07-01,Podbeskidzie,Gornik Leczna,250000,free transfer
+14/15,2014-07-01,F. Swinoujscie,Podbeskidzie,150000,free transfer
+11/12,2011-07-10,Grom Wolsztyn,F. Swinoujscie,-,free transfer
+10/11,2011-05-10,Nowy Tomysl,Grom Wolsztyn,-,free transfer
+09/10,2010-01-01,Grodzisk U19,Nowy Tomysl,-,free transfer

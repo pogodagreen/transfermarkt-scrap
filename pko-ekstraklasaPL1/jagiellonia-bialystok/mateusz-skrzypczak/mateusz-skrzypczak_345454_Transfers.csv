@@ -1,0 +1,9 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2022-07-01,Lech Poznan,Jagiellonia,100000,free transfer
+20/21,2021-06-30,Stomil Olsztyn,Lech Poznan,200000,End of loan
+20/21,2021-01-14,Lech Poznan,Stomil Olsztyn,200000,loan transfer
+20/21,2020-12-31,P. Niepolomice,Lech Poznan,200000,End of loan
+20/21,2020-08-04,Lech Poznan,P. Niepolomice,200000,loan transfer
+18/19,2019-02-04,Lech Poznan II,Lech Poznan,-,-
+17/18,2018-02-01,Lech U19,Lech Poznan II,-,-
+16/17,2016-07-01,Lech Academy,Lech U19,-,-

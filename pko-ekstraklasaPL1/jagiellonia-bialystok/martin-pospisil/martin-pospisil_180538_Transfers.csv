@@ -1,0 +1,9 @@
+season,date,sourceTeam,destTeam,marketValue,price
+17/18,2017-07-04,Jablonec,Jagiellonia,700000,325000
+14/15,2014-07-01,Viktoria Plzen,FK Jablonec,600000,free transfer
+13/14,2014-06-30,Sigma Olomouc,Viktoria Plzen,600000,End of loan
+13/14,2014-01-03,Viktoria Plzen,Sigma Olomouc,600000,loan transfer
+13/14,2013-09-02,Sigma Olomouc,Viktoria Plzen,500000,600000
+11/12,2011-12-31,Fotbal Trinec,Sigma Olomouc,-,End of loan
+11/12,2011-07-01,Sigma Olomouc,Fotbal Trinec,-,loan transfer
+10/11,2011-01-01,Olomouc U19,Sigma Olomouc,-,-

@@ -1,0 +1,19 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2022-07-02,Albacete,Widzew Lodz,400000,free transfer
+21/22,2021-07-01,Castellón,Albacete,350000,free transfer
+20/21,2021-06-30,UCAM Murcia,Castellón,350000,End of loan
+20/21,2021-01-29,Castellón,UCAM Murcia,300000,loan transfer
+20/21,2020-08-27,CD Numancia,Castellón,300000,free transfer
+19/20,2020-06-30,Valencia B,CD Numancia,300000,End of loan
+19/20,2019-07-12,CD Numancia,Valencia B,200000,loan transfer
+18/19,2019-06-30,UD Ibiza,CD Numancia,200000,End of loan
+18/19,2019-01-31,CD Numancia,UD Ibiza,300000,loan transfer
+18/19,2018-07-01,Valencia B,CD Numancia,300000,free transfer
+16/17,2016-07-05,AE Prat,Valencia B,-,free transfer
+15/16,2015-07-01,Vilassar de Mar,AE Prat,-,free transfer
+14/15,2014-08-18,Badalona,Vilassar de Mar,-,free transfer
+14/15,2014-06-30,CD Masnou,Badalona,-,End of loan
+13/14,2014-01-01,Badalona,CD Masnou,-,loan transfer
+13/14,2013-07-01,Badalona U19,Badalona,-,-
+12/13,2012-07-01,CF Damm Youth,Badalona U19,-,?
+11/12,2011-07-01,UA Horta,CF Damm Youth,-,?

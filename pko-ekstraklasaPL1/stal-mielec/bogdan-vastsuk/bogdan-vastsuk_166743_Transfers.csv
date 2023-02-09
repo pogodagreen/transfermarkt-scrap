@@ -1,0 +1,15 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2023-01-05,Stal Mielec,Sligo Rovers,200000,?
+22/23,2022-07-20,FCI Levadia,Stal Mielec,400000,?
+21/22,2022-03-08,Vorskla Poltava,FCI Levadia,400000,End of loan
+21/22,2022-02-08,FCI Levadia,Vorskla Poltava,400000,loan transfer
+19/20,2019-08-23,Riga,FCI Levadia,400000,free transfer
+18/19,2019-06-30,Levski Sofia,Riga,400000,End of loan
+18/19,2018-08-21,Riga,Levski Sofia,75000,loan transfer
+16/17,2016-08-22,Reading U21,Riga,-,free transfer
+15/16,2016-06-30,Farnborough,Reading U21,-,End of loan
+15/16,2015-10-27,Reading U21,Farnborough,-,loan transfer
+14/15,2014-08-01,Reading U18,Reading U21,-,-
+13/14,2013-08-31,Akademia Dynamo,Reading U18,-,?
+11/12,2012-01-01,FC Infonet,Akademia Dynamo,-,?
+10/11,2011-01-01,FC Infonet U19,FC Infonet,-,-

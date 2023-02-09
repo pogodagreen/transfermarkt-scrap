@@ -1,0 +1,11 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2022-07-01,Wisla Kraków,Widzew Lodz,200000,40000
+20/21,2020-12-31,Stomil Olsztyn,Wisla Kraków,200000,End of loan
+19/20,2020-02-07,Wisla Kraków,Stomil Olsztyn,200000,loan transfer
+19/20,2019-08-01,Zaglebie Lubin,Wisla Kraków,500000,free transfer
+18/19,2019-06-30,Odra Opole,Zaglebie Lubin,500000,End of loan
+18/19,2018-07-01,Zaglebie Lubin,Odra Opole,50000,loan transfer
+17/18,2017-07-12,Lubin U19,Zaglebie Lubin,-,-
+16/17,2017-02-10,Lech U19,Lubin U19,-,?
+14/15,2014-07-01,Lech Academy,Lech U19,-,-
+12/13,2012-07-01,Start Namyslow,Lech Academy,-,?

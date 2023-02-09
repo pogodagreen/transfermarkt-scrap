@@ -1,0 +1,11 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2022-07-01,Stal Mielec,G. Bordeaux,900000,free transfer
+19/20,2019-12-31,Motor Lublin,Stal Mielec,50000,End of loan
+19/20,2019-08-14,Stal Mielec,Motor Lublin,50000,loan transfer
+18/19,2018-12-31,Wólczanka,Stal Mielec,50000,End of loan
+18/19,2018-08-02,Stal Mielec,Wólczanka,50000,loan transfer
+17/18,2017-07-01,JKS Jaroslaw,Stal Mielec,50000,free transfer
+16/17,2017-06-30,Stal Mielec,JKS Jaroslaw,50000,End of loan
+16/17,2017-02-02,JKS Jaroslaw,Stal Mielec,-,loan transfer
+15/16,2015-07-01,JKS 1909 U19,JKS Jaroslaw,-,-
+13/14,2014-01-01,UKS SMS U19,JKS 1909 U19,-,free transfer

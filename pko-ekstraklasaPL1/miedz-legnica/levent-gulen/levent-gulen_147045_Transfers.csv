@@ -1,0 +1,12 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2022-07-01,Volos NPS,Miedz Legnica,300000,free transfer
+21/22,2021-07-01,Ankaraspor,Volos NPS,175000,free transfer
+20/21,2020-10-05,Without Club,Ankaraspor,300000,-
+19/20,2020-03-26,Kayserispor,Without Club,300000,-
+16/17,2016-08-17,Grasshoppers,Kayserispor,900000,?
+15/16,2016-06-30,FC Vaduz,Grasshoppers,900000,End of loan
+15/16,2016-02-09,Grasshoppers,FC Vaduz,1000000,loan transfer
+13/14,2014-06-30,Kayserispor,Grasshoppers,150000,End of loan
+13/14,2014-01-08,Grasshoppers,Kayserispor,50000,loan transfer
+12/13,2012-07-01,GC Zürich U21,Grasshoppers,50000,-
+11/12,2011-07-01,GC Zürich U18,GC Zürich U21,-,-

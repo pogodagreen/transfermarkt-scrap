@@ -1,0 +1,12 @@
+season,date,sourceTeam,destTeam,marketValue,price
+20/21,2021-02-16,Without Club,Pogon Szczecin,600000,-
+20/21,2020-10-05,Amiens SC,Without Club,700000,-
+19/20,2020-07-31,Esbjerg fB,Amiens SC,700000,End of loan
+19/20,2020-01-26,Amiens SC,Esbjerg fB,1000000,loan transfer
+18/19,2019-06-30,FC Midtjylland,Amiens SC,1500000,End of loan
+18/19,2019-01-31,Amiens SC,FC Midtjylland,2000000,loan transfer
+18/19,2018-08-06,Górnik Zabrze,Amiens SC,2000000,850000
+13/14,2013-12-31,ROW Rybnik,Górnik Zabrze,125000,End of loan
+12/13,2012-08-04,Górnik Zabrze,ROW Rybnik,-,loan transfer
+11/12,2011-07-01,Gornik II,Górnik Zabrze,-,-
+10/11,2010-07-01,Marcinki U19,Gornik II,-,free transfer

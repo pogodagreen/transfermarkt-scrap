@@ -1,0 +1,15 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2022-07-10,CD Tenerife,Slask Wroclaw,400000,free transfer
+20/21,2021-06-30,Real Oviedo,CD Tenerife,600000,End of loan
+20/21,2020-09-16,CD Tenerife,Real Oviedo,650000,loan transfer
+19/20,2019-08-30,Olympiacos,CD Tenerife,800000,free transfer
+18/19,2019-06-30,Dep. La Coruña,Olympiacos,800000,End of loan
+18/19,2019-01-31,Olympiacos,Dep. La Coruña,1000000,loan transfer
+18/19,2018-08-31,Villarreal,Olympiacos,1000000,free transfer
+17/18,2018-06-30,Barcelona B,Villarreal,1000000,End of loan
+17/18,2018-01-29,Villarreal,Barcelona B,1000000,loan transfer
+17/18,2018-01-28,Real Betis,Villarreal,1000000,End of loan
+16/17,2016-07-01,Villarreal,Real Betis,4000000,loan transfer
+15/16,2015-07-01,Villarreal CF B,Villarreal,-,-
+12/13,2013-01-01,FC Villarreal C,Villarreal CF B,-,-
+12/13,2012-07-01,Villarreal U19,FC Villarreal C,-,-

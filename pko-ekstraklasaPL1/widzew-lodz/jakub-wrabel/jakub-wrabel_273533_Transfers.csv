@@ -1,0 +1,10 @@
+season,date,sourceTeam,destTeam,marketValue,price
+21/22,2021-07-01,Wisla Plock,Widzew Lodz,150000,25000
+20/21,2021-06-30,Widzew Lodz,Wisla Plock,150000,End of loan
+20/21,2021-02-03,Wisla Plock,Widzew Lodz,100000,loan transfer
+19/20,2020-07-31,Stal Mielec,Wisla Plock,100000,End of loan
+19/20,2020-02-26,Wisla Plock,Stal Mielec,100000,loan transfer
+19/20,2019-07-01,Slask Wroclaw,Wisla Plock,200000,free transfer
+16/17,2017-06-30,Olimpia Grudz.,Slask Wroclaw,200000,End of loan
+16/17,2016-07-04,Slask Wroclaw,Olimpia Grudz.,150000,loan transfer
+13/14,2013-07-01,Sl. Wroclaw II,Slask Wroclaw,-,-
