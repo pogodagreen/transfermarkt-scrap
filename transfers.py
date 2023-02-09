@@ -2,6 +2,7 @@ import requests
 import re
 from bs4 import BeautifulSoup
 from os.path  import basename
+import os.path
 import pandas as pd
 from datetime import datetime
 
@@ -53,6 +54,6 @@ def transferHistory(link):
         df.to_csv(fileName, index=False)
 
     except:
-        f=open("errors.txt", "a")
+        f=open(os.path.dirname(__file__)+"../errors.txt", "a")
         f.write(link+",no transfers \n")
         f.close()

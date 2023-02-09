@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import os.path
 from os.path  import basename
 import pandas as pd
 
@@ -38,6 +39,6 @@ def statsSeason(link,season):
         fileName=playerName+"_"+playerId+"_stats.csv"
         return data2, fileName
     except:
-        f=open("errors.txt", "a")
+        f=open(os.path.dirname(__file__)+"../errors.txt", "a")
         f.write(link +",no stats \n")
         f.close()

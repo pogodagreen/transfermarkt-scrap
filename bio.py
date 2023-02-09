@@ -1,6 +1,7 @@
 import requests
 import re
 from bs4 import BeautifulSoup
+import os.path
 from os.path  import basename
 import pandas as pd
 
@@ -67,6 +68,6 @@ def biography(link):
         df.to_csv(fileName, index=False)
         
     except:
-        f=open("errors.txt", "a")
+        f=open(os.path.dirname(__file__)+"../errors.txt", "a")
         f.write(link +",no bio \n")
         f.close()

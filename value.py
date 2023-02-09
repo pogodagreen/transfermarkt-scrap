@@ -1,5 +1,5 @@
 import pandas as pd
-
+import os.path
 from selenium import webdriver
 from selenium.webdriver import Chrome, ChromeOptions, Firefox, FirefoxOptions
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
@@ -50,6 +50,6 @@ def playerValue(link):
 
     except:
       driver.quit()
-      f=open("errors.txt", "a")
+      f=open(os.path.dirname(__file__)+"../errors.txt", "a")
       f.write(link +",no highcharts \n")
       f.close()
