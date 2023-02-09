@@ -69,5 +69,5 @@ def biography(link):
         
     except:
         f=open(os.path.dirname(__file__)+"../errors.txt", "a")
-        f.write(link +",no bio \n")
+        f.write(link)
         f.close()

@@ -51,5 +51,5 @@ def playerValue(link):
     except:
       driver.quit()
       f=open(os.path.dirname(__file__)+"../errors.txt", "a")
-      f.write(link +",no highcharts \n")
+      f.write(link)
       f.close()

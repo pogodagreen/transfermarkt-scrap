@@ -40,5 +40,5 @@ def statsSeason(link,season):
         return data2, fileName
     except:
         f=open(os.path.dirname(__file__)+"../errors.txt", "a")
-        f.write(link +",no stats \n")
+        f.write(link)
         f.close()

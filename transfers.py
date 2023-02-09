@@ -55,5 +55,5 @@ def transferHistory(link):
 
     except:
         f=open(os.path.dirname(__file__)+"../errors.txt", "a")
-        f.write(link+",no transfers \n")
+        f.write(link)
         f.close()
