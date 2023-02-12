@@ -1,7 +1,6 @@
 import requests
 import re
 from bs4 import BeautifulSoup
-import os.path
 from os.path  import basename
 import pandas as pd
 
@@ -33,15 +32,17 @@ def biography(link):
         data2=[]
         try:
             table = soup.find('table').find('tbody')
-
             rows = table.find_all('tr')
+
             for row in rows:
                 cols = row.find_all('td')
                 cols = [ele.text.strip() for ele in cols]
-                data.append([ele for ele in cols if ele]) # Get rid of empty values
+                data.append([ele for ele in cols if ele])
+
             for i in range(len(data)):
                 if i%2!=0:
                     data2.append(data[i])
+
             for i in range(len(data2)):
                 if data2[i][3] == '-':
                     data2[i][3]=0
@@ -63,11 +64,10 @@ def biography(link):
                     playerA=data2[i][3]        
         except:
             pass
+
         df = pd.DataFrame.from_records([{'id':str(playerId), 'name': playerName, 'yearOfBirth': str(playerYoB[0]),'nationality': str(playerNationality[0]), 'height': str(playerHeight[0]), 'position':str(playerPosition[0]), 'u15':str(playerU15), 'u16':str(playerU16), 'u17':str(playerU17), 'u18':str(playerU18), 'u19':str(playerU19), 'u20':str(playerU20), 'u21':str(playerU21), 'team':str(playerA)}])
         fileName=playerName+"_"+playerId+"_National.csv"
         df.to_csv(fileName, index=False)
         
     except:
-        f=open(os.path.dirname(__file__)+"../errors.txt", "a")
-        f.write(link)
-        f.close()
+        pass
