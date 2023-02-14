@@ -1,0 +1,19 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2023-02-09,Doxa Katokopias,Piast Gliwice,400000,free transfer
+22/23,2022-08-19,Górnik Zabrze,Doxa Katokopias,400000,free transfer
+20/21,2020-08-03,Spartak Trnava,Górnik Zabrze,300000,free transfer
+19/20,2019-07-01,Rapid Vienna,Spartak Trnava,200000,free transfer
+18/19,2019-06-30,FAC,Rapid Vienna,200000,End of loan
+18/19,2018-08-01,Rapid Vienna,FAC,175000,loan transfer
+17/18,2018-06-30,Wiener Neustadt,Rapid Vienna,175000,End of loan
+17/18,2018-01-26,Rapid Vienna,Wiener Neustadt,200000,loan transfer
+17/18,2018-01-25,SKN St. Pölten,Rapid Vienna,200000,End of loan
+17/18,2017-08-31,Rapid Vienna,SKN St. Pölten,100000,loan transfer
+16/17,2017-01-01,Rapid Wien II,Rapid Vienna,0,0
+15/16,2016-01-28,FC Liefering,Rapid Wien II,75000,0
+15/16,2015-07-01,Rapid Wien II,FC Liefering,0,0
+14/15,2015-01-01,AKA Rapid U18,Rapid Wien II,0,0
+13/14,2013-07-01,AKA Rapid U16,AKA Rapid U18,0,0
+12/13,2012-07-01,AKA Rapid U15,AKA Rapid U16,0,0
+10/11,2011-01-01,Rapid Youth,AKA Rapid U15,0,0
+07/08,2007-08-14,Sportklub Jgd.,Rapid Youth,0,0

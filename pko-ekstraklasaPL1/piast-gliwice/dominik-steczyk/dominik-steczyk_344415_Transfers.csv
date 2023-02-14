@@ -1,0 +1,11 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2022-08-25,Piast Gliwice,Hallescher FC,250000,free transfer
+21/22,2022-06-30,Stal Mielec,Piast Gliwice,250000,End of loan
+21/22,2022-02-23,Piast Gliwice,Stal Mielec,250000,loan transfer
+21/22,2021-07-01,1.FC Nuremberg,Piast Gliwice,500000,100000
+20/21,2021-06-30,Piast Gliwice,1.FC Nuremberg,500000,End of loan
+19/20,2019-07-09,1.FC Nuremberg,Piast Gliwice,50000,loan transfer
+19/20,2019-07-08,Nuremberg II,1.FC Nuremberg,50000,0
+18/19,2018-07-01,VfL Bochum U19,Nuremberg II,0,free transfer
+16/17,2016-07-01,VfL Bochum U17,VfL Bochum U19,0,0
+15/16,2015-07-01,GKS Katowice U19,VfL Bochum U17,0,free transfer

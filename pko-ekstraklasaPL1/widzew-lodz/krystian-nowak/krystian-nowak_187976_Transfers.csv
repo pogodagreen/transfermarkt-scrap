@@ -1,0 +1,13 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2022-08-16,Widzew Lodz,U Cluj,200000,free transfer
+19/20,2020-01-18,Slaven Belupo,Widzew Lodz,100000,free transfer
+18/19,2018-08-27,Panionios,Slaven Belupo,150000,free transfer
+17/18,2018-01-30,Heart of Midl.,Panionios,175000,free transfer
+16/17,2016-08-08,Podbeskidzie,Heart of Midl.,150000,free transfer
+15/16,2015-07-01,Widzew Lodz,Podbeskidzie,150000,free transfer
+12/13,2013-01-01,SMS Lodz,Widzew Lodz,50000,free transfer
+12/13,2012-12-31,Widzew Lodz,SMS Lodz,50000,End of loan
+12/13,2012-08-10,SMS Lodz,Widzew Lodz,0,loan transfer
+11/12,2012-06-30,Tur Turek,SMS Lodz,0,End of loan
+11/12,2011-07-01,SMS Lodz,Tur Turek,0,loan transfer
+10/11,2010-07-01,UKS SMS U19,SMS Lodz,0,0

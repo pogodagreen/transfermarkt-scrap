@@ -1,0 +1,10 @@
+season,date,sourceTeam,destTeam,marketValue,price
+20/21,2020-08-04,Górnik Zabrze,Miedz Legnica,250000,free transfer
+18/19,2018-08-31,GKS Tychy,Górnik Zabrze,125000,45000
+17/18,2017-07-07,Wigry Suwalki,GKS Tychy,150000,50000
+15/16,2015-12-31,O. Zambrow,Wigry Suwalki,100000,End of loan
+15/16,2015-08-13,Wigry Suwalki,O. Zambrow,100000,loan transfer
+14/15,2015-01-01,Jagiellonia II,Wigry Suwalki,0,10000
+14/15,2014-12-31,O. Zambrow,Jagiellonia II,0,End of loan
+12/13,2012-07-30,Jagiellonia II,O. Zambrow,0,loan transfer
+10/11,2010-07-01,Jagiellonia U19,Jagiellonia II,0,0

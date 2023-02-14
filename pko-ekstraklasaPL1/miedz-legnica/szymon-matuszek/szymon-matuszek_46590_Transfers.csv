@@ -1,0 +1,13 @@
+season,date,sourceTeam,destTeam,marketValue,price
+20/21,2020-08-04,Górnik Zabrze,Miedz Legnica,200000,free transfer
+15/16,2016-01-01,Dolcan Zabki,Górnik Zabrze,200000,free transfer
+12/13,2012-07-27,Piast Gliwice,Dolcan Zabki,150000,free transfer
+11/12,2012-06-30,Wisla Plock,Piast Gliwice,150000,End of loan
+11/12,2012-02-01,Piast Gliwice,Wisla Plock,150000,loan transfer
+10/11,2011-06-30,Chojniczanka,Piast Gliwice,150000,End of loan
+10/11,2011-02-01,Piast Gliwice,Chojniczanka,150000,loan transfer
+09/10,2009-08-01,Jagiellonia,Piast Gliwice,125000,free transfer
+08/09,2008-07-01,Real Madrid C,Jagiellonia,0,free transfer
+06/07,2007-01-01,UD Horadada,Real Madrid C,0,free transfer
+05/06,2006-01-01,Silesia Lubomia,UD Horadada,0,free transfer
+05/06,2005-07-01,WSP Wodzislaw,Silesia Lubomia,0,free transfer

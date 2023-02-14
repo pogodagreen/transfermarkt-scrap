@@ -2,19 +2,18 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 from datetime import datetime
+import os
 
 headers = {'User-Agent': 
            'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
 
-def transferHistory(link):
+def transferHistory(link,file):
     playerName=link.split("/")[3]
 
     try:
         link=link.replace(".pl/",".co.uk/")
         link=link.replace("profil", "transfers")
-        page=link
-
-        tree=requests.get(page,headers=headers)
+        tree=requests.get(link,headers=headers)
         soup = BeautifulSoup(tree.content, 'html.parser')
 
         playerId=link.split("/")[6]
@@ -46,7 +45,17 @@ def transferHistory(link):
         df=df.drop([0])
 
         for index, row in df.iterrows():
-            row['date']=str(datetime.strptime(str(row['date']),"%b %d, %Y"))[:10]
+            print(row['date'])
+            if row['date'] == "0":
+                pass
+            else:
+                row['date']=str(datetime.strptime(str(row['date']),"%b %d, %Y"))[:10]
+            if row['marketValue']=='-':
+                row['marketValue']=str(0)
+            if row['price']=='-':
+                row['price']=str(0)
+            if row['price']=='?':
+                row['price']=str(0)
             if row['marketValue'][-1:]=='k':
                 row['marketValue']=str(int(row['marketValue'][1:-1])*1000)
             elif row['marketValue'][-1:]=='m':
@@ -55,9 +64,12 @@ def transferHistory(link):
                 row['price']=str(int(row['price'][1:-1])*1000)
             elif row['price'][-1:]=='m':
                 row['price']=str(int(row['price'][1:-1].replace('.',''))*10000)
-                
+
         fileName=playerName+"_"+playerId+"_Transfers.csv"
         df.to_csv(fileName, index=False)
 
     except:
-        pass
+        string=os.getcwd()+","+link+"\n"
+        file.write(string)
+
+# transferHistory("https://www.transfermarkt.co.uk/stratos-svarnas/transfers/spieler/318257",0)

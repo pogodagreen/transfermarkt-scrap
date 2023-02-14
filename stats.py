@@ -3,15 +3,16 @@ from bs4 import BeautifulSoup
 import os.path
 from os.path  import basename
 import pandas as pd
+import os
 
 headers = {'User-Agent': 
            'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
 
-def statsSeason(link):
+def statsSeason(link,file):
     playerName=link.split("/")[3]
     try:
-        page=link.replace("profil", "leistungsdatendetails")
-        tree=requests.get(page,headers=headers)
+        link=link.replace("profil", "leistungsdatendetails")
+        tree=requests.get(link,headers=headers)
         soup = BeautifulSoup(tree.content, 'html.parser')
 
         playerId=link.split("/")[6]
@@ -27,7 +28,6 @@ def statsSeason(link):
                 cols = [ele.text.strip() for ele in cols]
                 data.append([ele for ele in cols if ele])
             for i in data:
-                print(i)
                 if i[2]=='-':
                     i[2]=0
                 if i[3]=='-':
@@ -47,4 +47,5 @@ def statsSeason(link):
         df.to_csv(fileName, index=False)
 
     except:
-        pass
+        string=os.getcwd()+","+link+"\n"
+        file.write(string)

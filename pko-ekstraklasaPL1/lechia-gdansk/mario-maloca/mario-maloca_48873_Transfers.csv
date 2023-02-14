@@ -1,0 +1,11 @@
+season,date,sourceTeam,destTeam,marketValue,price
+19/20,2019-07-01,Greuther Fürth,Lechia Gdansk,450000,150000
+18/19,2018-07-01,Lechia Gdansk,Greuther Fürth,700000,free transfer
+17/18,2018-06-30,Greuther Fürth,Lechia Gdansk,700000,End of loan
+17/18,2017-07-25,Lechia Gdansk,Greuther Fürth,700000,loan transfer
+15/16,2015-07-03,Hajduk Split,Lechia Gdansk,1500000,150000
+08/09,2008-07-01,Hajduk U19,Hajduk Split,500000,0
+06/07,2007-01-30,Kamen Ingrad,Hajduk U19,0,0
+06/07,2006-08-14,I. Zapresic U17,Kamen Ingrad,0,0
+05/06,2006-02-03,NK Zagreb U17,I. Zapresic U17,0,0
+04/05,2004-08-13,D. Zagreb Yth.,NK Zagreb U17,0,0

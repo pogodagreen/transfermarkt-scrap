@@ -1,0 +1,10 @@
+season,date,sourceTeam,destTeam,marketValue,price
+19/20,2019-07-01,Legionovia,Górnik Zabrze,50000,free transfer
+18/19,2018-07-31,Pogon Siedlce,Legionovia,50000,free transfer
+17/18,2018-06-30,Orleta R.P.,Pogon Siedlce,50000,End of loan
+17/18,2018-02-28,Pogon Siedlce,Orleta R.P.,50000,loan transfer
+15/16,2016-06-30,Swit N.D.M.,Pogon Siedlce,100000,End of loan
+15/16,2016-03-04,Pogon Siedlce,Swit N.D.M.,100000,loan transfer
+14/15,2014-07-01,Naprzod Skorzec,Pogon Siedlce,0,free transfer
+13/14,2014-06-30,Pogon Siedlce,Naprzod Skorzec,0,End of loan
+13/14,2013-07-01,Naprzod Skorzec,Pogon Siedlce,0,loan transfer

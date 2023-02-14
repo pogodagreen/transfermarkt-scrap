@@ -1,0 +1,10 @@
+season,date,sourceTeam,destTeam,marketValue,price
+21/22,2021-09-01,Sandecja,Korona Kielce,125000,15000
+20/21,2021-01-19,GKS Belchatow,Sandecja,250000,free transfer
+20/21,2020-10-08,Pogon Szczecin,GKS Belchatow,250000,free transfer
+19/20,2020-07-31,Odra Opole,Pogon Szczecin,250000,End of loan
+18/19,2019-01-16,Pogon Szczecin,Odra Opole,100000,loan transfer
+17/18,2018-01-06,GKS Tychy,Pogon Szczecin,50000,50000
+14/15,2014-12-01,GKS Tychy II,GKS Tychy,0,0
+14/15,2014-07-01,Karvina U19,GKS Tychy II,0,free transfer
+11/12,2011-07-01,AKS Mikolow,Karvina U19,0,free transfer

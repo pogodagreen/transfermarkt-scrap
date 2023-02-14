@@ -1,0 +1,11 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2023-02-07,Pogon Szczecin,Zaglebie Lubin,1000000,0
+20/21,2020-08-01,FC Porto B,Pogon Szczecin,325000,free transfer
+18/19,2019-06-30,FC Cartagena,FC Porto B,300000,End of loan
+18/19,2018-08-31,FC Porto B,FC Cartagena,600000,loan transfer
+16/17,2017-06-30,Portimonense,FC Porto B,200000,End of loan
+16/17,2017-01-26,FC Porto B,Portimonense,50000,loan transfer
+16/17,2016-07-01,FC Porto U19,FC Porto B,0,0
+14/15,2014-07-01,FC Porto U17,FC Porto U19,0,0
+12/13,2012-07-01,FC Porto U15,FC Porto U17,0,0
+10/11,2010-07-01,FC Porto Youth,FC Porto U15,0,0

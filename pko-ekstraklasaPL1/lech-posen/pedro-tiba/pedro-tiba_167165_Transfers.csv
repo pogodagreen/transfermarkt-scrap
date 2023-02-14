@@ -1,0 +1,14 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2022-07-01,Lech Poznan,Gil Vicente,600000,free transfer
+18/19,2018-07-02,SC Braga,Lech Poznan,1750000,1000000
+17/18,2018-06-30,Chaves,SC Braga,1750000,End of loan
+16/17,2017-01-26,SC Braga,Chaves,2000000,loan transfer
+15/16,2016-06-30,Real Valladolid,SC Braga,2000000,End of loan
+15/16,2015-08-31,SC Braga,Real Valladolid,4000000,loan transfer
+14/15,2014-07-01,Vitória Setúbal,SC Braga,100000,500000
+13/14,2013-07-01,Tirsense,Vitória Setúbal,0,free transfer
+12/13,2012-07-01,Limianos,Tirsense,0,free transfer
+10/11,2010-07-01,Valenciano,Limianos,0,free transfer
+09/10,2010-01-01,CA Valdevez,Valenciano,0,free transfer
+07/08,2008-06-30,AGS Kastoria,CA Valdevez,0,End of loan
+07/08,2008-01-01,CA Valdevez,AGS Kastoria,0,loan transfer

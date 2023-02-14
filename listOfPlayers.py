@@ -29,22 +29,10 @@ def player(playerName,playerLink):
     path3=os.path.join(playerName,"")
     dir(path3)
 
-    try:
-        playerValue(playerLink)
-    except:
-        f.write(playerLink,"marktwertverlauf")
-    try:
-        biography(playerLink)
-    except:
-        f.write(playerLink,"nationalmannschaft")
-    try:
-        transferHistory(playerLink)
-    except:
-        f.write(playerLink,"transfers")
-    try:
-        statsSeason(playerLink)
-    except:
-        f.write(playerLink,"leistungsdatendetails")
+    playerValue(playerLink,f)
+    biography(playerLink,f)
+    transferHistory(playerLink,f)
+    statsSeason(playerLink,f)
 
     os.chdir("../")
         
@@ -105,10 +93,12 @@ def leagues(n):
         leagues.append((site+(str(links[a]).split('href="',5)[2].split('"')[0])+s22_string))
     return leagues
 
-n=int(sys.argv[1])
-listOfLeagues=leagues(n)
-for i in listOfLeagues:
-    league(i)
+# n=int(sys.argv[1])
+# listOfLeagues=leagues(n)
+# for i in listOfLeagues:
+#     league(i)
+
+league("https://www.transfermarkt.pl/pko-ekstraklasa/startseite/wettbewerb/PL1/plus/?saison_id=2022")
 
 f.close()
 os.system("find . -name geckodriver.log -type f -delete")

@@ -3,17 +3,17 @@ import re
 from bs4 import BeautifulSoup
 from os.path  import basename
 import pandas as pd
+import os
 
 headers = {'User-Agent': 
            'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
 
-def biography(link):
+def biography(link,file):
     playerName=link.split("/")[3]
     try:
         link=link.replace(".pl/",".co.uk/")
         link=link.replace("profil", "nationalmannschaft")
-        page=link
-        tree=requests.get(page,headers=headers)
+        tree=requests.get(link,headers=headers)
         soup = BeautifulSoup(tree.content, 'html.parser')
         playerId=link.split("/")[6]
         playerYoB=re.findall("\d\d\d\d",str(soup.find("span", itemprop="birthDate")))
@@ -70,4 +70,5 @@ def biography(link):
         df.to_csv(fileName, index=False)
         
     except:
-        pass
+        string=os.getcwd()+","+link+"\n"
+        file.write(string)

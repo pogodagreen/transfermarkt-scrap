@@ -1,0 +1,9 @@
+season,date,sourceTeam,destTeam,marketValue,price
+21/22,2021-07-01,Stal Mielec,Górnik Zabrze,250000,free transfer
+19/20,2020-01-10,Stalowa Wola,Stal Mielec,0,free transfer
+18/19,2018-07-18,Wigry Suwalki,Stalowa Wola,50000,free transfer
+16/17,2016-07-27,Stadion Slaski Chorzow,Wigry Suwalki,50000,free transfer
+15/16,2016-06-30,Pniowek P.S.,Stadion Slaski Chorzow,50000,End of loan
+15/16,2016-03-08,Stadion Slaski Chorzow,Pniowek P.S.,50000,loan transfer
+14/15,2015-06-30,GKS Belchatow,Stadion Slaski Chorzow,50000,End of loan
+14/15,2015-01-05,Stadion Slaski Chorzow,GKS Belchatow,0,loan transfer

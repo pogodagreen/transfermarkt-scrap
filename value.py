@@ -5,6 +5,7 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import os
 
 def get_local_safe_setup():
   options = FirefoxOptions() 
@@ -16,15 +17,16 @@ def get_local_safe_setup():
   driver = Firefox(desired_capabilities = options.to_capabilities())
   return driver
 
-def playerValue(link):
+def playerValue(link,file):
     playerName=link.split("/")[3]
     playerId=link.split("/")[6]
     link=link.replace("profil", "marktwertverlauf")
 
-    driver = get_local_safe_setup() 
-    driver.get(link)
 
     try:
+      driver = get_local_safe_setup() 
+      driver.get(link)
+
       WebDriverWait(driver, 10).until(
           EC.presence_of_element_located((By.ID, "highcharts-0"))
       )
@@ -43,3 +45,5 @@ def playerValue(link):
 
     except:
       driver.quit()
+      string=os.getcwd()+","+link+"\n"
+      file.write(string)

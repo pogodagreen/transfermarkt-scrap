@@ -1,0 +1,8 @@
+season,date,sourceTeam,destTeam,marketValue,price
+21/22,2021-07-16,Podbeskidzie,Górnik Zabrze,250000,free transfer
+20/21,2021-01-01,Wisla Kraków,Podbeskidzie,350000,free transfer
+19/20,2019-07-01,Lechia Gdansk,Wisla Kraków,400000,free transfer
+18/19,2019-06-30,Lech Poznan,Lechia Gdansk,400000,End of loan
+17/18,2017-07-14,Lechia Gdansk,Lech Poznan,800000,loan transfer
+10/11,2010-07-01,Chemik Police,Lechia Gdansk,0,25000
+08/09,2009-01-01,Chemik U19,Chemik Police,0,0

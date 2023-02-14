@@ -1,0 +1,19 @@
+season,date,sourceTeam,destTeam,marketValue,price
+20/21,2020-08-01,Lech Poznan,Piast Gliwice,75000,free transfer
+18/19,2018-07-01,Polonia Sroda,Lech Poznan,100000,free transfer
+17/18,2017-07-01,Kotwica,Polonia Sroda,100000,free transfer
+16/17,2017-01-20,Chrobry Glogow,Kotwica,100000,free transfer
+15/16,2015-08-13,Lech Poznan II,Chrobry Glogow,50000,free transfer
+14/15,2015-06-30,Jarota Jarocin,Lech Poznan II,50000,End of loan
+14/15,2015-01-01,Lech Poznan II,Jarota Jarocin,100000,loan transfer
+14/15,2014-12-31,Ostrovia 1909,Lech Poznan II,100000,End of loan
+14/15,2014-08-31,Lech Poznan II,Ostrovia 1909,100000,loan transfer
+13/14,2014-06-30,Chojniczanka,Lech Poznan II,75000,End of loan
+13/14,2014-01-22,Lech Poznan II,Chojniczanka,50000,loan transfer
+13/14,2013-12-31,Jarota Jarocin,Lech Poznan II,50000,End of loan
+12/13,2013-02-27,Lech Poznan II,Jarota Jarocin,0,loan transfer
+12/13,2012-12-31,Lech Rypin,Lech Poznan II,0,End of loan
+12/13,2012-07-19,Lech Poznan II,Lech Rypin,0,loan transfer
+11/12,2012-06-30,Lub. Trzcianka,Lech Poznan II,0,End of loan
+11/12,2011-08-20,Lech Poznan II,Lub. Trzcianka,0,loan transfer
+10/11,2010-07-01,Lech U19,Lech Poznan II,0,0

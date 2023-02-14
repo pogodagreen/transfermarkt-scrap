@@ -1,0 +1,9 @@
+season,date,sourceTeam,destTeam,marketValue,price
+21/22,2021-09-01,Ferencváros,Legia Warszawa,2200000,900000
+18/19,2019-01-30,Zorya Lugansk,Ferencváros,1000000,600000
+16/17,2016-08-25,Dynamo Kyiv II,Zorya Lugansk,100000,free transfer
+15/16,2016-06-30,Metalist,Dynamo Kyiv II,100000,End of loan
+15/16,2016-02-12,Dynamo Kyiv II,Metalist,100000,loan transfer
+13/14,2013-07-01,Dynamo Kyiv U19,Dynamo Kyiv II,0,0
+12/13,2012-07-01,Dynamo 2 Kyiv,Dynamo Kyiv U19,0,0
+11/12,2012-02-01,Dynamo Kyiv U17,Dynamo 2 Kyiv,0,0

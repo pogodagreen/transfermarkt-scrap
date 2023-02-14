@@ -1,0 +1,12 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2022-07-16,Legia Warszawa,Navbahor,550000,free transfer
+21/22,2022-06-30,FC Sheriff,Legia Warszawa,550000,End of loan
+21/22,2021-08-30,Legia Warszawa,FC Sheriff,500000,loan transfer
+20/21,2021-02-13,Pakhtakor,Legia Warszawa,750000,300000
+20/21,2020-12-31,Soligorsk,Pakhtakor,750000,End of loan
+20/21,2020-07-09,Pakhtakor,Soligorsk,600000,loan transfer
+20/21,2020-07-08,Energetik-BGU,Pakhtakor,600000,End of loan
+19/20,2020-03-02,Pakhtakor,Energetik-BGU,300000,loan transfer
+19/20,2019-12-31,AGMK Olmaliq,Pakhtakor,300000,End of loan
+19/20,2019-08-05,Pakhtakor,AGMK Olmaliq,300000,loan transfer
+15/16,2016-01-01,Pakhtakor U21,Pakhtakor,0,0

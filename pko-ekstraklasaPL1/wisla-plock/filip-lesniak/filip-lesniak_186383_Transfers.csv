@@ -1,0 +1,9 @@
+season,date,sourceTeam,destTeam,marketValue,price
+20/21,2020-08-01,Aalborg BK,Wisla Plock,400000,free transfer
+19/20,2020-07-31,Silkeborg IF,Aalborg BK,400000,End of loan
+19/20,2019-07-12,Aalborg BK,Silkeborg IF,350000,loan transfer
+17/18,2017-07-01,Tottenham U23,Aalborg BK,100000,free transfer
+16/17,2017-01-01,Slovan Liberec,Tottenham U23,100000,End of loan
+16/17,2016-07-12,Tottenham U23,Slovan Liberec,0,loan transfer
+14/15,2014-07-01,Spurs U18,Tottenham U21,0,0
+11/12,2012-01-01,Kosice U19,Spurs U18,0,0

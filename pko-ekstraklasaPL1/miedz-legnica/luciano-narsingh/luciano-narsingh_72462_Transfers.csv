@@ -1,0 +1,16 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2022-07-20,Sydney FC,Miedz Legnica,500000,free transfer
+21/22,2022-02-11,Without Club,Sydney FC,600000,0
+21/22,2021-07-01,Feyenoord,Without Club,850000,0
+20/21,2021-06-30,Twente FC,Feyenoord,850000,End of loan
+20/21,2021-01-22,Feyenoord,Twente FC,800000,loan transfer
+19/20,2019-07-05,Swansea,Feyenoord,2500000,free transfer
+16/17,2017-01-12,PSV Eindhoven,Swansea,5000000,4600000
+12/13,2012-07-16,Heerenveen,PSV Eindhoven,7000000,4100000
+10/11,2010-07-01,H'veen/Emmen II,Heerenveen,200000,0
+08/09,2008-07-01,Heerenveen U19,H'veen/Emmen II,0,0
+07/08,2007-07-01,Heerenveen U17,Heerenveen U19,0,0
+06/07,2006-07-01,Zeeburgia Yth.,Heerenveen U17,0,free transfer
+05/06,2005-07-01,AZ Alkmaar Yout,Zeeburgia Yth.,0,free transfer
+02/03,2002-07-01,Ajax Youth,AZ Alkmaar Yout,0,free transfer
+98/99,1998-07-01,ASV Fortius Yth,Ajax Youth,0,free transfer
