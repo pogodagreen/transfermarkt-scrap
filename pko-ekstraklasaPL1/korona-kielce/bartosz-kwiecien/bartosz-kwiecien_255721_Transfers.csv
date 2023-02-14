@@ -1,0 +1,13 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2023-01-01,Resovia,Korona Kielce,200000,free transfer
+21/22,2022-01-23,Jagiellonia,Resovia,200000,free transfer
+20/21,2020-12-31,Arka Gdynia,Jagiellonia,200000,End of loan
+20/21,2020-08-05,Jagiellonia,Arka Gdynia,300000,loan transfer
+17/18,2017-07-27,Korona Kielce,Jagiellonia,100000,100000
+16/17,2016-12-31,Chrobry Glogow,Korona Kielce,100000,End of loan
+16/17,2016-07-28,Korona Kielce,Chrobry Glogow,50000,loan transfer
+13/14,2014-06-30,Gornik Leczna,Korona Kielce,100000,End of loan
+13/14,2014-02-27,Korona Kielce,Gornik Leczna,100000,loan transfer
+13/14,2013-07-01,Juventa Starachowice,Korona Kielce,50000,10000
+12/13,2013-06-30,Korona Kielce,Juventa Starachowice,50000,End of loan
+12/13,2013-01-11,Juventa Starachowice,Korona Kielce,0,Loan

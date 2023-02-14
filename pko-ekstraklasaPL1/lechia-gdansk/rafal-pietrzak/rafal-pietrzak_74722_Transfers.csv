@@ -1,0 +1,15 @@
+season,date,sourceTeam,destTeam,marketValue,price
+19/20,2020-02-20,Mouscron,Lechia Gdansk,500000,0
+19/20,2019-07-18,Wisla Kraków,Mouscron,450000,free transfer
+17/18,2018-06-30,Zaglebie Lubin,Wisla Kraków,125000,End of loan
+17/18,2018-01-08,Wisla Kraków,Zaglebie Lubin,150000,loan transfer
+15/16,2016-01-20,GKS Katowice,Wisla Kraków,275000,25000
+13/14,2013-07-21,Górnik Zabrze,GKS Katowice,150000,free transfer
+12/13,2013-06-30,Kolejarz Stroze,Górnik Zabrze,150000,End of loan
+12/13,2012-07-10,Górnik Zabrze,Kolejarz Stroze,100000,loan transfer
+11/12,2012-06-30,Piast Gliwice,Górnik Zabrze,100000,End of loan
+11/12,2011-08-01,Górnik Zabrze,Piast Gliwice,100000,loan transfer
+11/12,2011-07-01,Z. Sosnowiec,Górnik Zabrze,100000,80000
+10/11,2011-06-30,Górnik Zabrze,Z. Sosnowiec,100000,End of loan
+10/11,2010-08-01,Z. Sosnowiec,Górnik Zabrze,50000,Loan
+07/08,2008-01-01,Sosnowiec U19,Z. Sosnowiec,0,0

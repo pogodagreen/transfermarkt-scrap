@@ -1,0 +1,13 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2022-07-01,Pordenone,Wisla Plock,150000,free transfer
+21/22,2022-06-30,Wisla Plock,Pordenone,150000,End of loan
+21/22,2022-01-17,Pordenone,Wisla Plock,300000,loan transfer
+20/21,2020-07-01,Lechia Gdansk,Pordenone,200000,free transfer
+19/20,2020-06-30,Miedz Legnica,Lechia Gdansk,200000,End of loan
+19/20,2020-01-21,Lechia Gdansk,Miedz Legnica,200000,loan transfer
+18/19,2019-06-30,Wigry Suwalki,Lechia Gdansk,400000,End of loan
+18/19,2019-01-08,Lechia Gdansk,Wigry Suwalki,250000,loan transfer
+16/17,2017-06-30,Fiorentina U19,Lechia Gdansk,150000,End of loan
+16/17,2016-08-27,Lechia Gdansk,Fiorentina U19,100000,Loan
+15/16,2015-07-09,Znicz Pruszkow,Lechia Gdansk,50000,10000
+14/15,2015-03-03,Znicz U19,Znicz Pruszkow,0,0

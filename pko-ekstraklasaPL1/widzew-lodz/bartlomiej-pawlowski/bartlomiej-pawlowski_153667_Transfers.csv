@@ -1,0 +1,23 @@
+season,date,sourceTeam,destTeam,marketValue,price
+21/22,2022-02-01,Slask Wroclaw,Widzew Lodz,500000,free transfer
+20/21,2020-09-10,Gaziantep FK,Slask Wroclaw,525000,0
+19/20,2019-08-02,Zaglebie Lubin,Gaziantep FK,900000,650000
+17/18,2017-07-01,Lechia Gdansk,Zaglebie Lubin,250000,free transfer
+15/16,2016-06-30,Korona Kielce,Lechia Gdansk,350000,End of loan
+15/16,2015-08-31,Lechia Gdansk,Korona Kielce,400000,loan transfer
+14/15,2015-06-30,Zawisza,Lechia Gdansk,400000,End of loan
+14/15,2015-02-11,Lechia Gdansk,Zawisza,1000000,loan transfer
+14/15,2014-07-01,Widzew Lodz,Lechia Gdansk,1000000,600000
+13/14,2014-06-30,Málaga CF,Widzew Lodz,1000000,End of loan
+13/14,2013-07-31,Widzew Lodz,Málaga CF,650000,Loan
+13/14,2013-07-01,Jagiellonia,Widzew Lodz,125000,50000
+12/13,2013-06-30,Widzew Lodz,Jagiellonia,125000,End of loan
+12/13,2013-01-09,Jagiellonia,Widzew Lodz,125000,loan transfer
+12/13,2012-12-31,Warta Poznan,Jagiellonia,125000,End of loan
+12/13,2012-07-03,Jagiellonia,Warta Poznan,125000,loan transfer
+11/12,2012-06-30,Jarota Jarocin,Jagiellonia,125000,End of loan
+11/12,2012-02-01,Jagiellonia,Jarota Jarocin,125000,loan transfer
+11/12,2011-12-31,GKS Katowice,Jagiellonia,125000,End of loan
+11/12,2011-07-01,Jagiellonia,GKS Katowice,125000,loan transfer
+10/11,2010-07-01,Promien Opalenica,Jagiellonia,0,0
+08/09,2009-01-01,LKS U19,Promien Opalenica,0,free transfer

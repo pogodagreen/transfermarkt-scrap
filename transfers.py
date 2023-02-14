@@ -35,6 +35,13 @@ def transferHistory(link,file):
 
         for i in range(len(txt4)):
             txt4[i]=txt4[i].lstrip().rstrip()
+
+        if txt4[0]=="Upcoming transfer":
+            txt4.remove("Upcoming transfer")
+        if txt4[6]=="Transfer history":   
+            txt4.remove("Transfer history")
+
+        for i in range(len(txt4)):
             if i%6==0:
                 new_df=pd.DataFrame([row])
                 df = pd.concat([df, new_df], axis=0, ignore_index=True)
@@ -43,11 +50,9 @@ def transferHistory(link,file):
 
         df.columns=cols
         df=df.drop([0])
-
         for index, row in df.iterrows():
-            print(row['date'])
             if row['date'] == "0":
-                pass
+                df=df.drop(index)
             else:
                 row['date']=str(datetime.strptime(str(row['date']),"%b %d, %Y"))[:10]
             if row['marketValue']=='-':
@@ -56,6 +61,8 @@ def transferHistory(link,file):
                 row['price']=str(0)
             if row['price']=='?':
                 row['price']=str(0)
+            if "fee" in row['price']:
+                row['price']="Loan" 
             if row['marketValue'][-1:]=='k':
                 row['marketValue']=str(int(row['marketValue'][1:-1])*1000)
             elif row['marketValue'][-1:]=='m':
@@ -64,12 +71,9 @@ def transferHistory(link,file):
                 row['price']=str(int(row['price'][1:-1])*1000)
             elif row['price'][-1:]=='m':
                 row['price']=str(int(row['price'][1:-1].replace('.',''))*10000)
-
         fileName=playerName+"_"+playerId+"_Transfers.csv"
         df.to_csv(fileName, index=False)
 
     except:
         string=os.getcwd()+","+link+"\n"
         file.write(string)
-
-# transferHistory("https://www.transfermarkt.co.uk/stratos-svarnas/transfers/spieler/318257",0)

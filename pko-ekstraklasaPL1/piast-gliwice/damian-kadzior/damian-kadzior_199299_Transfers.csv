@@ -1,0 +1,16 @@
+season,date,sourceTeam,destTeam,marketValue,price
+21/22,2021-07-19,SD Eibar,Piast Gliwice,1700000,500000
+20/21,2021-06-30,Alanyaspor,SD Eibar,1700000,End of loan
+20/21,2021-01-19,SD Eibar,Alanyaspor,1500000,Loan
+20/21,2020-08-29,Dinamo Zagreb,SD Eibar,3500000,2000000
+18/19,2018-07-13,Górnik Zabrze,Dinamo Zagreb,1000000,400000
+17/18,2017-07-04,Wigry Suwalki,Górnik Zabrze,250000,75000
+16/17,2016-07-01,Jagiellonia,Wigry Suwalki,200000,free transfer
+15/16,2016-06-30,Wigry Suwalki,Jagiellonia,200000,End of loan
+15/16,2016-02-29,Jagiellonia,Wigry Suwalki,200000,loan transfer
+14/15,2016-02-25,Dolcan Zabki,Jagiellonia,200000,End of loan
+14/15,2015-01-01,Jagiellonia,Dolcan Zabki,100000,loan transfer
+13/14,2014-06-30,Motor Lublin,Jagiellonia,75000,End of loan
+12/13,2013-01-31,Jagiellonia,Motor Lublin,50000,loan transfer
+11/12,2012-01-01,Jagiellonia II,Jagiellonia,0,0
+10/11,2011-01-01,Jagiellonia U19,Jagiellonia II,0,0

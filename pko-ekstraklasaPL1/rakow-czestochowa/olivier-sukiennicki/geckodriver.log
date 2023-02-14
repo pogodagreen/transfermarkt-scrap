@@ -411,3 +411,22 @@ JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Pha
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1676369517460	geckodriver	INFO	Listening on 127.0.0.1:53147
+1676369517967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerWu3fd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676369518928	Marionette	INFO	Marionette enabled
+1676369518933	Marionette	INFO	Listening on port 33137
+Read port: 33137
+WebDriver BiDi listening on ws://127.0.0.1:50991
+1676369519037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerWu3fd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50991/devtools/browser/c026461e-d750-4178-b4b4-daa99ebb29eb
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

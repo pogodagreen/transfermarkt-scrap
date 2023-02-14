@@ -1,0 +1,26 @@
+season,date,sourceTeam,destTeam,marketValue,price
+21/22,2021-07-01,H. Beer Sheva,Legia Warszawa,1000000,free transfer
+19/20,2019-09-16,Akhisarspor,H. Beer Sheva,600000,free transfer
+18/19,2018-07-18,Without Club,Akhisarspor,1750000,0
+17/18,2017-12-27,Osmanlispor,Without Club,3500000,0
+17/18,2017-08-25,FC Porto,Osmanlispor,3500000,free transfer
+16/17,2017-06-30,Galatasaray,FC Porto,3500000,End of loan
+16/17,2016-08-20,FC Porto,Galatasaray,5000000,Loan
+15/16,2016-06-30,SC Braga,FC Porto,5000000,End of loan
+15/16,2016-01-26,FC Porto,SC Braga,5000000,loan transfer
+15/16,2016-01-20,Bursaspor,FC Porto,5000000,End of loan
+15/16,2015-07-13,FC Porto,Bursaspor,8250000,Loan
+14/15,2015-06-30,Bursaspor,FC Porto,8250000,End of loan
+14/15,2014-08-11,FC Porto,Bursaspor,5000000,Loan
+13/14,2013-07-01,Paços Ferreira,FC Porto,2800000,500000
+11/12,2011-07-01,FC Porto,Paços Ferreira,250000,free transfer
+10/11,2011-06-30,VVV-Venlo,FC Porto,250000,End of loan
+10/11,2010-07-01,FC Porto,VVV-Venlo,0,loan transfer
+09/10,2010-06-30,Penafiel,FC Porto,0,End of loan
+09/10,2010-01-01,FC Porto,Penafiel,0,loan transfer
+09/10,2009-10-01,SC Covilhã,FC Porto,0,End of loan
+09/10,2009-07-02,FC Porto,SC Covilhã,0,loan transfer
+09/10,2009-07-01,FC Porto U19,FC Porto,0,0
+07/08,2008-06-30,CD Candal Y19,FC Porto U19,0,End of loan
+07/08,2007-08-01,FC Porto U19,CD Candal Y19,0,loan transfer
+07/08,2007-07-01,FC Porto U17,FC Porto U19,0,0

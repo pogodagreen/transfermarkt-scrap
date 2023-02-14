@@ -1,0 +1,20 @@
+season,date,sourceTeam,destTeam,marketValue,price
+22/23,2023-01-30,Without Club,Legia Warszawa,500000,0
+22/23,2022-11-30,Gaziantep FK,Without Club,500000,0
+22/23,2022-08-10,Legia Warszawa,Gaziantep FK,400000,free transfer
+19/20,2020-02-10,UD Las Palmas,Legia Warszawa,600000,free transfer
+18/19,2018-08-13,H. Beer Sheva,UD Las Palmas,800000,free transfer
+17/18,2017-07-23,AEK Athens,H. Beer Sheva,800000,free transfer
+15/16,2016-02-01,FC Ingolstadt,AEK Athens,400000,0
+14/15,2014-08-28,1.FC Nuremberg,FC Ingolstadt,1100000,free transfer
+11/12,2011-07-01,FK Jablonec,1.FC Nuremberg,1600000,2000000
+10/11,2011-06-30,Sparta Prague,FK Jablonec,1600000,End of loan
+10/11,2011-02-01,FK Jablonec,Sparta Prague,1300000,Loan
+09/10,2010-01-01,Spurs,FK Jablonec,600000,800000
+09/10,2009-12-31,Slavia Prague,Spurs,600000,End of loan
+08/09,2009-02-05,Spurs,Slavia Prague,500000,loan transfer
+08/09,2008-12-01,Southampton,Spurs,500000,End of loan
+08/09,2008-08-01,Spurs,Southampton,500000,loan transfer
+08/09,2008-07-01,Tottenham Res.,Spurs,500000,0
+07/08,2007-07-01,Spurs U18,Tottenham Res.,500000,0
+06/07,2006-08-04,SK Slavia U17,Spurs U18,500000,1000000

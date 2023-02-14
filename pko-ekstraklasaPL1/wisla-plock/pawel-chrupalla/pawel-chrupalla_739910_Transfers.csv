@@ -1,0 +1,10 @@
+season,date,sourceTeam,destTeam,marketValue,price
+23/24,2023-12-31,Wisla Plock,Rosenborg,150000,End of loan
+22/23,2023-01-01,Rosenborg,Wisla Plock,150000,loan transfer
+22/23,2022-12-31,Kristiansund,Rosenborg,150000,End of loan
+22/23,2022-08-29,Rosenborg,Kristiansund,50000,loan transfer
+22/23,2022-08-24,Rosenborg II,Rosenborg,50000,0
+21/22,2021-12-31,Stjördals B.,Rosenborg II,0,End of loan
+21/22,2021-07-19,Rosenborg II,Stjördals B.,0,loan transfer
+19/20,2020-01-01,Fredrikstad U19,Rosenborg II,0,free transfer
+18/19,2018-07-01,AP Śląsk,Fredrikstad U19,0,0
