@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-340977,virgil-ghita,1998,Romania,"1,86",Centre-Back,0,0,6,1,2,0,9,3
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+340977,virgil,ghita,1998,Romania,"1,86",Centre-Back,0,0,6,1,2,0,9,3

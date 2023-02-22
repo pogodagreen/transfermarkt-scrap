@@ -1,4 +1,4 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-821350,oskar-wojcik,22/23,3 Liga - Grupa IV,2,0,180
-821350,oskar-wojcik,21/22,CLJ,27,5,2350
-821350,oskar-wojcik,20/21,CLJ,19,1,1399
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+821350,oskar,wojcik,22/23,3 Liga - Grupa IV,2,0,180
+821350,oskar,wojcik,21/22,CLJ,27,5,2350
+821350,oskar,wojcik,20/21,CLJ,19,1,1399

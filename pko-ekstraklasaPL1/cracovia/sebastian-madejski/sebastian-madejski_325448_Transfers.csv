@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-09-09,Motor Lublin,Cracovia,0,free transfer
-20/21,2020-07-08,Olimpia Elblag,Motor Lublin,0,free transfer
-18/19,2018-10-05,Podbeskidzie,Olimpia Elblag,0,free transfer
-17/18,2018-06-30,Wisla Pulawy,Podbeskidzie,0,End of loan
-17/18,2017-07-14,Podbeskidzie,Wisla Pulawy,50000,loan transfer
-16/17,2016-12-31,Legionovia,Podbeskidzie,0,End of loan
-16/17,2016-07-22,Podbeskidzie,Legionovia,50000,loan transfer
-14/15,2014-07-01,Podbeskidzie Bielsko-Biala U19,Podbeskidzie,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+325448,sebastian,madejski,22/23,2022-09-09,Motor Lublin,Cracovia,0,free transfer
+325448,sebastian,madejski,20/21,2020-07-08,Olimpia Elblag,Motor Lublin,0,free transfer
+325448,sebastian,madejski,18/19,2018-10-05,Podbeskidzie,Olimpia Elblag,0,free transfer
+325448,sebastian,madejski,17/18,2018-06-30,Wisla Pulawy,Podbeskidzie,0,End of loan
+325448,sebastian,madejski,17/18,2017-07-14,Podbeskidzie,Wisla Pulawy,50000,loan transfer
+325448,sebastian,madejski,16/17,2016-12-31,Legionovia,Podbeskidzie,0,End of loan
+325448,sebastian,madejski,16/17,2016-07-22,Podbeskidzie,Legionovia,50000,loan transfer
+325448,sebastian,madejski,14/15,2014-07-01,Podbeskidzie Bielsko-Biala U19,Podbeskidzie,0,0

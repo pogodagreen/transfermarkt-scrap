@@ -1,11 +1,15 @@
+/home/pogoda/UAM/dokt/dev/transfermarkt-scrap/pko-ekstraklasaPL1/rakow-czestochowa/tomas-petrasek,https://www.transfermarkt.co.uk/tomas-petrasek/transfers/spieler/333261
 /home/pogoda/UAM/dokt/dev/transfermarkt-scrap/pko-ekstraklasaPL1/rakow-czestochowa/olivier-sukiennicki,https://www.transfermarkt.co.uk/olivier-sukiennicki/nationalmannschaft/spieler/725768
 /home/pogoda/UAM/dokt/dev/transfermarkt-scrap/pko-ekstraklasaPL1/lech-posen/micha%C5%82-gurgul,https://www.transfermarkt.co.uk/micha%C5%82-gurgul/nationalmannschaft/spieler/991779
 /home/pogoda/UAM/dokt/dev/transfermarkt-scrap/pko-ekstraklasaPL1/cracovia/kacper-smiglewski,https://www.transfermarkt.co.uk/kacper-smiglewski/nationalmannschaft/spieler/925777
+/home/pogoda/UAM/dokt/dev/transfermarkt-scrap/pko-ekstraklasaPL1/jagiellonia-bialystok/michal-sacek,https://www.transfermarkt.co.uk/michal-sacek/transfers/spieler/430054
 /home/pogoda/UAM/dokt/dev/transfermarkt-scrap/pko-ekstraklasaPL1/jagiellonia-bialystok/michal-samborski,https://www.transfermarkt.co.uk/michal-samborski/nationalmannschaft/spieler/555069
 /home/pogoda/UAM/dokt/dev/transfermarkt-scrap/pko-ekstraklasaPL1/widzew-lodz/mattia-montini,https://www.transfermarkt.co.uk/mattia-montini/nationalmannschaft/spieler/130368
 /home/pogoda/UAM/dokt/dev/transfermarkt-scrap/pko-ekstraklasaPL1/wisla-plock/kamil-zapytowski,https://www.transfermarkt.co.uk/kamil-zapytowski/transfers/spieler/1037093
 /home/pogoda/UAM/dokt/dev/transfermarkt-scrap/pko-ekstraklasaPL1/wisla-plock/dawid-zieba,https://www.transfermarkt.co.uk/dawid-zieba/nationalmannschaft/spieler/717904
 /home/pogoda/UAM/dokt/dev/transfermarkt-scrap/pko-ekstraklasaPL1/warta-posen/maksymilian-pogonowski,https://www.transfermarkt.co.uk/maksymilian-pogonowski/nationalmannschaft/spieler/1012031
+/home/pogoda/UAM/dokt/dev/transfermarkt-scrap/pko-ekstraklasaPL1/slask-wroclaw/petr-schwarz,https://www.transfermarkt.co.uk/petr-schwarz/transfers/spieler/208591
 /home/pogoda/UAM/dokt/dev/transfermarkt-scrap/pko-ekstraklasaPL1/radomiak-radom/filipe-nascimento,https://www.transfermarkt.co.uk/filipe-nascimento/transfers/spieler/197999
 /home/pogoda/UAM/dokt/dev/transfermarkt-scrap/pko-ekstraklasaPL1/radomiak-radom/milosz-zurawski,https://www.transfermarkt.co.uk/milosz-zurawski/nationalmannschaft/spieler/1017307
 /home/pogoda/UAM/dokt/dev/transfermarkt-scrap/pko-ekstraklasaPL1/miedz-legnica/kacper-klimkiewicz,https://www.transfermarkt.co.uk/kacper-klimkiewicz/nationalmannschaft/spieler/830012
+/home/pogoda/UAM/dokt/dev/transfermarkt-scrap/pko-ekstraklasaPL1/korona-kielce/jakub-konstantyn,https://www.transfermarkt.co.uk/jakub-konstantyn/nationalmannschaft/spieler/694477

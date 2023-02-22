@@ -1,32 +1,32 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-142208,emil-bergstrom,22/23,Ekstraklasa,11,1,936
-142208,emil-bergstrom,22/23,Fortuna Puchar Polski,2,0,210
-142208,emil-bergstrom,21/22,Eredivisie,13,0,745
-142208,emil-bergstrom,21/22,KNVB beker,1,0,90
-142208,emil-bergstrom,20/21,Play-Offs Conference League,0,0,0
-142208,emil-bergstrom,20/21,Eredivisie,9,0,414
-142208,emil-bergstrom,19/20,Super League,8,0,575
-142208,emil-bergstrom,19/20,Schweizer Cup,1,0,90
-142208,emil-bergstrom,19/20,Liga Europy,2,0,180
-142208,emil-bergstrom,19/20,Eredivisie,1,0,90
-142208,emil-bergstrom,19/20,Kwalifikacje do Ligi Europy,2,0,210
-142208,emil-bergstrom,18/19,Play-Offs Conference League,4,0,360
-142208,emil-bergstrom,18/19,Eredivisie,9,1,613
-142208,emil-bergstrom,18/19,KNVB beker,2,0,180
-142208,emil-bergstrom,17/18,Super League,35,2,3150
-142208,emil-bergstrom,17/18,Schweizer Cup,5,0,434
-142208,emil-bergstrom,16/17,Super League,18,1,1620
-142208,emil-bergstrom,16/17,Premier Liga,4,0,273
-142208,emil-bergstrom,16/17,Puchar Rosji,1,0,90
-142208,emil-bergstrom,15/16,Premier Liga,12,1,1080
-142208,emil-bergstrom,15/16,Svenska Cupen,1,1,90
-142208,emil-bergstrom,2015,Allsvenskan,29,2,2610
-142208,emil-bergstrom,13/14,Svenska Cupen,3,0,270
-142208,emil-bergstrom,2014,Allsvenskan,30,2,2700
-142208,emil-bergstrom,12/13,Svenska Cupen,4,1,360
-142208,emil-bergstrom,2013,Allsvenskan,29,2,2599
-142208,emil-bergstrom,2013,U21 Allsvenskan Norra,2,0,180
-142208,emil-bergstrom,11/12,Svenska Cupen,6,0,510
-142208,emil-bergstrom,2012,Allsvenskan,23,1,1534
-142208,emil-bergstrom,2011,Allsvenskan,18,0,1107
-142208,emil-bergstrom,10/11,Svenska Cupen,1,0,15
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+142208,emil,bergstrom,22/23,Ekstraklasa,12,1,1026
+142208,emil,bergstrom,22/23,Fortuna Puchar Polski,2,0,210
+142208,emil,bergstrom,21/22,Eredivisie,13,0,745
+142208,emil,bergstrom,21/22,KNVB beker,1,0,90
+142208,emil,bergstrom,20/21,Play-Offs Conference League,0,0,0
+142208,emil,bergstrom,20/21,Eredivisie,9,0,414
+142208,emil,bergstrom,19/20,Super League,8,0,575
+142208,emil,bergstrom,19/20,Schweizer Cup,1,0,90
+142208,emil,bergstrom,19/20,Liga Europy,2,0,180
+142208,emil,bergstrom,19/20,Eredivisie,1,0,90
+142208,emil,bergstrom,19/20,Kwalifikacje do Ligi Europy,2,0,210
+142208,emil,bergstrom,18/19,Play-Offs Conference League,4,0,360
+142208,emil,bergstrom,18/19,Eredivisie,9,1,613
+142208,emil,bergstrom,18/19,KNVB beker,2,0,180
+142208,emil,bergstrom,17/18,Super League,35,2,3150
+142208,emil,bergstrom,17/18,Schweizer Cup,5,0,434
+142208,emil,bergstrom,16/17,Super League,18,1,1620
+142208,emil,bergstrom,16/17,Premier Liga,4,0,273
+142208,emil,bergstrom,16/17,Puchar Rosji,1,0,90
+142208,emil,bergstrom,15/16,Premier Liga,12,1,1080
+142208,emil,bergstrom,15/16,Svenska Cupen,1,1,90
+142208,emil,bergstrom,2015,Allsvenskan,29,2,2610
+142208,emil,bergstrom,13/14,Svenska Cupen,3,0,270
+142208,emil,bergstrom,2014,Allsvenskan,30,2,2700
+142208,emil,bergstrom,12/13,Svenska Cupen,4,1,360
+142208,emil,bergstrom,2013,Allsvenskan,29,2,2599
+142208,emil,bergstrom,2013,U21 Allsvenskan Norra,2,0,180
+142208,emil,bergstrom,11/12,Svenska Cupen,6,0,510
+142208,emil,bergstrom,2012,Allsvenskan,23,1,1534
+142208,emil,bergstrom,2011,Allsvenskan,18,0,1107
+142208,emil,bergstrom,10/11,Svenska Cupen,1,0,15

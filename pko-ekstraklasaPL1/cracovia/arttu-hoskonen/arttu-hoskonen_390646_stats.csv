@@ -1,31 +1,31 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-390646,arttu-hoskonen,22/23,Ekstraklasa,0,0,0
-390646,arttu-hoskonen,22/23,Liga Europy,6,0,493
-390646,arttu-hoskonen,22/23,Kwalifikacje do Ligi Europy,3,0,270
-390646,arttu-hoskonen,22/23,Kwalifikacje do Ligi Mistrzów,4,0,390
-390646,arttu-hoskonen,2022,Veikkausliiga Championship Group,5,1,435
-390646,arttu-hoskonen,2022,Veikkausliiga,16,2,1009
-390646,arttu-hoskonen,2022,Suomen Cup,2,0,180
-390646,arttu-hoskonen,2022,Kakkonen - Lohko B,1,0,90
-390646,arttu-hoskonen,21/22,UECL Kwalifikacje,2,0,172
-390646,arttu-hoskonen,2021,Veikkausliiga Championship Group,3,0,236
-390646,arttu-hoskonen,2021,Veikkausliiga,10,0,636
-390646,arttu-hoskonen,2021,Suomen Cup,5,1,434
-390646,arttu-hoskonen,20/21,Kwalifikacje do Ligi Europy,1,0,120
-390646,arttu-hoskonen,2020,Veikkausliiga,17,1,1320
-390646,arttu-hoskonen,2020,Suomen Cup,9,0,775
-390646,arttu-hoskonen,19/20,Kwalifikacje do Ligi Europy,1,0,70
-390646,arttu-hoskonen,2019,Veikkausliiga Championship Group,4,0,264
-390646,arttu-hoskonen,2019,Veikkausliiga,12,0,642
-390646,arttu-hoskonen,2019,Suomen Cup,4,0,218
-390646,arttu-hoskonen,2018,Veikkausliiga,25,1,2061
-390646,arttu-hoskonen,2018,Suomen Cup,6,1,458
-390646,arttu-hoskonen,2017,Veikkausliiga,6,0,457
-390646,arttu-hoskonen,2017,A-Pojat SM Sarja Endrunde,5,0,420
-390646,arttu-hoskonen,2016,Rel. Veikkausliiga,0,0,0
-390646,arttu-hoskonen,2016,Veikkausliiga,18,0,1295
-390646,arttu-hoskonen,2016,A-Pojat SM Sarja Endrunde,3,0,270
-390646,arttu-hoskonen,2016,Suomen Cup,0,0,0
-390646,arttu-hoskonen,2016,A-pojat SM-sarja,7,0,535
-390646,arttu-hoskonen,2015,A-Pojat SM Sarja Endrunde,9,1,611
-390646,arttu-hoskonen,2015,Veikkausliiga,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+390646,arttu,hoskonen,22/23,Ekstraklasa,1,0,44
+390646,arttu,hoskonen,22/23,Liga Europy,6,0,493
+390646,arttu,hoskonen,22/23,Kwalifikacje do Ligi Europy,3,0,270
+390646,arttu,hoskonen,22/23,Kwalifikacje do Ligi Mistrzów,4,0,390
+390646,arttu,hoskonen,2022,Veikkausliiga Championship Group,5,1,435
+390646,arttu,hoskonen,2022,Veikkausliiga,16,2,1009
+390646,arttu,hoskonen,2022,Suomen Cup,2,0,180
+390646,arttu,hoskonen,2022,Kakkonen - Lohko B,1,0,90
+390646,arttu,hoskonen,21/22,UECL Kwalifikacje,2,0,172
+390646,arttu,hoskonen,2021,Veikkausliiga Championship Group,3,0,236
+390646,arttu,hoskonen,2021,Veikkausliiga,10,0,636
+390646,arttu,hoskonen,2021,Suomen Cup,5,1,434
+390646,arttu,hoskonen,20/21,Kwalifikacje do Ligi Europy,1,0,120
+390646,arttu,hoskonen,2020,Veikkausliiga,17,1,1320
+390646,arttu,hoskonen,2020,Suomen Cup,9,0,775
+390646,arttu,hoskonen,19/20,Kwalifikacje do Ligi Europy,1,0,70
+390646,arttu,hoskonen,2019,Veikkausliiga Championship Group,4,0,264
+390646,arttu,hoskonen,2019,Veikkausliiga,12,0,642
+390646,arttu,hoskonen,2019,Suomen Cup,4,0,218
+390646,arttu,hoskonen,2018,Veikkausliiga,25,1,2061
+390646,arttu,hoskonen,2018,Suomen Cup,6,1,458
+390646,arttu,hoskonen,2017,Veikkausliiga,6,0,457
+390646,arttu,hoskonen,2017,A-Pojat SM Sarja Endrunde,5,0,420
+390646,arttu,hoskonen,2016,Rel. Veikkausliiga,0,0,0
+390646,arttu,hoskonen,2016,Veikkausliiga,18,0,1295
+390646,arttu,hoskonen,2016,A-Pojat SM Sarja Endrunde,3,0,270
+390646,arttu,hoskonen,2016,Suomen Cup,0,0,0
+390646,arttu,hoskonen,2016,A-pojat SM-sarja,7,0,535
+390646,arttu,hoskonen,2015,A-Pojat SM Sarja Endrunde,9,1,611
+390646,arttu,hoskonen,2015,Veikkausliiga,0,0,0

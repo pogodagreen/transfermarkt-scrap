@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-14,Cracovia II,Cracovia,0,0
-21/22,2022-03-01,Without Club,Cracovia II,0,0
-21/22,2021-07-01,Hutnik Krakow,Without Club,0,0
-20/21,2020-10-30,Hutnik II,Hutnik Krakow,0,0
-20/21,2020-10-27,Othellos Athien,Hutnik II,0,free transfer
-19/20,2019-09-02,Gornik Leczna,Othellos Athien,0,free transfer
-18/19,2019-02-06,Sokol Ostroda,Gornik Leczna,0,free transfer
-18/19,2018-07-01,AP Profi,Sokol Ostroda,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+606731,kacper,jodlowski,22/23,2022-07-14,Cracovia II,Cracovia,0,0
+606731,kacper,jodlowski,21/22,2022-03-01,Without Club,Cracovia II,0,0
+606731,kacper,jodlowski,21/22,2021-07-01,Hutnik Krakow,Without Club,0,0
+606731,kacper,jodlowski,20/21,2020-10-30,Hutnik II,Hutnik Krakow,0,0
+606731,kacper,jodlowski,20/21,2020-10-27,Othellos Athien,Hutnik II,0,free transfer
+606731,kacper,jodlowski,19/20,2019-09-02,Gornik Leczna,Othellos Athien,0,free transfer
+606731,kacper,jodlowski,18/19,2019-02-06,Sokol Ostroda,Gornik Leczna,0,free transfer
+606731,kacper,jodlowski,18/19,2018-07-01,AP Profi,Sokol Ostroda,0,0

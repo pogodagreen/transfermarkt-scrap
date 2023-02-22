@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Gornik II,ROW Rybnik,0,End of loan
-22/23,2022-08-05,ROW Rybnik,Gornik II,0,loan transfer
-20/21,2020-08-01,ROW Rybnik II,ROW Rybnik,0,0
-18/19,2018-07-01,ROW Rybnik U19,ROW Rybnik II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+823256,jakub,pochciol,22/23,2023-06-30,Gornik II,ROW Rybnik,0,End of loan
+823256,jakub,pochciol,22/23,2022-08-05,ROW Rybnik,Gornik II,0,loan transfer
+823256,jakub,pochciol,20/21,2020-08-01,ROW Rybnik II,ROW Rybnik,0,0
+823256,jakub,pochciol,18/19,2018-07-01,ROW Rybnik U19,ROW Rybnik II,0,0

@@ -1,10 +1,10 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-24,Chrobry Glogow,Cracovia,450000,85000
-21/22,2021-07-01,Blekitni,Chrobry Glogow,0,free transfer
-19/20,2019-07-22,Pogon Szczecin,Blekitni,0,free transfer
-18/19,2019-06-30,Pogon Siedlce,Pogon Szczecin,0,End of loan
-18/19,2018-07-16,Pogon Szczecin,Pogon Siedlce,50000,loan transfer
-16/17,2017-05-19,Pogon II,Pogon Szczecin,0,0
-15/16,2016-01-01,Pogon U19,Pogon II,0,0
-14/15,2015-01-01,S. Szczecin,Pogon U19,0,0
-14/15,2014-07-01,Pogon Youth,S. Szczecin,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+387258,mateusz,bochnak,22/23,2023-01-24,Chrobry Glogow,Cracovia,450000,85000
+387258,mateusz,bochnak,21/22,2021-07-01,Blekitni,Chrobry Glogow,0,free transfer
+387258,mateusz,bochnak,19/20,2019-07-22,Pogon Szczecin,Blekitni,0,free transfer
+387258,mateusz,bochnak,18/19,2019-06-30,Pogon Siedlce,Pogon Szczecin,0,End of loan
+387258,mateusz,bochnak,18/19,2018-07-16,Pogon Szczecin,Pogon Siedlce,50000,loan transfer
+387258,mateusz,bochnak,16/17,2017-05-19,Pogon II,Pogon Szczecin,0,0
+387258,mateusz,bochnak,15/16,2016-01-01,Pogon U19,Pogon II,0,0
+387258,mateusz,bochnak,14/15,2015-01-01,S. Szczecin,Pogon U19,0,0
+387258,mateusz,bochnak,14/15,2014-07-01,Pogon Youth,S. Szczecin,0,0

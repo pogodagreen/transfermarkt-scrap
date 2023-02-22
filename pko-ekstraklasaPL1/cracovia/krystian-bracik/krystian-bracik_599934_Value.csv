@@ -1,6 +1,6 @@
-id,name,dates,marketValue
-599934,krystian-bracik,2021-05-20,50000
-599934,krystian-bracik,2021-12-30,50000
-599934,krystian-bracik,2022-06-13,50000
-599934,krystian-bracik,2022-08-07,0
-599934,krystian-bracik,2022-11-15,25000
+id,firstName,lastName,dates,marketValue
+599934,krystian,bracik,2021-05-20,50000
+599934,krystian,bracik,2021-12-30,50000
+599934,krystian,bracik,2022-06-13,50000
+599934,krystian,bracik,2022-08-07,0
+599934,krystian,bracik,2022-11-15,25000

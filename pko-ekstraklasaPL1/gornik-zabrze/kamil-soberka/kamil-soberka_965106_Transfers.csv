@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-30,Gornik U19,Górnik Zabrze,0,0
-21/22,2021-12-01,Zabrze Youth,Gornik U19,0,0
-21/22,2021-07-01,GKS Katowice U19,Zabrze Youth,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+965106,kamil,soberka,22/23,2023-01-30,Gornik U19,Górnik Zabrze,0,0
+965106,kamil,soberka,21/22,2021-12-01,Zabrze Youth,Gornik U19,0,0
+965106,kamil,soberka,21/22,2021-07-01,GKS Katowice U19,Zabrze Youth,0,free transfer

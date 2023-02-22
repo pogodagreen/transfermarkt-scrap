@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Sandecja,Cracovia,150000,End of loan
-22/23,2022-08-02,Cracovia,Sandecja,350000,loan transfer
-17/18,2017-07-14,Cracovia U19,Cracovia,0,0
-15/16,2015-07-01,Karpaty K. U19,Cracovia U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+426297,sylwester,lusiusz,22/23,2023-06-30,Sandecja,Cracovia,150000,End of loan
+426297,sylwester,lusiusz,22/23,2022-08-02,Cracovia,Sandecja,350000,loan transfer
+426297,sylwester,lusiusz,17/18,2017-07-14,Cracovia U19,Cracovia,0,0
+426297,sylwester,lusiusz,15/16,2015-07-01,Karpaty K. U19,Cracovia U19,0,0

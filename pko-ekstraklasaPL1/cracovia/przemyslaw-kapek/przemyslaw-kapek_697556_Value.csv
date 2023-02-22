@@ -1,6 +1,6 @@
-id,name,dates,marketValue
-697556,przemyslaw-kapek,2021-01-18,50000
-697556,przemyslaw-kapek,2021-05-20,50000
-697556,przemyslaw-kapek,2021-12-30,100000
-697556,przemyslaw-kapek,2022-06-13,100000
-697556,przemyslaw-kapek,2022-11-15,50000
+id,firstName,lastName,dates,marketValue
+697556,przemyslaw,kapek,2021-01-18,50000
+697556,przemyslaw,kapek,2021-05-20,50000
+697556,przemyslaw,kapek,2021-12-30,100000
+697556,przemyslaw,kapek,2022-06-13,100000
+697556,przemyslaw,kapek,2022-11-15,50000

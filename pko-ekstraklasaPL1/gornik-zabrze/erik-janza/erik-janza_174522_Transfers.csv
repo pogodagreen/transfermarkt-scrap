@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-19/20,2019-07-01,NK Osijek,Górnik Zabrze,800000,free transfer
-18/19,2018-07-25,Viktoria Plzen,NK Osijek,600000,0
-17/18,2018-06-30,Pafos FC,Viktoria Plzen,600000,End of loan
-17/18,2017-07-13,Viktoria Plzen,Pafos FC,650000,loan transfer
-16/17,2017-01-01,NK Maribor,Viktoria Plzen,650000,750000
-14/15,2015-01-07,NK Domzale,NK Maribor,500000,0
-12/13,2013-01-31,NS Mura,NK Domzale,400000,0
-10/11,2010-07-01,NS Mura U19,NS Mura,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+174522,erik,janza,19/20,2019-07-01,NK Osijek,Górnik Zabrze,800000,free transfer
+174522,erik,janza,18/19,2018-07-25,Viktoria Plzen,NK Osijek,600000,0
+174522,erik,janza,17/18,2018-06-30,Pafos FC,Viktoria Plzen,600000,End of loan
+174522,erik,janza,17/18,2017-07-13,Viktoria Plzen,Pafos FC,650000,loan transfer
+174522,erik,janza,16/17,2017-01-01,NK Maribor,Viktoria Plzen,650000,750000
+174522,erik,janza,14/15,2015-01-07,NK Domzale,NK Maribor,500000,0
+174522,erik,janza,12/13,2013-01-31,NS Mura,NK Domzale,400000,0
+174522,erik,janza,10/11,2010-07-01,NS Mura U19,NS Mura,0,0

@@ -1,6 +1,6 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-01,Sandecja,Cracovia,150000,125000
-18/19,2019-02-28,Sandecja II,Sandecja,0,0
-17/18,2018-01-01,Sandecja U19,Sandecja II,0,0
-16/17,2016-07-01,Wisla U19,Sandecja U19,0,free transfer
-15/16,2015-07-01,Sandecja U19,Wisla U19,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+655588,kamil,ogorzaly,21/22,2021-07-01,Sandecja,Cracovia,150000,125000
+655588,kamil,ogorzaly,18/19,2019-02-28,Sandecja II,Sandecja,0,0
+655588,kamil,ogorzaly,17/18,2018-01-01,Sandecja U19,Sandecja II,0,0
+655588,kamil,ogorzaly,16/17,2016-07-01,Wisla U19,Sandecja U19,0,free transfer
+655588,kamil,ogorzaly,15/16,2015-07-01,Sandecja U19,Wisla U19,0,free transfer

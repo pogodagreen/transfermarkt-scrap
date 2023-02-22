@@ -1,17 +1,17 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-384438,sebastian-strozik,22/23,3 Liga - Grupa IV,17,10,1387
-384438,sebastian-strozik,22/23,Ekstraklasa,1,0,0
-384438,sebastian-strozik,21/22,1 Liga,28,1,1562
-384438,sebastian-strozik,21/22,Fortuna Puchar Polski,1,0,13
-384438,sebastian-strozik,20/21,3 Liga - Grupa IV,26,4,2235
-384438,sebastian-strozik,20/21,Ekstraklasa,6,0,92
-384438,sebastian-strozik,20/21,Fortuna Puchar Polski,2,0,44
-384438,sebastian-strozik,19/20,Ekstraklasa,7,0,124
-384438,sebastian-strozik,19/20,Fortuna Puchar Polski,3,0,166
-384438,sebastian-strozik,18/19,Ekstraklasa,20,1,558
-384438,sebastian-strozik,18/19,Fortuna Puchar Polski,1,0,56
-384438,sebastian-strozik,17/18,CLJ - Runda Finałowa,4,1,346
-384438,sebastian-strozik,17/18,CLJ - Grupa Wschodnia,21,12,1679
-384438,sebastian-strozik,17/18,Ekstraklasa,6,0,122
-384438,sebastian-strozik,16/17,CLJ - Grupa Wschodnia,23,9,1670
-384438,sebastian-strozik,15/16,CLJ - Grupa Zachodnia,12,0,454
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+384438,sebastian,strozik,22/23,3 Liga - Grupa IV,17,10,1387
+384438,sebastian,strozik,22/23,Ekstraklasa,1,0,0
+384438,sebastian,strozik,21/22,1 Liga,28,1,1562
+384438,sebastian,strozik,21/22,Fortuna Puchar Polski,1,0,13
+384438,sebastian,strozik,20/21,3 Liga - Grupa IV,26,4,2235
+384438,sebastian,strozik,20/21,Ekstraklasa,6,0,92
+384438,sebastian,strozik,20/21,Fortuna Puchar Polski,2,0,44
+384438,sebastian,strozik,19/20,Ekstraklasa,7,0,124
+384438,sebastian,strozik,19/20,Fortuna Puchar Polski,3,0,166
+384438,sebastian,strozik,18/19,Ekstraklasa,20,1,558
+384438,sebastian,strozik,18/19,Fortuna Puchar Polski,1,0,56
+384438,sebastian,strozik,17/18,CLJ - Runda Finałowa,4,1,346
+384438,sebastian,strozik,17/18,CLJ - Grupa Wschodnia,21,12,1679
+384438,sebastian,strozik,17/18,Ekstraklasa,6,0,122
+384438,sebastian,strozik,16/17,CLJ - Grupa Wschodnia,23,9,1670
+384438,sebastian,strozik,15/16,CLJ - Grupa Zachodnia,12,0,454

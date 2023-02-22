@@ -7,6 +7,7 @@ from value import playerValue
 
 f=pd.read_csv(r'errors.txt')
 f2=open("errors2.txt","a")
+f3=open("merged.csv","a")
 for index,row in f.iterrows():
     print(row[0])
     print(row[1])
@@ -15,7 +16,7 @@ for index,row in f.iterrows():
     if row[1].split("/")[4] == "transfers":
         transferHistory(row[1],f2)
     elif row[1].split("/")[4] == "nationalmannschaft":
-        biography(row[1],f2)
+        biography(row[1],f2,f3)
     elif row[1].split("/")[4] == "marktwertverlauf":
         pass
     elif row[1].split("/")[4] == "leistungsdatendetails":

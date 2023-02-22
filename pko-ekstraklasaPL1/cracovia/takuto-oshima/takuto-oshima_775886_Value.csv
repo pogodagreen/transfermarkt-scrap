@@ -1,6 +1,6 @@
-id,name,dates,marketValue
-775886,takuto-oshima,2021-06-25,250000
-775886,takuto-oshima,2021-12-25,300000
-775886,takuto-oshima,2022-06-22,300000
-775886,takuto-oshima,2022-09-28,450000
-775886,takuto-oshima,2022-11-15,650000
+id,firstName,lastName,dates,marketValue
+775886,takuto,oshima,2021-06-25,250000
+775886,takuto,oshima,2021-12-25,300000
+775886,takuto,oshima,2022-06-22,300000
+775886,takuto,oshima,2022-09-28,450000
+775886,takuto,oshima,2022-11-15,650000

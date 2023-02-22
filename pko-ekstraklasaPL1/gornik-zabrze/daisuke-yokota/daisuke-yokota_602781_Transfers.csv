@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-02-09,Valmiera,Górnik Zabrze,1000000,300000
-20/21,2021-01-24,Without Club,Valmiera,0,0
-20/21,2020-07-01,CZ Jena II,Without Club,0,0
-19/20,2019-07-01,FSV Frankf. U19,CZ Jena II,0,free transfer
-18/19,2018-07-01,Without Club,FSV Frankf. U19,0,0
-17/18,2018-04-01,Frontale U18,Without Club,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+602781,daisuke,yokota,22/23,2023-02-09,Valmiera,Górnik Zabrze,1000000,300000
+602781,daisuke,yokota,20/21,2021-01-24,Without Club,Valmiera,0,0
+602781,daisuke,yokota,20/21,2020-07-01,CZ Jena II,Without Club,0,0
+602781,daisuke,yokota,19/20,2019-07-01,FSV Frankf. U19,CZ Jena II,0,free transfer
+602781,daisuke,yokota,18/19,2018-07-01,Without Club,FSV Frankf. U19,0,0
+602781,daisuke,yokota,17/18,2018-04-01,Frontale U18,Without Club,0,0

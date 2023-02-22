@@ -1,6 +1,6 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-17,Gornik II,Górnik Zabrze,0,0
-20/21,2020-12-14,C. Nowotaniec,Gornik II,0,0
-19/20,2019-08-01,Pokuttya Kolom.,C. Nowotaniec,0,free transfer
-18/19,2019-03-01,PFK Lviv U19,Pokuttya Kolom.,0,free transfer
-18/19,2018-08-01,PFK Lviv U17,PFK Lviv U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+863099,arsen,grosu,21/22,2021-07-17,Gornik II,Górnik Zabrze,0,0
+863099,arsen,grosu,20/21,2020-12-14,C. Nowotaniec,Gornik II,0,0
+863099,arsen,grosu,19/20,2019-08-01,Pokuttya Kolom.,C. Nowotaniec,0,free transfer
+863099,arsen,grosu,18/19,2019-03-01,PFK Lviv U19,Pokuttya Kolom.,0,free transfer
+863099,arsen,grosu,18/19,2018-08-01,PFK Lviv U17,PFK Lviv U19,0,0

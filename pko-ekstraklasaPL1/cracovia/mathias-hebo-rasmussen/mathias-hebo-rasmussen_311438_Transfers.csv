@@ -1,12 +1,12 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-01,Lyngby BK,Cracovia,400000,free transfer
-19/20,2020-01-06,Vejle BK,Lyngby BK,350000,0
-19/20,2019-12-31,Silkeborg IF,Vejle BK,350000,End of loan
-19/20,2019-08-27,Vejle BK,Silkeborg IF,250000,loan transfer
-18/19,2019-01-09,Lyngby BK,Vejle BK,300000,0
-17/18,2017-07-01,FC Fredericia,Lyngby BK,300000,free transfer
-15/16,2016-02-02,Nordsjaelland,FC Fredericia,150000,free transfer
-15/16,2015-12-31,Vestsjaelland,Nordsjaelland,150000,End of loan
-15/16,2015-09-01,Nordsjaelland,Vestsjaelland,100000,loan transfer
-14/15,2014-07-01,Nordsjaell. U19,Nordsjaelland,0,0
-12/13,2012-07-01,Hvidovre IF You,Nordsjaell. U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+311438,mathias,hebo,21/22,2021-07-01,Lyngby BK,Cracovia,400000,free transfer
+311438,mathias,hebo,19/20,2020-01-06,Vejle BK,Lyngby BK,350000,0
+311438,mathias,hebo,19/20,2019-12-31,Silkeborg IF,Vejle BK,350000,End of loan
+311438,mathias,hebo,19/20,2019-08-27,Vejle BK,Silkeborg IF,250000,loan transfer
+311438,mathias,hebo,18/19,2019-01-09,Lyngby BK,Vejle BK,300000,0
+311438,mathias,hebo,17/18,2017-07-01,FC Fredericia,Lyngby BK,300000,free transfer
+311438,mathias,hebo,15/16,2016-02-02,Nordsjaelland,FC Fredericia,150000,free transfer
+311438,mathias,hebo,15/16,2015-12-31,Vestsjaelland,Nordsjaelland,150000,End of loan
+311438,mathias,hebo,15/16,2015-09-01,Nordsjaelland,Vestsjaelland,100000,loan transfer
+311438,mathias,hebo,14/15,2014-07-01,Nordsjaell. U19,Nordsjaelland,0,0
+311438,mathias,hebo,12/13,2012-07-01,Hvidovre IF You,Nordsjaell. U19,0,0

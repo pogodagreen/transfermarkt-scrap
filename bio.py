@@ -8,8 +8,13 @@ import os
 headers = {'User-Agent': 
            'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
 
-def biography(link,file):
+def biography(link,file,f2):
     playerName=link.split("/")[3]
+    playerFirstName=playerName.split("-")[0]
+    try:
+      playerLastName=playerName.split("-")[1]
+    except:
+      playerLastName="-"
     try:
         link=link.replace(".pl/",".co.uk/")
         link=link.replace("profil", "nationalmannschaft")
@@ -65,10 +70,12 @@ def biography(link,file):
         except:
             pass
 
-        df = pd.DataFrame.from_records([{'id':str(playerId), 'name': playerName, 'yearOfBirth': str(playerYoB[0]),'nationality': str(playerNationality[0]), 'height': str(playerHeight[0]), 'position':str(playerPosition[0]), 'u15':str(playerU15), 'u16':str(playerU16), 'u17':str(playerU17), 'u18':str(playerU18), 'u19':str(playerU19), 'u20':str(playerU20), 'u21':str(playerU21), 'team':str(playerA)}])
+        df = pd.DataFrame.from_records([{'id':str(playerId), 'firstName': playerFirstName,'lastName':playerLastName, 'yearOfBirth': str(playerYoB[0]),'nationality': str(playerNationality[0]), 'height': str(playerHeight[0]), 'position':str(playerPosition[0]), 'u15':str(playerU15), 'u16':str(playerU16), 'u17':str(playerU17), 'u18':str(playerU18), 'u19':str(playerU19), 'u20':str(playerU20), 'u21':str(playerU21), 'team':str(playerA)}])
         fileName=playerName+"_"+playerId+"_National.csv"
         df.to_csv(fileName, index=False)
+        df.to_csv(f2,index=False, header=False)
         
     except:
         string=os.getcwd()+","+link+"\n"
         file.write(string)
+

@@ -1,20 +1,20 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-521634,karol-niemczycki,22/23,Ekstraklasa,20,0,9
-521634,karol-niemczycki,22/23,Fortuna Puchar Polski,0,0,0
-521634,karol-niemczycki,21/22,Ekstraklasa,14,0,5
-521634,karol-niemczycki,21/22,3 Liga - Grupa IV,2,0,0
-521634,karol-niemczycki,21/22,Fortuna Puchar Polski,1,0,1
-521634,karol-niemczycki,20/21,Ekstraklasa,27,0,6
-521634,karol-niemczycki,20/21,Fortuna Puchar Polski,5,0,3
-521634,karol-niemczycki,19/20,1 Liga,29,0,10
-521634,karol-niemczycki,19/20,Fortuna Puchar Polski,0,0,0
-521634,karol-niemczycki,18/19,Eredivisie,1,0,0
-521634,karol-niemczycki,18/19,Beloften Eerste Divisie,7,0,3
-521634,karol-niemczycki,18/19,Beloften Runda Wstępna,6,0,3
-521634,karol-niemczycki,18/19,KNVB beker,0,0,0
-521634,karol-niemczycki,17/18,U19 Eerste Divisie,12,0,3
-521634,karol-niemczycki,17/18,Eredivisie,1,0,1
-521634,karol-niemczycki,17/18,Beloften Eredivisie,6,0,2
-521634,karol-niemczycki,17/18,KNVB Beker Reserve,2,0,0
-521634,karol-niemczycki,17/18,Runda U19 Eerste Divisie,9,0,1
-521634,karol-niemczycki,17/18,KNVB beker,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+521634,karol,niemczycki,22/23,Ekstraklasa,21,0,9
+521634,karol,niemczycki,22/23,Fortuna Puchar Polski,0,0,0
+521634,karol,niemczycki,21/22,Ekstraklasa,14,0,5
+521634,karol,niemczycki,21/22,3 Liga - Grupa IV,2,0,0
+521634,karol,niemczycki,21/22,Fortuna Puchar Polski,1,0,1
+521634,karol,niemczycki,20/21,Ekstraklasa,27,0,6
+521634,karol,niemczycki,20/21,Fortuna Puchar Polski,5,0,3
+521634,karol,niemczycki,19/20,1 Liga,29,0,10
+521634,karol,niemczycki,19/20,Fortuna Puchar Polski,0,0,0
+521634,karol,niemczycki,18/19,Eredivisie,1,0,0
+521634,karol,niemczycki,18/19,Beloften Eerste Divisie,7,0,3
+521634,karol,niemczycki,18/19,Beloften Runda Wstępna,6,0,3
+521634,karol,niemczycki,18/19,KNVB beker,0,0,0
+521634,karol,niemczycki,17/18,U19 Eerste Divisie,12,0,3
+521634,karol,niemczycki,17/18,Eredivisie,1,0,1
+521634,karol,niemczycki,17/18,Beloften Eredivisie,6,0,2
+521634,karol,niemczycki,17/18,KNVB Beker Reserve,2,0,0
+521634,karol,niemczycki,17/18,Runda U19 Eerste Divisie,9,0,1
+521634,karol,niemczycki,17/18,KNVB beker,0,0,0

@@ -1,8 +1,8 @@
-id,name,dates,marketValue
-387258,mateusz-bochnak,2017-07-04,50000
-387258,mateusz-bochnak,2018-01-15,50000
-387258,mateusz-bochnak,2018-07-02,50000
-387258,mateusz-bochnak,2018-12-31,0
-387258,mateusz-bochnak,2022-01-13,150000
-387258,mateusz-bochnak,2022-06-23,250000
-387258,mateusz-bochnak,2022-11-17,450000
+id,firstName,lastName,dates,marketValue
+387258,mateusz,bochnak,2017-07-04,50000
+387258,mateusz,bochnak,2018-01-15,50000
+387258,mateusz,bochnak,2018-07-02,50000
+387258,mateusz,bochnak,2018-12-31,0
+387258,mateusz,bochnak,2022-01-13,150000
+387258,mateusz,bochnak,2022-06-23,250000
+387258,mateusz,bochnak,2022-11-17,450000

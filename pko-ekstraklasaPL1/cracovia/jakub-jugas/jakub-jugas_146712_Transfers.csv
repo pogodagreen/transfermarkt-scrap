@@ -1,14 +1,14 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-01,Slavia Prague,Cracovia,650000,free transfer
-20/21,2021-06-30,Slovan Liberec,Slavia Prague,650000,End of loan
-20/21,2020-08-03,Slavia Prague,Slovan Liberec,750000,loan transfer
-19/20,2020-07-31,Jablonec,Slavia Prague,750000,End of loan
-19/20,2019-07-01,Slavia Prague,Jablonec,1250000,loan transfer
-18/19,2019-06-30,Mlada Boleslav,Slavia Prague,1250000,End of loan
-18/19,2019-02-22,Slavia Prague,Mlada Boleslav,1250000,loan transfer
-17/18,2017-07-01,Fastav Zlin,Slavia Prague,1000000,570000
-14/15,2015-06-30,Zbrojovka Brno,Fastav Zlin,400000,End of loan
-14/15,2014-07-17,Fastav Zlin,Zbrojovka Brno,400000,loan transfer
-13/14,2014-06-30,1.FK Pribram,Fastav Zlin,400000,End of loan
-12/13,2012-09-21,Fastav Zlin,1.FK Pribram,200000,loan transfer
-10/11,2010-07-01,FC Zlin U19,Tescoma Zlin,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+146712,jakub,jugas,21/22,2021-07-01,Slavia Prague,Cracovia,650000,free transfer
+146712,jakub,jugas,20/21,2021-06-30,Slovan Liberec,Slavia Prague,650000,End of loan
+146712,jakub,jugas,20/21,2020-08-03,Slavia Prague,Slovan Liberec,750000,loan transfer
+146712,jakub,jugas,19/20,2020-07-31,Jablonec,Slavia Prague,750000,End of loan
+146712,jakub,jugas,19/20,2019-07-01,Slavia Prague,Jablonec,1250000,loan transfer
+146712,jakub,jugas,18/19,2019-06-30,Mlada Boleslav,Slavia Prague,1250000,End of loan
+146712,jakub,jugas,18/19,2019-02-22,Slavia Prague,Mlada Boleslav,1250000,loan transfer
+146712,jakub,jugas,17/18,2017-07-01,Fastav Zlin,Slavia Prague,1000000,570000
+146712,jakub,jugas,14/15,2015-06-30,Zbrojovka Brno,Fastav Zlin,400000,End of loan
+146712,jakub,jugas,14/15,2014-07-17,Fastav Zlin,Zbrojovka Brno,400000,loan transfer
+146712,jakub,jugas,13/14,2014-06-30,1.FK Pribram,Fastav Zlin,400000,End of loan
+146712,jakub,jugas,12/13,2012-09-21,Fastav Zlin,1.FK Pribram,200000,loan transfer
+146712,jakub,jugas,10/11,2010-07-01,FC Zlin U19,Tescoma Zlin,0,0

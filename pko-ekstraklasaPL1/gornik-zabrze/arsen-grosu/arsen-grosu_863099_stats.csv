@@ -1,4 +1,4 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-863099,arsen-grosu,21/22,3 Liga - Grupa III,19,1,1647
-863099,arsen-grosu,21/22,Ekstraklasa,0,0,0
-863099,arsen-grosu,20/21,3 Liga - Grupa III,14,3,1077
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+863099,arsen,grosu,21/22,3 Liga - Grupa III,19,1,1647
+863099,arsen,grosu,21/22,Ekstraklasa,0,0,0
+863099,arsen,grosu,20/21,3 Liga - Grupa III,14,3,1077

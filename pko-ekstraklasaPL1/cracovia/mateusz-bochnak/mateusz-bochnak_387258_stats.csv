@@ -1,20 +1,20 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-387258,mateusz-bochnak,22/23,Ekstraklasa,2,0,7
-387258,mateusz-bochnak,22/23,Fortuna 1 Liga,18,8,1527
-387258,mateusz-bochnak,22/23,Fortuna Puchar Polski,2,0,76
-387258,mateusz-bochnak,21/22,Baraze o udzial w Ekstraklasie,2,0,167
-387258,mateusz-bochnak,21/22,1 Liga,32,5,2381
-387258,mateusz-bochnak,21/22,Fortuna Puchar Polski,1,0,28
-387258,mateusz-bochnak,20/21,eWinner 2 liga,35,7,3036
-387258,mateusz-bochnak,20/21,Fortuna Puchar Polski,2,3,210
-387258,mateusz-bochnak,19/20,eWinner 2 liga,30,2,703
-387258,mateusz-bochnak,19/20,Fortuna Puchar Polski,3,0,31
-387258,mateusz-bochnak,18/19,eWinner 2 liga,30,3,2151
-387258,mateusz-bochnak,18/19,Fortuna Puchar Polski,1,1,90
-387258,mateusz-bochnak,17/18,3 Liga - Grupa II,31,3,1897
-387258,mateusz-bochnak,16/17,CLJ - Runda Finałowa,2,0,166
-387258,mateusz-bochnak,16/17,3 Liga - Grupa II,18,4,985
-387258,mateusz-bochnak,16/17,Ekstraklasa,0,0,0
-387258,mateusz-bochnak,16/17,CLJ - Grupa Zachodnia,14,5,1119
-387258,mateusz-bochnak,15/16,CLJ - Runda Finałowa,2,0,14
-387258,mateusz-bochnak,15/16,CLJ - Grupa Zachodnia,25,7,1090
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+387258,mateusz,bochnak,22/23,Ekstraklasa,3,0,23
+387258,mateusz,bochnak,22/23,Fortuna 1 Liga,18,8,1527
+387258,mateusz,bochnak,22/23,Fortuna Puchar Polski,2,0,76
+387258,mateusz,bochnak,21/22,Baraze o udzial w Ekstraklasie,2,0,167
+387258,mateusz,bochnak,21/22,1 Liga,32,5,2381
+387258,mateusz,bochnak,21/22,Fortuna Puchar Polski,1,0,28
+387258,mateusz,bochnak,20/21,eWinner 2 liga,35,7,3036
+387258,mateusz,bochnak,20/21,Fortuna Puchar Polski,2,3,210
+387258,mateusz,bochnak,19/20,eWinner 2 liga,30,2,703
+387258,mateusz,bochnak,19/20,Fortuna Puchar Polski,3,0,31
+387258,mateusz,bochnak,18/19,eWinner 2 liga,30,3,2151
+387258,mateusz,bochnak,18/19,Fortuna Puchar Polski,1,1,90
+387258,mateusz,bochnak,17/18,3 Liga - Grupa II,31,3,1897
+387258,mateusz,bochnak,16/17,CLJ - Runda Finałowa,2,0,166
+387258,mateusz,bochnak,16/17,3 Liga - Grupa II,18,4,985
+387258,mateusz,bochnak,16/17,Ekstraklasa,0,0,0
+387258,mateusz,bochnak,16/17,CLJ - Grupa Zachodnia,14,5,1119
+387258,mateusz,bochnak,15/16,CLJ - Runda Finałowa,2,0,14
+387258,mateusz,bochnak,15/16,CLJ - Grupa Zachodnia,25,7,1090

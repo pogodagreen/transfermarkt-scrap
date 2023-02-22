@@ -1,48 +1,48 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-74941,lukas-hrosso,22/23,Ekstraklasa,0,0,0
-74941,lukas-hrosso,22/23,Fortuna Puchar Polski,2,0,0
-74941,lukas-hrosso,22/23,3 Liga - Grupa IV,1,0,0
-74941,lukas-hrosso,21/22,Ekstraklasa,20,0,5
-74941,lukas-hrosso,21/22,Fortuna Puchar Polski,0,0,0
-74941,lukas-hrosso,20/21,Ekstraklasa,4,0,4
-74941,lukas-hrosso,20/21,Fortuna Puchar Polski,0,0,0
-74941,lukas-hrosso,20/21,3 Liga - Grupa IV,2,0,1
-74941,lukas-hrosso,20/21,Superpuchar,1,0,1
-74941,lukas-hrosso,20/21,Kwalifikacje do Ligi Europy,1,0,0
-74941,lukas-hrosso,19/20,Fortuna Puchar Polski,6,0,2
-74941,lukas-hrosso,19/20,Ekstraklasa,5,0,1
-74941,lukas-hrosso,19/20,Kwalifikacje do Ligi Europy,0,0,0
-74941,lukas-hrosso,18/19,Ekstraklasa,12,0,2
-74941,lukas-hrosso,18/19,Fortuna Liga,18,0,4
-74941,lukas-hrosso,18/19,Slovnaft Cup,0,0,0
-74941,lukas-hrosso,17/18,Fortuna L. - Conf. L. Playoff,1,0,0
-74941,lukas-hrosso,17/18,Fort. Liga - Releg. G.,10,0,3
-74941,lukas-hrosso,17/18,Fortuna Liga,20,0,11
-74941,lukas-hrosso,17/18,Slovnaft Cup,1,0,0
-74941,lukas-hrosso,16/17,II. Liga Promotion,12,0,7
-74941,lukas-hrosso,16/17,II. Liga West,4,0,2
-74941,lukas-hrosso,16/17,ePojisteni.cz Li,5,0,1
-74941,lukas-hrosso,16/17,MOL Cup,2,0,0
-74941,lukas-hrosso,15/16,Synot Liga,4,0,1
-74941,lukas-hrosso,15/16,Juniorska liga,1,0,0
-74941,lukas-hrosso,15/16,MOL Cup,2,0,1
-74941,lukas-hrosso,15/16,Synot Liga,0,0,0
-74941,lukas-hrosso,15/16,MOL Cup,0,0,0
-74941,lukas-hrosso,15/16,Juniorska liga,4,0,1
-74941,lukas-hrosso,15/16,Superpohar,1,0,0
-74941,lukas-hrosso,14/15,Synot Liga,12,0,3
-74941,lukas-hrosso,14/15,MOL Cup,7,0,3
-74941,lukas-hrosso,14/15,Kwalifikacje do Ligi Europy,4,0,2
-74941,lukas-hrosso,13/14,Gambrinus Liga,8,0,4
-74941,lukas-hrosso,13/14,Liga Europy,4,0,0
-74941,lukas-hrosso,13/14,MOL Cup,1,0,0
-74941,lukas-hrosso,12/13,Fortuna Liga,1,0,0
-74941,lukas-hrosso,11/12,Fortuna Liga,22,0,7
-74941,lukas-hrosso,11/12,Liga Europy,4,0,1
-74941,lukas-hrosso,11/12,Fortuna Liga,8,0,2
-74941,lukas-hrosso,10/11,Fortuna Liga,28,0,8
-74941,lukas-hrosso,10/11,Kwalifikacje do Ligi Europy,2,0,0
-74941,lukas-hrosso,09/10,Fortuna Liga,26,0,8
-74941,lukas-hrosso,08/09,Fortuna Liga,27,0,3
-74941,lukas-hrosso,08/09,Puchar Intertoto,1,0,0
-74941,lukas-hrosso,07/08,Fortuna Liga,22,0,2
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+74941,lukas,hrosso,22/23,Ekstraklasa,0,0,0
+74941,lukas,hrosso,22/23,Fortuna Puchar Polski,2,0,0
+74941,lukas,hrosso,22/23,3 Liga - Grupa IV,1,0,0
+74941,lukas,hrosso,21/22,Ekstraklasa,20,0,5
+74941,lukas,hrosso,21/22,Fortuna Puchar Polski,0,0,0
+74941,lukas,hrosso,20/21,Ekstraklasa,4,0,4
+74941,lukas,hrosso,20/21,Fortuna Puchar Polski,0,0,0
+74941,lukas,hrosso,20/21,3 Liga - Grupa IV,2,0,1
+74941,lukas,hrosso,20/21,Superpuchar,1,0,1
+74941,lukas,hrosso,20/21,Kwalifikacje do Ligi Europy,1,0,0
+74941,lukas,hrosso,19/20,Fortuna Puchar Polski,6,0,2
+74941,lukas,hrosso,19/20,Ekstraklasa,5,0,1
+74941,lukas,hrosso,19/20,Kwalifikacje do Ligi Europy,0,0,0
+74941,lukas,hrosso,18/19,Ekstraklasa,12,0,2
+74941,lukas,hrosso,18/19,Fortuna Liga,18,0,4
+74941,lukas,hrosso,18/19,Slovnaft Cup,0,0,0
+74941,lukas,hrosso,17/18,Fortuna L. - Conf. L. Playoff,1,0,0
+74941,lukas,hrosso,17/18,Fort. Liga - Releg. G.,10,0,3
+74941,lukas,hrosso,17/18,Fortuna Liga,20,0,11
+74941,lukas,hrosso,17/18,Slovnaft Cup,1,0,0
+74941,lukas,hrosso,16/17,II. Liga Promotion,12,0,7
+74941,lukas,hrosso,16/17,II. Liga West,4,0,2
+74941,lukas,hrosso,16/17,ePojisteni.cz Li,5,0,1
+74941,lukas,hrosso,16/17,MOL Cup,2,0,0
+74941,lukas,hrosso,15/16,Synot Liga,4,0,1
+74941,lukas,hrosso,15/16,Juniorska liga,1,0,0
+74941,lukas,hrosso,15/16,MOL Cup,2,0,1
+74941,lukas,hrosso,15/16,Synot Liga,0,0,0
+74941,lukas,hrosso,15/16,MOL Cup,0,0,0
+74941,lukas,hrosso,15/16,Juniorska liga,4,0,1
+74941,lukas,hrosso,15/16,Superpohar,1,0,0
+74941,lukas,hrosso,14/15,Synot Liga,12,0,3
+74941,lukas,hrosso,14/15,MOL Cup,7,0,3
+74941,lukas,hrosso,14/15,Kwalifikacje do Ligi Europy,4,0,2
+74941,lukas,hrosso,13/14,Gambrinus Liga,8,0,4
+74941,lukas,hrosso,13/14,Liga Europy,4,0,0
+74941,lukas,hrosso,13/14,MOL Cup,1,0,0
+74941,lukas,hrosso,12/13,Fortuna Liga,1,0,0
+74941,lukas,hrosso,11/12,Fortuna Liga,22,0,7
+74941,lukas,hrosso,11/12,Liga Europy,4,0,1
+74941,lukas,hrosso,11/12,Fortuna Liga,8,0,2
+74941,lukas,hrosso,10/11,Fortuna Liga,28,0,8
+74941,lukas,hrosso,10/11,Kwalifikacje do Ligi Europy,2,0,0
+74941,lukas,hrosso,09/10,Fortuna Liga,26,0,8
+74941,lukas,hrosso,08/09,Fortuna Liga,27,0,3
+74941,lukas,hrosso,08/09,Puchar Intertoto,1,0,0
+74941,lukas,hrosso,07/08,Fortuna Liga,22,0,2

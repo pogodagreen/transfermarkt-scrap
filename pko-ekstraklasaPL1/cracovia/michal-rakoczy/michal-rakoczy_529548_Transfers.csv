@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2021-06-30,P. Niepolomice,Cracovia,300000,End of loan
-20/21,2020-09-25,Cracovia,P. Niepolomice,300000,loan transfer
-17/18,2018-02-09,Cracovia U19,Cracovia,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+529548,michal,rakoczy,20/21,2021-06-30,P. Niepolomice,Cracovia,300000,End of loan
+529548,michal,rakoczy,20/21,2020-09-25,Cracovia,P. Niepolomice,300000,loan transfer
+529548,michal,rakoczy,17/18,2018-02-09,Cracovia U19,Cracovia,0,0

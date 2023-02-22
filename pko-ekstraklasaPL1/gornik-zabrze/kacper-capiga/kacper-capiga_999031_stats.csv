@@ -1,4 +1,4 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-999031,kacper-capiga,22/23,Ekstraklasa,0,0,0
-999031,kacper-capiga,22/23,CLJ,16,0,1186
-999031,kacper-capiga,21/22,CLJ,1,0,90
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+999031,kacper,capiga,22/23,Ekstraklasa,0,0,0
+999031,kacper,capiga,22/23,CLJ,16,0,1186
+999031,kacper,capiga,21/22,CLJ,1,0,90

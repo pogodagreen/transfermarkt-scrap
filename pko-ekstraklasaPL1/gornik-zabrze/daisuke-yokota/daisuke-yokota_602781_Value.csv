@@ -1,5 +1,5 @@
-id,name,dates,marketValue
-602781,daisuke-yokota,2021-06-15,225000
-602781,daisuke-yokota,2021-12-23,300000
-602781,daisuke-yokota,2022-06-12,500000
-602781,daisuke-yokota,2022-11-22,1000000
+id,firstName,lastName,dates,marketValue
+602781,daisuke,yokota,2021-06-15,225000
+602781,daisuke,yokota,2021-12-23,300000
+602781,daisuke,yokota,2022-06-12,500000
+602781,daisuke,yokota,2022-11-22,1000000

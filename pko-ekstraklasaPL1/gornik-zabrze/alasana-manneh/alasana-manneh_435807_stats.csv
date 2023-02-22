@@ -1,20 +1,20 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-435807,alasana-manneh,22/23,Superligaen,6,1,328
-435807,alasana-manneh,22/23,Future Cup,2,0,151
-435807,alasana-manneh,22/23,DBU Pokalen,1,0,105
-435807,alasana-manneh,22/23,Ekstraklasa,4,0,319
-435807,alasana-manneh,21/22,Ekstraklasa,30,2,2438
-435807,alasana-manneh,21/22,Fortuna Puchar Polski,2,0,63
-435807,alasana-manneh,20/21,Ekstraklasa,27,3,1912
-435807,alasana-manneh,20/21,Fortuna Puchar Polski,3,1,264
-435807,alasana-manneh,19/20,Ekstraklasa,24,1,1430
-435807,alasana-manneh,19/20,3 Liga - Grupa III,5,1,269
-435807,alasana-manneh,19/20,Fortuna Puchar Polski,1,0,85
-435807,alasana-manneh,18/19,UECL Playoffs Efbet Liga,0,0,0
-435807,alasana-manneh,18/19,Efbet liga - Relegation gr.,6,0,359
-435807,alasana-manneh,18/19,Bulgarian Cup,2,0,89
-435807,alasana-manneh,18/19,efbet Liga,15,2,982
-435807,alasana-manneh,17/18,Efbet liga - Relegation gr.,9,1,727
-435807,alasana-manneh,17/18,efbet Liga,6,1,452
-435807,alasana-manneh,17/18,2ª B - Grupo III,2,1,144
-435807,alasana-manneh,16/17,Liga Młodzieżowa UEFA,4,0,196
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+435807,alasana,manneh,22/23,Superligaen,7,1,418
+435807,alasana,manneh,22/23,Future Cup,2,0,151
+435807,alasana,manneh,22/23,DBU Pokalen,1,0,105
+435807,alasana,manneh,22/23,Ekstraklasa,4,0,319
+435807,alasana,manneh,21/22,Ekstraklasa,30,2,2438
+435807,alasana,manneh,21/22,Fortuna Puchar Polski,2,0,63
+435807,alasana,manneh,20/21,Ekstraklasa,27,3,1912
+435807,alasana,manneh,20/21,Fortuna Puchar Polski,3,1,264
+435807,alasana,manneh,19/20,Ekstraklasa,24,1,1430
+435807,alasana,manneh,19/20,3 Liga - Grupa III,5,1,269
+435807,alasana,manneh,19/20,Fortuna Puchar Polski,1,0,85
+435807,alasana,manneh,18/19,UECL Playoffs Efbet Liga,0,0,0
+435807,alasana,manneh,18/19,Efbet liga - Relegation gr.,6,0,359
+435807,alasana,manneh,18/19,Bulgarian Cup,2,0,89
+435807,alasana,manneh,18/19,efbet Liga,15,2,982
+435807,alasana,manneh,17/18,Efbet liga - Relegation gr.,9,1,727
+435807,alasana,manneh,17/18,efbet Liga,6,1,452
+435807,alasana,manneh,17/18,2ª B - Grupo III,2,1,144
+435807,alasana,manneh,16/17,Liga Młodzieżowa UEFA,4,0,196

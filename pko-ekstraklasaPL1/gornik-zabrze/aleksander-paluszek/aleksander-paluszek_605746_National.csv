@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-605746,aleksander-paluszek,2001,Poland,"1,91",Centre-Back,0,0,0,2,0,3,1,0
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+605746,aleksander,paluszek,2001,Poland,"1,91",Centre-Back,0,0,0,2,0,3,1,0

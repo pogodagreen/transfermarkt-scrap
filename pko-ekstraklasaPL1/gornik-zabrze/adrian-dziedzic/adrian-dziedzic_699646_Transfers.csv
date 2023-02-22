@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-12-31,Garbarnia,Górnik Zabrze,50000,End of loan
-22/23,2022-08-08,Górnik Zabrze,Garbarnia,150000,loan transfer
-21/22,2021-07-17,Gornik II,Górnik Zabrze,0,0
-20/21,2020-08-01,Gornik U19,Gornik II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+699646,adrian,dziedzic,22/23,2022-12-31,Garbarnia,Górnik Zabrze,50000,End of loan
+699646,adrian,dziedzic,22/23,2022-08-08,Górnik Zabrze,Garbarnia,150000,loan transfer
+699646,adrian,dziedzic,21/22,2021-07-17,Gornik II,Górnik Zabrze,0,0
+699646,adrian,dziedzic,20/21,2020-08-01,Gornik U19,Gornik II,0,0

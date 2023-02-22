@@ -1,24 +1,24 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-242040,florian-loshaj,22/23,Süper Lig,1,0,47
-242040,florian-loshaj,22/23,Ekstraklasa,15,1,802
-242040,florian-loshaj,22/23,Fortuna Puchar Polski,1,0,90
-242040,florian-loshaj,21/22,Ekstraklasa,21,1,668
-242040,florian-loshaj,21/22,Fortuna Puchar Polski,1,0,62
-242040,florian-loshaj,21/22,3 Liga - Grupa IV,1,0,90
-242040,florian-loshaj,20/21,Ekstraklasa,23,2,1327
-242040,florian-loshaj,20/21,Fortuna Puchar Polski,4,0,257
-242040,florian-loshaj,20/21,Kwalifikacje do Ligi Europy,1,0,90
-242040,florian-loshaj,19/20,Fortuna Puchar Polski,2,0,185
-242040,florian-loshaj,19/20,Ekstraklasa,12,0,788
-242040,florian-loshaj,19/20,Liga 1,19,3,1653
-242040,florian-loshaj,19/20,Cupa României,2,0,180
-242040,florian-loshaj,18/19,Keuken Kampioen Divisie,9,0,507
-242040,florian-loshaj,18/19,Beloften Eerste Divisie,5,2,425
-242040,florian-loshaj,17/18,Play-Offs Promotie/Deg.,1,0,60
-242040,florian-loshaj,17/18,Jupiler League,23,1,1496
-242040,florian-loshaj,17/18,KNVB beker,1,0,90
-242040,florian-loshaj,16/17,Jupiler League,24,1,1439
-242040,florian-loshaj,16/17,KNVB Beker,1,0,120
-242040,florian-loshaj,15/16,Play-Offs Promotie/Deg.,4,0,257
-242040,florian-loshaj,15/16,Jupiler League,4,0,96
-242040,florian-loshaj,14/15,Viareggio,3,0,270
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+242040,florian,loshaj,22/23,Süper Lig,1,0,47
+242040,florian,loshaj,22/23,Ekstraklasa,15,1,802
+242040,florian,loshaj,22/23,Fortuna Puchar Polski,1,0,90
+242040,florian,loshaj,21/22,Ekstraklasa,21,1,668
+242040,florian,loshaj,21/22,Fortuna Puchar Polski,1,0,62
+242040,florian,loshaj,21/22,3 Liga - Grupa IV,1,0,90
+242040,florian,loshaj,20/21,Ekstraklasa,23,2,1327
+242040,florian,loshaj,20/21,Fortuna Puchar Polski,4,0,257
+242040,florian,loshaj,20/21,Kwalifikacje do Ligi Europy,1,0,90
+242040,florian,loshaj,19/20,Fortuna Puchar Polski,2,0,185
+242040,florian,loshaj,19/20,Ekstraklasa,12,0,788
+242040,florian,loshaj,19/20,Liga 1,19,3,1653
+242040,florian,loshaj,19/20,Cupa României,2,0,180
+242040,florian,loshaj,18/19,Keuken Kampioen Divisie,9,0,507
+242040,florian,loshaj,18/19,Beloften Eerste Divisie,5,2,425
+242040,florian,loshaj,17/18,Play-Offs Promotie/Deg.,1,0,60
+242040,florian,loshaj,17/18,Jupiler League,23,1,1496
+242040,florian,loshaj,17/18,KNVB beker,1,0,90
+242040,florian,loshaj,16/17,Jupiler League,24,1,1439
+242040,florian,loshaj,16/17,KNVB Beker,1,0,120
+242040,florian,loshaj,15/16,Play-Offs Promotie/Deg.,4,0,257
+242040,florian,loshaj,15/16,Jupiler League,4,0,96
+242040,florian,loshaj,14/15,Viareggio,3,0,270

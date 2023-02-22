@@ -1,11 +1,11 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-605746,aleksander-paluszek,22/23,Ekstraklasa,14,3,842
-605746,aleksander-paluszek,22/23,Fortuna Puchar Polski,3,1,241
-605746,aleksander-paluszek,21/22,1 Liga,14,1,1226
-605746,aleksander-paluszek,21/22,Fortuna Liga,10,0,790
-605746,aleksander-paluszek,21/22,Slovnaft Cup,2,0,143
-605746,aleksander-paluszek,20/21,Ekstraklasa,13,0,883
-605746,aleksander-paluszek,20/21,Fortuna Puchar Polski,0,0,0
-605746,aleksander-paluszek,19/20,Ekstraklasa,2,0,142
-605746,aleksander-paluszek,19/20,3 Liga - Grupa III,14,2,1260
-605746,aleksander-paluszek,18/19,CLJ,27,10,2246
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+605746,aleksander,paluszek,22/23,Ekstraklasa,15,3,932
+605746,aleksander,paluszek,22/23,Fortuna Puchar Polski,3,1,241
+605746,aleksander,paluszek,21/22,1 Liga,14,1,1226
+605746,aleksander,paluszek,21/22,Fortuna Liga,10,0,790
+605746,aleksander,paluszek,21/22,Slovnaft Cup,2,0,143
+605746,aleksander,paluszek,20/21,Ekstraklasa,13,0,883
+605746,aleksander,paluszek,20/21,Fortuna Puchar Polski,0,0,0
+605746,aleksander,paluszek,19/20,Ekstraklasa,2,0,142
+605746,aleksander,paluszek,19/20,3 Liga - Grupa III,14,2,1260
+605746,aleksander,paluszek,18/19,CLJ,27,10,2246

@@ -1,6 +1,6 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-06-30,Wisla Pulawy,Cracovia,50000,End of loan
-21/22,2022-02-02,Cracovia,Wisla Pulawy,50000,loan transfer
-20/21,2021-05-11,Cracovia II,Cracovia,0,0
-19/20,2019-07-01,Cracovia U19,Cracovia II,0,0
-18/19,2018-07-01,Juventa U19,Cracovia U19,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+599934,krystian,bracik,21/22,2022-06-30,Wisla Pulawy,Cracovia,50000,End of loan
+599934,krystian,bracik,21/22,2022-02-02,Cracovia,Wisla Pulawy,50000,loan transfer
+599934,krystian,bracik,20/21,2021-05-11,Cracovia II,Cracovia,0,0
+599934,krystian,bracik,19/20,2019-07-01,Cracovia U19,Cracovia II,0,0
+599934,krystian,bracik,18/19,2018-07-01,Juventa U19,Cracovia U19,0,free transfer

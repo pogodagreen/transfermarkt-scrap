@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-06-30,Resovia,Cracovia,125000,End of loan
-21/22,2021-07-01,Cracovia,Resovia,200000,loan transfer
-17/18,2017-07-14,Cracovia U19,Cracovia,0,0
-16/17,2016-07-01,Pomologia U19,Cracovia U19,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+384438,sebastian,strozik,21/22,2022-06-30,Resovia,Cracovia,125000,End of loan
+384438,sebastian,strozik,21/22,2021-07-01,Cracovia,Resovia,200000,loan transfer
+384438,sebastian,strozik,17/18,2017-07-14,Cracovia U19,Cracovia,0,0
+384438,sebastian,strozik,16/17,2016-07-01,Pomologia U19,Cracovia U19,0,free transfer

@@ -14,6 +14,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KH
 colList=['id','name','season','competition','gamesPlayed','goals']
 
 f=open("errors.txt", "a")
+f2=open("merged.csv","a")
 
 def dir(path):
     print(path)
@@ -30,7 +31,7 @@ def player(playerName,playerLink):
     dir(path3)
 
     playerValue(playerLink,f)
-    biography(playerLink,f)
+    biography(playerLink,f,f2)
     transferHistory(playerLink,f)
     statsSeason(playerLink,f)
 
@@ -101,4 +102,5 @@ def leagues(n):
 league("https://www.transfermarkt.pl/pko-ekstraklasa/startseite/wettbewerb/PL1/plus/?saison_id=2022")
 
 f.close()
+f2.close()
 os.system("find . -name geckodriver.log -type f -delete")

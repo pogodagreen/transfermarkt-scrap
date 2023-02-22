@@ -1,37 +1,37 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-311438,mathias-hebo-rasmussen,22/23,Ekstraklasa,12,1,943
-311438,mathias-hebo-rasmussen,21/22,Ekstraklasa,28,2,1862
-311438,mathias-hebo-rasmussen,21/22,Fortuna Puchar Polski,1,0,58
-311438,mathias-hebo-rasmussen,21/22,3 Liga - Grupa IV,1,0,75
-311438,mathias-hebo-rasmussen,20/21,Superligaen Relegation round,10,4,886
-311438,mathias-hebo-rasmussen,20/21,Superligaen,21,3,1651
-311438,mathias-hebo-rasmussen,20/21,DBU Pokalen,2,0,134
-311438,mathias-hebo-rasmussen,20/21,Reserveligaen,1,0,90
-311438,mathias-hebo-rasmussen,19/20,Superligaen Releg.,2,1,148
-311438,mathias-hebo-rasmussen,19/20,Superligaen Relegation round,5,0,419
-311438,mathias-hebo-rasmussen,19/20,Superligaen,6,1,432
-311438,mathias-hebo-rasmussen,19/20,Reserveligaen Spring,1,0,90
-311438,mathias-hebo-rasmussen,19/20,Superligaen,12,1,903
-311438,mathias-hebo-rasmussen,19/20,DBU Pokalen,2,0,180
-311438,mathias-hebo-rasmussen,18/19,Reserveligaen Spring,4,2,315
-311438,mathias-hebo-rasmussen,18/19,Superligaen Relegation round,0,0,0
-311438,mathias-hebo-rasmussen,18/19,Superliga,2,0,108
-311438,mathias-hebo-rasmussen,18/19,1.Division,19,6,1643
-311438,mathias-hebo-rasmussen,18/19,DBU Pokalen,1,0,59
-311438,mathias-hebo-rasmussen,17/18,Superligaen Releg.,1,0,90
-311438,mathias-hebo-rasmussen,17/18,Superligaen Playoffs,4,0,341
-311438,mathias-hebo-rasmussen,17/18,Superligaen Relegation round,5,0,360
-311438,mathias-hebo-rasmussen,17/18,Reserveligaen,3,0,270
-311438,mathias-hebo-rasmussen,17/18,Superliga,19,1,1103
-311438,mathias-hebo-rasmussen,17/18,DBU Pokalen,1,0,120
-311438,mathias-hebo-rasmussen,17/18,Kwalifikacje do Ligi Europy,4,0,124
-311438,mathias-hebo-rasmussen,16/17,1.Division,29,7,2524
-311438,mathias-hebo-rasmussen,16/17,DBU Pokalen,2,1,155
-311438,mathias-hebo-rasmussen,15/16,1.Division,11,0,942
-311438,mathias-hebo-rasmussen,15/16,1.Division,12,0,1015
-311438,mathias-hebo-rasmussen,15/16,DBU Pokalen,2,1,180
-311438,mathias-hebo-rasmussen,15/16,Superliga,3,0,56
-311438,mathias-hebo-rasmussen,15/16,DBU Pokalen,0,0,0
-311438,mathias-hebo-rasmussen,14/15,Superliga,3,0,24
-311438,mathias-hebo-rasmussen,13/14,Superligaen,0,0,0
-311438,mathias-hebo-rasmussen,13/14,Viareggio,3,0,262
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+311438,mathias,hebo,22/23,Ekstraklasa,12,1,943
+311438,mathias,hebo,21/22,Ekstraklasa,28,2,1862
+311438,mathias,hebo,21/22,Fortuna Puchar Polski,1,0,58
+311438,mathias,hebo,21/22,3 Liga - Grupa IV,1,0,75
+311438,mathias,hebo,20/21,Superligaen Relegation round,10,4,886
+311438,mathias,hebo,20/21,Superligaen,21,3,1651
+311438,mathias,hebo,20/21,DBU Pokalen,2,0,134
+311438,mathias,hebo,20/21,Reserveligaen,1,0,90
+311438,mathias,hebo,19/20,Superligaen Releg.,2,1,148
+311438,mathias,hebo,19/20,Superligaen Relegation round,5,0,419
+311438,mathias,hebo,19/20,Superligaen,6,1,432
+311438,mathias,hebo,19/20,Reserveligaen Spring,1,0,90
+311438,mathias,hebo,19/20,Superligaen,12,1,903
+311438,mathias,hebo,19/20,DBU Pokalen,2,0,180
+311438,mathias,hebo,18/19,Reserveligaen Spring,4,2,315
+311438,mathias,hebo,18/19,Superligaen Relegation round,0,0,0
+311438,mathias,hebo,18/19,Superliga,2,0,108
+311438,mathias,hebo,18/19,1.Division,19,6,1643
+311438,mathias,hebo,18/19,DBU Pokalen,1,0,59
+311438,mathias,hebo,17/18,Superligaen Releg.,1,0,90
+311438,mathias,hebo,17/18,Superligaen Playoffs,4,0,341
+311438,mathias,hebo,17/18,Superligaen Relegation round,5,0,360
+311438,mathias,hebo,17/18,Reserveligaen,3,0,270
+311438,mathias,hebo,17/18,Superliga,19,1,1103
+311438,mathias,hebo,17/18,DBU Pokalen,1,0,120
+311438,mathias,hebo,17/18,Kwalifikacje do Ligi Europy,4,0,124
+311438,mathias,hebo,16/17,1.Division,29,7,2524
+311438,mathias,hebo,16/17,DBU Pokalen,2,1,155
+311438,mathias,hebo,15/16,1.Division,11,0,942
+311438,mathias,hebo,15/16,1.Division,12,0,1015
+311438,mathias,hebo,15/16,DBU Pokalen,2,1,180
+311438,mathias,hebo,15/16,Superliga,3,0,56
+311438,mathias,hebo,15/16,DBU Pokalen,0,0,0
+311438,mathias,hebo,14/15,Superliga,3,0,24
+311438,mathias,hebo,13/14,Superligaen,0,0,0
+311438,mathias,hebo,13/14,Viareggio,3,0,262
