@@ -1,18 +1,18 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-13,KSK Lierse Kem.,Radomiak,750000,150000
-22/23,2022-07-01,KAS Eupen,KSK Lierse Kem.,350000,free transfer
-20/21,2021-06-30,RWDM,KAS Eupen,500000,End of loan
-20/21,2020-10-05,KAS Eupen,RWDM,400000,loan transfer
-19/20,2019-07-23,Lommel SK,KAS Eupen,1200000,500000
-18/19,2018-07-19,Ontinyent,Lommel SK,50000,free transfer
-17/18,2018-01-31,CD Leganés B,Ontinyent,25000,free transfer
-17/18,2017-07-01,Vicenza U19,CD Leganés B,25000,free transfer
-16/17,2017-01-01,Monaco B,Vicenza U19,0,0
-16/17,2016-07-01,Monaco U19,Monaco B,0,0
-14/15,2015-01-01,Amora U19,Monaco U19,0,0
-14/15,2014-07-01,Barra FC-SC,Amora U19,0,0
-12/13,2013-01-01,Ituano FC U20,Barra FC-SC,0,0
-11/12,2012-01-01,Pescara Youth,Ituano FC U20,0,0
-11/12,2011-07-01,Boavista U15,Pescara Youth,0,0
-10/11,2011-01-01,Setúbal FC U15,Boavista U15,0,0
-10/11,2010-07-01,Belenenses,Setúbal FC U15,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+479675,leonardo,rocha,22/23,2023-01-13,KSK Lierse Kem.,Radomiak,750000,150000
+479675,leonardo,rocha,22/23,2022-07-01,KAS Eupen,KSK Lierse Kem.,350000,free transfer
+479675,leonardo,rocha,20/21,2021-06-30,RWDM,KAS Eupen,500000,End of loan
+479675,leonardo,rocha,20/21,2020-10-05,KAS Eupen,RWDM,400000,loan transfer
+479675,leonardo,rocha,19/20,2019-07-23,Lommel SK,KAS Eupen,1200000,500000
+479675,leonardo,rocha,18/19,2018-07-19,Ontinyent,Lommel SK,50000,free transfer
+479675,leonardo,rocha,17/18,2018-01-31,CD Leganés B,Ontinyent,25000,free transfer
+479675,leonardo,rocha,17/18,2017-07-01,Vicenza U19,CD Leganés B,25000,free transfer
+479675,leonardo,rocha,16/17,2017-01-01,Monaco B,Vicenza U19,0,0
+479675,leonardo,rocha,16/17,2016-07-01,Monaco U19,Monaco B,0,0
+479675,leonardo,rocha,14/15,2015-01-01,Amora U19,Monaco U19,0,0
+479675,leonardo,rocha,14/15,2014-07-01,Barra FC-SC,Amora U19,0,0
+479675,leonardo,rocha,12/13,2013-01-01,Ituano FC U20,Barra FC-SC,0,0
+479675,leonardo,rocha,11/12,2012-01-01,Pescara Youth,Ituano FC U20,0,0
+479675,leonardo,rocha,11/12,2011-07-01,Boavista U15,Pescara Youth,0,0
+479675,leonardo,rocha,10/11,2011-01-01,Setúbal FC U15,Boavista U15,0,0
+479675,leonardo,rocha,10/11,2010-07-01,Belenenses,Setúbal FC U15,0,0

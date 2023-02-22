@@ -1,14 +1,14 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-01,Wisla Kraków,Zaglebie Lubin,600000,90000
-21/22,2022-02-27,Rakow,Wisla Kraków,700000,free transfer
-19/20,2020-01-03,Jagiellonia,Rakow,700000,free transfer
-18/19,2018-09-19,Tosno,Jagiellonia,700000,free transfer
-17/18,2017-08-19,KAA Gent,Tosno,700000,free transfer
-16/17,2017-06-30,Red Star,KAA Gent,700000,End of loan
-16/17,2016-07-01,KAA Gent,Red Star,600000,loan transfer
-15/16,2016-06-30,Zulte Waregem,KAA Gent,600000,End of loan
-15/16,2016-01-12,KAA Gent,Zulte Waregem,800000,loan transfer
-14/15,2015-01-21,Vojvodina,KAA Gent,1000000,700000
-11/12,2012-01-01,Vojvodina U19,Vojvodina,0,0
-11/12,2011-12-01,Beocin,Vojvodina U19,0,End of loan
-11/12,2011-07-01,Vojvodina U19,Beocin,0,loan transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+168957,marko,poletanovic,22/23,2022-07-01,Wisla Kraków,Zaglebie Lubin,600000,90000
+168957,marko,poletanovic,21/22,2022-02-27,Rakow,Wisla Kraków,700000,free transfer
+168957,marko,poletanovic,19/20,2020-01-03,Jagiellonia,Rakow,700000,free transfer
+168957,marko,poletanovic,18/19,2018-09-19,Tosno,Jagiellonia,700000,free transfer
+168957,marko,poletanovic,17/18,2017-08-19,KAA Gent,Tosno,700000,free transfer
+168957,marko,poletanovic,16/17,2017-06-30,Red Star,KAA Gent,700000,End of loan
+168957,marko,poletanovic,16/17,2016-07-01,KAA Gent,Red Star,600000,loan transfer
+168957,marko,poletanovic,15/16,2016-06-30,Zulte Waregem,KAA Gent,600000,End of loan
+168957,marko,poletanovic,15/16,2016-01-12,KAA Gent,Zulte Waregem,800000,loan transfer
+168957,marko,poletanovic,14/15,2015-01-21,Vojvodina,KAA Gent,1000000,700000
+168957,marko,poletanovic,11/12,2012-01-01,Vojvodina U19,Vojvodina,0,0
+168957,marko,poletanovic,11/12,2011-12-01,Beocin,Vojvodina U19,0,End of loan
+168957,marko,poletanovic,11/12,2011-07-01,Vojvodina U19,Beocin,0,loan transfer

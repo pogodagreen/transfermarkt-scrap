@@ -1,26 +1,26 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-199302,mateusz-szwoch,22/23,Ekstraklasa,13,0,854
-199302,mateusz-szwoch,22/23,Fortuna Puchar Polski,2,0,101
-199302,mateusz-szwoch,21/22,Ekstraklasa,31,5,2669
-199302,mateusz-szwoch,20/21,Ekstraklasa,30,6,2318
-199302,mateusz-szwoch,20/21,Fortuna Puchar Polski,2,1,140
-199302,mateusz-szwoch,19/20,Ekstraklasa,35,4,3091
-199302,mateusz-szwoch,19/20,Fortuna Puchar Polski,1,0,51
-199302,mateusz-szwoch,18/19,Ekstraklasa,16,1,1049
-199302,mateusz-szwoch,17/18,Ekstraklasa,33,10,2504
-199302,mateusz-szwoch,17/18,Fortuna Puchar Polski,6,0,381
-199302,mateusz-szwoch,17/18,Ekstraklasa,1,0,90
-199302,mateusz-szwoch,17/18,Kwalifikacje do Ligi Mistrzów,1,0,33
-199302,mateusz-szwoch,17/18,Superpuchar,1,0,63
-199302,mateusz-szwoch,16/17,Ekstraklasa,36,3,2720
-199302,mateusz-szwoch,16/17,Fortuna Puchar Polski,7,2,424
-199302,mateusz-szwoch,15/16,1 Liga,14,2,1169
-199302,mateusz-szwoch,15/16,Fortuna Puchar Polski,0,0,0
-199302,mateusz-szwoch,14/15,Ekstraklasa,8,0,363
-199302,mateusz-szwoch,14/15,Liga Europy,0,0,0
-199302,mateusz-szwoch,14/15,Fortuna Puchar Polski,0,0,0
-199302,mateusz-szwoch,13/14,1 Liga,28,6,2285
-199302,mateusz-szwoch,13/14,Fortuna Puchar Polski,6,3,473
-199302,mateusz-szwoch,12/13,1 Liga,32,3,2002
-199302,mateusz-szwoch,12/13,Fortuna Puchar Polski,1,0,90
-199302,mateusz-szwoch,11/12,1 Liga,7,0,115
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+199302,mateusz,szwoch,22/23,Ekstraklasa,14,0,925
+199302,mateusz,szwoch,22/23,Fortuna Puchar Polski,2,0,101
+199302,mateusz,szwoch,21/22,Ekstraklasa,31,5,2669
+199302,mateusz,szwoch,20/21,Ekstraklasa,30,6,2318
+199302,mateusz,szwoch,20/21,Fortuna Puchar Polski,2,1,140
+199302,mateusz,szwoch,19/20,Ekstraklasa,35,4,3091
+199302,mateusz,szwoch,19/20,Fortuna Puchar Polski,1,0,51
+199302,mateusz,szwoch,18/19,Ekstraklasa,16,1,1049
+199302,mateusz,szwoch,17/18,Ekstraklasa,33,10,2504
+199302,mateusz,szwoch,17/18,Fortuna Puchar Polski,6,0,381
+199302,mateusz,szwoch,17/18,Ekstraklasa,1,0,90
+199302,mateusz,szwoch,17/18,Kwalifikacje do Ligi Mistrzów,1,0,33
+199302,mateusz,szwoch,17/18,Superpuchar,1,0,63
+199302,mateusz,szwoch,16/17,Ekstraklasa,36,3,2720
+199302,mateusz,szwoch,16/17,Fortuna Puchar Polski,7,2,424
+199302,mateusz,szwoch,15/16,1 Liga,14,2,1169
+199302,mateusz,szwoch,15/16,Fortuna Puchar Polski,0,0,0
+199302,mateusz,szwoch,14/15,Ekstraklasa,8,0,363
+199302,mateusz,szwoch,14/15,Liga Europy,0,0,0
+199302,mateusz,szwoch,14/15,Fortuna Puchar Polski,0,0,0
+199302,mateusz,szwoch,13/14,1 Liga,28,6,2285
+199302,mateusz,szwoch,13/14,Fortuna Puchar Polski,6,3,473
+199302,mateusz,szwoch,12/13,1 Liga,32,3,2002
+199302,mateusz,szwoch,12/13,Fortuna Puchar Polski,1,0,90
+199302,mateusz,szwoch,11/12,1 Liga,7,0,115

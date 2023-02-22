@@ -1,13 +1,13 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-554288,ariel-mosor,22/23,Ekstraklasa,15,0,1350
-554288,ariel-mosor,22/23,Fortuna Puchar Polski,0,0,0
-554288,ariel-mosor,21/22,Ekstraklasa,29,1,2161
-554288,ariel-mosor,21/22,Fortuna Puchar Polski,2,0,135
-554288,ariel-mosor,20/21,3 Liga - Grupa I,19,2,1524
-554288,ariel-mosor,20/21,Ekstraklasa,0,0,0
-554288,ariel-mosor,19/20,Ekstraklasa,2,0,70
-554288,ariel-mosor,19/20,Fortuna Puchar Polski,0,0,0
-554288,ariel-mosor,19/20,3 Liga - Grupa I,14,0,1260
-554288,ariel-mosor,19/20,Fortuna Puchar Polski,2,0,180
-554288,ariel-mosor,18/19,3 Liga - Grupa I,1,0,90
-554288,ariel-mosor,18/19,CLJ,6,1,540
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+554288,ariel,mosor,22/23,Ekstraklasa,16,0,1440
+554288,ariel,mosor,22/23,Fortuna Puchar Polski,0,0,0
+554288,ariel,mosor,21/22,Ekstraklasa,29,1,2161
+554288,ariel,mosor,21/22,Fortuna Puchar Polski,2,0,135
+554288,ariel,mosor,20/21,3 Liga - Grupa I,19,2,1524
+554288,ariel,mosor,20/21,Ekstraklasa,0,0,0
+554288,ariel,mosor,19/20,Ekstraklasa,2,0,70
+554288,ariel,mosor,19/20,Fortuna Puchar Polski,0,0,0
+554288,ariel,mosor,19/20,3 Liga - Grupa I,14,0,1260
+554288,ariel,mosor,19/20,Fortuna Puchar Polski,2,0,180
+554288,ariel,mosor,18/19,3 Liga - Grupa I,1,0,90
+554288,ariel,mosor,18/19,CLJ,6,1,540

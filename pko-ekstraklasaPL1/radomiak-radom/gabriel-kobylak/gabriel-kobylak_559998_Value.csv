@@ -1,8 +1,8 @@
-id,name,dates,marketValue
-559998,gabriel-kobylak,2020-08-26,25000
-559998,gabriel-kobylak,2021-02-23,150000
-559998,gabriel-kobylak,2021-06-29,200000
-559998,gabriel-kobylak,2022-01-13,200000
-559998,gabriel-kobylak,2022-06-23,200000
-559998,gabriel-kobylak,2022-09-28,400000
-559998,gabriel-kobylak,2022-11-15,500000
+id,firstName,lastName,dates,marketValue
+559998,gabriel,kobylak,2020-08-26,25000
+559998,gabriel,kobylak,2021-02-23,150000
+559998,gabriel,kobylak,2021-06-29,200000
+559998,gabriel,kobylak,2022-01-13,200000
+559998,gabriel,kobylak,2022-06-23,200000
+559998,gabriel,kobylak,2022-09-28,400000
+559998,gabriel,kobylak,2022-11-15,500000

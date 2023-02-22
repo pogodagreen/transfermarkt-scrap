@@ -1,10 +1,10 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-08-11,Piast Gliwice,Kisvárda,400000,free transfer
-19/20,2020-02-26,Dunajska Streda,Piast Gliwice,700000,350000
-16/17,2016-07-01,De Graafschap,Dunajska Streda,300000,free transfer
-14/15,2014-07-01,FC Twente U21,De Graafschap,75000,free transfer
-13/14,2013-07-01,FC Twente U19,FC Twente U21,0,0
-11/12,2011-08-30,Honvéd U17,FC Twente U19,0,0
-09/10,2009-08-14,Vasas Yth.,Honvéd U17,0,free transfer
-07/08,2007-12-31,Videoton Jgd.,Vasas Yth.,0,End of loan
-07/08,2007-08-08,Vasas Yth.,Videoton Jgd.,0,loan transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+164837,kristopher,vida,22/23,2022-08-11,Piast Gliwice,Kisvárda,400000,free transfer
+164837,kristopher,vida,19/20,2020-02-26,Dunajska Streda,Piast Gliwice,700000,350000
+164837,kristopher,vida,16/17,2016-07-01,De Graafschap,Dunajska Streda,300000,free transfer
+164837,kristopher,vida,14/15,2014-07-01,FC Twente U21,De Graafschap,75000,free transfer
+164837,kristopher,vida,13/14,2013-07-01,FC Twente U19,FC Twente U21,0,0
+164837,kristopher,vida,11/12,2011-08-30,Honvéd U17,FC Twente U19,0,0
+164837,kristopher,vida,09/10,2009-08-14,Vasas Yth.,Honvéd U17,0,free transfer
+164837,kristopher,vida,07/08,2007-12-31,Videoton Jgd.,Vasas Yth.,0,End of loan
+164837,kristopher,vida,07/08,2007-08-08,Vasas Yth.,Videoton Jgd.,0,loan transfer

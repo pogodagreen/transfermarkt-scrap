@@ -1,42 +1,42 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-113504,nikola-stojiljkovic,21/22,Ekstraklasa,8,1,133
-113504,nikola-stojiljkovic,21/22,Fortuna Puchar Polski,2,1,139
-113504,nikola-stojiljkovic,21/22,Allianz Cup,0,0,0
-113504,nikola-stojiljkovic,20/21,Liga NOS,21,3,1162
-113504,nikola-stojiljkovic,20/21,Taça de Portugal,1,0,45
-113504,nikola-stojiljkovic,19/20,Liga NOS,24,2,1543
-113504,nikola-stojiljkovic,19/20,Taça de Portugal,1,0,63
-113504,nikola-stojiljkovic,18/19,LaLiga 1|2|3,4,0,79
-113504,nikola-stojiljkovic,18/19,Liga Mistrzów,1,0,45
-113504,nikola-stojiljkovic,18/19,Super liga,7,3,391
-113504,nikola-stojiljkovic,18/19,Kup Srbije,2,2,121
-113504,nikola-stojiljkovic,18/19,Kwalifikacje do Ligi Mistrzów,5,0,254
-113504,nikola-stojiljkovic,17/18,Süper Lig,13,2,183
-113504,nikola-stojiljkovic,17/18,Türkiye Kupasi,4,0,251
-113504,nikola-stojiljkovic,17/18,Taça CTT,0,0,0
-113504,nikola-stojiljkovic,17/18,Liga NOS,2,0,117
-113504,nikola-stojiljkovic,17/18,Kwalifikacje do Ligi Europy,3,1,168
-113504,nikola-stojiljkovic,16/17,Liga NOS,24,5,1199
-113504,nikola-stojiljkovic,16/17,Allianz Cup,2,1,162
-113504,nikola-stojiljkovic,16/17,Liga Europy,5,2,221
-113504,nikola-stojiljkovic,16/17,Taça de Portugal,2,1,180
-113504,nikola-stojiljkovic,16/17,Supertaça,1,0,68
-113504,nikola-stojiljkovic,15/16,Taça de Portugal,7,2,549
-113504,nikola-stojiljkovic,15/16,Liga NOS,31,10,2035
-113504,nikola-stojiljkovic,15/16,Allianz Cup,2,0,36
-113504,nikola-stojiljkovic,15/16,Liga Europy,6,3,387
-113504,nikola-stojiljkovic,15/16,Super liga,3,2,139
-113504,nikola-stojiljkovic,15/16,Kwalifikacje do Ligi Europy,3,1,184
-113504,nikola-stojiljkovic,14/15,Jelen SuperLiga,28,9,2225
-113504,nikola-stojiljkovic,14/15,Kup Srbije,6,3,453
-113504,nikola-stojiljkovic,14/15,Kwalifikacje do Ligi Europy,4,2,351
-113504,nikola-stojiljkovic,13/14,Jelen SuperLiga,28,7,2292
-113504,nikola-stojiljkovic,13/14,Kup Srbije,2,0,180
-113504,nikola-stojiljkovic,12/13,Prva liga Srbije,14,8,1176
-113504,nikola-stojiljkovic,12/13,Jelen SuperLiga,1,0,12
-113504,nikola-stojiljkovic,11/12,Jelen SuperLiga,19,5,1038
-113504,nikola-stojiljkovic,11/12,Kup Srbije,1,0,120
-113504,nikola-stojiljkovic,11/12,Kwalifikacje do Ligi Europy,1,0,13
-113504,nikola-stojiljkovic,10/11,Jelen SuperLiga,4,0,43
-113504,nikola-stojiljkovic,09/10,Jelen SuperLiga,1,0,60
-113504,nikola-stojiljkovic,08/09,Jelen SuperLiga,1,0,16
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+113504,nikola,stojiljkovic,21/22,Ekstraklasa,8,1,133
+113504,nikola,stojiljkovic,21/22,Fortuna Puchar Polski,2,1,139
+113504,nikola,stojiljkovic,21/22,Allianz Cup,0,0,0
+113504,nikola,stojiljkovic,20/21,Liga NOS,21,3,1162
+113504,nikola,stojiljkovic,20/21,Taça de Portugal,1,0,45
+113504,nikola,stojiljkovic,19/20,Liga NOS,24,2,1543
+113504,nikola,stojiljkovic,19/20,Taça de Portugal,1,0,63
+113504,nikola,stojiljkovic,18/19,LaLiga 1|2|3,4,0,79
+113504,nikola,stojiljkovic,18/19,Liga Mistrzów,1,0,45
+113504,nikola,stojiljkovic,18/19,Super liga,7,3,391
+113504,nikola,stojiljkovic,18/19,Kup Srbije,2,2,121
+113504,nikola,stojiljkovic,18/19,Kwalifikacje do Ligi Mistrzów,5,0,254
+113504,nikola,stojiljkovic,17/18,Süper Lig,13,2,183
+113504,nikola,stojiljkovic,17/18,Türkiye Kupasi,4,0,251
+113504,nikola,stojiljkovic,17/18,Taça CTT,0,0,0
+113504,nikola,stojiljkovic,17/18,Liga NOS,2,0,117
+113504,nikola,stojiljkovic,17/18,Kwalifikacje do Ligi Europy,3,1,168
+113504,nikola,stojiljkovic,16/17,Liga NOS,24,5,1199
+113504,nikola,stojiljkovic,16/17,Allianz Cup,2,1,162
+113504,nikola,stojiljkovic,16/17,Liga Europy,5,2,221
+113504,nikola,stojiljkovic,16/17,Taça de Portugal,2,1,180
+113504,nikola,stojiljkovic,16/17,Supertaça,1,0,68
+113504,nikola,stojiljkovic,15/16,Taça de Portugal,7,2,549
+113504,nikola,stojiljkovic,15/16,Liga NOS,31,10,2035
+113504,nikola,stojiljkovic,15/16,Allianz Cup,2,0,36
+113504,nikola,stojiljkovic,15/16,Liga Europy,6,3,387
+113504,nikola,stojiljkovic,15/16,Super liga,3,2,139
+113504,nikola,stojiljkovic,15/16,Kwalifikacje do Ligi Europy,3,1,184
+113504,nikola,stojiljkovic,14/15,Jelen SuperLiga,28,9,2225
+113504,nikola,stojiljkovic,14/15,Kup Srbije,6,3,453
+113504,nikola,stojiljkovic,14/15,Kwalifikacje do Ligi Europy,4,2,351
+113504,nikola,stojiljkovic,13/14,Jelen SuperLiga,28,7,2292
+113504,nikola,stojiljkovic,13/14,Kup Srbije,2,0,180
+113504,nikola,stojiljkovic,12/13,Prva liga Srbije,14,8,1176
+113504,nikola,stojiljkovic,12/13,Jelen SuperLiga,1,0,12
+113504,nikola,stojiljkovic,11/12,Jelen SuperLiga,19,5,1038
+113504,nikola,stojiljkovic,11/12,Kup Srbije,1,0,120
+113504,nikola,stojiljkovic,11/12,Kwalifikacje do Ligi Europy,1,0,13
+113504,nikola,stojiljkovic,10/11,Jelen SuperLiga,4,0,43
+113504,nikola,stojiljkovic,09/10,Jelen SuperLiga,1,0,60
+113504,nikola,stojiljkovic,08/09,Jelen SuperLiga,1,0,16

@@ -1,8 +1,8 @@
-id,name,dates,marketValue
-725654,aleksander-pawlak,2020-01-14,50000
-725654,aleksander-pawlak,2021-01-18,100000
-725654,aleksander-pawlak,2021-05-20,150000
-725654,aleksander-pawlak,2022-01-13,75000
-725654,aleksander-pawlak,2022-06-13,300000
-725654,aleksander-pawlak,2022-09-28,600000
-725654,aleksander-pawlak,2022-11-15,600000
+id,firstName,lastName,dates,marketValue
+725654,aleksander,pawlak,2020-01-14,50000
+725654,aleksander,pawlak,2021-01-18,100000
+725654,aleksander,pawlak,2021-05-20,150000
+725654,aleksander,pawlak,2022-01-13,75000
+725654,aleksander,pawlak,2022-06-13,300000
+725654,aleksander,pawlak,2022-09-28,600000
+725654,aleksander,pawlak,2022-11-15,600000

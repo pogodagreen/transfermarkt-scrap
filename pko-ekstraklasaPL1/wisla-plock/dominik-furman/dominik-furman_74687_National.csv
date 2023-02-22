@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-74687,dominik-furman,1992,Poland,"1,83",Central Midfield,0,0,0,4,0,5,9,3
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+74687,dominik,furman,1992,Poland,"1,83",Central Midfield,0,0,0,4,0,5,9,3

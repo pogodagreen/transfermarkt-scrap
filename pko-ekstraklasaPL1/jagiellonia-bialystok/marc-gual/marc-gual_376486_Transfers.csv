@@ -1,16 +1,16 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Jagiellonia,SK Dnipro-1,1200000,End of loan
-21/22,2022-03-23,SK Dnipro-1,Jagiellonia,400000,loan transfer
-21/22,2022-01-13,Alcorcón,SK Dnipro-1,400000,free transfer
-20/21,2020-09-01,Sevilla FC,Alcorcón,1100000,0
-19/20,2020-06-30,RM Castilla,Sevilla FC,1100000,End of loan
-19/20,2020-01-30,Sevilla FC,RM Castilla,1400000,loan transfer
-19/20,2020-01-29,Girona,Sevilla FC,1400000,End of loan
-19/20,2019-07-01,Sevilla FC,Girona,1000000,loan transfer
-18/19,2019-06-30,Real Zaragoza,Sevilla FC,1000000,End of loan
-18/19,2018-08-09,Sevilla FC,Real Zaragoza,1500000,loan transfer
-18/19,2018-07-01,Sevilla Atl.,Sevilla FC,1500000,0
-16/17,2016-11-09,RCD Espanyol B,Sevilla Atl.,250000,0
-15/16,2015-07-01,Espanyol U19,RCD Espanyol B,0,0
-13/14,2013-07-01,Badalona U19,Espanyol U19,0,0
-12/13,2012-07-01,CF Badalona You,Badalona U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+376486,marc,gual,22/23,2023-06-30,Jagiellonia,SK Dnipro-1,1200000,End of loan
+376486,marc,gual,21/22,2022-03-23,SK Dnipro-1,Jagiellonia,400000,loan transfer
+376486,marc,gual,21/22,2022-01-13,Alcorcón,SK Dnipro-1,400000,free transfer
+376486,marc,gual,20/21,2020-09-01,Sevilla FC,Alcorcón,1100000,0
+376486,marc,gual,19/20,2020-06-30,RM Castilla,Sevilla FC,1100000,End of loan
+376486,marc,gual,19/20,2020-01-30,Sevilla FC,RM Castilla,1400000,loan transfer
+376486,marc,gual,19/20,2020-01-29,Girona,Sevilla FC,1400000,End of loan
+376486,marc,gual,19/20,2019-07-01,Sevilla FC,Girona,1000000,loan transfer
+376486,marc,gual,18/19,2019-06-30,Real Zaragoza,Sevilla FC,1000000,End of loan
+376486,marc,gual,18/19,2018-08-09,Sevilla FC,Real Zaragoza,1500000,loan transfer
+376486,marc,gual,18/19,2018-07-01,Sevilla Atl.,Sevilla FC,1500000,0
+376486,marc,gual,16/17,2016-11-09,RCD Espanyol B,Sevilla Atl.,250000,0
+376486,marc,gual,15/16,2015-07-01,Espanyol U19,RCD Espanyol B,0,0
+376486,marc,gual,13/14,2013-07-01,Badalona U19,Espanyol U19,0,0
+376486,marc,gual,12/13,2012-07-01,CF Badalona You,Badalona U19,0,0

@@ -1,28 +1,28 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-144334,aleksandar-scekic,22/23,Ligat ha'Al,4,0,339
-144334,aleksandar-scekic,22/23,UAE Pro League,10,1,786
-144334,aleksandar-scekic,22/23,UAE League Cup,1,0,45
-144334,aleksandar-scekic,21/22,Ekstraklasa,11,0,855
-144334,aleksandar-scekic,21/22,Super liga Srbije,15,2,662
-144334,aleksandar-scekic,21/22,Liga Konferencji,5,0,275
-144334,aleksandar-scekic,21/22,Kup Srbije,1,0,90
-144334,aleksandar-scekic,21/22,UECL Kwalifikacje,6,1,257
-144334,aleksandar-scekic,20/21,Kup Srbije,4,1,390
-144334,aleksandar-scekic,20/21,Super liga,33,4,2358
-144334,aleksandar-scekic,20/21,Kwalifikacje do Ligi Europy,3,0,123
-144334,aleksandar-scekic,19/20,Kup Srbije,4,0,315
-144334,aleksandar-scekic,19/20,Super liga,23,2,1711
-144334,aleksandar-scekic,19/20,Liga Europy,5,0,299
-144334,aleksandar-scekic,19/20,Kwalifikacje do Ligi Europy,6,1,540
-144334,aleksandar-scekic,18/19,Kup Srbije,5,0,369
-144334,aleksandar-scekic,18/19,Super liga,21,1,1709
-144334,aleksandar-scekic,18/19,Kwalifikacje do Ligi Europy,2,0,82
-144334,aleksandar-scekic,17/18,Süper Lig,24,2,2012
-144334,aleksandar-scekic,17/18,Türkiye Kupasi,3,0,270
-144334,aleksandar-scekic,16/17,Süper Lig,11,0,401
-144334,aleksandar-scekic,16/17,Türkiye Kupasi,6,0,430
-144334,aleksandar-scekic,15/16,Meridianbet 1. CFL,31,3,2767
-144334,aleksandar-scekic,15/16,Montenegro Cup,5,1,450
-144334,aleksandar-scekic,14/15,Meridianbet 1. CFL,30,3,2625
-144334,aleksandar-scekic,13/14,Druga Liga,25,3,2117
-144334,aleksandar-scekic,09/10,Meridianbet 1. CFL,1,1,90
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+144334,aleksandar,scekic,22/23,Ligat ha'Al,5,0,429
+144334,aleksandar,scekic,22/23,UAE Pro League,10,1,786
+144334,aleksandar,scekic,22/23,UAE League Cup,1,0,45
+144334,aleksandar,scekic,21/22,Ekstraklasa,11,0,855
+144334,aleksandar,scekic,21/22,Super liga Srbije,15,2,662
+144334,aleksandar,scekic,21/22,Liga Konferencji,5,0,275
+144334,aleksandar,scekic,21/22,Kup Srbije,1,0,90
+144334,aleksandar,scekic,21/22,UECL Kwalifikacje,6,1,257
+144334,aleksandar,scekic,20/21,Kup Srbije,4,1,390
+144334,aleksandar,scekic,20/21,Super liga,33,4,2358
+144334,aleksandar,scekic,20/21,Kwalifikacje do Ligi Europy,3,0,123
+144334,aleksandar,scekic,19/20,Kup Srbije,4,0,315
+144334,aleksandar,scekic,19/20,Super liga,23,2,1711
+144334,aleksandar,scekic,19/20,Liga Europy,5,0,299
+144334,aleksandar,scekic,19/20,Kwalifikacje do Ligi Europy,6,1,540
+144334,aleksandar,scekic,18/19,Kup Srbije,5,0,369
+144334,aleksandar,scekic,18/19,Super liga,21,1,1709
+144334,aleksandar,scekic,18/19,Kwalifikacje do Ligi Europy,2,0,82
+144334,aleksandar,scekic,17/18,Süper Lig,24,2,2012
+144334,aleksandar,scekic,17/18,Türkiye Kupasi,3,0,270
+144334,aleksandar,scekic,16/17,Süper Lig,11,0,401
+144334,aleksandar,scekic,16/17,Türkiye Kupasi,6,0,430
+144334,aleksandar,scekic,15/16,Meridianbet 1. CFL,31,3,2767
+144334,aleksandar,scekic,15/16,Montenegro Cup,5,1,450
+144334,aleksandar,scekic,14/15,Meridianbet 1. CFL,30,3,2625
+144334,aleksandar,scekic,13/14,Druga Liga,25,3,2117
+144334,aleksandar,scekic,09/10,Meridianbet 1. CFL,1,1,90

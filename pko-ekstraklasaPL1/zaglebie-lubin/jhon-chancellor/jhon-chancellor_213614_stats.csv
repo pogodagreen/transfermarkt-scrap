@@ -1,31 +1,31 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-213614,jhon-chancellor,2023,Campeonato Paranaense,7,1,630
-213614,jhon-chancellor,2022,Série A,13,0,1170
-213614,jhon-chancellor,21/22,Ekstraklasa,7,0,630
-213614,jhon-chancellor,21/22,Serie B,14,1,1142
-213614,jhon-chancellor,21/22,Puchar Włoch,0,0,0
-213614,jhon-chancellor,20/21,Serie B,21,0,1890
-213614,jhon-chancellor,20/21,Puchar Włoch,1,0,90
-213614,jhon-chancellor,19/20,Serie A,26,3,2245
-213614,jhon-chancellor,19/20,Puchar Włoch,1,0,120
-213614,jhon-chancellor,18/19,Stars League,6,1,474
-213614,jhon-chancellor,18/19,Premier Liga,14,0,1179
-213614,jhon-chancellor,18/19,Puchar Rosji,2,1,180
-213614,jhon-chancellor,17/18,Premier Liga,1,0,90
-213614,jhon-chancellor,2017,Serie A Tercera Etapa,2,0,180
-213614,jhon-chancellor,2017,Serie A Segunda Etapa,16,0,1395
-213614,jhon-chancellor,2017,Serie A Primera Etapa,20,3,1704
-213614,jhon-chancellor,2017,Octagonal Clausura,1,0,68
-213614,jhon-chancellor,2016,Torneo Clausura (- 2019),8,0,720
-213614,jhon-chancellor,2016,Copa Sudamericana,4,0,78
-213614,jhon-chancellor,2016,Octogonal Apertura,1,0,90
-213614,jhon-chancellor,2016,Torneo Apertura (- 2020),12,2,886
-213614,jhon-chancellor,2014,Torneo Apertura (- 2020),7,0,564
-213614,jhon-chancellor,2013,Copa Sudamericana,1,0,90
-213614,jhon-chancellor,2013,Torneo Clausura (- 2019),4,1,360
-213614,jhon-chancellor,2013,Torneo Apertura (- 2020),5,0,450
-213614,jhon-chancellor,2012,Copa Sudamericana,2,0,180
-213614,jhon-chancellor,2012,Torneo Clausura (- 2019),2,0,88
-213614,jhon-chancellor,2012,Torneo Apertura (- 2020),5,0,326
-213614,jhon-chancellor,2011,Torneo Clausura (- 2019),9,0,742
-213614,jhon-chancellor,2011,Torneo Apertura (- 2020),6,0,540
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+213614,jhon,chancellor,2023,Campeonato Paranaense,8,1,720
+213614,jhon,chancellor,2022,Série A,13,0,1170
+213614,jhon,chancellor,21/22,Ekstraklasa,7,0,630
+213614,jhon,chancellor,21/22,Serie B,14,1,1142
+213614,jhon,chancellor,21/22,Puchar Włoch,0,0,0
+213614,jhon,chancellor,20/21,Serie B,21,0,1890
+213614,jhon,chancellor,20/21,Puchar Włoch,1,0,90
+213614,jhon,chancellor,19/20,Serie A,26,3,2245
+213614,jhon,chancellor,19/20,Puchar Włoch,1,0,120
+213614,jhon,chancellor,18/19,Stars League,6,1,474
+213614,jhon,chancellor,18/19,Premier Liga,14,0,1179
+213614,jhon,chancellor,18/19,Puchar Rosji,2,1,180
+213614,jhon,chancellor,17/18,Premier Liga,1,0,90
+213614,jhon,chancellor,2017,Serie A Tercera Etapa,2,0,180
+213614,jhon,chancellor,2017,Serie A Segunda Etapa,16,0,1395
+213614,jhon,chancellor,2017,Serie A Primera Etapa,20,3,1704
+213614,jhon,chancellor,2017,Octagonal Clausura,1,0,68
+213614,jhon,chancellor,2016,Torneo Clausura (- 2019),8,0,720
+213614,jhon,chancellor,2016,Copa Sudamericana,4,0,78
+213614,jhon,chancellor,2016,Octogonal Apertura,1,0,90
+213614,jhon,chancellor,2016,Torneo Apertura (- 2020),12,2,886
+213614,jhon,chancellor,2014,Torneo Apertura (- 2020),7,0,564
+213614,jhon,chancellor,2013,Copa Sudamericana,1,0,90
+213614,jhon,chancellor,2013,Torneo Clausura (- 2019),4,1,360
+213614,jhon,chancellor,2013,Torneo Apertura (- 2020),5,0,450
+213614,jhon,chancellor,2012,Copa Sudamericana,2,0,180
+213614,jhon,chancellor,2012,Torneo Clausura (- 2019),2,0,88
+213614,jhon,chancellor,2012,Torneo Apertura (- 2020),5,0,326
+213614,jhon,chancellor,2011,Torneo Clausura (- 2019),9,0,742
+213614,jhon,chancellor,2011,Torneo Apertura (- 2020),6,0,540

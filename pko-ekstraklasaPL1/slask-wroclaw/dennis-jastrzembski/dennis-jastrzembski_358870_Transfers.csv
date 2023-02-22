@@ -1,11 +1,11 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-01-25,Hertha BSC,Slask Wroclaw,1000000,free transfer
-20/21,2021-06-30,Waldh. Mannheim,Hertha BSC,450000,End of loan
-20/21,2021-01-27,Hertha BSC,Waldh. Mannheim,600000,loan transfer
-20/21,2021-01-26,SC Paderborn,Hertha BSC,600000,End of loan
-19/20,2020-01-31,Hertha BSC,SC Paderborn,500000,loan transfer
-18/19,2018-07-01,Hertha BSC U19,Hertha BSC,0,0
-17/18,2017-07-01,Hertha BSC U17,Hertha BSC U19,0,0
-16/17,2016-07-01,Hertha BSC U16,Hertha BSC U17,0,0
-14/15,2014-07-01,H. Kiel Yth.,Hertha BSC Yth.,0,free transfer
-13/14,2013-07-01,TSV Kropp Yth.,H. Kiel Yth.,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+358870,dennis,jastrzembski,21/22,2022-01-25,Hertha BSC,Slask Wroclaw,1000000,free transfer
+358870,dennis,jastrzembski,20/21,2021-06-30,Waldh. Mannheim,Hertha BSC,450000,End of loan
+358870,dennis,jastrzembski,20/21,2021-01-27,Hertha BSC,Waldh. Mannheim,600000,loan transfer
+358870,dennis,jastrzembski,20/21,2021-01-26,SC Paderborn,Hertha BSC,600000,End of loan
+358870,dennis,jastrzembski,19/20,2020-01-31,Hertha BSC,SC Paderborn,500000,loan transfer
+358870,dennis,jastrzembski,18/19,2018-07-01,Hertha BSC U19,Hertha BSC,0,0
+358870,dennis,jastrzembski,17/18,2017-07-01,Hertha BSC U17,Hertha BSC U19,0,0
+358870,dennis,jastrzembski,16/17,2016-07-01,Hertha BSC U16,Hertha BSC U17,0,0
+358870,dennis,jastrzembski,14/15,2014-07-01,H. Kiel Yth.,Hertha BSC Yth.,0,free transfer
+358870,dennis,jastrzembski,13/14,2013-07-01,TSV Kropp Yth.,H. Kiel Yth.,0,free transfer

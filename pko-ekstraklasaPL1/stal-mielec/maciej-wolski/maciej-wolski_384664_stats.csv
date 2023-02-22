@@ -1,20 +1,20 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-384664,maciej-wolski,22/23,Ekstraklasa,13,0,889
-384664,maciej-wolski,22/23,Fortuna Puchar Polski,1,0,90
-384664,maciej-wolski,21/22,1 Liga,28,2,1569
-384664,maciej-wolski,21/22,Fortuna Puchar Polski,1,0,120
-384664,maciej-wolski,20/21,Baraze o udzial w Ekstraklasie,2,0,121
-384664,maciej-wolski,20/21,1 Liga,30,3,2086
-384664,maciej-wolski,20/21,Fortuna Puchar Polski,2,0,210
-384664,maciej-wolski,19/20,Ekstraklasa,27,1,1821
-384664,maciej-wolski,19/20,Fortuna Puchar Polski,2,0,180
-384664,maciej-wolski,18/19,Fortuna 1 Liga,27,2,1131
-384664,maciej-wolski,18/19,Fortuna Puchar Polski,1,0,32
-384664,maciej-wolski,17/18,eWinner 2 liga,14,0,1218
-384664,maciej-wolski,17/18,Nice 1 Liga,13,0,781
-384664,maciej-wolski,17/18,Fortuna Puchar Polski,1,0,46
-384664,maciej-wolski,16/17,3 Liga - Grupa I,16,1,1378
-384664,maciej-wolski,16/17,Nice 1 Liga,2,0,26
-384664,maciej-wolski,16/17,Fortuna Puchar Polski,0,0,0
-384664,maciej-wolski,15/16,1 Liga,3,0,65
-384664,maciej-wolski,15/16,CLJ - Grupa Zachodnia,3,0,224
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+384664,maciej,wolski,22/23,Ekstraklasa,14,0,979
+384664,maciej,wolski,22/23,Fortuna Puchar Polski,1,0,90
+384664,maciej,wolski,21/22,1 Liga,28,2,1569
+384664,maciej,wolski,21/22,Fortuna Puchar Polski,1,0,120
+384664,maciej,wolski,20/21,Baraze o udzial w Ekstraklasie,2,0,121
+384664,maciej,wolski,20/21,1 Liga,30,3,2086
+384664,maciej,wolski,20/21,Fortuna Puchar Polski,2,0,210
+384664,maciej,wolski,19/20,Ekstraklasa,27,1,1821
+384664,maciej,wolski,19/20,Fortuna Puchar Polski,2,0,180
+384664,maciej,wolski,18/19,Fortuna 1 Liga,27,2,1131
+384664,maciej,wolski,18/19,Fortuna Puchar Polski,1,0,32
+384664,maciej,wolski,17/18,eWinner 2 liga,14,0,1218
+384664,maciej,wolski,17/18,Nice 1 Liga,13,0,781
+384664,maciej,wolski,17/18,Fortuna Puchar Polski,1,0,46
+384664,maciej,wolski,16/17,3 Liga - Grupa I,16,1,1378
+384664,maciej,wolski,16/17,Nice 1 Liga,2,0,26
+384664,maciej,wolski,16/17,Fortuna Puchar Polski,0,0,0
+384664,maciej,wolski,15/16,1 Liga,3,0,65
+384664,maciej,wolski,15/16,CLJ - Grupa Zachodnia,3,0,224

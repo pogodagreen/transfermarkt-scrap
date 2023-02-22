@@ -1,14 +1,14 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-31,Wisla Plock,KAS Eupen,1200000,600000
-22/23,2022-07-01,UD Ibiza,Wisla Plock,500000,free transfer
-20/21,2020-07-01,UP Langreo,UD Ibiza,300000,free transfer
-19/20,2019-07-03,Zamora CF,UP Langreo,50000,free transfer
-18/19,2018-07-07,CCD Cerceda,Zamora CF,50000,free transfer
-17/18,2018-01-17,Bouzas,CCD Cerceda,50000,free transfer
-17/18,2017-07-17,Oviedo Vetusta,Bouzas,0,free transfer
-16/17,2016-07-01,Zamora CF,Oviedo Vetusta,0,0
-15/16,2015-07-01,Caudal,Zamora CF,0,0
-14/15,2014-07-01,UP Langreo,Caudal,0,0
-13/14,2014-01-01,Oviedo Vetusta,UP Langreo,0,0
-12/13,2012-07-01,Real Avilés B,Oviedo Vetusta,0,0
-11/12,2012-01-01,Avilés U19,Real Avilés B,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+522190,davo,-,22/23,2023-01-31,Wisla Plock,KAS Eupen,1200000,600000
+522190,davo,-,22/23,2022-07-01,UD Ibiza,Wisla Plock,500000,free transfer
+522190,davo,-,20/21,2020-07-01,UP Langreo,UD Ibiza,300000,free transfer
+522190,davo,-,19/20,2019-07-03,Zamora CF,UP Langreo,50000,free transfer
+522190,davo,-,18/19,2018-07-07,CCD Cerceda,Zamora CF,50000,free transfer
+522190,davo,-,17/18,2018-01-17,Bouzas,CCD Cerceda,50000,free transfer
+522190,davo,-,17/18,2017-07-17,Oviedo Vetusta,Bouzas,0,free transfer
+522190,davo,-,16/17,2016-07-01,Zamora CF,Oviedo Vetusta,0,0
+522190,davo,-,15/16,2015-07-01,Caudal,Zamora CF,0,0
+522190,davo,-,14/15,2014-07-01,UP Langreo,Caudal,0,0
+522190,davo,-,13/14,2014-01-01,Oviedo Vetusta,UP Langreo,0,0
+522190,davo,-,12/13,2012-07-01,Real Avilés B,Oviedo Vetusta,0,0
+522190,davo,-,11/12,2012-01-01,Avilés U19,Real Avilés B,0,0

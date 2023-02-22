@@ -1,10 +1,10 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-630444,witan,22/23,Liga 1,1,0,62
-630444,witan,22/23,Fortuna Liga,10,1,232
-630444,witan,22/23,Slovnaft Cup,4,3,226
-630444,witan,21/22,Slovnaft Cup,4,2,281
-630444,witan,21/22,Fort. Liga - Releg. G.,5,2,348
-630444,witan,21/22,Fortuna Liga,3,0,248
-630444,witan,20/21,Super liga,3,0,39
-630444,witan,20/21,Kup Srbije,0,0,0
-630444,witan,19/20,Super liga,2,0,71
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+630444,witan,-,22/23,Liga 1,2,0,106
+630444,witan,-,22/23,Fortuna Liga,10,1,232
+630444,witan,-,22/23,Slovnaft Cup,4,3,226
+630444,witan,-,21/22,Slovnaft Cup,4,2,281
+630444,witan,-,21/22,Fort. Liga - Releg. G.,5,2,348
+630444,witan,-,21/22,Fortuna Liga,3,0,248
+630444,witan,-,20/21,Super liga,3,0,39
+630444,witan,-,20/21,Kup Srbije,0,0,0
+630444,witan,-,19/20,Super liga,2,0,71

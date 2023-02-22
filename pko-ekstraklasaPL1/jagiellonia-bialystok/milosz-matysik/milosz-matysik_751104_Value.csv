@@ -1,7 +1,7 @@
-id,name,dates,marketValue
-751104,milosz-matysik,2021-01-18,50000
-751104,milosz-matysik,2021-05-20,100000
-751104,milosz-matysik,2021-12-30,50000
-751104,milosz-matysik,2022-04-06,200000
-751104,milosz-matysik,2022-06-13,400000
-751104,milosz-matysik,2022-11-15,400000
+id,firstName,lastName,dates,marketValue
+751104,milosz,matysik,2021-01-18,50000
+751104,milosz,matysik,2021-05-20,100000
+751104,milosz,matysik,2021-12-30,50000
+751104,milosz,matysik,2022-04-06,200000
+751104,milosz,matysik,2022-06-13,400000
+751104,milosz,matysik,2022-11-15,400000

@@ -1,12 +1,12 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-804134,bogdan-racovitan,22/23,Ekstraklasa,7,0,528
-804134,bogdan-racovitan,22/23,Fortuna Puchar Polski,0,0,0
-804134,bogdan-racovitan,22/23,UECL Kwalifikacje,2,0,53
-804134,bogdan-racovitan,22/23,Superpuchar,1,1,90
-804134,bogdan-racovitan,21/22,Ekstraklasa,3,0,113
-804134,bogdan-racovitan,21/22,Liga 1,22,1,1980
-804134,bogdan-racovitan,21/22,Cupa României,1,0,54
-804134,bogdan-racovitan,20/21,Liga 1 - Championship group,2,0,51
-804134,bogdan-racovitan,20/21,Liga 1,0,0,0
-804134,bogdan-racovitan,20/21,Ligue 1,0,0,0
-804134,bogdan-racovitan,20/21,N3 - Bourg.-Fr.-Comté,4,0,360
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+804134,bogdan,racovitan,22/23,Ekstraklasa,7,0,528
+804134,bogdan,racovitan,22/23,Fortuna Puchar Polski,0,0,0
+804134,bogdan,racovitan,22/23,UECL Kwalifikacje,2,0,53
+804134,bogdan,racovitan,22/23,Superpuchar,1,1,90
+804134,bogdan,racovitan,21/22,Ekstraklasa,3,0,113
+804134,bogdan,racovitan,21/22,Liga 1,22,1,1980
+804134,bogdan,racovitan,21/22,Cupa României,1,0,54
+804134,bogdan,racovitan,20/21,Liga 1 - Championship group,2,0,51
+804134,bogdan,racovitan,20/21,Liga 1,0,0,0
+804134,bogdan,racovitan,20/21,Ligue 1,0,0,0
+804134,bogdan,racovitan,20/21,N3 - Bourg.-Fr.-Comté,4,0,360

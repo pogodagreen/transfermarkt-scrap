@@ -1,6 +1,6 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2020-07-31,Ruch Chorzow,Zaglebie Lubin,0,5000
-18/19,2018-07-17,Pogon II,Ruch Chorzow,0,free transfer
-17/18,2018-06-30,Stilon,Pogon II,0,End of loan
-17/18,2017-07-02,Pogon II,Stilon,0,loan transfer
-17/18,2017-07-01,Pogon U19,Pogon II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+425763,mateusz,bartolewski,20/21,2020-07-31,Ruch Chorzow,Zaglebie Lubin,0,5000
+425763,mateusz,bartolewski,18/19,2018-07-17,Pogon II,Ruch Chorzow,0,free transfer
+425763,mateusz,bartolewski,17/18,2018-06-30,Stilon,Pogon II,0,End of loan
+425763,mateusz,bartolewski,17/18,2017-07-02,Pogon II,Stilon,0,loan transfer
+425763,mateusz,bartolewski,17/18,2017-07-01,Pogon U19,Pogon II,0,0

@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-161314,wojciech-golla,1992,Poland,"1,86",Centre-Back,0,6,1,7,16,3,10,1
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+161314,wojciech,golla,1992,Poland,"1,86",Centre-Back,0,6,1,7,16,3,10,1

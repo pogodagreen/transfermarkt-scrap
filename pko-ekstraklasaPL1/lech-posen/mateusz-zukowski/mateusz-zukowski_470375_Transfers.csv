@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Lech Poznan,Rangers,1000000,End of loan
-22/23,2022-08-30,Rangers,Lech Poznan,2000000,loan transfer
-21/22,2022-01-31,Lechia Gdansk,Rangers,2500000,595000
-19/20,2020-02-15,Chojniczanka,Lechia Gdansk,50000,End of loan
-19/20,2019-08-27,Lechia Gdansk,Chojniczanka,50000,loan transfer
-17/18,2017-12-11,Lechia U19,Lechia Gdansk,0,0
-16/17,2016-07-01,Lechia Gdańsk Y,Lechia U19,0,0
-15/16,2015-07-01,Pogoń L. U19,Lechia Gdańsk Y,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+470375,mateusz,zukowski,22/23,2023-06-30,Lech Poznan,Rangers,1000000,End of loan
+470375,mateusz,zukowski,22/23,2022-08-30,Rangers,Lech Poznan,2000000,loan transfer
+470375,mateusz,zukowski,21/22,2022-01-31,Lechia Gdansk,Rangers,2500000,595000
+470375,mateusz,zukowski,19/20,2020-02-15,Chojniczanka,Lechia Gdansk,50000,End of loan
+470375,mateusz,zukowski,19/20,2019-08-27,Lechia Gdansk,Chojniczanka,50000,loan transfer
+470375,mateusz,zukowski,17/18,2017-12-11,Lechia U19,Lechia Gdansk,0,0
+470375,mateusz,zukowski,16/17,2016-07-01,Lechia Gdańsk Y,Lechia U19,0,0
+470375,mateusz,zukowski,15/16,2015-07-01,Pogoń L. U19,Lechia Gdańsk Y,0,free transfer

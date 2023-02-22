@@ -1,10 +1,10 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-06-30,Wigry Suwalki,Wisla Plock,250000,End of loan
-21/22,2022-01-11,Wisla Plock,Wigry Suwalki,250000,loan transfer
-21/22,2021-12-31,Korona Kielce,Wisla Plock,250000,End of loan
-21/22,2021-08-05,Wisla Plock,Korona Kielce,250000,loan transfer
-20/21,2020-08-01,BFC Dynamo,Wisla Plock,75000,free transfer
-18/19,2018-07-05,SC Freiburg U19,BFC Dynamo,0,free transfer
-16/17,2016-07-01,SC Freiburg U17,SC Freiburg U19,0,0
-15/16,2016-01-22,E. Cottbus U17,SC Freiburg U17,0,free transfer
-15/16,2015-07-01,Wa. Poznan U17,E. Cottbus U17,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+438351,mateusz,lewandowski,21/22,2022-06-30,Wigry Suwalki,Wisla Plock,250000,End of loan
+438351,mateusz,lewandowski,21/22,2022-01-11,Wisla Plock,Wigry Suwalki,250000,loan transfer
+438351,mateusz,lewandowski,21/22,2021-12-31,Korona Kielce,Wisla Plock,250000,End of loan
+438351,mateusz,lewandowski,21/22,2021-08-05,Wisla Plock,Korona Kielce,250000,loan transfer
+438351,mateusz,lewandowski,20/21,2020-08-01,BFC Dynamo,Wisla Plock,75000,free transfer
+438351,mateusz,lewandowski,18/19,2018-07-05,SC Freiburg U19,BFC Dynamo,0,free transfer
+438351,mateusz,lewandowski,16/17,2016-07-01,SC Freiburg U17,SC Freiburg U19,0,0
+438351,mateusz,lewandowski,15/16,2016-01-22,E. Cottbus U17,SC Freiburg U17,0,free transfer
+438351,mateusz,lewandowski,15/16,2015-07-01,Wa. Poznan U17,E. Cottbus U17,0,free transfer

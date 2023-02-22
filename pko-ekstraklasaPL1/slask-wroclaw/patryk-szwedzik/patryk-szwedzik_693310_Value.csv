@@ -1,5 +1,5 @@
-id,name,dates,marketValue
-693310,patryk-szwedzik,2021-06-29,50000
-693310,patryk-szwedzik,2022-01-13,150000
-693310,patryk-szwedzik,2022-06-23,250000
-693310,patryk-szwedzik,2022-11-17,300000
+id,firstName,lastName,dates,marketValue
+693310,patryk,szwedzik,2021-06-29,50000
+693310,patryk,szwedzik,2022-01-13,150000
+693310,patryk,szwedzik,2022-06-23,250000
+693310,patryk,szwedzik,2022-11-17,300000

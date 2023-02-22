@@ -1,8 +1,8 @@
-id,name,dates,marketValue
-699585,kacper-sezonienko,2020-08-17,150000
-699585,kacper-sezonienko,2021-10-14,500000
-699585,kacper-sezonienko,2021-12-30,1000000
-699585,kacper-sezonienko,2022-04-06,700000
-699585,kacper-sezonienko,2022-06-13,1200000
-699585,kacper-sezonienko,2022-09-28,900000
-699585,kacper-sezonienko,2022-11-15,700000
+id,firstName,lastName,dates,marketValue
+699585,kacper,sezonienko,2020-08-17,150000
+699585,kacper,sezonienko,2021-10-14,500000
+699585,kacper,sezonienko,2021-12-30,1000000
+699585,kacper,sezonienko,2022-04-06,700000
+699585,kacper,sezonienko,2022-06-13,1200000
+699585,kacper,sezonienko,2022-09-28,900000
+699585,kacper,sezonienko,2022-11-15,700000

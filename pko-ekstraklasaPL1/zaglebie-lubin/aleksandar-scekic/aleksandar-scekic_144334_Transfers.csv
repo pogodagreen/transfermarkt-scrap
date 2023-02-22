@@ -1,11 +1,11 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-05,Dibba Fujairah,Hapoel Haifa,500000,0
-22/23,2022-07-14,Zaglebie Lubin,Dibba Fujairah,700000,free transfer
-21/22,2022-01-22,Partizan,Zaglebie Lubin,1800000,free transfer
-18/19,2018-08-21,Genclerbirligi,Partizan,600000,100000
-16/17,2016-07-19,FK Bokelj,Genclerbirligi,125000,0
-13/14,2013-07-01,FK Berane,FK Bokelj,0,0
-12/13,2013-06-30,Jedinstvo,FK Berane,0,End of loan
-12/13,2013-01-01,FK Berane,Jedinstvo,0,loan transfer
-10/11,2011-06-30,FK Lovcen,FK Berane,0,End of loan
-10/11,2011-01-01,FK Berane,FK Lovcen,0,loan transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+144334,aleksandar,scekic,22/23,2023-01-05,Dibba Fujairah,Hapoel Haifa,500000,0
+144334,aleksandar,scekic,22/23,2022-07-14,Zaglebie Lubin,Dibba Fujairah,700000,free transfer
+144334,aleksandar,scekic,21/22,2022-01-22,Partizan,Zaglebie Lubin,1800000,free transfer
+144334,aleksandar,scekic,18/19,2018-08-21,Genclerbirligi,Partizan,600000,100000
+144334,aleksandar,scekic,16/17,2016-07-19,FK Bokelj,Genclerbirligi,125000,0
+144334,aleksandar,scekic,13/14,2013-07-01,FK Berane,FK Bokelj,0,0
+144334,aleksandar,scekic,12/13,2013-06-30,Jedinstvo,FK Berane,0,End of loan
+144334,aleksandar,scekic,12/13,2013-01-01,FK Berane,Jedinstvo,0,loan transfer
+144334,aleksandar,scekic,10/11,2011-06-30,FK Lovcen,FK Berane,0,End of loan
+144334,aleksandar,scekic,10/11,2011-01-01,FK Berane,FK Lovcen,0,loan transfer

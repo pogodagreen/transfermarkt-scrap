@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-289165,patryk-dziczek,1998,Poland,"1,82",Defensive Midfield,0,6,9,6,8,0,19,0
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+289165,patryk,dziczek,1998,Poland,"1,82",Defensive Midfield,0,6,9,6,8,0,19,0

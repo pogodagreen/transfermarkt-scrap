@@ -1,11 +1,11 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-599733,arkadiusz-pyrka,22/23,Ekstraklasa,19,0,1173
-599733,arkadiusz-pyrka,22/23,Fortuna Puchar Polski,3,1,235
-599733,arkadiusz-pyrka,21/22,Ekstraklasa,30,2,1486
-599733,arkadiusz-pyrka,21/22,Fortuna Puchar Polski,3,0,123
-599733,arkadiusz-pyrka,20/21,Ekstraklasa,23,0,890
-599733,arkadiusz-pyrka,20/21,Fortuna Puchar Polski,5,2,391
-599733,arkadiusz-pyrka,19/20,eWinner 2 liga,27,2,1704
-599733,arkadiusz-pyrka,19/20,Fortuna Puchar Polski,1,0,70
-599733,arkadiusz-pyrka,18/19,eWinner 2 liga,18,0,625
-599733,arkadiusz-pyrka,18/19,Fortuna Puchar Polski,1,0,90
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+599733,arkadiusz,pyrka,22/23,Ekstraklasa,20,0,1263
+599733,arkadiusz,pyrka,22/23,Fortuna Puchar Polski,3,1,235
+599733,arkadiusz,pyrka,21/22,Ekstraklasa,30,2,1486
+599733,arkadiusz,pyrka,21/22,Fortuna Puchar Polski,3,0,123
+599733,arkadiusz,pyrka,20/21,Ekstraklasa,23,0,890
+599733,arkadiusz,pyrka,20/21,Fortuna Puchar Polski,5,2,391
+599733,arkadiusz,pyrka,19/20,eWinner 2 liga,27,2,1704
+599733,arkadiusz,pyrka,19/20,Fortuna Puchar Polski,1,0,70
+599733,arkadiusz,pyrka,18/19,eWinner 2 liga,18,0,625
+599733,arkadiusz,pyrka,18/19,Fortuna Puchar Polski,1,0,90

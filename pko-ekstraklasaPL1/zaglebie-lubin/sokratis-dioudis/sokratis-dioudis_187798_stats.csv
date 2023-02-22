@@ -1,29 +1,29 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-187798,sokratis-dioudis,22/23,Ekstraklasa,0,0,0
-187798,sokratis-dioudis,21/22,Kypello Elladas,4,0,3
-187798,sokratis-dioudis,21/22,SL1 Play-off,2,0,0
-187798,sokratis-dioudis,21/22,Super League 1,9,0,5
-187798,sokratis-dioudis,20/21,SL1 Play-off,9,0,3
-187798,sokratis-dioudis,20/21,Super League 1,25,0,10
-187798,sokratis-dioudis,20/21,Kypello Elladas,1,0,0
-187798,sokratis-dioudis,19/20,SL1 Play-off,7,0,4
-187798,sokratis-dioudis,19/20,Super League 1,25,0,11
-187798,sokratis-dioudis,19/20,Kypello Elladas,6,0,1
-187798,sokratis-dioudis,18/19,Super League,26,0,11
-187798,sokratis-dioudis,18/19,Kypello Elladas,3,0,1
-187798,sokratis-dioudis,17/18,Super League,5,0,0
-187798,sokratis-dioudis,17/18,Kypello Elladas,3,0,1
-187798,sokratis-dioudis,16/17,Football League,31,0,18
-187798,sokratis-dioudis,16/17,Kypello Elladas,3,0,1
-187798,sokratis-dioudis,15/16,SL Play-off,3,0,0
-187798,sokratis-dioudis,15/16,Super League,18,0,8
-187798,sokratis-dioudis,15/16,Kypello Elladas,3,0,1
-187798,sokratis-dioudis,14/15,Beker van Belgie,0,0,0
-187798,sokratis-dioudis,14/15,Jupiler Pro League,0,0,0
-187798,sokratis-dioudis,14/15,Liga Europy,0,0,0
-187798,sokratis-dioudis,14/15,Kwalifikacje do Ligi Europy,0,0,0
-187798,sokratis-dioudis,13/14,Super League,32,0,8
-187798,sokratis-dioudis,13/14,Kypello Elladas,1,0,1
-187798,sokratis-dioudis,12/13,Super League,12,0,6
-187798,sokratis-dioudis,12/13,Kypello Elladas,1,0,0
-187798,sokratis-dioudis,11/12,Super League,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+187798,sokratis,dioudis,22/23,Ekstraklasa,1,0,0
+187798,sokratis,dioudis,21/22,Kypello Elladas,4,0,3
+187798,sokratis,dioudis,21/22,SL1 Play-off,2,0,0
+187798,sokratis,dioudis,21/22,Super League 1,9,0,5
+187798,sokratis,dioudis,20/21,SL1 Play-off,9,0,3
+187798,sokratis,dioudis,20/21,Super League 1,25,0,10
+187798,sokratis,dioudis,20/21,Kypello Elladas,1,0,0
+187798,sokratis,dioudis,19/20,SL1 Play-off,7,0,4
+187798,sokratis,dioudis,19/20,Super League 1,25,0,11
+187798,sokratis,dioudis,19/20,Kypello Elladas,6,0,1
+187798,sokratis,dioudis,18/19,Super League,26,0,11
+187798,sokratis,dioudis,18/19,Kypello Elladas,3,0,1
+187798,sokratis,dioudis,17/18,Super League,5,0,0
+187798,sokratis,dioudis,17/18,Kypello Elladas,3,0,1
+187798,sokratis,dioudis,16/17,Football League,31,0,18
+187798,sokratis,dioudis,16/17,Kypello Elladas,3,0,1
+187798,sokratis,dioudis,15/16,SL Play-off,3,0,0
+187798,sokratis,dioudis,15/16,Super League,18,0,8
+187798,sokratis,dioudis,15/16,Kypello Elladas,3,0,1
+187798,sokratis,dioudis,14/15,Beker van Belgie,0,0,0
+187798,sokratis,dioudis,14/15,Jupiler Pro League,0,0,0
+187798,sokratis,dioudis,14/15,Liga Europy,0,0,0
+187798,sokratis,dioudis,14/15,Kwalifikacje do Ligi Europy,0,0,0
+187798,sokratis,dioudis,13/14,Super League,32,0,8
+187798,sokratis,dioudis,13/14,Kypello Elladas,1,0,1
+187798,sokratis,dioudis,12/13,Super League,12,0,6
+187798,sokratis,dioudis,12/13,Kypello Elladas,1,0,0
+187798,sokratis,dioudis,11/12,Super League,0,0,0

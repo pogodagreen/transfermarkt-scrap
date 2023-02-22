@@ -1,23 +1,23 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-273533,jakub-wrabel,22/23,Ekstraklasa,0,0,0
-273533,jakub-wrabel,21/22,1 Liga,21,0,10
-273533,jakub-wrabel,21/22,Fortuna Puchar Polski,3,0,0
-273533,jakub-wrabel,20/21,1 Liga,15,0,8
-273533,jakub-wrabel,20/21,Ekstraklasa,0,0,0
-273533,jakub-wrabel,20/21,Fortuna Puchar Polski,0,0,0
-273533,jakub-wrabel,19/20,1 Liga,9,0,4
-273533,jakub-wrabel,19/20,Fortuna Puchar Polski,1,0,0
-273533,jakub-wrabel,19/20,Ekstraklasa,1,0,0
-273533,jakub-wrabel,19/20,Fortuna Puchar Polski,2,0,2
-273533,jakub-wrabel,18/19,Ekstraklasa,2,0,0
-273533,jakub-wrabel,18/19,Fortuna Puchar Polski,3,0,2
-273533,jakub-wrabel,17/18,Ekstraklasa,17,0,3
-273533,jakub-wrabel,17/18,Fortuna Puchar Polski,0,0,0
-273533,jakub-wrabel,16/17,Nice 1 Liga,28,0,10
-273533,jakub-wrabel,16/17,Fortuna Puchar Polski,1,0,0
-273533,jakub-wrabel,15/16,Ekstraklasa,4,0,1
-273533,jakub-wrabel,15/16,Fortuna Puchar Polski,3,0,1
-273533,jakub-wrabel,15/16,Kwalifikacje do Ligi Europy,0,0,0
-273533,jakub-wrabel,14/15,Ekstraklasa,7,0,0
-273533,jakub-wrabel,14/15,Fortuna Puchar Polski,2,0,0
-273533,jakub-wrabel,13/14,Ekstraklasa,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+273533,jakub,wrabel,22/23,Ekstraklasa,0,0,0
+273533,jakub,wrabel,21/22,1 Liga,21,0,10
+273533,jakub,wrabel,21/22,Fortuna Puchar Polski,3,0,0
+273533,jakub,wrabel,20/21,1 Liga,15,0,8
+273533,jakub,wrabel,20/21,Ekstraklasa,0,0,0
+273533,jakub,wrabel,20/21,Fortuna Puchar Polski,0,0,0
+273533,jakub,wrabel,19/20,1 Liga,9,0,4
+273533,jakub,wrabel,19/20,Fortuna Puchar Polski,1,0,0
+273533,jakub,wrabel,19/20,Ekstraklasa,1,0,0
+273533,jakub,wrabel,19/20,Fortuna Puchar Polski,2,0,2
+273533,jakub,wrabel,18/19,Ekstraklasa,2,0,0
+273533,jakub,wrabel,18/19,Fortuna Puchar Polski,3,0,2
+273533,jakub,wrabel,17/18,Ekstraklasa,17,0,3
+273533,jakub,wrabel,17/18,Fortuna Puchar Polski,0,0,0
+273533,jakub,wrabel,16/17,Nice 1 Liga,28,0,10
+273533,jakub,wrabel,16/17,Fortuna Puchar Polski,1,0,0
+273533,jakub,wrabel,15/16,Ekstraklasa,4,0,1
+273533,jakub,wrabel,15/16,Fortuna Puchar Polski,3,0,1
+273533,jakub,wrabel,15/16,Kwalifikacje do Ligi Europy,0,0,0
+273533,jakub,wrabel,14/15,Ekstraklasa,7,0,0
+273533,jakub,wrabel,14/15,Fortuna Puchar Polski,2,0,0
+273533,jakub,wrabel,13/14,Ekstraklasa,0,0,0

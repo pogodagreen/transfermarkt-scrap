@@ -1,6 +1,6 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-05-05,Lubin II,Zaglebie Lubin,0,0
-20/21,2021-01-01,Miedz Legnica,Lubin II,50000,free transfer
-18/19,2019-02-07,M. Legnica II,Miedz Legnica,0,0
-18/19,2018-07-01,Miedz U19,M. Legnica II,0,0
-17/18,2017-07-01,Dzierzoniow U19,Miedz U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+549982,rafal,adamski,21/22,2022-05-05,Lubin II,Zaglebie Lubin,0,0
+549982,rafal,adamski,20/21,2021-01-01,Miedz Legnica,Lubin II,50000,free transfer
+549982,rafal,adamski,18/19,2019-02-07,M. Legnica II,Miedz Legnica,0,0
+549982,rafal,adamski,18/19,2018-07-01,Miedz U19,M. Legnica II,0,0
+549982,rafal,adamski,17/18,2017-07-01,Dzierzoniow U19,Miedz U19,0,0

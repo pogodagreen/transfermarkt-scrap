@@ -1,10 +1,10 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2021-02-24,Karvina,Widzew Lodz,250000,free transfer
-19/20,2019-07-01,Dukla Prague,Karvina,350000,free transfer
-14/15,2014-07-01,Viktoria Plzen,Dukla Prague,400000,0
-13/14,2014-06-30,Dukla Prague,Viktoria Plzen,400000,End of loan
-13/14,2013-09-04,Viktoria Plzen,Dukla Prague,750000,loan transfer
-11/12,2012-06-30,Dukla Prague,Viktoria Plzen,600000,End of loan
-11/12,2012-02-01,Viktoria Plzen,Dukla Prague,600000,loan transfer
-11/12,2012-01-01,Dukla Prague,Viktoria Plzen,600000,0
-09/10,2009-07-28,SK Slavia U19,Dukla Prague,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+76655,marek,hanousek,20/21,2021-02-24,Karvina,Widzew Lodz,250000,free transfer
+76655,marek,hanousek,19/20,2019-07-01,Dukla Prague,Karvina,350000,free transfer
+76655,marek,hanousek,14/15,2014-07-01,Viktoria Plzen,Dukla Prague,400000,0
+76655,marek,hanousek,13/14,2014-06-30,Dukla Prague,Viktoria Plzen,400000,End of loan
+76655,marek,hanousek,13/14,2013-09-04,Viktoria Plzen,Dukla Prague,750000,loan transfer
+76655,marek,hanousek,11/12,2012-06-30,Dukla Prague,Viktoria Plzen,600000,End of loan
+76655,marek,hanousek,11/12,2012-02-01,Viktoria Plzen,Dukla Prague,600000,loan transfer
+76655,marek,hanousek,11/12,2012-01-01,Dukla Prague,Viktoria Plzen,600000,0
+76655,marek,hanousek,09/10,2009-07-28,SK Slavia U19,Dukla Prague,0,0

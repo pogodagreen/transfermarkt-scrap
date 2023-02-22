@@ -1,25 +1,25 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-327756,jaroslaw-kubicki,22/23,Ekstraklasa,18,1,1380
-327756,jaroslaw-kubicki,22/23,Fortuna Puchar Polski,2,0,195
-327756,jaroslaw-kubicki,22/23,UECL Kwalifikacje,4,0,164
-327756,jaroslaw-kubicki,21/22,Ekstraklasa,30,2,2348
-327756,jaroslaw-kubicki,21/22,Fortuna Puchar Polski,2,0,180
-327756,jaroslaw-kubicki,20/21,Ekstraklasa,28,1,2443
-327756,jaroslaw-kubicki,20/21,Fortuna Puchar Polski,3,0,270
-327756,jaroslaw-kubicki,19/20,Fortuna Puchar Polski,5,0,464
-327756,jaroslaw-kubicki,19/20,Ekstraklasa,27,0,2146
-327756,jaroslaw-kubicki,19/20,Kwalifikacje do Ligi Europy,1,0,90
-327756,jaroslaw-kubicki,19/20,Superpuchar,1,1,90
-327756,jaroslaw-kubicki,18/19,Ekstraklasa,35,4,3104
-327756,jaroslaw-kubicki,18/19,Fortuna Puchar Polski,6,0,570
-327756,jaroslaw-kubicki,17/18,Ekstraklasa,26,1,2206
-327756,jaroslaw-kubicki,17/18,Fortuna Puchar Polski,4,1,360
-327756,jaroslaw-kubicki,16/17,Ekstraklasa,34,1,2932
-327756,jaroslaw-kubicki,16/17,Kwalifikacje do Ligi Europy,6,0,570
-327756,jaroslaw-kubicki,15/16,Ekstraklasa,28,4,2475
-327756,jaroslaw-kubicki,15/16,Fortuna Puchar Polski,3,0,224
-327756,jaroslaw-kubicki,14/15,1 Liga,20,0,1653
-327756,jaroslaw-kubicki,14/15,Fortuna Puchar Polski,1,0,90
-327756,jaroslaw-kubicki,14/15,Fortuna Puchar Polski,1,0,75
-327756,jaroslaw-kubicki,13/14,CLJ - Runda Finałowa,2,0,180
-327756,jaroslaw-kubicki,13/14,Ekstraklasa,2,0,180
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+327756,jaroslaw,kubicki,22/23,Ekstraklasa,19,1,1470
+327756,jaroslaw,kubicki,22/23,Fortuna Puchar Polski,2,0,195
+327756,jaroslaw,kubicki,22/23,UECL Kwalifikacje,4,0,164
+327756,jaroslaw,kubicki,21/22,Ekstraklasa,30,2,2348
+327756,jaroslaw,kubicki,21/22,Fortuna Puchar Polski,2,0,180
+327756,jaroslaw,kubicki,20/21,Ekstraklasa,28,1,2443
+327756,jaroslaw,kubicki,20/21,Fortuna Puchar Polski,3,0,270
+327756,jaroslaw,kubicki,19/20,Fortuna Puchar Polski,5,0,464
+327756,jaroslaw,kubicki,19/20,Ekstraklasa,27,0,2146
+327756,jaroslaw,kubicki,19/20,Kwalifikacje do Ligi Europy,1,0,90
+327756,jaroslaw,kubicki,19/20,Superpuchar,1,1,90
+327756,jaroslaw,kubicki,18/19,Ekstraklasa,35,4,3104
+327756,jaroslaw,kubicki,18/19,Fortuna Puchar Polski,6,0,570
+327756,jaroslaw,kubicki,17/18,Ekstraklasa,26,1,2206
+327756,jaroslaw,kubicki,17/18,Fortuna Puchar Polski,4,1,360
+327756,jaroslaw,kubicki,16/17,Ekstraklasa,34,1,2932
+327756,jaroslaw,kubicki,16/17,Kwalifikacje do Ligi Europy,6,0,570
+327756,jaroslaw,kubicki,15/16,Ekstraklasa,28,4,2475
+327756,jaroslaw,kubicki,15/16,Fortuna Puchar Polski,3,0,224
+327756,jaroslaw,kubicki,14/15,1 Liga,20,0,1653
+327756,jaroslaw,kubicki,14/15,Fortuna Puchar Polski,1,0,90
+327756,jaroslaw,kubicki,14/15,Fortuna Puchar Polski,1,0,75
+327756,jaroslaw,kubicki,13/14,CLJ - Runda Finałowa,2,0,180
+327756,jaroslaw,kubicki,13/14,Ekstraklasa,2,0,180

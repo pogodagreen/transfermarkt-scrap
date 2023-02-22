@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-01,Widzew Lodz,Chrobry Glogow,100000,free transfer
-20/21,2020-08-10,Zaglebie Lubin,Widzew Lodz,50000,free transfer
-19/20,2020-07-31,Gornik Polk.,Zaglebie Lubin,50000,End of loan
-19/20,2019-09-02,Zaglebie Lubin,Gornik Polk.,50000,loan transfer
-18/19,2018-07-20,Lubin II,Zaglebie Lubin,50000,0
-17/18,2017-07-01,Zaglebie Lubin,Lubin II,50000,0
-16/17,2016-07-01,Lubin II,Zaglebie Lubin,0,0
-13/14,2013-07-01,Falubaz U19,Lubin II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+385195,patryk,mucha,22/23,2022-07-01,Widzew Lodz,Chrobry Glogow,100000,free transfer
+385195,patryk,mucha,20/21,2020-08-10,Zaglebie Lubin,Widzew Lodz,50000,free transfer
+385195,patryk,mucha,19/20,2020-07-31,Gornik Polk.,Zaglebie Lubin,50000,End of loan
+385195,patryk,mucha,19/20,2019-09-02,Zaglebie Lubin,Gornik Polk.,50000,loan transfer
+385195,patryk,mucha,18/19,2018-07-20,Lubin II,Zaglebie Lubin,50000,0
+385195,patryk,mucha,17/18,2017-07-01,Zaglebie Lubin,Lubin II,50000,0
+385195,patryk,mucha,16/17,2016-07-01,Lubin II,Zaglebie Lubin,0,0
+385195,patryk,mucha,13/14,2013-07-01,Falubaz U19,Lubin II,0,0

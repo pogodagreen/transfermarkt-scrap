@@ -1,9 +1,9 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-717915,kacper-masiak,22/23,CLJ,6,4,375
-717915,kacper-masiak,22/23,eWinner 2 liga,12,1,455
-717915,kacper-masiak,22/23,Fortuna Puchar Polski,0,0,0
-717915,kacper-masiak,22/23,Liga Młodzieżowa UEFA,2,0,141
-717915,kacper-masiak,21/22,CLJ,10,1,701
-717915,kacper-masiak,21/22,Ekstraklasa,1,0,0
-717915,kacper-masiak,21/22,3 Liga - Grupa III,8,0,367
-717915,kacper-masiak,20/21,CLJ,22,7,1602
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+717915,kacper,masiak,22/23,CLJ,6,4,375
+717915,kacper,masiak,22/23,eWinner 2 liga,12,1,455
+717915,kacper,masiak,22/23,Fortuna Puchar Polski,0,0,0
+717915,kacper,masiak,22/23,Liga Młodzieżowa UEFA,2,0,141
+717915,kacper,masiak,21/22,CLJ,10,1,701
+717915,kacper,masiak,21/22,Ekstraklasa,1,0,0
+717915,kacper,masiak,21/22,3 Liga - Grupa III,8,0,367
+717915,kacper,masiak,20/21,CLJ,22,7,1602

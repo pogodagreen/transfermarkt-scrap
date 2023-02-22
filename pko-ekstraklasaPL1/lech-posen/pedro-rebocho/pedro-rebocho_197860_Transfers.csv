@@ -1,13 +1,13 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-08-23,Guingamp,Lech Poznan,1500000,150000
-20/21,2021-06-30,Paços Ferreira,Guingamp,1500000,End of loan
-20/21,2021-01-12,Guingamp,Paços Ferreira,1400000,loan transfer
-19/20,2020-06-18,Besiktas,Guingamp,1700000,End of loan
-19/20,2019-08-12,Guingamp,Besiktas,6000000,Loan
-17/18,2017-07-02,Benfica,Guingamp,1500000,550000
-17/18,2017-07-01,Moreirense,Benfica,1500000,150000
-16/17,2016-07-02,Benfica B,Moreirense,850000,free transfer
-14/15,2014-07-01,Benfica U19,Benfica B,150000,0
-12/13,2012-07-01,Benfica U17,Benfica U19,0,0
-10/11,2010-07-01,Benfica U15,Benfica U17,0,0
-08/09,2008-07-01,SL Benfica Yout,Benfica U15,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+197860,pedro,rebocho,21/22,2021-08-23,Guingamp,Lech Poznan,1500000,150000
+197860,pedro,rebocho,20/21,2021-06-30,Paços Ferreira,Guingamp,1500000,End of loan
+197860,pedro,rebocho,20/21,2021-01-12,Guingamp,Paços Ferreira,1400000,loan transfer
+197860,pedro,rebocho,19/20,2020-06-18,Besiktas,Guingamp,1700000,End of loan
+197860,pedro,rebocho,19/20,2019-08-12,Guingamp,Besiktas,6000000,Loan
+197860,pedro,rebocho,17/18,2017-07-02,Benfica,Guingamp,1500000,550000
+197860,pedro,rebocho,17/18,2017-07-01,Moreirense,Benfica,1500000,150000
+197860,pedro,rebocho,16/17,2016-07-02,Benfica B,Moreirense,850000,free transfer
+197860,pedro,rebocho,14/15,2014-07-01,Benfica U19,Benfica B,150000,0
+197860,pedro,rebocho,12/13,2012-07-01,Benfica U17,Benfica U19,0,0
+197860,pedro,rebocho,10/11,2010-07-01,Benfica U15,Benfica U17,0,0
+197860,pedro,rebocho,08/09,2008-07-01,SL Benfica Yout,Benfica U15,0,0

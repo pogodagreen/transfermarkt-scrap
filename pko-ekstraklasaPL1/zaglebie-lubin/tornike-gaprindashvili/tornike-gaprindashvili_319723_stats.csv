@@ -1,20 +1,20 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-319723,tornike-gaprindashvili,22/23,Ekstraklasa,16,1,793
-319723,tornike-gaprindashvili,22/23,Fortuna Puchar Polski,2,0,61
-319723,tornike-gaprindashvili,22/23,eWinner 2 liga,1,1,90
-319723,tornike-gaprindashvili,2022,Crystalbet Erovnuli Liga,18,5,725
-319723,tornike-gaprindashvili,21/22,Georgian Super Cup,1,0,120
-319723,tornike-gaprindashvili,21/22,David Kipiani Cup,3,1,147
-319723,tornike-gaprindashvili,21/22,UECL Kwalifikacje,4,0,143
-319723,tornike-gaprindashvili,2021,Crystalbet Erovnuli Liga,22,5,833
-319723,tornike-gaprindashvili,20/21,David Kipiani Cup,1,0,44
-319723,tornike-gaprindashvili,20/21,Kwalifikacje do Ligi Europy,1,0,11
-319723,tornike-gaprindashvili,2020,Crystalbet Erovnuli Liga,13,1,612
-319723,tornike-gaprindashvili,19/20,David Kipiani Cup,0,0,0
-319723,tornike-gaprindashvili,2019,Crystalbet Erovnuli Liga,26,3,574
-319723,tornike-gaprindashvili,18/19,David Kipiani Cup,5,0,487
-319723,tornike-gaprindashvili,2018,Liga 1 Playoff,1,0,80
-319723,tornike-gaprindashvili,2018,Erovnuli Liga 2,6,0,456
-319723,tornike-gaprindashvili,17/18,David Kipiani Cup,0,0,0
-319723,tornike-gaprindashvili,2017,Erovnuli Liga 2,12,1,714
-319723,tornike-gaprindashvili,16/17,David Kipiani Cup,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+319723,tornike,gaprindashvili,22/23,Ekstraklasa,16,1,793
+319723,tornike,gaprindashvili,22/23,Fortuna Puchar Polski,2,0,61
+319723,tornike,gaprindashvili,22/23,eWinner 2 liga,1,1,90
+319723,tornike,gaprindashvili,2022,Crystalbet Erovnuli Liga,18,5,725
+319723,tornike,gaprindashvili,21/22,Georgian Super Cup,1,0,120
+319723,tornike,gaprindashvili,21/22,David Kipiani Cup,3,1,147
+319723,tornike,gaprindashvili,21/22,UECL Kwalifikacje,4,0,143
+319723,tornike,gaprindashvili,2021,Crystalbet Erovnuli Liga,22,5,833
+319723,tornike,gaprindashvili,20/21,David Kipiani Cup,1,0,44
+319723,tornike,gaprindashvili,20/21,Kwalifikacje do Ligi Europy,1,0,11
+319723,tornike,gaprindashvili,2020,Crystalbet Erovnuli Liga,13,1,612
+319723,tornike,gaprindashvili,19/20,David Kipiani Cup,0,0,0
+319723,tornike,gaprindashvili,2019,Crystalbet Erovnuli Liga,26,3,574
+319723,tornike,gaprindashvili,18/19,David Kipiani Cup,5,0,487
+319723,tornike,gaprindashvili,2018,Liga 1 Playoff,1,0,80
+319723,tornike,gaprindashvili,2018,Erovnuli Liga 2,6,0,456
+319723,tornike,gaprindashvili,17/18,David Kipiani Cup,0,0,0
+319723,tornike,gaprindashvili,2017,Erovnuli Liga 2,12,1,714
+319723,tornike,gaprindashvili,16/17,David Kipiani Cup,0,0,0

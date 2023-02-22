@@ -1,24 +1,24 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-194139,fabian-hiszpanski,22/23,Ekstraklasa,18,1,975
-194139,fabian-hiszpanski,22/23,Fortuna Puchar Polski,2,0,146
-194139,fabian-hiszpanski,21/22,Baraze o udzial w Ekstraklasie,1,0,11
-194139,fabian-hiszpanski,21/22,1 Liga,18,1,1080
-194139,fabian-hiszpanski,21/22,Fortuna Puchar Polski,3,0,134
-194139,fabian-hiszpanski,20/21,Baraze o udzial w Ekstraklasie,1,0,90
-194139,fabian-hiszpanski,20/21,1 Liga,15,0,1000
-194139,fabian-hiszpanski,20/21,Fortuna Puchar Polski,2,0,163
-194139,fabian-hiszpanski,20/21,eWinner 2 liga,15,2,1018
-194139,fabian-hiszpanski,20/21,Fortuna Puchar Polski,1,0,63
-194139,fabian-hiszpanski,19/20,3 Liga - Grupa II,11,1,795
-194139,fabian-hiszpanski,18/19,Fortuna 1 Liga,9,0,235
-194139,fabian-hiszpanski,16/17,Nice 1 Liga,19,0,1624
-194139,fabian-hiszpanski,15/16,1 Liga,13,0,386
-194139,fabian-hiszpanski,15/16,Ekstraklasa,5,0,105
-194139,fabian-hiszpanski,15/16,Fortuna Puchar Polski,1,1,120
-194139,fabian-hiszpanski,14/15,1 Liga,30,3,2517
-194139,fabian-hiszpanski,14/15,Fortuna Puchar Polski,2,0,125
-194139,fabian-hiszpanski,13/14,1 Liga,27,0,2160
-194139,fabian-hiszpanski,12/13,2 Liga - Grupa wschodnia,32,1,2157
-194139,fabian-hiszpanski,12/13,Fortuna Puchar Polski,2,0,89
-194139,fabian-hiszpanski,11/12,1 Liga,12,0,550
-194139,fabian-hiszpanski,11/12,Fortuna Puchar Polski,1,0,6
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+194139,fabian,hiszpanski,22/23,Ekstraklasa,18,1,975
+194139,fabian,hiszpanski,22/23,Fortuna Puchar Polski,2,0,146
+194139,fabian,hiszpanski,21/22,Baraze o udzial w Ekstraklasie,1,0,11
+194139,fabian,hiszpanski,21/22,1 Liga,18,1,1080
+194139,fabian,hiszpanski,21/22,Fortuna Puchar Polski,3,0,134
+194139,fabian,hiszpanski,20/21,Baraze o udzial w Ekstraklasie,1,0,90
+194139,fabian,hiszpanski,20/21,1 Liga,15,0,1000
+194139,fabian,hiszpanski,20/21,Fortuna Puchar Polski,2,0,163
+194139,fabian,hiszpanski,20/21,eWinner 2 liga,15,2,1018
+194139,fabian,hiszpanski,20/21,Fortuna Puchar Polski,1,0,63
+194139,fabian,hiszpanski,19/20,3 Liga - Grupa II,11,1,795
+194139,fabian,hiszpanski,18/19,Fortuna 1 Liga,9,0,235
+194139,fabian,hiszpanski,16/17,Nice 1 Liga,19,0,1624
+194139,fabian,hiszpanski,15/16,1 Liga,13,0,386
+194139,fabian,hiszpanski,15/16,Ekstraklasa,5,0,105
+194139,fabian,hiszpanski,15/16,Fortuna Puchar Polski,1,1,120
+194139,fabian,hiszpanski,14/15,1 Liga,30,3,2517
+194139,fabian,hiszpanski,14/15,Fortuna Puchar Polski,2,0,125
+194139,fabian,hiszpanski,13/14,1 Liga,27,0,2160
+194139,fabian,hiszpanski,12/13,2 Liga - Grupa wschodnia,32,1,2157
+194139,fabian,hiszpanski,12/13,Fortuna Puchar Polski,2,0,89
+194139,fabian,hiszpanski,11/12,1 Liga,12,0,550
+194139,fabian,hiszpanski,11/12,Fortuna Puchar Polski,1,0,6

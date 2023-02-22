@@ -1,23 +1,23 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-208591,petr-schwarz,22/23,Ekstraklasa,16,2,1300
-208591,petr-schwarz,22/23,Fortuna Puchar Polski,3,0,192
-208591,petr-schwarz,21/22,Ekstraklasa,31,2,2433
-208591,petr-schwarz,21/22,Fortuna Puchar Polski,1,0,7
-208591,petr-schwarz,21/22,UECL Kwalifikacje,4,0,207
-208591,petr-schwarz,20/21,Ekstraklasa,27,4,1545
-208591,petr-schwarz,20/21,Fortuna Puchar Polski,3,0,105
-208591,petr-schwarz,19/20,Ekstraklasa,34,8,2906
-208591,petr-schwarz,19/20,Fortuna Puchar Polski,2,0,137
-208591,petr-schwarz,18/19,Fortuna 1 Liga,32,1,2709
-208591,petr-schwarz,18/19,Fortuna Puchar Polski,5,2,477
-208591,petr-schwarz,17/18,FNL,24,5,1796
-208591,petr-schwarz,17/18,MOL Cup,3,1,248
-208591,petr-schwarz,16/17,ePojisteni.cz Li,23,4,1481
-208591,petr-schwarz,16/17,MOL Cup,3,2,196
-208591,petr-schwarz,15/16,FNL,20,3,1111
-208591,petr-schwarz,15/16,MOL Cup,5,0,334
-208591,petr-schwarz,14/15,Synot Liga,3,0,189
-208591,petr-schwarz,13/14,FNL,7,0,496
-208591,petr-schwarz,13/14,MOL Cup,1,0,69
-208591,petr-schwarz,12/13,Gambrinus Liga,13,1,785
-208591,petr-schwarz,11/12,Gambrinus Liga,4,0,105
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+208591,petr,schwarz,22/23,Ekstraklasa,16,2,1300
+208591,petr,schwarz,22/23,Fortuna Puchar Polski,3,0,192
+208591,petr,schwarz,21/22,Ekstraklasa,31,2,2433
+208591,petr,schwarz,21/22,Fortuna Puchar Polski,1,0,7
+208591,petr,schwarz,21/22,UECL Kwalifikacje,4,0,207
+208591,petr,schwarz,20/21,Ekstraklasa,27,4,1545
+208591,petr,schwarz,20/21,Fortuna Puchar Polski,3,0,105
+208591,petr,schwarz,19/20,Ekstraklasa,34,8,2906
+208591,petr,schwarz,19/20,Fortuna Puchar Polski,2,0,137
+208591,petr,schwarz,18/19,Fortuna 1 Liga,32,1,2709
+208591,petr,schwarz,18/19,Fortuna Puchar Polski,5,2,477
+208591,petr,schwarz,17/18,FNL,24,5,1796
+208591,petr,schwarz,17/18,MOL Cup,3,1,248
+208591,petr,schwarz,16/17,ePojisteni.cz Li,23,4,1481
+208591,petr,schwarz,16/17,MOL Cup,3,2,196
+208591,petr,schwarz,15/16,FNL,20,3,1111
+208591,petr,schwarz,15/16,MOL Cup,5,0,334
+208591,petr,schwarz,14/15,Synot Liga,3,0,189
+208591,petr,schwarz,13/14,FNL,7,0,496
+208591,petr,schwarz,13/14,MOL Cup,1,0,69
+208591,petr,schwarz,12/13,Gambrinus Liga,13,1,785
+208591,petr,schwarz,11/12,Gambrinus Liga,4,0,105

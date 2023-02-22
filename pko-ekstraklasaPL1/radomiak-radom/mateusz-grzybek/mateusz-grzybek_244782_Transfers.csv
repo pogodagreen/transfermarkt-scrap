@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-09,Radomiak,Zaglebie Lubin,550000,250000
-22/23,2022-07-01,Termalica,Radomiak,300000,100000
-19/20,2019-07-01,GKS Tychy,Termalica,75000,free transfer
-13/14,2013-08-02,GKS Tychy U19,GKS Tychy,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+244782,mateusz,grzybek,22/23,2023-01-09,Radomiak,Zaglebie Lubin,550000,250000
+244782,mateusz,grzybek,22/23,2022-07-01,Termalica,Radomiak,300000,100000
+244782,mateusz,grzybek,19/20,2019-07-01,GKS Tychy,Termalica,75000,free transfer
+244782,mateusz,grzybek,13/14,2013-08-02,GKS Tychy U19,GKS Tychy,0,0

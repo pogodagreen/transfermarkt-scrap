@@ -1,3 +1,3 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-05-19,M. Legnica II,Miedz Legnica,0,0
-21/22,2021-07-01,Miedz U19,M. Legnica II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+830012,kacper,klimkiewicz,21/22,2022-05-19,M. Legnica II,Miedz Legnica,0,0
+830012,kacper,klimkiewicz,21/22,2021-07-01,Miedz U19,M. Legnica II,0,0

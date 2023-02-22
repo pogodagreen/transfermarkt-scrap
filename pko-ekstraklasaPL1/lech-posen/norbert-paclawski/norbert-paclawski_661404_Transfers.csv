@@ -1,3 +1,3 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2021-01-27,Lech Poznan II,Lech Poznan,0,0
-20/21,2020-08-07,Lech Academy,Lech Poznan II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+661404,norbert,paclawski,20/21,2021-01-27,Lech Poznan II,Lech Poznan,0,0
+661404,norbert,paclawski,20/21,2020-08-07,Lech Academy,Lech Poznan II,0,0

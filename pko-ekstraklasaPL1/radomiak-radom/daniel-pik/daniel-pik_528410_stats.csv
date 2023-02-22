@@ -1,14 +1,14 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-528410,daniel-pik,22/23,Ekstraklasa,14,0,442
-528410,daniel-pik,21/22,3 Liga - Grupa IV,7,1,379
-528410,daniel-pik,20/21,3 Liga - Grupa IV,7,3,554
-528410,daniel-pik,20/21,Ekstraklasa,9,0,311
-528410,daniel-pik,20/21,Fortuna Puchar Polski,3,2,133
-528410,daniel-pik,19/20,Fortuna Puchar Polski,0,0,0
-528410,daniel-pik,19/20,Ekstraklasa,4,0,45
-528410,daniel-pik,18/19,CLJ,14,9,1124
-528410,daniel-pik,18/19,Ekstraklasa,4,0,55
-528410,daniel-pik,17/18,CLJ - Runda Finałowa,4,0,317
-528410,daniel-pik,17/18,CLJ - Grupa Wschodnia,10,7,870
-528410,daniel-pik,17/18,Ekstraklasa,3,0,109
-528410,daniel-pik,17/18,CLJ - Grupa Wschodnia,15,6,1215
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+528410,daniel,pik,22/23,Ekstraklasa,14,0,442
+528410,daniel,pik,21/22,3 Liga - Grupa IV,7,1,379
+528410,daniel,pik,20/21,3 Liga - Grupa IV,7,3,554
+528410,daniel,pik,20/21,Ekstraklasa,9,0,311
+528410,daniel,pik,20/21,Fortuna Puchar Polski,3,2,133
+528410,daniel,pik,19/20,Fortuna Puchar Polski,0,0,0
+528410,daniel,pik,19/20,Ekstraklasa,4,0,45
+528410,daniel,pik,18/19,CLJ,14,9,1124
+528410,daniel,pik,18/19,Ekstraklasa,4,0,55
+528410,daniel,pik,17/18,CLJ - Runda Finałowa,4,0,317
+528410,daniel,pik,17/18,CLJ - Grupa Wschodnia,10,7,870
+528410,daniel,pik,17/18,Ekstraklasa,3,0,109
+528410,daniel,pik,17/18,CLJ - Grupa Wschodnia,15,6,1215

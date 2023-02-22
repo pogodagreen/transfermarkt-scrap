@@ -1,22 +1,22 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-345452,bartosz-mrozek,22/23,Ekstraklasa,20,0,8
-345452,bartosz-mrozek,21/22,Ekstraklasa,2,0,0
-345452,bartosz-mrozek,21/22,eWinner 2 liga,21,0,5
-345452,bartosz-mrozek,21/22,Ekstraklasa,0,0,0
-345452,bartosz-mrozek,21/22,Fortuna Puchar Polski,2,0,2
-345452,bartosz-mrozek,20/21,eWinner 2 liga,31,0,7
-345452,bartosz-mrozek,20/21,Fortuna Puchar Polski,0,0,0
-345452,bartosz-mrozek,19/20,Baraże o udział w 1 lidze,1,0,0
-345452,bartosz-mrozek,19/20,eWinner 2 liga,31,0,7
-345452,bartosz-mrozek,19/20,Fortuna Puchar Polski,2,0,1
-345452,bartosz-mrozek,18/19,eWinner 2 liga,12,0,3
-345452,bartosz-mrozek,18/19,CLJ,2,0,1
-345452,bartosz-mrozek,18/19,Fortuna Puchar Polski,1,0,0
-345452,bartosz-mrozek,17/18,CLJ - Runda Finałowa,4,0,2
-345452,bartosz-mrozek,17/18,CLJ - Grupa Zachodnia,8,0,2
-345452,bartosz-mrozek,17/18,3 Liga - Grupa II,16,0,4
-345452,bartosz-mrozek,17/18,Ekstraklasa,0,0,0
-345452,bartosz-mrozek,16/17,CLJ - Runda Finałowa,2,0,0
-345452,bartosz-mrozek,16/17,CLJ - Grupa Zachodnia,17,0,9
-345452,bartosz-mrozek,16/17,3 Liga - Grupa II,4,0,1
-345452,bartosz-mrozek,15/16,CLJ - Grupa Zachodnia,7,0,3
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+345452,bartosz,mrozek,22/23,Ekstraklasa,21,0,8
+345452,bartosz,mrozek,21/22,Ekstraklasa,2,0,0
+345452,bartosz,mrozek,21/22,eWinner 2 liga,21,0,5
+345452,bartosz,mrozek,21/22,Ekstraklasa,0,0,0
+345452,bartosz,mrozek,21/22,Fortuna Puchar Polski,2,0,2
+345452,bartosz,mrozek,20/21,eWinner 2 liga,31,0,7
+345452,bartosz,mrozek,20/21,Fortuna Puchar Polski,0,0,0
+345452,bartosz,mrozek,19/20,Baraże o udział w 1 lidze,1,0,0
+345452,bartosz,mrozek,19/20,eWinner 2 liga,31,0,7
+345452,bartosz,mrozek,19/20,Fortuna Puchar Polski,2,0,1
+345452,bartosz,mrozek,18/19,eWinner 2 liga,12,0,3
+345452,bartosz,mrozek,18/19,CLJ,2,0,1
+345452,bartosz,mrozek,18/19,Fortuna Puchar Polski,1,0,0
+345452,bartosz,mrozek,17/18,CLJ - Runda Finałowa,4,0,2
+345452,bartosz,mrozek,17/18,CLJ - Grupa Zachodnia,8,0,2
+345452,bartosz,mrozek,17/18,3 Liga - Grupa II,16,0,4
+345452,bartosz,mrozek,17/18,Ekstraklasa,0,0,0
+345452,bartosz,mrozek,16/17,CLJ - Runda Finałowa,2,0,0
+345452,bartosz,mrozek,16/17,CLJ - Grupa Zachodnia,17,0,9
+345452,bartosz,mrozek,16/17,3 Liga - Grupa II,4,0,1
+345452,bartosz,mrozek,15/16,CLJ - Grupa Zachodnia,7,0,3

@@ -1,15 +1,15 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Lech Poznan,Sparta Prague,500000,End of loan
-22/23,2023-01-03,Sparta Prague,Lech Poznan,500000,loan transfer
-20/21,2021-06-30,Rakow,Sparta Prague,500000,End of loan
-20/21,2021-01-16,Sparta Prague,Rakow,300000,loan transfer
-20/21,2020-08-03,MSK Zilina,Sparta Prague,400000,free transfer
-17/18,2018-06-30,FK Senica,MSK Zilina,100000,End of loan
-17/18,2018-01-29,MSK Zilina,FK Senica,100000,loan transfer
-16/17,2017-06-30,Zlate Moravce,MSK Zilina,50000,End of loan
-16/17,2017-01-23,MSK Zilina,Zlate Moravce,25000,loan transfer
-15/16,2016-06-30,Pohronie,MSK Zilina B,25000,End of loan
-15/16,2016-02-25,MSK Zilina B,Pohronie,25000,loan transfer
-15/16,2015-12-31,Teplicka nad V.,MSK Zilina B,25000,End of loan
-15/16,2015-08-01,MSK Zilina B,Teplicka nad V.,25000,loan transfer
-11/12,2012-01-01,MSK Zilina U19,MSK Zilina B,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+181611,dominik,holec,22/23,2023-06-30,Lech Poznan,Sparta Prague,500000,End of loan
+181611,dominik,holec,22/23,2023-01-03,Sparta Prague,Lech Poznan,500000,loan transfer
+181611,dominik,holec,20/21,2021-06-30,Rakow,Sparta Prague,500000,End of loan
+181611,dominik,holec,20/21,2021-01-16,Sparta Prague,Rakow,300000,loan transfer
+181611,dominik,holec,20/21,2020-08-03,MSK Zilina,Sparta Prague,400000,free transfer
+181611,dominik,holec,17/18,2018-06-30,FK Senica,MSK Zilina,100000,End of loan
+181611,dominik,holec,17/18,2018-01-29,MSK Zilina,FK Senica,100000,loan transfer
+181611,dominik,holec,16/17,2017-06-30,Zlate Moravce,MSK Zilina,50000,End of loan
+181611,dominik,holec,16/17,2017-01-23,MSK Zilina,Zlate Moravce,25000,loan transfer
+181611,dominik,holec,15/16,2016-06-30,Pohronie,MSK Zilina B,25000,End of loan
+181611,dominik,holec,15/16,2016-02-25,MSK Zilina B,Pohronie,25000,loan transfer
+181611,dominik,holec,15/16,2015-12-31,Teplicka nad V.,MSK Zilina B,25000,End of loan
+181611,dominik,holec,15/16,2015-08-01,MSK Zilina B,Teplicka nad V.,25000,loan transfer
+181611,dominik,holec,11/12,2012-01-01,MSK Zilina U19,MSK Zilina B,0,0

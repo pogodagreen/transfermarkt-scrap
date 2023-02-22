@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-22,Warta Poznan,FC Rapid 1923,250000,200000
-21/22,2021-08-31,Amiens SC,Warta Poznan,600000,0
-19/20,2020-06-30,FC Chambly Oise,Amiens SC,150000,End of loan
-19/20,2020-01-02,Amiens SC,FC Chambly Oise,150000,loan transfer
-19/20,2019-07-01,Ste. Geneviève,Amiens SC,0,free transfer
-18/19,2018-07-01,Le Mée Sports,Ste. Geneviève,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+665525,jayson,papeau,22/23,2022-07-22,Warta Poznan,FC Rapid 1923,250000,200000
+665525,jayson,papeau,21/22,2021-08-31,Amiens SC,Warta Poznan,600000,0
+665525,jayson,papeau,19/20,2020-06-30,FC Chambly Oise,Amiens SC,150000,End of loan
+665525,jayson,papeau,19/20,2020-01-02,Amiens SC,FC Chambly Oise,150000,loan transfer
+665525,jayson,papeau,19/20,2019-07-01,Ste. Geneviève,Amiens SC,0,free transfer
+665525,jayson,papeau,18/19,2018-07-01,Le Mée Sports,Ste. Geneviève,0,free transfer

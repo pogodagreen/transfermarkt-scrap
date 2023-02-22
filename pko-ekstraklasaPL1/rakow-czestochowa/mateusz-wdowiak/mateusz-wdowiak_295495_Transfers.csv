@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2021-02-15,Cracovia,Rakow,300000,0
-16/17,2017-06-30,Sandecja,Cracovia,200000,End of loan
-16/17,2017-01-16,Cracovia,Sandecja,250000,loan transfer
-13/14,2013-07-01,Cracovia U19,Cracovia,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+295495,mateusz,wdowiak,20/21,2021-02-15,Cracovia,Rakow,300000,0
+295495,mateusz,wdowiak,16/17,2017-06-30,Sandecja,Cracovia,200000,End of loan
+295495,mateusz,wdowiak,16/17,2017-01-16,Cracovia,Sandecja,250000,loan transfer
+295495,mateusz,wdowiak,13/14,2013-07-01,Cracovia U19,Cracovia,0,0

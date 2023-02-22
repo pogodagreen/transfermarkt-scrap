@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-01-01,Wisla Kraków,Lechia Gdansk,100000,free transfer
-14/15,2014-07-01,Ruch Chorzow,Wisla Kraków,250000,free transfer
-13/14,2013-08-30,Lechia Gdansk,Ruch Chorzow,200000,free transfer
-11/12,2011-07-01,Odra Wodzislaw,Lechia Gdansk,250000,free transfer
-08/09,2008-07-01,ROW Rybnik,Odra Wodzislaw,0,20000
-06/07,2006-07-01,ROW Rybnik U19,ROW Rybnik,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+77002,michal,buchalik,21/22,2022-01-01,Wisla Kraków,Lechia Gdansk,100000,free transfer
+77002,michal,buchalik,14/15,2014-07-01,Ruch Chorzow,Wisla Kraków,250000,free transfer
+77002,michal,buchalik,13/14,2013-08-30,Lechia Gdansk,Ruch Chorzow,200000,free transfer
+77002,michal,buchalik,11/12,2011-07-01,Odra Wodzislaw,Lechia Gdansk,250000,free transfer
+77002,michal,buchalik,08/09,2008-07-01,ROW Rybnik,Odra Wodzislaw,0,20000
+77002,michal,buchalik,06/07,2006-07-01,ROW Rybnik U19,ROW Rybnik,0,0

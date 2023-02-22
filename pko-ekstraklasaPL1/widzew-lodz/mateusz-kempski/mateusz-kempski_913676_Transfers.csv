@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-09-29,Widzew II,Widzew Lodz,0,0
-22/23,2022-09-01,Belchatow II,Widzew II,0,0
-21/22,2021-07-29,Belchatow II,GKS Belchatow,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+913676,mateusz,kempski,22/23,2022-09-29,Widzew II,Widzew Lodz,0,0
+913676,mateusz,kempski,22/23,2022-09-01,Belchatow II,Widzew II,0,0
+913676,mateusz,kempski,21/22,2021-07-29,Belchatow II,GKS Belchatow,0,0

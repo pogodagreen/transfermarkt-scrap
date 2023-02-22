@@ -1,6 +1,6 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-555069,michal-samborski,22/23,CLJ,6,2,513
-555069,michal-samborski,22/23,3 Liga - Grupa I,10,3,605
-555069,michal-samborski,21/22,3 Liga - Grupa I,20,5,855
-555069,michal-samborski,21/22,CLJ,9,2,506
-555069,michal-samborski,20/21,CLJ,15,7,908
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+555069,michal,samborski,22/23,CLJ,6,2,513
+555069,michal,samborski,22/23,3 Liga - Grupa I,10,3,605
+555069,michal,samborski,21/22,3 Liga - Grupa I,20,5,855
+555069,michal,samborski,21/22,CLJ,9,2,506
+555069,michal,samborski,20/21,CLJ,15,7,908

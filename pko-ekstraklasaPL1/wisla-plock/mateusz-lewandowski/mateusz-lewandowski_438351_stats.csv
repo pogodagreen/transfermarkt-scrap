@@ -1,18 +1,18 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-438351,mateusz-lewandowski,22/23,Ekstraklasa,11,2,432
-438351,mateusz-lewandowski,22/23,Fortuna Puchar Polski,1,0,33
-438351,mateusz-lewandowski,21/22,Baraże o udział w 1 lidze,1,0,90
-438351,mateusz-lewandowski,21/22,eWinner 2 liga,12,9,956
-438351,mateusz-lewandowski,21/22,1 Liga,14,0,397
-438351,mateusz-lewandowski,21/22,Fortuna Puchar Polski,2,1,104
-438351,mateusz-lewandowski,20/21,Ekstraklasa,16,1,540
-438351,mateusz-lewandowski,20/21,Fortuna Puchar Polski,1,1,85
-438351,mateusz-lewandowski,19/20,Regionalliga Nordost,19,6,1145
-438351,mateusz-lewandowski,19/20,Berliner Pokal,4,5,224
-438351,mateusz-lewandowski,18/19,Regionalliga Nordost,20,0,877
-438351,mateusz-lewandowski,18/19,Berliner Pokal,3,3,73
-438351,mateusz-lewandowski,18/19,DFB-Pokal,1,0,90
-438351,mateusz-lewandowski,17/18,DFB-Jun.-Pokal,1,0,0
-438351,mateusz-lewandowski,16/17,U19-BL S/SW,11,1,444
-438351,mateusz-lewandowski,16/17,DFB-Pokal der Junioren,0,0,0
-438351,mateusz-lewandowski,15/16,U17-BL S/SW,2,1,124
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+438351,mateusz,lewandowski,22/23,Ekstraklasa,12,2,451
+438351,mateusz,lewandowski,22/23,Fortuna Puchar Polski,1,0,33
+438351,mateusz,lewandowski,21/22,Baraże o udział w 1 lidze,1,0,90
+438351,mateusz,lewandowski,21/22,eWinner 2 liga,12,9,956
+438351,mateusz,lewandowski,21/22,1 Liga,14,0,397
+438351,mateusz,lewandowski,21/22,Fortuna Puchar Polski,2,1,104
+438351,mateusz,lewandowski,20/21,Ekstraklasa,16,1,540
+438351,mateusz,lewandowski,20/21,Fortuna Puchar Polski,1,1,85
+438351,mateusz,lewandowski,19/20,Regionalliga Nordost,19,6,1145
+438351,mateusz,lewandowski,19/20,Berliner Pokal,4,5,224
+438351,mateusz,lewandowski,18/19,Regionalliga Nordost,20,0,877
+438351,mateusz,lewandowski,18/19,Berliner Pokal,3,3,73
+438351,mateusz,lewandowski,18/19,DFB-Pokal,1,0,90
+438351,mateusz,lewandowski,17/18,DFB-Jun.-Pokal,1,0,0
+438351,mateusz,lewandowski,16/17,U19-BL S/SW,11,1,444
+438351,mateusz,lewandowski,16/17,DFB-Pokal der Junioren,0,0,0
+438351,mateusz,lewandowski,15/16,U17-BL S/SW,2,1,124

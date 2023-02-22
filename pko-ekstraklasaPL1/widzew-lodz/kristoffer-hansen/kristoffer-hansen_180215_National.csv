@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-180215,kristoffer-hansen,1994,Norway,"1,80",Attacking Midfield,0,4,0,0,0,0,3,0
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+180215,kristoffer,hansen,1994,Norway,"1,80",Attacking Midfield,0,4,0,0,0,0,3,0

@@ -1,8 +1,8 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2020-08-01,Chrobry Glogow,Slask Wroclaw,100000,free transfer
-19/20,2019-07-15,Odra Opole,Chrobry Glogow,75000,free transfer
-18/19,2018-07-01,Bytovia Bytow,Odra Opole,50000,free transfer
-16/17,2016-07-21,Dundee United,Bytovia Bytow,250000,free transfer
-14/15,2014-07-31,Arka Gdynia,Dundee United,200000,free transfer
-10/11,2010-07-01,Arka Gdynia II,Arka Gdynia,0,0
-09/10,2009-07-01,Gedania Gdansk,Arka Gdynia II,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+181135,michal,szromnik,20/21,2020-08-01,Chrobry Glogow,Slask Wroclaw,100000,free transfer
+181135,michal,szromnik,19/20,2019-07-15,Odra Opole,Chrobry Glogow,75000,free transfer
+181135,michal,szromnik,18/19,2018-07-01,Bytovia Bytow,Odra Opole,50000,free transfer
+181135,michal,szromnik,16/17,2016-07-21,Dundee United,Bytovia Bytow,250000,free transfer
+181135,michal,szromnik,14/15,2014-07-31,Arka Gdynia,Dundee United,200000,free transfer
+181135,michal,szromnik,10/11,2010-07-01,Arka Gdynia II,Arka Gdynia,0,0
+181135,michal,szromnik,09/10,2009-07-01,Gedania Gdansk,Arka Gdynia II,0,free transfer

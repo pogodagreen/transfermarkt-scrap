@@ -1,26 +1,26 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-258032,yuri-ribeiro,22/23,Ekstraklasa,11,1,659
-258032,yuri-ribeiro,22/23,Fortuna Puchar Polski,2,0,210
-258032,yuri-ribeiro,21/22,Ekstraklasa,12,0,809
-258032,yuri-ribeiro,21/22,Liga Europy,3,0,270
-258032,yuri-ribeiro,21/22,Fortuna Puchar Polski,3,0,225
-258032,yuri-ribeiro,21/22,3 Liga - Grupa I,1,0,90
-258032,yuri-ribeiro,20/21,Championship,25,1,2185
-258032,yuri-ribeiro,20/21,EFL Cup,1,0,90
-258032,yuri-ribeiro,19/20,Championship,27,0,2391
-258032,yuri-ribeiro,19/20,FA Cup,1,0,90
-258032,yuri-ribeiro,19/20,EFL Cup,3,0,258
-258032,yuri-ribeiro,18/19,Liga NOS,0,0,0
-258032,yuri-ribeiro,18/19,Liga Europy,2,0,135
-258032,yuri-ribeiro,18/19,Allianz Cup,3,0,270
-258032,yuri-ribeiro,18/19,Taça de Portugal,2,0,180
-258032,yuri-ribeiro,17/18,Liga NOS,25,1,2169
-258032,yuri-ribeiro,17/18,Taça de Portugal,3,0,295
-258032,yuri-ribeiro,17/18,Taça CTT,1,0,90
-258032,yuri-ribeiro,16/17,Ledman LigaPro,30,0,2692
-258032,yuri-ribeiro,16/17,Allianz Cup,1,0,90
-258032,yuri-ribeiro,16/17,Taça de Portugal,1,0,90
-258032,yuri-ribeiro,15/16,Ledman LigaPro,16,0,1407
-258032,yuri-ribeiro,15/16,Liga Młodzieżowa UEFA,6,0,481
-258032,yuri-ribeiro,14/15,Liga Sabseg,1,0,90
-258032,yuri-ribeiro,14/15,Liga Młodzieżowa UEFA,8,0,750
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+258032,yuri,ribeiro,22/23,Ekstraklasa,12,1,749
+258032,yuri,ribeiro,22/23,Fortuna Puchar Polski,2,0,210
+258032,yuri,ribeiro,21/22,Ekstraklasa,12,0,809
+258032,yuri,ribeiro,21/22,Liga Europy,3,0,270
+258032,yuri,ribeiro,21/22,Fortuna Puchar Polski,3,0,225
+258032,yuri,ribeiro,21/22,3 Liga - Grupa I,1,0,90
+258032,yuri,ribeiro,20/21,Championship,25,1,2185
+258032,yuri,ribeiro,20/21,EFL Cup,1,0,90
+258032,yuri,ribeiro,19/20,Championship,27,0,2391
+258032,yuri,ribeiro,19/20,FA Cup,1,0,90
+258032,yuri,ribeiro,19/20,EFL Cup,3,0,258
+258032,yuri,ribeiro,18/19,Liga NOS,0,0,0
+258032,yuri,ribeiro,18/19,Liga Europy,2,0,135
+258032,yuri,ribeiro,18/19,Allianz Cup,3,0,270
+258032,yuri,ribeiro,18/19,Taça de Portugal,2,0,180
+258032,yuri,ribeiro,17/18,Liga NOS,25,1,2169
+258032,yuri,ribeiro,17/18,Taça de Portugal,3,0,295
+258032,yuri,ribeiro,17/18,Taça CTT,1,0,90
+258032,yuri,ribeiro,16/17,Ledman LigaPro,30,0,2692
+258032,yuri,ribeiro,16/17,Allianz Cup,1,0,90
+258032,yuri,ribeiro,16/17,Taça de Portugal,1,0,90
+258032,yuri,ribeiro,15/16,Ledman LigaPro,16,0,1407
+258032,yuri,ribeiro,15/16,Liga Młodzieżowa UEFA,6,0,481
+258032,yuri,ribeiro,14/15,Liga Sabseg,1,0,90
+258032,yuri,ribeiro,14/15,Liga Młodzieżowa UEFA,8,0,750

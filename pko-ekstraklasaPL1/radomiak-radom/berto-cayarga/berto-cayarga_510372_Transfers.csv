@@ -1,8 +1,8 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-03,Without Club,Radomiak,400000,0
-22/23,2022-07-01,FC Cartagena,Without Club,500000,0
-19/20,2020-01-31,Racing,FC Cartagena,400000,free transfer
-18/19,2018-08-07,Sporting B,Racing,300000,free transfer
-16/17,2016-07-01,Sporting U19,Sporting B,0,0
-15/16,2016-06-30,UP Langreo,Sporting U19,0,End of loan
-15/16,2015-07-01,Sporting U19,UP Langreo,0,loan transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+510372,berto,cayarga,22/23,2023-01-03,Without Club,Radomiak,400000,0
+510372,berto,cayarga,22/23,2022-07-01,FC Cartagena,Without Club,500000,0
+510372,berto,cayarga,19/20,2020-01-31,Racing,FC Cartagena,400000,free transfer
+510372,berto,cayarga,18/19,2018-08-07,Sporting B,Racing,300000,free transfer
+510372,berto,cayarga,16/17,2016-07-01,Sporting U19,Sporting B,0,0
+510372,berto,cayarga,15/16,2016-06-30,UP Langreo,Sporting U19,0,End of loan
+510372,berto,cayarga,15/16,2015-07-01,Sporting U19,UP Langreo,0,loan transfer

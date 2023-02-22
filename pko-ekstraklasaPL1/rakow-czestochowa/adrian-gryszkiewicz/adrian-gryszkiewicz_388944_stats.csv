@@ -1,19 +1,19 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-388944,adrian-gryszkiewicz,22/23,Ekstraklasa,0,0,0
-388944,adrian-gryszkiewicz,22/23,DFB-Pokal,1,0,27
-388944,adrian-gryszkiewicz,21/22,Ekstraklasa,22,1,1970
-388944,adrian-gryszkiewicz,21/22,Fortuna Puchar Polski,3,0,233
-388944,adrian-gryszkiewicz,20/21,Ekstraklasa,27,0,2402
-388944,adrian-gryszkiewicz,20/21,Fortuna Puchar Polski,2,0,178
-388944,adrian-gryszkiewicz,19/20,Ekstraklasa,1,0,90
-388944,adrian-gryszkiewicz,19/20,3 Liga - Grupa III,4,0,360
-388944,adrian-gryszkiewicz,18/19,Ekstraklasa,22,0,1740
-388944,adrian-gryszkiewicz,18/19,3 Liga - Grupa III,4,0,340
-388944,adrian-gryszkiewicz,18/19,Fortuna Puchar Polski,2,0,164
-388944,adrian-gryszkiewicz,18/19,Kwalifikacje do Ligi Europy,4,0,360
-388944,adrian-gryszkiewicz,17/18,Ekstraklasa,9,0,793
-388944,adrian-gryszkiewicz,17/18,3 Liga - Grupa III,1,0,90
-388944,adrian-gryszkiewicz,17/18,Fortuna Puchar Polski,2,0,149
-388944,adrian-gryszkiewicz,17/18,CLJ - Grupa Zachodnia,1,0,90
-388944,adrian-gryszkiewicz,16/17,CLJ - Grupa Zachodnia,28,3,2520
-388944,adrian-gryszkiewicz,15/16,CLJ - Grupa Zachodnia,26,0,2157
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+388944,adrian,gryszkiewicz,22/23,Ekstraklasa,0,0,0
+388944,adrian,gryszkiewicz,22/23,DFB-Pokal,1,0,27
+388944,adrian,gryszkiewicz,21/22,Ekstraklasa,22,1,1970
+388944,adrian,gryszkiewicz,21/22,Fortuna Puchar Polski,3,0,233
+388944,adrian,gryszkiewicz,20/21,Ekstraklasa,27,0,2402
+388944,adrian,gryszkiewicz,20/21,Fortuna Puchar Polski,2,0,178
+388944,adrian,gryszkiewicz,19/20,Ekstraklasa,1,0,90
+388944,adrian,gryszkiewicz,19/20,3 Liga - Grupa III,4,0,360
+388944,adrian,gryszkiewicz,18/19,Ekstraklasa,22,0,1740
+388944,adrian,gryszkiewicz,18/19,3 Liga - Grupa III,4,0,340
+388944,adrian,gryszkiewicz,18/19,Fortuna Puchar Polski,2,0,164
+388944,adrian,gryszkiewicz,18/19,Kwalifikacje do Ligi Europy,4,0,360
+388944,adrian,gryszkiewicz,17/18,Ekstraklasa,9,0,793
+388944,adrian,gryszkiewicz,17/18,3 Liga - Grupa III,1,0,90
+388944,adrian,gryszkiewicz,17/18,Fortuna Puchar Polski,2,0,149
+388944,adrian,gryszkiewicz,17/18,CLJ - Grupa Zachodnia,1,0,90
+388944,adrian,gryszkiewicz,16/17,CLJ - Grupa Zachodnia,28,3,2520
+388944,adrian,gryszkiewicz,15/16,CLJ - Grupa Zachodnia,26,0,2157

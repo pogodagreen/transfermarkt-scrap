@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-18/19,2019-01-21,Wisla Kraków,Jagiellonia,550000,100000
-17/18,2017-08-31,Cádiz CF,Wisla Kraków,300000,free transfer
-16/17,2017-01-27,UCAM Murcia,Cádiz CF,300000,free transfer
-16/17,2016-07-11,Llagostera,UCAM Murcia,300000,free transfer
-14/15,2014-07-12,Lleida Esportiu,Llagostera,0,free transfer
-11/12,2011-07-01,UE Lleida,Lleida Esportiu,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+176423,jesus,imaz,18/19,2019-01-21,Wisla Kraków,Jagiellonia,550000,100000
+176423,jesus,imaz,17/18,2017-08-31,Cádiz CF,Wisla Kraków,300000,free transfer
+176423,jesus,imaz,16/17,2017-01-27,UCAM Murcia,Cádiz CF,300000,free transfer
+176423,jesus,imaz,16/17,2016-07-11,Llagostera,UCAM Murcia,300000,free transfer
+176423,jesus,imaz,14/15,2014-07-12,Lleida Esportiu,Llagostera,0,free transfer
+176423,jesus,imaz,11/12,2011-07-01,UE Lleida,Lleida Esportiu,0,0

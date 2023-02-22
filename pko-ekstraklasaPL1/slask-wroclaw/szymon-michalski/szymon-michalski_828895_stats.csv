@@ -1,8 +1,8 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-828895,szymon-michalski,22/23,Fortuna 1 Liga,6,0,167
-828895,szymon-michalski,22/23,Fortuna Puchar Polski,1,0,90
-828895,szymon-michalski,21/22,eWinner 2 liga,27,1,1605
-828895,szymon-michalski,21/22,Fortuna Puchar Polski,1,0,90
-828895,szymon-michalski,21/22,CLJ,2,0,180
-828895,szymon-michalski,20/21,CLJ,16,5,1285
-828895,szymon-michalski,20/21,eWinner 2 liga,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+828895,szymon,michalski,22/23,Fortuna 1 Liga,6,0,167
+828895,szymon,michalski,22/23,Fortuna Puchar Polski,1,0,90
+828895,szymon,michalski,21/22,eWinner 2 liga,27,1,1605
+828895,szymon,michalski,21/22,Fortuna Puchar Polski,1,0,90
+828895,szymon,michalski,21/22,CLJ,2,0,180
+828895,szymon,michalski,20/21,CLJ,16,5,1285
+828895,szymon,michalski,20/21,eWinner 2 liga,0,0,0

@@ -1,7 +1,7 @@
-id,name,dates,marketValue
-687439,mateusz-dudek,2020-02-27,25000
-687439,mateusz-dudek,2021-01-18,25000
-687439,mateusz-dudek,2021-05-20,25000
-687439,mateusz-dudek,2021-12-21,25000
-687439,mateusz-dudek,2022-06-13,50000
-687439,mateusz-dudek,2022-11-15,25000
+id,firstName,lastName,dates,marketValue
+687439,mateusz,dudek,2020-02-27,25000
+687439,mateusz,dudek,2021-01-18,25000
+687439,mateusz,dudek,2021-05-20,25000
+687439,mateusz,dudek,2021-12-21,25000
+687439,mateusz,dudek,2022-06-13,50000
+687439,mateusz,dudek,2022-11-15,25000

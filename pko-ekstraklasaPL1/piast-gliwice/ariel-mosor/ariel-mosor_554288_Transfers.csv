@@ -1,6 +1,6 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-01,Legia Warszawa,Piast Gliwice,150000,25000
-19/20,2020-05-25,Legia II,Legia Warszawa,0,0
-19/20,2019-07-01,Legia U19,Legia II,0,0
-18/19,2019-01-01,Legia Yth.,Legia U19,0,0
-18/19,2018-07-01,Unia W-wa U19,Legia Yth.,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+554288,ariel,mosor,21/22,2021-07-01,Legia Warszawa,Piast Gliwice,150000,25000
+554288,ariel,mosor,19/20,2020-05-25,Legia II,Legia Warszawa,0,0
+554288,ariel,mosor,19/20,2019-07-01,Legia U19,Legia II,0,0
+554288,ariel,mosor,18/19,2019-01-01,Legia Yth.,Legia U19,0,0
+554288,ariel,mosor,18/19,2018-07-01,Unia W-wa U19,Legia Yth.,0,free transfer

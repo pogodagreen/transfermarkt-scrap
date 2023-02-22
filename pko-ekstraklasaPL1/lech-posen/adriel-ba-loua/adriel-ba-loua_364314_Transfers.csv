@@ -1,10 +1,10 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-08-27,Viktoria Plzen,Lech Poznan,2000000,1200000
-20/21,2020-08-03,Karvina,Viktoria Plzen,700000,875000
-19/20,2019-07-01,ASEC Mimosas,Karvina,700000,130000
-18/19,2019-06-30,Karvina,ASEC Mimosas,700000,End of loan
-18/19,2018-08-27,ASEC Mimosas,Karvina,150000,loan transfer
-17/18,2018-06-30,Vejle BK,ASEC Mimosas,150000,End of loan
-16/17,2016-07-19,ASEC Mimosas,Vejle BK,100000,loan transfer
-15/16,2016-06-30,LOSC Lille B,ASEC Mimosas,100000,End of loan
-15/16,2015-08-27,ASEC Mimosas,LOSC Lille B,0,loan transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+364314,adriel,ba,21/22,2021-08-27,Viktoria Plzen,Lech Poznan,2000000,1200000
+364314,adriel,ba,20/21,2020-08-03,Karvina,Viktoria Plzen,700000,875000
+364314,adriel,ba,19/20,2019-07-01,ASEC Mimosas,Karvina,700000,130000
+364314,adriel,ba,18/19,2019-06-30,Karvina,ASEC Mimosas,700000,End of loan
+364314,adriel,ba,18/19,2018-08-27,ASEC Mimosas,Karvina,150000,loan transfer
+364314,adriel,ba,17/18,2018-06-30,Vejle BK,ASEC Mimosas,150000,End of loan
+364314,adriel,ba,16/17,2016-07-19,ASEC Mimosas,Vejle BK,100000,loan transfer
+364314,adriel,ba,15/16,2016-06-30,LOSC Lille B,ASEC Mimosas,100000,End of loan
+364314,adriel,ba,15/16,2015-08-27,ASEC Mimosas,LOSC Lille B,0,loan transfer

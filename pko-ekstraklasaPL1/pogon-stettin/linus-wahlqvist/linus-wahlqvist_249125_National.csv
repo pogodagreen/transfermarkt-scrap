@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-249125,linus-wahlqvist,1996,Sweden,"1,85",Right-Back,0,7,19,0,13,0,31,6
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+249125,linus,wahlqvist,1996,Sweden,"1,85",Right-Back,0,7,19,0,13,0,31,6

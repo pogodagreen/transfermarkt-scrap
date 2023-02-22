@@ -1,28 +1,28 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-196387,damian-jakubik,22/23,Ekstraklasa,6,0,429
-196387,damian-jakubik,22/23,Fortuna Puchar Polski,2,0,164
-196387,damian-jakubik,21/22,Ekstraklasa,24,0,2016
-196387,damian-jakubik,21/22,Fortuna Puchar Polski,0,0,0
-196387,damian-jakubik,20/21,1 Liga,27,2,2403
-196387,damian-jakubik,20/21,Fortuna Puchar Polski,3,1,300
-196387,damian-jakubik,19/20,Baraze o udzial w Ekstraklasie,2,0,176
-196387,damian-jakubik,19/20,1 Liga,32,0,2741
-196387,damian-jakubik,19/20,Fortuna Puchar Polski,1,0,2
-196387,damian-jakubik,18/19,eWinner 2 liga,28,1,2463
-196387,damian-jakubik,18/19,Fortuna Puchar Polski,1,0,90
-196387,damian-jakubik,17/18,eWinner 2 liga,28,1,2455
-196387,damian-jakubik,17/18,Fortuna Puchar Polski,2,0,210
-196387,damian-jakubik,16/17,Nice 1 Liga,13,0,1154
-196387,damian-jakubik,16/17,Nice 1 Liga,3,0,118
-196387,damian-jakubik,16/17,Fortuna Puchar Polski,1,0,90
-196387,damian-jakubik,15/16,Ekstraklasa,7,0,581
-196387,damian-jakubik,15/16,1 Liga,16,1,1239
-196387,damian-jakubik,15/16,Fortuna Puchar Polski,2,0,180
-196387,damian-jakubik,14/15,1 Liga,26,0,1961
-196387,damian-jakubik,14/15,Fortuna Puchar Polski,1,0,65
-196387,damian-jakubik,13/14,1 Liga,28,0,2062
-196387,damian-jakubik,13/14,Fortuna Puchar Polski,1,0,90
-196387,damian-jakubik,12/13,1 Liga,26,1,1834
-196387,damian-jakubik,12/13,Fortuna Puchar Polski,1,0,90
-196387,damian-jakubik,11/12,1 Liga,11,0,802
-196387,damian-jakubik,11/12,Fortuna Puchar Polski,1,0,90
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+196387,damian,jakubik,22/23,Ekstraklasa,7,0,519
+196387,damian,jakubik,22/23,Fortuna Puchar Polski,2,0,164
+196387,damian,jakubik,21/22,Ekstraklasa,24,0,2016
+196387,damian,jakubik,21/22,Fortuna Puchar Polski,0,0,0
+196387,damian,jakubik,20/21,1 Liga,27,2,2403
+196387,damian,jakubik,20/21,Fortuna Puchar Polski,3,1,300
+196387,damian,jakubik,19/20,Baraze o udzial w Ekstraklasie,2,0,176
+196387,damian,jakubik,19/20,1 Liga,32,0,2741
+196387,damian,jakubik,19/20,Fortuna Puchar Polski,1,0,2
+196387,damian,jakubik,18/19,eWinner 2 liga,28,1,2463
+196387,damian,jakubik,18/19,Fortuna Puchar Polski,1,0,90
+196387,damian,jakubik,17/18,eWinner 2 liga,28,1,2455
+196387,damian,jakubik,17/18,Fortuna Puchar Polski,2,0,210
+196387,damian,jakubik,16/17,Nice 1 Liga,13,0,1154
+196387,damian,jakubik,16/17,Nice 1 Liga,3,0,118
+196387,damian,jakubik,16/17,Fortuna Puchar Polski,1,0,90
+196387,damian,jakubik,15/16,Ekstraklasa,7,0,581
+196387,damian,jakubik,15/16,1 Liga,16,1,1239
+196387,damian,jakubik,15/16,Fortuna Puchar Polski,2,0,180
+196387,damian,jakubik,14/15,1 Liga,26,0,1961
+196387,damian,jakubik,14/15,Fortuna Puchar Polski,1,0,65
+196387,damian,jakubik,13/14,1 Liga,28,0,2062
+196387,damian,jakubik,13/14,Fortuna Puchar Polski,1,0,90
+196387,damian,jakubik,12/13,1 Liga,26,1,1834
+196387,damian,jakubik,12/13,Fortuna Puchar Polski,1,0,90
+196387,damian,jakubik,11/12,1 Liga,11,0,802
+196387,damian,jakubik,11/12,Fortuna Puchar Polski,1,0,90

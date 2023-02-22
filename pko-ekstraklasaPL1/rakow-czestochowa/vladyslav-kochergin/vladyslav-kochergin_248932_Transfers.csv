@@ -1,6 +1,6 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-03-26,Zorya Lugansk,Rakow,2000000,free transfer
-17/18,2017-07-01,Dnipro,Zorya Lugansk,500000,0
-16/17,2016-07-01,Dnipro II,Dnipro,0,0
-13/14,2013-07-01,Dnipro U19,Dnipro II,0,0
-12/13,2013-01-01,Dnipro U17,Dnipro U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+248932,vladyslav,kochergin,21/22,2022-03-26,Zorya Lugansk,Rakow,2000000,free transfer
+248932,vladyslav,kochergin,17/18,2017-07-01,Dnipro,Zorya Lugansk,500000,0
+248932,vladyslav,kochergin,16/17,2016-07-01,Dnipro II,Dnipro,0,0
+248932,vladyslav,kochergin,13/14,2013-07-01,Dnipro U19,Dnipro II,0,0
+248932,vladyslav,kochergin,12/13,2013-01-01,Dnipro U17,Dnipro U19,0,0

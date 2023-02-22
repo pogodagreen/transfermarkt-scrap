@@ -1,22 +1,22 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-225158,filipe-oliveira,22/23,3. Liga,2,0,164
-225158,filipe-oliveira,22/23,3 Liga - Grupa IV,3,0,143
-225158,filipe-oliveira,22/23,Ekstraklasa,0,0,0
-225158,filipe-oliveira,21/22,Baraze o udzial w Ekstraklasie,1,0,52
-225158,filipe-oliveira,21/22,1 Liga,23,2,1769
-225158,filipe-oliveira,21/22,Fortuna Puchar Polski,2,0,162
-225158,filipe-oliveira,20/21,1 Liga,16,1,1409
-225158,filipe-oliveira,20/21,Liga Sabseg,9,0,609
-225158,filipe-oliveira,19/20,LigaPro,20,3,1566
-225158,filipe-oliveira,19/20,Taça de Portugal,2,0,161
-225158,filipe-oliveira,19/20,Allianz Cup,1,0,90
-225158,filipe-oliveira,18/19,Ledman LigaPro,20,0,627
-225158,filipe-oliveira,18/19,Taça de Portugal,0,0,0
-225158,filipe-oliveira,18/19,Allianz Cup,1,0,7
-225158,filipe-oliveira,17/18,Liga NOS,11,1,427
-225158,filipe-oliveira,17/18,Taça CTT,2,0,110
-225158,filipe-oliveira,17/18,Taça de Portugal,2,0,177
-225158,filipe-oliveira,14/15,Liga Sabseg,31,2,1986
-225158,filipe-oliveira,13/14,Liga Sabseg,30,2,2030
-225158,filipe-oliveira,12/13,Liga Sabseg,0,0,0
-225158,filipe-oliveira,11/12,Liga Sagres,4,0,281
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+225158,filipe,oliveira,22/23,3. Liga,3,0,254
+225158,filipe,oliveira,22/23,3 Liga - Grupa IV,3,0,143
+225158,filipe,oliveira,22/23,Ekstraklasa,0,0,0
+225158,filipe,oliveira,21/22,Baraze o udzial w Ekstraklasie,1,0,52
+225158,filipe,oliveira,21/22,1 Liga,23,2,1769
+225158,filipe,oliveira,21/22,Fortuna Puchar Polski,2,0,162
+225158,filipe,oliveira,20/21,1 Liga,16,1,1409
+225158,filipe,oliveira,20/21,Liga Sabseg,9,0,609
+225158,filipe,oliveira,19/20,LigaPro,20,3,1566
+225158,filipe,oliveira,19/20,Taça de Portugal,2,0,161
+225158,filipe,oliveira,19/20,Allianz Cup,1,0,90
+225158,filipe,oliveira,18/19,Ledman LigaPro,20,0,627
+225158,filipe,oliveira,18/19,Taça de Portugal,0,0,0
+225158,filipe,oliveira,18/19,Allianz Cup,1,0,7
+225158,filipe,oliveira,17/18,Liga NOS,11,1,427
+225158,filipe,oliveira,17/18,Taça CTT,2,0,110
+225158,filipe,oliveira,17/18,Taça de Portugal,2,0,177
+225158,filipe,oliveira,14/15,Liga Sabseg,31,2,1986
+225158,filipe,oliveira,13/14,Liga Sabseg,30,2,2030
+225158,filipe,oliveira,12/13,Liga Sabseg,0,0,0
+225158,filipe,oliveira,11/12,Liga Sagres,4,0,281

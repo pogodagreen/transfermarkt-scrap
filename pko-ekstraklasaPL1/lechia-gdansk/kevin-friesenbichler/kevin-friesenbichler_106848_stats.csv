@@ -1,41 +1,41 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-106848,kevin-friesenbichler,22/23,Ekstraklasa,3,0,100
-106848,kevin-friesenbichler,22/23,Liga Konferencji,6,1,280
-106848,kevin-friesenbichler,22/23,UECL Kwalifikacje,3,1,162
-106848,kevin-friesenbichler,22/23,Kwalifikacje do Ligi Mistrzów,2,0,154
-106848,kevin-friesenbichler,2022,Virsliga,32,8,2296
-106848,kevin-friesenbichler,21/22,Puchar Lotwy,1,0,6
-106848,kevin-friesenbichler,21/22,UECL Kwalifikacje,6,1,286
-106848,kevin-friesenbichler,2021,Virsliga,9,3,347
-106848,kevin-friesenbichler,20/21,Puchar Lotwy,4,2,202
-106848,kevin-friesenbichler,20/21,Bundesliga,24,4,1364
-106848,kevin-friesenbichler,20/21,ÖFB-Cup,5,1,303
-106848,kevin-friesenbichler,19/20,Bundesliga,12,0,367
-106848,kevin-friesenbichler,19/20,ÖFB-Cup,1,0,23
-106848,kevin-friesenbichler,19/20,2. Bundesliga,6,0,316
-106848,kevin-friesenbichler,19/20,DFB-Pokal,1,0,5
-106848,kevin-friesenbichler,18/19,Bundesliga,12,2,958
-106848,kevin-friesenbichler,18/19,Bundesliga,13,2,801
-106848,kevin-friesenbichler,18/19,ÖFB-Cup,3,2,181
-106848,kevin-friesenbichler,17/18,Bundesliga,30,8,1981
-106848,kevin-friesenbichler,17/18,Liga Europy,4,1,258
-106848,kevin-friesenbichler,17/18,Kwalifikacje do Ligi Europy,4,0,121
-106848,kevin-friesenbichler,17/18,ÖFB-Cup,1,0,90
-106848,kevin-friesenbichler,16/17,Bundesliga,32,5,1186
-106848,kevin-friesenbichler,16/17,ÖFB-Cup,3,3,260
-106848,kevin-friesenbichler,16/17,Liga Europy,5,1,125
-106848,kevin-friesenbichler,16/17,Kwalifikacje do Ligi Europy,4,1,66
-106848,kevin-friesenbichler,15/16,Bundesliga,31,6,1153
-106848,kevin-friesenbichler,15/16,ÖFB-Cup,4,4,259
-106848,kevin-friesenbichler,14/15,Ekstraklasa,16,5,675
-106848,kevin-friesenbichler,13/14,Aufstiegsrunde zur 3. Liga,2,0,167
-106848,kevin-friesenbichler,13/14,Regionalliga Bayern,22,15,1523
-106848,kevin-friesenbichler,12/13,Regionalliga Bayern,12,1,948
-106848,kevin-friesenbichler,12/13,U19-BL S/SW,13,15,995
-106848,kevin-friesenbichler,11/12,U19-Bundesliga Endrunde,3,1,245
-106848,kevin-friesenbichler,11/12,U19-BL S/SW,14,9,856
-106848,kevin-friesenbichler,11/12,Regionalliga Süd,0,0,0
-106848,kevin-friesenbichler,10/11,U19-BL S/SW,7,2,616
-106848,kevin-friesenbichler,10/11,U17-BL S/SW,1,3,72
-106848,kevin-friesenbichler,09/10,Regionalliga Ost,2,1,60
-106848,kevin-friesenbichler,09/10,ÖFB Jugendliga U19 (- 2010),1,0,82
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+106848,kevin,friesenbichler,22/23,Ekstraklasa,4,0,133
+106848,kevin,friesenbichler,22/23,Liga Konferencji,6,1,280
+106848,kevin,friesenbichler,22/23,UECL Kwalifikacje,3,1,162
+106848,kevin,friesenbichler,22/23,Kwalifikacje do Ligi Mistrzów,2,0,154
+106848,kevin,friesenbichler,2022,Virsliga,32,8,2296
+106848,kevin,friesenbichler,21/22,Puchar Lotwy,1,0,6
+106848,kevin,friesenbichler,21/22,UECL Kwalifikacje,6,1,286
+106848,kevin,friesenbichler,2021,Virsliga,9,3,347
+106848,kevin,friesenbichler,20/21,Puchar Lotwy,4,2,202
+106848,kevin,friesenbichler,20/21,Bundesliga,24,4,1364
+106848,kevin,friesenbichler,20/21,ÖFB-Cup,5,1,303
+106848,kevin,friesenbichler,19/20,Bundesliga,12,0,367
+106848,kevin,friesenbichler,19/20,ÖFB-Cup,1,0,23
+106848,kevin,friesenbichler,19/20,2. Bundesliga,6,0,316
+106848,kevin,friesenbichler,19/20,DFB-Pokal,1,0,5
+106848,kevin,friesenbichler,18/19,Bundesliga,12,2,958
+106848,kevin,friesenbichler,18/19,Bundesliga,13,2,801
+106848,kevin,friesenbichler,18/19,ÖFB-Cup,3,2,181
+106848,kevin,friesenbichler,17/18,Bundesliga,30,8,1981
+106848,kevin,friesenbichler,17/18,Liga Europy,4,1,258
+106848,kevin,friesenbichler,17/18,Kwalifikacje do Ligi Europy,4,0,121
+106848,kevin,friesenbichler,17/18,ÖFB-Cup,1,0,90
+106848,kevin,friesenbichler,16/17,Bundesliga,32,5,1186
+106848,kevin,friesenbichler,16/17,ÖFB-Cup,3,3,260
+106848,kevin,friesenbichler,16/17,Liga Europy,5,1,125
+106848,kevin,friesenbichler,16/17,Kwalifikacje do Ligi Europy,4,1,66
+106848,kevin,friesenbichler,15/16,Bundesliga,31,6,1153
+106848,kevin,friesenbichler,15/16,ÖFB-Cup,4,4,259
+106848,kevin,friesenbichler,14/15,Ekstraklasa,16,5,675
+106848,kevin,friesenbichler,13/14,Aufstiegsrunde zur 3. Liga,2,0,167
+106848,kevin,friesenbichler,13/14,Regionalliga Bayern,22,15,1523
+106848,kevin,friesenbichler,12/13,Regionalliga Bayern,12,1,948
+106848,kevin,friesenbichler,12/13,U19-BL S/SW,13,15,995
+106848,kevin,friesenbichler,11/12,U19-Bundesliga Endrunde,3,1,245
+106848,kevin,friesenbichler,11/12,U19-BL S/SW,14,9,856
+106848,kevin,friesenbichler,11/12,Regionalliga Süd,0,0,0
+106848,kevin,friesenbichler,10/11,U19-BL S/SW,7,2,616
+106848,kevin,friesenbichler,10/11,U17-BL S/SW,1,3,72
+106848,kevin,friesenbichler,09/10,Regionalliga Ost,2,1,60
+106848,kevin,friesenbichler,09/10,ÖFB Jugendliga U19 (- 2010),1,0,82

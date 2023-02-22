@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-03-03,Piast Gliwice,Widzew Lodz,500000,free transfer
-20/21,2020-08-03,Lechia Gdansk,Piast Gliwice,400000,150000
-17/18,2017-08-12,Without Club,Lechia Gdansk,800000,0
-16/17,2017-05-11,Ruch Chorzow,Without Club,800000,0
-13/14,2013-07-01,Ruch Chorzow II,Ruch Chorzow,0,0
-11/12,2012-01-01,S. Szczecin U19,Ruch Chorzow II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+255392,patryk,lipski,21/22,2022-03-03,Piast Gliwice,Widzew Lodz,500000,free transfer
+255392,patryk,lipski,20/21,2020-08-03,Lechia Gdansk,Piast Gliwice,400000,150000
+255392,patryk,lipski,17/18,2017-08-12,Without Club,Lechia Gdansk,800000,0
+255392,patryk,lipski,16/17,2017-05-11,Ruch Chorzow,Without Club,800000,0
+255392,patryk,lipski,13/14,2013-07-01,Ruch Chorzow II,Ruch Chorzow,0,0
+255392,patryk,lipski,11/12,2012-01-01,S. Szczecin U19,Ruch Chorzow II,0,0

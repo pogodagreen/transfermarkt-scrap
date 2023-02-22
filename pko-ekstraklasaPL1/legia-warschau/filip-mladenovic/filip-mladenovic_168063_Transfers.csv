@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2020-07-21,Lechia Gdansk,Legia Warszawa,1200000,free transfer
-17/18,2018-01-27,Standard Liège,Lechia Gdansk,750000,free transfer
-16/17,2017-01-01,1. FC Köln,Standard Liège,2000000,1200000
-15/16,2016-01-05,BATE Borisov,1. FC Köln,1800000,1500000
-13/14,2014-03-13,Without Club,BATE Borisov,750000,0
-13/14,2013-11-22,Red Star,Without Club,1000000,0
-11/12,2011-12-17,Borac Cacak,Red Star,500000,354000
-10/11,2010-07-01,Borac Cacak U19,Borac Cacak,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+168063,filip,mladenovic,20/21,2020-07-21,Lechia Gdansk,Legia Warszawa,1200000,free transfer
+168063,filip,mladenovic,17/18,2018-01-27,Standard Liège,Lechia Gdansk,750000,free transfer
+168063,filip,mladenovic,16/17,2017-01-01,1. FC Köln,Standard Liège,2000000,1200000
+168063,filip,mladenovic,15/16,2016-01-05,BATE Borisov,1. FC Köln,1800000,1500000
+168063,filip,mladenovic,13/14,2014-03-13,Without Club,BATE Borisov,750000,0
+168063,filip,mladenovic,13/14,2013-11-22,Red Star,Without Club,1000000,0
+168063,filip,mladenovic,11/12,2011-12-17,Borac Cacak,Red Star,500000,354000
+168063,filip,mladenovic,10/11,2010-07-01,Borac Cacak U19,Borac Cacak,0,0

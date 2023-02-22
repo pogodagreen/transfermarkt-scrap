@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-01,Pogon Szczecin,Warta Poznan,150000,free transfer
-20/21,2021-06-30,Miedz Legnica,Pogon Szczecin,150000,End of loan
-20/21,2020-08-12,Pogon Szczecin,Miedz Legnica,50000,loan transfer
-18/19,2018-12-06,Pogon II,Pogon Szczecin,0,0
-18/19,2018-07-01,Pogon U19,Pogon II,0,0
-17/18,2017-07-01,Wa. Poznan Yth.,Pogon U19,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+531538,jedrzej,grobelny,21/22,2021-07-01,Pogon Szczecin,Warta Poznan,150000,free transfer
+531538,jedrzej,grobelny,20/21,2021-06-30,Miedz Legnica,Pogon Szczecin,150000,End of loan
+531538,jedrzej,grobelny,20/21,2020-08-12,Pogon Szczecin,Miedz Legnica,50000,loan transfer
+531538,jedrzej,grobelny,18/19,2018-12-06,Pogon II,Pogon Szczecin,0,0
+531538,jedrzej,grobelny,18/19,2018-07-01,Pogon U19,Pogon II,0,0
+531538,jedrzej,grobelny,17/18,2017-07-01,Wa. Poznan Yth.,Pogon U19,0,free transfer

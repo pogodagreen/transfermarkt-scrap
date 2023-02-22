@@ -1,17 +1,17 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-385518,damian-michalski,22/23,2. Bundesliga,14,4,1232
-385518,damian-michalski,22/23,Ekstraklasa,6,0,540
-385518,damian-michalski,21/22,Ekstraklasa,28,1,2267
-385518,damian-michalski,21/22,Fortuna Puchar Polski,1,0,120
-385518,damian-michalski,20/21,Ekstraklasa,13,2,921
-385518,damian-michalski,20/21,Fortuna Puchar Polski,1,0,90
-385518,damian-michalski,19/20,Ekstraklasa,30,4,2487
-385518,damian-michalski,19/20,Fortuna Puchar Polski,0,0,0
-385518,damian-michalski,18/19,eWinner 2 liga,31,6,2700
-385518,damian-michalski,18/19,Fortuna Puchar Polski,2,0,210
-385518,damian-michalski,17/18,eWinner 2 liga,6,0,337
-385518,damian-michalski,17/18,3 Liga - Grupa III,16,0,1342
-385518,damian-michalski,16/17,CLJ - Grupa Wschodnia,12,3,1080
-385518,damian-michalski,16/17,Fortuna Puchar Polski,0,0,0
-385518,damian-michalski,15/16,1 Liga,1,0,7
-385518,damian-michalski,15/16,CLJ - Grupa Wschodnia,11,1,892
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+385518,damian,michalski,22/23,2. Bundesliga,15,4,1322
+385518,damian,michalski,22/23,Ekstraklasa,6,0,540
+385518,damian,michalski,21/22,Ekstraklasa,28,1,2267
+385518,damian,michalski,21/22,Fortuna Puchar Polski,1,0,120
+385518,damian,michalski,20/21,Ekstraklasa,13,2,921
+385518,damian,michalski,20/21,Fortuna Puchar Polski,1,0,90
+385518,damian,michalski,19/20,Ekstraklasa,30,4,2487
+385518,damian,michalski,19/20,Fortuna Puchar Polski,0,0,0
+385518,damian,michalski,18/19,eWinner 2 liga,31,6,2700
+385518,damian,michalski,18/19,Fortuna Puchar Polski,2,0,210
+385518,damian,michalski,17/18,eWinner 2 liga,6,0,337
+385518,damian,michalski,17/18,3 Liga - Grupa III,16,0,1342
+385518,damian,michalski,16/17,CLJ - Grupa Wschodnia,12,3,1080
+385518,damian,michalski,16/17,Fortuna Puchar Polski,0,0,0
+385518,damian,michalski,15/16,1 Liga,1,0,7
+385518,damian,michalski,15/16,CLJ - Grupa Wschodnia,11,1,892

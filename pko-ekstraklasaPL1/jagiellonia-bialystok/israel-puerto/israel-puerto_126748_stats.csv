@@ -1,30 +1,30 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-126748,israel-puerto,22/23,Ekstraklasa,16,0,1137
-126748,israel-puerto,22/23,Fortuna Puchar Polski,2,0,164
-126748,israel-puerto,21/22,Ekstraklasa,19,3,1622
-126748,israel-puerto,21/22,Fortuna Puchar Polski,1,0,90
-126748,israel-puerto,20/21,Ekstraklasa,17,1,1530
-126748,israel-puerto,19/20,Ekstraklasa,32,2,2811
-126748,israel-puerto,19/20,Fortuna Puchar Polski,0,0,0
-126748,israel-puerto,19/20,3 Liga - Grupa III,1,0,90
-126748,israel-puerto,18/19,Ascenso a 2ª,3,0,260
-126748,israel-puerto,18/19,2ª B - Grupo IV,36,4,3217
-126748,israel-puerto,17/18,Ascenso a 2ª,2,0,135
-126748,israel-puerto,17/18,2ª B - Grupo II,24,0,2067
-126748,israel-puerto,17/18,Puchar Króla,1,0,90
-126748,israel-puerto,16/17,Ascenso a 2ª,2,0,133
-126748,israel-puerto,16/17,2ª B - Grupo I,12,1,795
-126748,israel-puerto,16/17,Puchar Króla,1,0,28
-126748,israel-puerto,15/16,LaLiga2,18,0,1430
-126748,israel-puerto,15/16,Puchar Króla,2,0,210
-126748,israel-puerto,14/15,LaLiga2,13,1,1153
-126748,israel-puerto,14/15,2ª B - Grupo III,25,3,2237
-126748,israel-puerto,14/15,Puchar Króla,2,0,180
-126748,israel-puerto,13/14,LaLiga,3,0,39
-126748,israel-puerto,13/14,2ª B - Grupo IV,32,0,2828
-126748,israel-puerto,13/14,Puchar Króla,0,0,0
-126748,israel-puerto,13/14,Liga Europy,1,0,41
-126748,israel-puerto,12/13,LaLiga,2,0,22
-126748,israel-puerto,12/13,2ª B - Grupo IV,33,3,2929
-126748,israel-puerto,11/12,2ª B - Grupo IV,22,0,1568
-126748,israel-puerto,10/11,2ª B - Grupo IV,6,0,227
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+126748,israel,puerto,22/23,Ekstraklasa,17,0,1227
+126748,israel,puerto,22/23,Fortuna Puchar Polski,2,0,164
+126748,israel,puerto,21/22,Ekstraklasa,19,3,1622
+126748,israel,puerto,21/22,Fortuna Puchar Polski,1,0,90
+126748,israel,puerto,20/21,Ekstraklasa,17,1,1530
+126748,israel,puerto,19/20,Ekstraklasa,32,2,2811
+126748,israel,puerto,19/20,Fortuna Puchar Polski,0,0,0
+126748,israel,puerto,19/20,3 Liga - Grupa III,1,0,90
+126748,israel,puerto,18/19,Ascenso a 2ª,3,0,260
+126748,israel,puerto,18/19,2ª B - Grupo IV,36,4,3217
+126748,israel,puerto,17/18,Ascenso a 2ª,2,0,135
+126748,israel,puerto,17/18,2ª B - Grupo II,24,0,2067
+126748,israel,puerto,17/18,Puchar Króla,1,0,90
+126748,israel,puerto,16/17,Ascenso a 2ª,2,0,133
+126748,israel,puerto,16/17,2ª B - Grupo I,12,1,795
+126748,israel,puerto,16/17,Puchar Króla,1,0,28
+126748,israel,puerto,15/16,LaLiga2,18,0,1430
+126748,israel,puerto,15/16,Puchar Króla,2,0,210
+126748,israel,puerto,14/15,LaLiga2,13,1,1153
+126748,israel,puerto,14/15,2ª B - Grupo III,25,3,2237
+126748,israel,puerto,14/15,Puchar Króla,2,0,180
+126748,israel,puerto,13/14,LaLiga,3,0,39
+126748,israel,puerto,13/14,2ª B - Grupo IV,32,0,2828
+126748,israel,puerto,13/14,Puchar Króla,0,0,0
+126748,israel,puerto,13/14,Liga Europy,1,0,41
+126748,israel,puerto,12/13,LaLiga,2,0,22
+126748,israel,puerto,12/13,2ª B - Grupo IV,33,3,2929
+126748,israel,puerto,11/12,2ª B - Grupo IV,22,0,1568
+126748,israel,puerto,10/11,2ª B - Grupo IV,6,0,227

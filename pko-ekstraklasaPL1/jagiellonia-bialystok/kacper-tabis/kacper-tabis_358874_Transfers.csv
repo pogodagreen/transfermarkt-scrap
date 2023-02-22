@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-01,Odra Opole,Jagiellonia,250000,33000
-19/20,2020-02-07,GKS Katowice,Odra Opole,75000,0
-17/18,2018-06-30,Rozwój Katowice,GKS Katowice,0,End of loan
-17/18,2018-03-01,GKS Katowice,Rozwój Katowice,0,loan transfer
-17/18,2018-02-28,Rozwój Katowice,GKS Katowice,0,0
-15/16,2016-04-06,Rozwoj U19,Rozwój Katowice,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+358874,kacper,tabis,21/22,2021-07-01,Odra Opole,Jagiellonia,250000,33000
+358874,kacper,tabis,19/20,2020-02-07,GKS Katowice,Odra Opole,75000,0
+358874,kacper,tabis,17/18,2018-06-30,Rozwój Katowice,GKS Katowice,0,End of loan
+358874,kacper,tabis,17/18,2018-03-01,GKS Katowice,Rozwój Katowice,0,loan transfer
+358874,kacper,tabis,17/18,2018-02-28,Rozwój Katowice,GKS Katowice,0,0
+358874,kacper,tabis,15/16,2016-04-06,Rozwoj U19,Rozwój Katowice,0,0

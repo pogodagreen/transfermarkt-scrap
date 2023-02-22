@@ -1,16 +1,16 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-452666,michal-ozga,22/23,3 Liga - Grupa I,14,1,1260
-452666,michal-ozga,22/23,Ekstraklasa,0,0,0
-452666,michal-ozga,21/22,Baraże o udział w 1 lidze,1,0,90
-452666,michal-ozga,21/22,eWinner 2 liga,26,0,2115
-452666,michal-ozga,21/22,Fortuna Puchar Polski,1,0,90
-452666,michal-ozga,20/21,eWinner 2 liga,17,0,949
-452666,michal-ozga,20/21,Fortuna Puchar Polski,1,0,90
-452666,michal-ozga,19/20,1 Liga,20,1,1426
-452666,michal-ozga,19/20,Fortuna Puchar Polski,1,0,90
-452666,michal-ozga,19/20,Ekstraklasa,0,0,0
-452666,michal-ozga,18/19,CLJ,16,0,1286
-452666,michal-ozga,18/19,Ekstraklasa,1,0,90
-452666,michal-ozga,18/19,Fortuna Puchar Polski,0,0,0
-452666,michal-ozga,17/18,CLJ - Grupa Wschodnia,28,2,2520
-452666,michal-ozga,16/17,CLJ - Grupa Wschodnia,28,0,2342
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+452666,michal,ozga,22/23,3 Liga - Grupa I,14,1,1260
+452666,michal,ozga,22/23,Ekstraklasa,0,0,0
+452666,michal,ozga,21/22,Baraże o udział w 1 lidze,1,0,90
+452666,michal,ozga,21/22,eWinner 2 liga,26,0,2115
+452666,michal,ozga,21/22,Fortuna Puchar Polski,1,0,90
+452666,michal,ozga,20/21,eWinner 2 liga,17,0,949
+452666,michal,ozga,20/21,Fortuna Puchar Polski,1,0,90
+452666,michal,ozga,19/20,1 Liga,20,1,1426
+452666,michal,ozga,19/20,Fortuna Puchar Polski,1,0,90
+452666,michal,ozga,19/20,Ekstraklasa,0,0,0
+452666,michal,ozga,18/19,CLJ,16,0,1286
+452666,michal,ozga,18/19,Ekstraklasa,1,0,90
+452666,michal,ozga,18/19,Fortuna Puchar Polski,0,0,0
+452666,michal,ozga,17/18,CLJ - Grupa Wschodnia,28,2,2520
+452666,michal,ozga,16/17,CLJ - Grupa Wschodnia,28,0,2342

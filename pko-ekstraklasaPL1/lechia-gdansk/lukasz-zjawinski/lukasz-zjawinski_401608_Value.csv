@@ -1,7 +1,7 @@
-id,name,dates,marketValue
-401608,lukasz-zjawinski,2020-08-26,25000
-401608,lukasz-zjawinski,2021-01-18,250000
-401608,lukasz-zjawinski,2021-05-20,400000
-401608,lukasz-zjawinski,2021-12-30,300000
-401608,lukasz-zjawinski,2022-06-23,350000
-401608,lukasz-zjawinski,2022-11-15,350000
+id,firstName,lastName,dates,marketValue
+401608,lukasz,zjawinski,2020-08-26,25000
+401608,lukasz,zjawinski,2021-01-18,250000
+401608,lukasz,zjawinski,2021-05-20,400000
+401608,lukasz,zjawinski,2021-12-30,300000
+401608,lukasz,zjawinski,2022-06-23,350000
+401608,lukasz,zjawinski,2022-11-15,350000

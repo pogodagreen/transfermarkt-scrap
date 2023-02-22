@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-19/20,2019-07-01,MSK Zilina,Piast Gliwice,350000,free transfer
-16/17,2016-08-15,AS Trencin,MSK Zilina,300000,free transfer
-10/11,2010-07-01,AS Trencin U19,AS Trencin,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+192731,jakub,holubek,19/20,2019-07-01,MSK Zilina,Piast Gliwice,350000,free transfer
+192731,jakub,holubek,16/17,2016-08-15,AS Trencin,MSK Zilina,300000,free transfer
+192731,jakub,holubek,10/11,2010-07-01,AS Trencin U19,AS Trencin,0,0

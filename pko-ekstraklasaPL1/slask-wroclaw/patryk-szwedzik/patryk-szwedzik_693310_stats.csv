@@ -1,9 +1,9 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-693310,patryk-szwedzik,22/23,Fortuna 1 Liga,16,3,722
-693310,patryk-szwedzik,22/23,Fortuna Puchar Polski,2,0,138
-693310,patryk-szwedzik,21/22,1 Liga,29,7,1700
-693310,patryk-szwedzik,21/22,Fortuna Puchar Polski,2,0,76
-693310,patryk-szwedzik,20/21,eWinner 2 liga,12,1,155
-693310,patryk-szwedzik,20/21,Fortuna Puchar Polski,1,0,20
-693310,patryk-szwedzik,19/20,Baraże o udział w 1 lidze,1,0,25
-693310,patryk-szwedzik,19/20,eWinner 2 liga,10,1,96
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+693310,patryk,szwedzik,22/23,Fortuna 1 Liga,16,3,722
+693310,patryk,szwedzik,22/23,Fortuna Puchar Polski,2,0,138
+693310,patryk,szwedzik,21/22,1 Liga,29,7,1700
+693310,patryk,szwedzik,21/22,Fortuna Puchar Polski,2,0,76
+693310,patryk,szwedzik,20/21,eWinner 2 liga,12,1,155
+693310,patryk,szwedzik,20/21,Fortuna Puchar Polski,1,0,20
+693310,patryk,szwedzik,19/20,Baraże o udział w 1 lidze,1,0,25
+693310,patryk,szwedzik,19/20,eWinner 2 liga,10,1,96

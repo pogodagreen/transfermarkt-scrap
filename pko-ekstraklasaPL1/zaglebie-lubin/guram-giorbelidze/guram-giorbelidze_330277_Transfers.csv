@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-17,Wolfsberger AC,Zaglebie Lubin,450000,0
-21/22,2022-06-30,Dynamo Dresden,Wolfsberger AC,450000,End of loan
-21/22,2021-08-11,Wolfsberger AC,Dynamo Dresden,600000,Loan
-20/21,2020-07-27,FC Dila,Wolfsberger AC,300000,150000
-18/19,2019-01-01,Sioni Bolnisi,FC Dila,150000,free transfer
-14/15,2014-07-01,Bolnisi Academy,Sioni Bolnisi,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+330277,guram,giorbelidze,22/23,2022-07-17,Wolfsberger AC,Zaglebie Lubin,450000,0
+330277,guram,giorbelidze,21/22,2022-06-30,Dynamo Dresden,Wolfsberger AC,450000,End of loan
+330277,guram,giorbelidze,21/22,2021-08-11,Wolfsberger AC,Dynamo Dresden,600000,Loan
+330277,guram,giorbelidze,20/21,2020-07-27,FC Dila,Wolfsberger AC,300000,150000
+330277,guram,giorbelidze,18/19,2019-01-01,Sioni Bolnisi,FC Dila,150000,free transfer
+330277,guram,giorbelidze,14/15,2014-07-01,Bolnisi Academy,Sioni Bolnisi,0,0

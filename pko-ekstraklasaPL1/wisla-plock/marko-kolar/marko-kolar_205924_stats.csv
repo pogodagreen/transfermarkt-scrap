@@ -1,25 +1,25 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-205924,marko-kolar,22/23,Ekstraklasa,16,3,461
-205924,marko-kolar,22/23,Fortuna Puchar Polski,2,0,128
-205924,marko-kolar,21/22,Ekstraklasa,27,4,1179
-205924,marko-kolar,21/22,Fortuna Puchar Polski,1,1,111
-205924,marko-kolar,20/21,Play-Offs Promotie/Deg.,0,0,0
-205924,marko-kolar,20/21,Eredivisie,14,1,661
-205924,marko-kolar,20/21,KNVB beker,1,0,90
-205924,marko-kolar,19/20,Eredivisie,21,4,1488
-205924,marko-kolar,19/20,KNVB beker,1,0,44
-205924,marko-kolar,19/20,Beloften Runda Wstępna,1,0,45
-205924,marko-kolar,18/19,Ekstraklasa,26,12,1800
-205924,marko-kolar,18/19,Fortuna Puchar Polski,1,0,61
-205924,marko-kolar,17/18,Ekstraklasa,5,0,77
-205924,marko-kolar,17/18,SuperSport HNL,6,0,327
-205924,marko-kolar,16/17,1.HNL,29,5,2161
-205924,marko-kolar,16/17,Hrvatski nogometni kup,2,1,145
-205924,marko-kolar,15/16,SuperSport HNL,21,3,983
-205924,marko-kolar,15/16,Hrvatski nogometni kup,1,2,51
-205924,marko-kolar,15/16,Kwalifikacje do Ligi Europy,4,2,226
-205924,marko-kolar,14/15,SuperSport HNL,30,7,1634
-205924,marko-kolar,14/15,Hrvatski nogometni kup,2,0,103
-205924,marko-kolar,13/14,Prva NL,21,8,1484
-205924,marko-kolar,13/14,SuperSport HNL,0,0,0
-205924,marko-kolar,12/13,SuperSport HNL,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+205924,marko,kolar,22/23,Ekstraklasa,17,4,551
+205924,marko,kolar,22/23,Fortuna Puchar Polski,2,0,128
+205924,marko,kolar,21/22,Ekstraklasa,27,4,1179
+205924,marko,kolar,21/22,Fortuna Puchar Polski,1,1,111
+205924,marko,kolar,20/21,Play-Offs Promotie/Deg.,0,0,0
+205924,marko,kolar,20/21,Eredivisie,14,1,661
+205924,marko,kolar,20/21,KNVB beker,1,0,90
+205924,marko,kolar,19/20,Eredivisie,21,4,1488
+205924,marko,kolar,19/20,KNVB beker,1,0,44
+205924,marko,kolar,19/20,Beloften Runda Wstępna,1,0,45
+205924,marko,kolar,18/19,Ekstraklasa,26,12,1800
+205924,marko,kolar,18/19,Fortuna Puchar Polski,1,0,61
+205924,marko,kolar,17/18,Ekstraklasa,5,0,77
+205924,marko,kolar,17/18,SuperSport HNL,6,0,327
+205924,marko,kolar,16/17,1.HNL,29,5,2161
+205924,marko,kolar,16/17,Hrvatski nogometni kup,2,1,145
+205924,marko,kolar,15/16,SuperSport HNL,21,3,983
+205924,marko,kolar,15/16,Hrvatski nogometni kup,1,2,51
+205924,marko,kolar,15/16,Kwalifikacje do Ligi Europy,4,2,226
+205924,marko,kolar,14/15,SuperSport HNL,30,7,1634
+205924,marko,kolar,14/15,Hrvatski nogometni kup,2,0,103
+205924,marko,kolar,13/14,Prva NL,21,8,1484
+205924,marko,kolar,13/14,SuperSport HNL,0,0,0
+205924,marko,kolar,12/13,SuperSport HNL,0,0,0

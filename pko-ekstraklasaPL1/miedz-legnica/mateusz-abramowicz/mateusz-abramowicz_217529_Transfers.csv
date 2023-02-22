@@ -1,11 +1,11 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-23,Stadtallendorf,Miedz Legnica,25000,free transfer
-20/21,2020-10-05,Chrobry Glogow,Stadtallendorf,75000,free transfer
-18/19,2018-07-01,GKS Katowice,Chrobry Glogow,100000,free transfer
-16/17,2016-07-05,Slask Wroclaw,GKS Katowice,100000,free transfer
-14/15,2015-02-18,Without Club,Slask Wroclaw,0,0
-14/15,2014-07-25,MKS Kluczbork,Without Club,0,free transfer
-13/14,2014-06-30,Termalica,MKS Kluczbork,0,End of loan
-13/14,2014-02-02,MKS Kluczbork,Termalica,0,loan transfer
-11/12,2011-07-01,Czarni Zagan,MKS Kluczbork,0,free transfer
-10/11,2011-01-01,KP Brzeg Dolny,Czarni Zagan,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+217529,mateusz,abramowicz,21/22,2021-07-23,Stadtallendorf,Miedz Legnica,25000,free transfer
+217529,mateusz,abramowicz,20/21,2020-10-05,Chrobry Glogow,Stadtallendorf,75000,free transfer
+217529,mateusz,abramowicz,18/19,2018-07-01,GKS Katowice,Chrobry Glogow,100000,free transfer
+217529,mateusz,abramowicz,16/17,2016-07-05,Slask Wroclaw,GKS Katowice,100000,free transfer
+217529,mateusz,abramowicz,14/15,2015-02-18,Without Club,Slask Wroclaw,0,0
+217529,mateusz,abramowicz,14/15,2014-07-25,MKS Kluczbork,Without Club,0,free transfer
+217529,mateusz,abramowicz,13/14,2014-06-30,Termalica,MKS Kluczbork,0,End of loan
+217529,mateusz,abramowicz,13/14,2014-02-02,MKS Kluczbork,Termalica,0,loan transfer
+217529,mateusz,abramowicz,11/12,2011-07-01,Czarni Zagan,MKS Kluczbork,0,free transfer
+217529,mateusz,abramowicz,10/11,2011-01-01,KP Brzeg Dolny,Czarni Zagan,0,free transfer

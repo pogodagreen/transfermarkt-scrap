@@ -1,16 +1,16 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-401608,lukasz-zjawinski,22/23,Ekstraklasa,12,0,485
-401608,lukasz-zjawinski,22/23,Fortuna Puchar Polski,1,1,44
-401608,lukasz-zjawinski,22/23,Ekstraklasa,2,0,19
-401608,lukasz-zjawinski,21/22,1 Liga,14,9,1178
-401608,lukasz-zjawinski,21/22,Ekstraklasa,2,0,16
-401608,lukasz-zjawinski,21/22,Fortuna Puchar Polski,1,0,13
-401608,lukasz-zjawinski,20/21,Ekstraklasa,24,1,903
-401608,lukasz-zjawinski,20/21,Fortuna Puchar Polski,2,0,104
-401608,lukasz-zjawinski,19/20,eWinner 2 liga,16,1,773
-401608,lukasz-zjawinski,19/20,Fortuna Puchar Polski,1,0,45
-401608,lukasz-zjawinski,18/19,3 Liga - Grupa I,26,4,1396
-401608,lukasz-zjawinski,18/19,CLJ,8,5,559
-401608,lukasz-zjawinski,17/18,CLJ - Runda Finałowa,2,1,180
-401608,lukasz-zjawinski,17/18,CLJ - Grupa Wschodnia,27,20,1700
-401608,lukasz-zjawinski,17/18,Liga Młodzieżowa UEFA,2,0,99
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+401608,lukasz,zjawinski,22/23,Ekstraklasa,12,0,485
+401608,lukasz,zjawinski,22/23,Fortuna Puchar Polski,1,1,44
+401608,lukasz,zjawinski,22/23,Ekstraklasa,2,0,19
+401608,lukasz,zjawinski,21/22,1 Liga,14,9,1178
+401608,lukasz,zjawinski,21/22,Ekstraklasa,2,0,16
+401608,lukasz,zjawinski,21/22,Fortuna Puchar Polski,1,0,13
+401608,lukasz,zjawinski,20/21,Ekstraklasa,24,1,903
+401608,lukasz,zjawinski,20/21,Fortuna Puchar Polski,2,0,104
+401608,lukasz,zjawinski,19/20,eWinner 2 liga,16,1,773
+401608,lukasz,zjawinski,19/20,Fortuna Puchar Polski,1,0,45
+401608,lukasz,zjawinski,18/19,3 Liga - Grupa I,26,4,1396
+401608,lukasz,zjawinski,18/19,CLJ,8,5,559
+401608,lukasz,zjawinski,17/18,CLJ - Runda Finałowa,2,1,180
+401608,lukasz,zjawinski,17/18,CLJ - Grupa Wschodnia,27,20,1700
+401608,lukasz,zjawinski,17/18,Liga Młodzieżowa UEFA,2,0,99

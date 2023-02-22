@@ -1,14 +1,14 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-605748,marcin-szpakowski,22/23,Ekstraklasa,14,0,639
-605748,marcin-szpakowski,22/23,Fortuna Puchar Polski,2,0,164
-605748,marcin-szpakowski,21/22,Baraze o udzial w Ekstraklasie,2,0,135
-605748,marcin-szpakowski,21/22,1 Liga,29,3,2089
-605748,marcin-szpakowski,21/22,Fortuna Puchar Polski,3,0,197
-605748,marcin-szpakowski,20/21,1 Liga,10,2,654
-605748,marcin-szpakowski,20/21,3 Liga - Grupa IV,5,0,353
-605748,marcin-szpakowski,20/21,Ekstraklasa,2,0,16
-605748,marcin-szpakowski,20/21,eWinner 2 liga,11,1,913
-605748,marcin-szpakowski,20/21,Fortuna Puchar Polski,0,0,0
-605748,marcin-szpakowski,19/20,Ekstraklasa,1,0,11
-605748,marcin-szpakowski,19/20,3 Liga - Grupa III,13,0,1009
-605748,marcin-szpakowski,18/19,CLJ,29,5,2430
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+605748,marcin,szpakowski,22/23,Ekstraklasa,14,0,639
+605748,marcin,szpakowski,22/23,Fortuna Puchar Polski,2,0,164
+605748,marcin,szpakowski,21/22,Baraze o udzial w Ekstraklasie,2,0,135
+605748,marcin,szpakowski,21/22,1 Liga,29,3,2089
+605748,marcin,szpakowski,21/22,Fortuna Puchar Polski,3,0,197
+605748,marcin,szpakowski,20/21,1 Liga,10,2,654
+605748,marcin,szpakowski,20/21,3 Liga - Grupa IV,5,0,353
+605748,marcin,szpakowski,20/21,Ekstraklasa,2,0,16
+605748,marcin,szpakowski,20/21,eWinner 2 liga,11,1,913
+605748,marcin,szpakowski,20/21,Fortuna Puchar Polski,0,0,0
+605748,marcin,szpakowski,19/20,Ekstraklasa,1,0,11
+605748,marcin,szpakowski,19/20,3 Liga - Grupa III,13,0,1009
+605748,marcin,szpakowski,18/19,CLJ,29,5,2430

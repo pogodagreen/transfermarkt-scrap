@@ -1,15 +1,15 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-08-20,Piast Gliwice,Al-Riyadh SC,300000,free transfer
-21/22,2021-08-20,Farense,Piast Gliwice,600000,free transfer
-20/21,2020-08-24,SC Braga,Farense,800000,0
-19/20,2020-07-31,Boavista,SC Braga,650000,End of loan
-19/20,2019-08-12,SC Braga,Boavista,800000,loan transfer
-18/19,2019-06-30,RCD Mallorca,SC Braga,800000,End of loan
-18/19,2019-01-21,SC Braga,RCD Mallorca,1000000,loan transfer
-18/19,2019-01-19,Red Star,SC Braga,1000000,End of loan
-18/19,2018-07-01,SC Braga,Red Star,1000000,Loan
-17/18,2018-06-30,Kayserispor,SC Braga,1000000,End of loan
-17/18,2017-09-06,SC Braga,Kayserispor,3000000,Loan
-15/16,2015-08-07,Čukarički,SC Braga,900000,750000
-12/13,2013-01-18,Rad,Čukarički,300000,free transfer
-11/12,2011-07-01,Rad U19,Rad,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+113504,nikola,stojiljkovic,22/23,2022-08-20,Piast Gliwice,Al-Riyadh SC,300000,free transfer
+113504,nikola,stojiljkovic,21/22,2021-08-20,Farense,Piast Gliwice,600000,free transfer
+113504,nikola,stojiljkovic,20/21,2020-08-24,SC Braga,Farense,800000,0
+113504,nikola,stojiljkovic,19/20,2020-07-31,Boavista,SC Braga,650000,End of loan
+113504,nikola,stojiljkovic,19/20,2019-08-12,SC Braga,Boavista,800000,loan transfer
+113504,nikola,stojiljkovic,18/19,2019-06-30,RCD Mallorca,SC Braga,800000,End of loan
+113504,nikola,stojiljkovic,18/19,2019-01-21,SC Braga,RCD Mallorca,1000000,loan transfer
+113504,nikola,stojiljkovic,18/19,2019-01-19,Red Star,SC Braga,1000000,End of loan
+113504,nikola,stojiljkovic,18/19,2018-07-01,SC Braga,Red Star,1000000,Loan
+113504,nikola,stojiljkovic,17/18,2018-06-30,Kayserispor,SC Braga,1000000,End of loan
+113504,nikola,stojiljkovic,17/18,2017-09-06,SC Braga,Kayserispor,3000000,Loan
+113504,nikola,stojiljkovic,15/16,2015-08-07,Čukarički,SC Braga,900000,750000
+113504,nikola,stojiljkovic,12/13,2013-01-18,Rad,Čukarički,300000,free transfer
+113504,nikola,stojiljkovic,11/12,2011-07-01,Rad U19,Rad,0,0

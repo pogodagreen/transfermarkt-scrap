@@ -1,39 +1,39 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-193554,jakub-swierczok,2021,J1 League,14,7,783
-193554,jakub-swierczok,2021,J. League Cup,3,1,116
-193554,jakub-swierczok,2021,Puchar Cesarza,2,1,117
-193554,jakub-swierczok,2021,AFC Champions League,2,3,176
-193554,jakub-swierczok,20/21,Ekstraklasa,23,15,1701
-193554,jakub-swierczok,20/21,Fortuna Puchar Polski,3,1,222
-193554,jakub-swierczok,20/21,Kwalifikacje do Ligi Europy,1,1,90
-193554,jakub-swierczok,20/21,efbet Liga,1,0,42
-193554,jakub-swierczok,19/20,Efbet liga - Championship gr.,1,0,55
-193554,jakub-swierczok,19/20,efbet Liga,20,6,978
-193554,jakub-swierczok,19/20,Bulgarian Cup,2,1,130
-193554,jakub-swierczok,19/20,Liga Europy,4,0,136
-193554,jakub-swierczok,19/20,Kwalifikacje do Ligi Europy,6,4,142
-193554,jakub-swierczok,19/20,Kwalifikacje do Ligi Mistrzów,2,1,135
-193554,jakub-swierczok,18/19,Efbet liga - Championship gr.,8,6,440
-193554,jakub-swierczok,18/19,efbet Liga,17,5,596
-193554,jakub-swierczok,18/19,Liga Europy,5,1,194
-193554,jakub-swierczok,18/19,Bulgarian Cup,1,2,120
-193554,jakub-swierczok,18/19,Kwalifikacje do Ligi Europy,0,0,0
-193554,jakub-swierczok,18/19,Kwalifikacje do Ligi Mistrzów,4,4,198
-193554,jakub-swierczok,18/19,Bulgarian Super Cup,1,0,24
-193554,jakub-swierczok,17/18,Efbet liga - Championship gr.,7,6,373
-193554,jakub-swierczok,17/18,efbet Liga,5,1,136
-193554,jakub-swierczok,17/18,Liga Europy,2,0,135
-193554,jakub-swierczok,17/18,Ekstraklasa,21,16,1651
-193554,jakub-swierczok,17/18,Fortuna Puchar Polski,4,1,265
-193554,jakub-swierczok,16/17,Nice 1 Liga,30,16,2534
-193554,jakub-swierczok,16/17,Fortuna Puchar Polski,1,0,90
-193554,jakub-swierczok,15/16,Ekstraklasa,31,7,1552
-193554,jakub-swierczok,15/16,Fortuna Puchar Polski,1,0,90
-193554,jakub-swierczok,14/15,Ekstraklasa,14,4,437
-193554,jakub-swierczok,14/15,Regionalliga Südwest,10,3,574
-193554,jakub-swierczok,13/14,Regionalliga Südwest,4,2,87
-193554,jakub-swierczok,12/13,Ekstraklasa,1,0,31
-193554,jakub-swierczok,11/12,RL West,9,3,640
-193554,jakub-swierczok,11/12,Bundesliga,6,0,283
-193554,jakub-swierczok,11/12,1 Liga,18,12,1484
-193554,jakub-swierczok,11/12,Fortuna Puchar Polski,2,0,240
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+193554,jakub,swierczok,2021,J1 League,14,7,783
+193554,jakub,swierczok,2021,J. League Cup,3,1,116
+193554,jakub,swierczok,2021,Puchar Cesarza,2,1,117
+193554,jakub,swierczok,2021,AFC Champions League,2,3,176
+193554,jakub,swierczok,20/21,Ekstraklasa,23,15,1701
+193554,jakub,swierczok,20/21,Fortuna Puchar Polski,3,1,222
+193554,jakub,swierczok,20/21,Kwalifikacje do Ligi Europy,1,1,90
+193554,jakub,swierczok,20/21,efbet Liga,1,0,42
+193554,jakub,swierczok,19/20,Efbet liga - Championship gr.,1,0,55
+193554,jakub,swierczok,19/20,efbet Liga,20,6,978
+193554,jakub,swierczok,19/20,Bulgarian Cup,2,1,130
+193554,jakub,swierczok,19/20,Liga Europy,4,0,136
+193554,jakub,swierczok,19/20,Kwalifikacje do Ligi Europy,6,4,142
+193554,jakub,swierczok,19/20,Kwalifikacje do Ligi Mistrzów,2,1,135
+193554,jakub,swierczok,18/19,Efbet liga - Championship gr.,8,6,440
+193554,jakub,swierczok,18/19,efbet Liga,17,5,596
+193554,jakub,swierczok,18/19,Liga Europy,5,1,194
+193554,jakub,swierczok,18/19,Bulgarian Cup,1,2,120
+193554,jakub,swierczok,18/19,Kwalifikacje do Ligi Europy,0,0,0
+193554,jakub,swierczok,18/19,Kwalifikacje do Ligi Mistrzów,4,4,198
+193554,jakub,swierczok,18/19,Bulgarian Super Cup,1,0,24
+193554,jakub,swierczok,17/18,Efbet liga - Championship gr.,7,6,373
+193554,jakub,swierczok,17/18,efbet Liga,5,1,136
+193554,jakub,swierczok,17/18,Liga Europy,2,0,135
+193554,jakub,swierczok,17/18,Ekstraklasa,21,16,1651
+193554,jakub,swierczok,17/18,Fortuna Puchar Polski,4,1,265
+193554,jakub,swierczok,16/17,Nice 1 Liga,30,16,2534
+193554,jakub,swierczok,16/17,Fortuna Puchar Polski,1,0,90
+193554,jakub,swierczok,15/16,Ekstraklasa,31,7,1552
+193554,jakub,swierczok,15/16,Fortuna Puchar Polski,1,0,90
+193554,jakub,swierczok,14/15,Ekstraklasa,14,4,437
+193554,jakub,swierczok,14/15,Regionalliga Südwest,10,3,574
+193554,jakub,swierczok,13/14,Regionalliga Südwest,4,2,87
+193554,jakub,swierczok,12/13,Ekstraklasa,1,0,31
+193554,jakub,swierczok,11/12,RL West,9,3,640
+193554,jakub,swierczok,11/12,Bundesliga,6,0,283
+193554,jakub,swierczok,11/12,1 Liga,18,12,1484
+193554,jakub,swierczok,11/12,Fortuna Puchar Polski,2,0,240

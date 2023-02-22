@@ -1,33 +1,33 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-128033,sasa-zivec,22/23,Ekstraklasa,4,1,159
-128033,sasa-zivec,22/23,eWinner 2 liga,3,0,113
-128033,sasa-zivec,21/22,Ekstraklasa,18,2,834
-128033,sasa-zivec,21/22,Fortuna Puchar Polski,2,0,134
-128033,sasa-zivec,20/21,Ekstraklasa,11,0,803
-128033,sasa-zivec,19/20,Ekstraklasa,33,9,2588
-128033,sasa-zivec,19/20,Fortuna Puchar Polski,2,1,176
-128033,sasa-zivec,18/19,Protathlima Cyta Championship Round,1,0,20
-128033,sasa-zivec,18/19,Protathlima Cyta,11,0,609
-128033,sasa-zivec,17/18,Ekstraklasa,26,6,2099
-128033,sasa-zivec,17/18,Fortuna Puchar Polski,2,0,168
-128033,sasa-zivec,16/17,Ekstraklasa,31,4,1726
-128033,sasa-zivec,16/17,Fortuna Puchar Polski,1,0,39
-128033,sasa-zivec,16/17,Kwalifikacje do Ligi Europy,1,0,90
-128033,sasa-zivec,15/16,Ekstraklasa,26,5,1871
-128033,sasa-zivec,14/15,Ekstraklasa,19,0,1115
-128033,sasa-zivec,14/15,Fortuna Puchar Polski,3,0,236
-128033,sasa-zivec,14/15,Prva Liga,6,1,540
-128033,sasa-zivec,13/14,Prva Liga,7,4,630
-128033,sasa-zivec,13/14,Prva Liga,18,4,1395
-128033,sasa-zivec,13/14,Pokal Slovenije,1,0,20
-128033,sasa-zivec,12/13,Prva Liga,13,2,1049
-128033,sasa-zivec,12/13,Prva Liga,10,2,691
-128033,sasa-zivec,12/13,Pokal Slovenije,1,0,44
-128033,sasa-zivec,11/12,Prva Liga,4,3,287
-128033,sasa-zivec,11/12,A Grupa,3,0,121
-128033,sasa-zivec,11/12,Liga Europy,0,0,0
-128033,sasa-zivec,11/12,Bulgarian Super Cup,1,0,8
-128033,sasa-zivec,10/11,Prva Liga,31,2,2557
-128033,sasa-zivec,10/11,Pokal Slovenije,1,0,66
-128033,sasa-zivec,09/10,Druga Liga,17,0,677
-128033,sasa-zivec,09/10,Pokal Slovenije,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+128033,sasa,zivec,22/23,Ekstraklasa,5,1,192
+128033,sasa,zivec,22/23,eWinner 2 liga,3,0,113
+128033,sasa,zivec,21/22,Ekstraklasa,18,2,834
+128033,sasa,zivec,21/22,Fortuna Puchar Polski,2,0,134
+128033,sasa,zivec,20/21,Ekstraklasa,11,0,803
+128033,sasa,zivec,19/20,Ekstraklasa,33,9,2588
+128033,sasa,zivec,19/20,Fortuna Puchar Polski,2,1,176
+128033,sasa,zivec,18/19,Protathlima Cyta Championship Round,1,0,20
+128033,sasa,zivec,18/19,Protathlima Cyta,11,0,609
+128033,sasa,zivec,17/18,Ekstraklasa,26,6,2099
+128033,sasa,zivec,17/18,Fortuna Puchar Polski,2,0,168
+128033,sasa,zivec,16/17,Ekstraklasa,31,4,1726
+128033,sasa,zivec,16/17,Fortuna Puchar Polski,1,0,39
+128033,sasa,zivec,16/17,Kwalifikacje do Ligi Europy,1,0,90
+128033,sasa,zivec,15/16,Ekstraklasa,26,5,1871
+128033,sasa,zivec,14/15,Ekstraklasa,19,0,1115
+128033,sasa,zivec,14/15,Fortuna Puchar Polski,3,0,236
+128033,sasa,zivec,14/15,Prva Liga,6,1,540
+128033,sasa,zivec,13/14,Prva Liga,7,4,630
+128033,sasa,zivec,13/14,Prva Liga,18,4,1395
+128033,sasa,zivec,13/14,Pokal Slovenije,1,0,20
+128033,sasa,zivec,12/13,Prva Liga,13,2,1049
+128033,sasa,zivec,12/13,Prva Liga,10,2,691
+128033,sasa,zivec,12/13,Pokal Slovenije,1,0,44
+128033,sasa,zivec,11/12,Prva Liga,4,3,287
+128033,sasa,zivec,11/12,A Grupa,3,0,121
+128033,sasa,zivec,11/12,Liga Europy,0,0,0
+128033,sasa,zivec,11/12,Bulgarian Super Cup,1,0,8
+128033,sasa,zivec,10/11,Prva Liga,31,2,2557
+128033,sasa,zivec,10/11,Pokal Slovenije,1,0,66
+128033,sasa,zivec,09/10,Druga Liga,17,0,677
+128033,sasa,zivec,09/10,Pokal Slovenije,0,0,0

@@ -1,7 +1,7 @@
-id,name,dates,marketValue
-658155,nikolas-korzeniecki,2020-08-26,25000
-658155,nikolas-korzeniecki,2021-02-23,75000
-658155,nikolas-korzeniecki,2021-06-29,100000
-658155,nikolas-korzeniecki,2022-01-13,75000
-658155,nikolas-korzeniecki,2022-06-23,100000
-658155,nikolas-korzeniecki,2022-11-15,50000
+id,firstName,lastName,dates,marketValue
+658155,nikolas,korzeniecki,2020-08-26,25000
+658155,nikolas,korzeniecki,2021-02-23,75000
+658155,nikolas,korzeniecki,2021-06-29,100000
+658155,nikolas,korzeniecki,2022-01-13,75000
+658155,nikolas,korzeniecki,2022-06-23,100000
+658155,nikolas,korzeniecki,2022-11-15,50000

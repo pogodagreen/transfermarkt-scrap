@@ -1,13 +1,13 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-01,Lech Poznan,Widzew Lodz,400000,free transfer
-21/22,2022-06-30,Widzew Lodz,Lech Poznan,400000,End of loan
-21/22,2021-07-02,Lech Poznan,Widzew Lodz,400000,loan transfer
-20/21,2021-06-30,Arka Gdynia,Lech Poznan,400000,End of loan
-20/21,2020-08-01,Lech Poznan,Arka Gdynia,200000,loan transfer
-18/19,2019-01-11,Bytovia Bytow,Lech Poznan,50000,75000
-18/19,2018-07-01,Baltyk Gdynia,Bytovia Bytow,50000,free transfer
-17/18,2017-08-10,Lechia Gdansk,Baltyk Gdynia,50000,free transfer
-16/17,2017-01-25,Bytovia Bytow,Lechia Gdansk,50000,End of loan
-16/17,2016-08-31,Lechia Gdansk,Bytovia Bytow,50000,loan transfer
-15/16,2015-11-26,Lechia U19,Lechia Gdansk,50000,0
-14/15,2015-01-01,Lechia Gdańsk Y,Lechia U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+384659,juliusz,letniowski,22/23,2022-07-01,Lech Poznan,Widzew Lodz,400000,free transfer
+384659,juliusz,letniowski,21/22,2022-06-30,Widzew Lodz,Lech Poznan,400000,End of loan
+384659,juliusz,letniowski,21/22,2021-07-02,Lech Poznan,Widzew Lodz,400000,loan transfer
+384659,juliusz,letniowski,20/21,2021-06-30,Arka Gdynia,Lech Poznan,400000,End of loan
+384659,juliusz,letniowski,20/21,2020-08-01,Lech Poznan,Arka Gdynia,200000,loan transfer
+384659,juliusz,letniowski,18/19,2019-01-11,Bytovia Bytow,Lech Poznan,50000,75000
+384659,juliusz,letniowski,18/19,2018-07-01,Baltyk Gdynia,Bytovia Bytow,50000,free transfer
+384659,juliusz,letniowski,17/18,2017-08-10,Lechia Gdansk,Baltyk Gdynia,50000,free transfer
+384659,juliusz,letniowski,16/17,2017-01-25,Bytovia Bytow,Lechia Gdansk,50000,End of loan
+384659,juliusz,letniowski,16/17,2016-08-31,Lechia Gdansk,Bytovia Bytow,50000,loan transfer
+384659,juliusz,letniowski,15/16,2015-11-26,Lechia U19,Lechia Gdansk,50000,0
+384659,juliusz,letniowski,14/15,2015-01-01,Lechia Gdańsk Y,Lechia U19,0,0

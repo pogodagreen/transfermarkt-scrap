@@ -1,15 +1,15 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-475802,bartosz-bida,22/23,Ekstraklasa,12,0,537
-475802,bartosz-bida,22/23,Fortuna Puchar Polski,0,0,0
-475802,bartosz-bida,22/23,3 Liga - Grupa I,1,1,90
-475802,bartosz-bida,21/22,3 Liga - Grupa I,4,1,323
-475802,bartosz-bida,21/22,Ekstraklasa,17,3,627
-475802,bartosz-bida,21/22,Fortuna Puchar Polski,1,0,13
-475802,bartosz-bida,20/21,Ekstraklasa,17,2,712
-475802,bartosz-bida,20/21,3 Liga - Grupa I,6,0,465
-475802,bartosz-bida,19/20,Ekstraklasa,25,5,1663
-475802,bartosz-bida,19/20,Fortuna Puchar Polski,0,0,0
-475802,bartosz-bida,18/19,Fortuna 1 Liga,10,5,386
-475802,bartosz-bida,18/19,Fortuna Puchar Polski,1,0,44
-475802,bartosz-bida,17/18,CLJ - Grupa Wschodnia,26,12,2278
-475802,bartosz-bida,17/18,Ekstraklasa,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+475802,bartosz,bida,22/23,Ekstraklasa,13,0,614
+475802,bartosz,bida,22/23,Fortuna Puchar Polski,0,0,0
+475802,bartosz,bida,22/23,3 Liga - Grupa I,1,1,90
+475802,bartosz,bida,21/22,3 Liga - Grupa I,4,1,323
+475802,bartosz,bida,21/22,Ekstraklasa,17,3,627
+475802,bartosz,bida,21/22,Fortuna Puchar Polski,1,0,13
+475802,bartosz,bida,20/21,Ekstraklasa,17,2,712
+475802,bartosz,bida,20/21,3 Liga - Grupa I,6,0,465
+475802,bartosz,bida,19/20,Ekstraklasa,25,5,1663
+475802,bartosz,bida,19/20,Fortuna Puchar Polski,0,0,0
+475802,bartosz,bida,18/19,Fortuna 1 Liga,10,5,386
+475802,bartosz,bida,18/19,Fortuna Puchar Polski,1,0,44
+475802,bartosz,bida,17/18,CLJ - Grupa Wschodnia,26,12,2278
+475802,bartosz,bida,17/18,Ekstraklasa,0,0,0

@@ -1,8 +1,8 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-01,Termalica,Stal Mielec,75000,free transfer
-20/21,2020-08-04,Zaglebie Lubin,Termalica,150000,free transfer
-18/19,2019-06-30,Chojniczanka,Zaglebie Lubin,200000,End of loan
-18/19,2019-01-19,Zaglebie Lubin,Chojniczanka,100000,loan transfer
-14/15,2015-02-13,Lubin II,Zaglebie Lubin,0,0
-14/15,2014-07-01,Lubin U19,Lubin II,0,0
-11/12,2011-07-01,Walbrzych U19,Lubin U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+353827,pawel,zyra,22/23,2022-07-01,Termalica,Stal Mielec,75000,free transfer
+353827,pawel,zyra,20/21,2020-08-04,Zaglebie Lubin,Termalica,150000,free transfer
+353827,pawel,zyra,18/19,2019-06-30,Chojniczanka,Zaglebie Lubin,200000,End of loan
+353827,pawel,zyra,18/19,2019-01-19,Zaglebie Lubin,Chojniczanka,100000,loan transfer
+353827,pawel,zyra,14/15,2015-02-13,Lubin II,Zaglebie Lubin,0,0
+353827,pawel,zyra,14/15,2014-07-01,Lubin U19,Lubin II,0,0
+353827,pawel,zyra,11/12,2011-07-01,Walbrzych U19,Lubin U19,0,0

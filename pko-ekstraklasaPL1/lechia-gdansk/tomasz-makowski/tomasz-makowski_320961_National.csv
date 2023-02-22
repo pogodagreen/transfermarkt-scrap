@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-320961,tomasz-makowski,1999,Poland,"1,83",Defensive Midfield,0,1,4,6,9,13,2,0
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+320961,tomasz,makowski,1999,Poland,"1,83",Defensive Midfield,0,1,4,6,9,13,2,0

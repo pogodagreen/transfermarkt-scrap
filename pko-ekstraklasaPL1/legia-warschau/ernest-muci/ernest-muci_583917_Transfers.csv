@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2021-02-23,KF Tirana,Legia Warszawa,525000,500000
-18/19,2018-07-01,KF Tirana U19,KF Tirana,0,0
-17/18,2017-09-22,FK Dinamo U17,KF Tirana U19,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+583917,ernest,muci,20/21,2021-02-23,KF Tirana,Legia Warszawa,525000,500000
+583917,ernest,muci,18/19,2018-07-01,KF Tirana U19,KF Tirana,0,0
+583917,ernest,muci,17/18,2017-09-22,FK Dinamo U17,KF Tirana U19,0,free transfer

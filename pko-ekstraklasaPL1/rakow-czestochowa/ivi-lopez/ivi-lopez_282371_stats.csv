@@ -1,29 +1,29 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-282371,ivi-lopez,22/23,Ekstraklasa,19,5,1365
-282371,ivi-lopez,22/23,Fortuna Puchar Polski,1,1,90
-282371,ivi-lopez,22/23,UECL Kwalifikacje,5,4,441
-282371,ivi-lopez,22/23,Superpuchar,1,0,84
-282371,ivi-lopez,21/22,Ekstraklasa,32,20,2475
-282371,ivi-lopez,21/22,Fortuna Puchar Polski,6,2,438
-282371,ivi-lopez,21/22,UECL Kwalifikacje,6,0,501
-282371,ivi-lopez,21/22,Superpuchar,1,0,21
-282371,ivi-lopez,20/21,Ekstraklasa,26,9,1578
-282371,ivi-lopez,20/21,Fortuna Puchar Polski,5,4,377
-282371,ivi-lopez,19/20,LaLiga SmartBank,14,3,964
-282371,ivi-lopez,19/20,Puchar Króla,2,0,180
-282371,ivi-lopez,19/20,LaLiga SmartBank,7,1,173
-282371,ivi-lopez,18/19,LaLiga 1|2|3,7,0,220
-282371,ivi-lopez,18/19,LaLiga,3,0,17
-282371,ivi-lopez,18/19,Puchar Króla,2,0,163
-282371,ivi-lopez,17/18,LaLiga,29,4,1757
-282371,ivi-lopez,17/18,Puchar Króla,3,1,89
-282371,ivi-lopez,16/17,LaLiga 1|2|3,35,14,3025
-282371,ivi-lopez,15/16,Ascenso a 2ª,6,0,404
-282371,ivi-lopez,15/16,2ª B - Grupo IV,32,9,2698
-282371,ivi-lopez,15/16,LaLiga,0,0,0
-282371,ivi-lopez,14/15,LaLiga,8,0,127
-282371,ivi-lopez,14/15,2ª B - Grupo II,27,3,2104
-282371,ivi-lopez,14/15,Puchar Króla,1,0,87
-282371,ivi-lopez,13/14,2ª B - Grupo II,33,8,2425
-282371,ivi-lopez,13/14,LaLiga,1,0,21
-282371,ivi-lopez,12/13,2ª B - Grupo I,4,0,103
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+282371,ivi,lopez,22/23,Ekstraklasa,20,5,1446
+282371,ivi,lopez,22/23,Fortuna Puchar Polski,1,1,90
+282371,ivi,lopez,22/23,UECL Kwalifikacje,5,4,441
+282371,ivi,lopez,22/23,Superpuchar,1,0,84
+282371,ivi,lopez,21/22,Ekstraklasa,32,20,2475
+282371,ivi,lopez,21/22,Fortuna Puchar Polski,6,2,438
+282371,ivi,lopez,21/22,UECL Kwalifikacje,6,0,501
+282371,ivi,lopez,21/22,Superpuchar,1,0,21
+282371,ivi,lopez,20/21,Ekstraklasa,26,9,1578
+282371,ivi,lopez,20/21,Fortuna Puchar Polski,5,4,377
+282371,ivi,lopez,19/20,LaLiga SmartBank,14,3,964
+282371,ivi,lopez,19/20,Puchar Króla,2,0,180
+282371,ivi,lopez,19/20,LaLiga SmartBank,7,1,173
+282371,ivi,lopez,18/19,LaLiga 1|2|3,7,0,220
+282371,ivi,lopez,18/19,LaLiga,3,0,17
+282371,ivi,lopez,18/19,Puchar Króla,2,0,163
+282371,ivi,lopez,17/18,LaLiga,29,4,1757
+282371,ivi,lopez,17/18,Puchar Króla,3,1,89
+282371,ivi,lopez,16/17,LaLiga 1|2|3,35,14,3025
+282371,ivi,lopez,15/16,Ascenso a 2ª,6,0,404
+282371,ivi,lopez,15/16,2ª B - Grupo IV,32,9,2698
+282371,ivi,lopez,15/16,LaLiga,0,0,0
+282371,ivi,lopez,14/15,LaLiga,8,0,127
+282371,ivi,lopez,14/15,2ª B - Grupo II,27,3,2104
+282371,ivi,lopez,14/15,Puchar Króla,1,0,87
+282371,ivi,lopez,13/14,2ª B - Grupo II,33,8,2425
+282371,ivi,lopez,13/14,LaLiga,1,0,21
+282371,ivi,lopez,12/13,2ª B - Grupo I,4,0,103

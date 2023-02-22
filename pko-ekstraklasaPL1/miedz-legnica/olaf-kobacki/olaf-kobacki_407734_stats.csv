@@ -1,18 +1,18 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-407734,olaf-kobacki,22/23,Ekstraklasa,18,1,1064
-407734,olaf-kobacki,22/23,3 Liga - Grupa III,1,0,44
-407734,olaf-kobacki,22/23,Fortuna Puchar Polski,1,0,90
-407734,olaf-kobacki,21/22,Baraze o udzial w Ekstraklasie,1,0,79
-407734,olaf-kobacki,21/22,1 Liga,26,6,1937
-407734,olaf-kobacki,21/22,Fortuna Puchar Polski,1,0,75
-407734,olaf-kobacki,20/21,Primavera Fase Finale,0,0,0
-407734,olaf-kobacki,20/21,Primavera 1,22,4,1420
-407734,olaf-kobacki,20/21,Coppa Primavera,1,0,67
-407734,olaf-kobacki,20/21,Supercoppa Primavera,1,1,80
-407734,olaf-kobacki,19/20,Liga Młodzieżowa UEFA,1,0,0
-407734,olaf-kobacki,19/20,Primavera 1,3,0,87
-407734,olaf-kobacki,19/20,Coppa Primavera,1,0,0
-407734,olaf-kobacki,18/19,Primavera 1,3,0,29
-407734,olaf-kobacki,18/19,Coppa Primavera,1,0,26
-407734,olaf-kobacki,17/18,Under 17 - finals,4,1,146
-407734,olaf-kobacki,17/18,Under 17 - B,16,9,877
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+407734,olaf,kobacki,22/23,Ekstraklasa,18,1,1064
+407734,olaf,kobacki,22/23,3 Liga - Grupa III,1,0,44
+407734,olaf,kobacki,22/23,Fortuna Puchar Polski,1,0,90
+407734,olaf,kobacki,21/22,Baraze o udzial w Ekstraklasie,1,0,79
+407734,olaf,kobacki,21/22,1 Liga,26,6,1937
+407734,olaf,kobacki,21/22,Fortuna Puchar Polski,1,0,75
+407734,olaf,kobacki,20/21,Primavera Fase Finale,0,0,0
+407734,olaf,kobacki,20/21,Primavera 1,22,4,1420
+407734,olaf,kobacki,20/21,Coppa Primavera,1,0,67
+407734,olaf,kobacki,20/21,Supercoppa Primavera,1,1,80
+407734,olaf,kobacki,19/20,Liga Młodzieżowa UEFA,1,0,0
+407734,olaf,kobacki,19/20,Primavera 1,3,0,87
+407734,olaf,kobacki,19/20,Coppa Primavera,1,0,0
+407734,olaf,kobacki,18/19,Primavera 1,3,0,29
+407734,olaf,kobacki,18/19,Coppa Primavera,1,0,26
+407734,olaf,kobacki,17/18,Under 17 - finals,4,1,146
+407734,olaf,kobacki,17/18,Under 17 - B,16,9,877

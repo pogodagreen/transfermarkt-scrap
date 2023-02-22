@@ -1,12 +1,12 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Zaglebie Lubin,Aarhus GF,400000,End of loan
-22/23,2022-09-01,Aarhus GF,Zaglebie Lubin,500000,loan transfer
-21/22,2021-07-12,MSK Zilina,Aarhus GF,900000,1000000
-19/20,2020-01-01,Lech Poznan,MSK Zilina,200000,250000
-19/20,2019-12-31,MSK Zilina B,Lech Poznan,200000,End of loan
-18/19,2019-02-21,Lech Poznan,MSK Zilina B,150000,loan transfer
-18/19,2018-12-31,Michalovce,Lech Poznan,150000,End of loan
-17/18,2018-01-11,Lech Poznan,Michalovce,100000,loan transfer
-17/18,2017-07-01,Lech Poznan II,Lech Poznan,100000,0
-14/15,2015-01-01,Lech U19,Lech Poznan II,0,0
-13/14,2013-07-01,Wa. Poznan U19,Lech U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+346549,dawid,kurminowski,22/23,2023-06-30,Zaglebie Lubin,Aarhus GF,400000,End of loan
+346549,dawid,kurminowski,22/23,2022-09-01,Aarhus GF,Zaglebie Lubin,500000,loan transfer
+346549,dawid,kurminowski,21/22,2021-07-12,MSK Zilina,Aarhus GF,900000,1000000
+346549,dawid,kurminowski,19/20,2020-01-01,Lech Poznan,MSK Zilina,200000,250000
+346549,dawid,kurminowski,19/20,2019-12-31,MSK Zilina B,Lech Poznan,200000,End of loan
+346549,dawid,kurminowski,18/19,2019-02-21,Lech Poznan,MSK Zilina B,150000,loan transfer
+346549,dawid,kurminowski,18/19,2018-12-31,Michalovce,Lech Poznan,150000,End of loan
+346549,dawid,kurminowski,17/18,2018-01-11,Lech Poznan,Michalovce,100000,loan transfer
+346549,dawid,kurminowski,17/18,2017-07-01,Lech Poznan II,Lech Poznan,100000,0
+346549,dawid,kurminowski,14/15,2015-01-01,Lech U19,Lech Poznan II,0,0
+346549,dawid,kurminowski,13/14,2013-07-01,Wa. Poznan U19,Lech U19,0,0

@@ -1,6 +1,6 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-01,KF Laçi,Widzew Lodz,400000,free transfer
-19/20,2019-07-01,KS Kastrioti,KF Laçi,125000,free transfer
-18/19,2018-07-01,Paniliakos,KS Kastrioti,0,free transfer
-17/18,2017-08-10,Int. Tiranë,Paniliakos,0,free transfer
-14/15,2014-09-27,Partizani U17,Int. Tiranë,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+528021,juljan,shehu,22/23,2022-07-01,KF Laçi,Widzew Lodz,400000,free transfer
+528021,juljan,shehu,19/20,2019-07-01,KS Kastrioti,KF Laçi,125000,free transfer
+528021,juljan,shehu,18/19,2018-07-01,Paniliakos,KS Kastrioti,0,free transfer
+528021,juljan,shehu,17/18,2017-08-10,Int. Tiranë,Paniliakos,0,free transfer
+528021,juljan,shehu,14/15,2014-09-27,Partizani U17,Int. Tiranë,0,free transfer

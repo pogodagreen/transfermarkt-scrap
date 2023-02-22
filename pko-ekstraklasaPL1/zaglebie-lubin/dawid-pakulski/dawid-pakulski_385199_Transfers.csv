@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2021-06-30,Motor Lublin,Zaglebie Lubin,150000,End of loan
-20/21,2021-02-16,Zaglebie Lubin,Motor Lublin,150000,loan transfer
-17/18,2017-11-16,Lubin II,Zaglebie Lubin,0,0
-15/16,2015-07-01,Lubin U19,Lubin II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+385199,dawid,pakulski,20/21,2021-06-30,Motor Lublin,Zaglebie Lubin,150000,End of loan
+385199,dawid,pakulski,20/21,2021-02-16,Zaglebie Lubin,Motor Lublin,150000,loan transfer
+385199,dawid,pakulski,17/18,2017-11-16,Lubin II,Zaglebie Lubin,0,0
+385199,dawid,pakulski,15/16,2015-07-01,Lubin U19,Lubin II,0,0

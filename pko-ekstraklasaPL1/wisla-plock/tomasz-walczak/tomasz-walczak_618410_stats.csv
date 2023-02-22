@@ -1,5 +1,5 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-618410,tomasz-walczak,22/23,Ekstraklasa,1,0,7
-618410,tomasz-walczak,22/23,Fortuna Puchar Polski,1,0,13
-618410,tomasz-walczak,21/22,Ekstraklasa,6,0,19
-618410,tomasz-walczak,21/22,Fortuna Puchar Polski,1,1,9
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+618410,tomasz,walczak,22/23,Ekstraklasa,1,0,7
+618410,tomasz,walczak,22/23,Fortuna Puchar Polski,1,0,13
+618410,tomasz,walczak,21/22,Ekstraklasa,6,0,19
+618410,tomasz,walczak,21/22,Fortuna Puchar Polski,1,1,9

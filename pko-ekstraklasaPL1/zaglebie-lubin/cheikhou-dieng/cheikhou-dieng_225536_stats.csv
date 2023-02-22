@@ -1,33 +1,33 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-225536,cheikhou-dieng,22/23,eWinner 2 liga,5,2,311
-225536,cheikhou-dieng,22/23,Ekstraklasa,6,0,288
-225536,cheikhou-dieng,22/23,Fortuna Puchar Polski,1,0,44
-225536,cheikhou-dieng,21/22,Ekstraklasa,11,0,470
-225536,cheikhou-dieng,21/22,Bundesliga,17,3,510
-225536,cheikhou-dieng,21/22,ÖFB-Cup,3,1,126
-225536,cheikhou-dieng,20/21,Bundesliga EL-Play-off,2,0,37
-225536,cheikhou-dieng,20/21,Bundesliga,21,3,658
-225536,cheikhou-dieng,20/21,ÖFB-Cup,4,2,290
-225536,cheikhou-dieng,20/21,Liga Europy,5,0,328
-225536,cheikhou-dieng,19/20,Bundesliga,12,1,528
-225536,cheikhou-dieng,18/19,Bundesliga,26,4,2051
-225536,cheikhou-dieng,18/19,ÖFB-Cup,2,0,180
-225536,cheikhou-dieng,17/18,Super liga,8,0,306
-225536,cheikhou-dieng,17/18,1.Lig,7,0,312
-225536,cheikhou-dieng,17/18,Türkiye Kupasi,1,0,68
-225536,cheikhou-dieng,16/17,Bundesliga,13,1,1099
-225536,cheikhou-dieng,16/17,ÖFB-Cup,1,0,90
-225536,cheikhou-dieng,16/17,Türkiye Kupasi,4,1,324
-225536,cheikhou-dieng,16/17,Süper Lig,1,0,6
-225536,cheikhou-dieng,16/17,Kwalifikacje do Ligi Europy,1,0,18
-225536,cheikhou-dieng,15/16,Erste Liga,17,6,1516
-225536,cheikhou-dieng,15/16,ÖFB-Cup,2,0,113
-225536,cheikhou-dieng,2015,Tippeligaen,27,3,2231
-225536,cheikhou-dieng,2015,NM-Cup,5,0,416
-225536,cheikhou-dieng,2014,1. divisjon,26,2,1352
-225536,cheikhou-dieng,2014,NM-Cup,1,0,120
-225536,cheikhou-dieng,2013,Adeccoligaen,26,3,1719
-225536,cheikhou-dieng,2013,NM-Cup,3,1,243
-225536,cheikhou-dieng,2012,Relegation Eliteserien,1,0,90
-225536,cheikhou-dieng,2012,Adeccoligaen,23,4,1389
-225536,cheikhou-dieng,2012,NM-Cup,5,1,510
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+225536,cheikhou,dieng,22/23,eWinner 2 liga,5,2,311
+225536,cheikhou,dieng,22/23,Ekstraklasa,6,0,288
+225536,cheikhou,dieng,22/23,Fortuna Puchar Polski,1,0,44
+225536,cheikhou,dieng,21/22,Ekstraklasa,11,0,470
+225536,cheikhou,dieng,21/22,Bundesliga,17,3,510
+225536,cheikhou,dieng,21/22,ÖFB-Cup,3,1,126
+225536,cheikhou,dieng,20/21,Bundesliga EL-Play-off,2,0,37
+225536,cheikhou,dieng,20/21,Bundesliga,21,3,658
+225536,cheikhou,dieng,20/21,ÖFB-Cup,4,2,290
+225536,cheikhou,dieng,20/21,Liga Europy,5,0,328
+225536,cheikhou,dieng,19/20,Bundesliga,12,1,528
+225536,cheikhou,dieng,18/19,Bundesliga,26,4,2051
+225536,cheikhou,dieng,18/19,ÖFB-Cup,2,0,180
+225536,cheikhou,dieng,17/18,Super liga,8,0,306
+225536,cheikhou,dieng,17/18,1.Lig,7,0,312
+225536,cheikhou,dieng,17/18,Türkiye Kupasi,1,0,68
+225536,cheikhou,dieng,16/17,Bundesliga,13,1,1099
+225536,cheikhou,dieng,16/17,ÖFB-Cup,1,0,90
+225536,cheikhou,dieng,16/17,Türkiye Kupasi,4,1,324
+225536,cheikhou,dieng,16/17,Süper Lig,1,0,6
+225536,cheikhou,dieng,16/17,Kwalifikacje do Ligi Europy,1,0,18
+225536,cheikhou,dieng,15/16,Erste Liga,17,6,1516
+225536,cheikhou,dieng,15/16,ÖFB-Cup,2,0,113
+225536,cheikhou,dieng,2015,Tippeligaen,27,3,2231
+225536,cheikhou,dieng,2015,NM-Cup,5,0,416
+225536,cheikhou,dieng,2014,1. divisjon,26,2,1352
+225536,cheikhou,dieng,2014,NM-Cup,1,0,120
+225536,cheikhou,dieng,2013,Adeccoligaen,26,3,1719
+225536,cheikhou,dieng,2013,NM-Cup,3,1,243
+225536,cheikhou,dieng,2012,Relegation Eliteserien,1,0,90
+225536,cheikhou,dieng,2012,Adeccoligaen,23,4,1389
+225536,cheikhou,dieng,2012,NM-Cup,5,1,510

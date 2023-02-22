@@ -1,31 +1,31 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-76071,leandro,22/23,Ekstraklasa,5,0,51
-76071,leandro,22/23,Fortuna Puchar Polski,2,0,240
-76071,leandro,21/22,Ekstraklasa,31,0,2473
-76071,leandro,21/22,Fortuna Puchar Polski,4,0,244
-76071,leandro,20/21,Baraze o udzial w Ekstraklasie,2,0,210
-76071,leandro,20/21,1 Liga,33,0,2892
-76071,leandro,20/21,Fortuna Puchar Polski,2,0,146
-76071,leandro,19/20,eWinner 2 liga,31,0,2741
-76071,leandro,19/20,Fortuna Puchar Polski,2,0,180
-76071,leandro,18/19,Fortuna 1 Liga,15,0,565
-76071,leandro,18/19,Fortuna Puchar Polski,1,0,90
-76071,leandro,17/18,Nice 1 Liga,31,1,2651
-76071,leandro,17/18,Fortuna Puchar Polski,1,0,90
-76071,leandro,16/17,Ekstraklasa,34,1,3034
-76071,leandro,16/17,Fortuna Puchar Polski,0,0,0
-76071,leandro,15/16,Ekstraklasa,31,1,2758
-76071,leandro,15/16,Fortuna Puchar Polski,1,0,74
-76071,leandro,14/15,Ekstraklasa,23,1,1951
-76071,leandro,14/15,Fortuna Puchar Polski,1,0,90
-76071,leandro,13/14,Premier Liha,9,0,810
-76071,leandro,13/14,Puchar Ukrainy,1,0,90
-76071,leandro,13/14,Premier Liha,6,0,367
-76071,leandro,11/12,Premier Liha,24,0,2160
-76071,leandro,11/12,Puchar Ukrainy,4,0,409
-76071,leandro,10/11,Premier Liha,13,0,936
-76071,leandro,10/11,Puchar Ukrainy,0,0,0
-76071,leandro,10/11,Kwalifikacje do Ligi Europy,2,0,146
-76071,leandro,10/11,Persza Liga,2,0,102
-76071,leandro,09/10,Premier Liha,22,0,1927
-76071,leandro,08/09,Puchar Intertoto,4,0,302
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+76071,leandro,-,22/23,Ekstraklasa,5,0,51
+76071,leandro,-,22/23,Fortuna Puchar Polski,2,0,240
+76071,leandro,-,21/22,Ekstraklasa,31,0,2473
+76071,leandro,-,21/22,Fortuna Puchar Polski,4,0,244
+76071,leandro,-,20/21,Baraze o udzial w Ekstraklasie,2,0,210
+76071,leandro,-,20/21,1 Liga,33,0,2892
+76071,leandro,-,20/21,Fortuna Puchar Polski,2,0,146
+76071,leandro,-,19/20,eWinner 2 liga,31,0,2741
+76071,leandro,-,19/20,Fortuna Puchar Polski,2,0,180
+76071,leandro,-,18/19,Fortuna 1 Liga,15,0,565
+76071,leandro,-,18/19,Fortuna Puchar Polski,1,0,90
+76071,leandro,-,17/18,Nice 1 Liga,31,1,2651
+76071,leandro,-,17/18,Fortuna Puchar Polski,1,0,90
+76071,leandro,-,16/17,Ekstraklasa,34,1,3034
+76071,leandro,-,16/17,Fortuna Puchar Polski,0,0,0
+76071,leandro,-,15/16,Ekstraklasa,31,1,2758
+76071,leandro,-,15/16,Fortuna Puchar Polski,1,0,74
+76071,leandro,-,14/15,Ekstraklasa,23,1,1951
+76071,leandro,-,14/15,Fortuna Puchar Polski,1,0,90
+76071,leandro,-,13/14,Premier Liha,9,0,810
+76071,leandro,-,13/14,Puchar Ukrainy,1,0,90
+76071,leandro,-,13/14,Premier Liha,6,0,367
+76071,leandro,-,11/12,Premier Liha,24,0,2160
+76071,leandro,-,11/12,Puchar Ukrainy,4,0,409
+76071,leandro,-,10/11,Premier Liha,13,0,936
+76071,leandro,-,10/11,Puchar Ukrainy,0,0,0
+76071,leandro,-,10/11,Kwalifikacje do Ligi Europy,2,0,146
+76071,leandro,-,10/11,Persza Liga,2,0,102
+76071,leandro,-,09/10,Premier Liha,22,0,1927
+76071,leandro,-,08/09,Puchar Intertoto,4,0,302

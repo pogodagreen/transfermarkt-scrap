@@ -1,17 +1,17 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-13,FC Arges,Radomiak,500000,free transfer
-22/23,2022-07-01,Without Club,FC Arges,600000,0
-21/22,2022-02-17,CFR Cluj,Without Club,750000,0
-19/20,2019-07-13,Astra Giurgiu,CFR Cluj,850000,free transfer
-18/19,2018-07-24,SAS Epinal,Astra Giurgiu,100000,free transfer
-16/17,2016-07-03,Without Club,SAS Epinal,0,0
-15/16,2015-07-01,Woking,Without Club,0,0
-12/13,2012-07-19,Leyton Orient,Woking,0,free transfer
-11/12,2012-03-14,Woking,Leyton Orient,0,End of loan
-11/12,2012-01-12,Leyton Orient,Woking,0,loan transfer
-11/12,2011-09-19,Woking,Leyton Orient,0,End of loan
-11/12,2011-08-19,Leyton Orient,Woking,0,loan transfer
-10/11,2011-02-12,Boreham Wood,Leyton Orient,0,End of loan
-10/11,2011-01-11,Leyton Orient,Boreham Wood,0,loan transfer
-10/11,2010-07-01,Leyton U18,Leyton Orient,0,0
-09/10,2009-07-01,AC Pisa,Leyton U18,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+136744,mike,cestor,22/23,2023-01-13,FC Arges,Radomiak,500000,free transfer
+136744,mike,cestor,22/23,2022-07-01,Without Club,FC Arges,600000,0
+136744,mike,cestor,21/22,2022-02-17,CFR Cluj,Without Club,750000,0
+136744,mike,cestor,19/20,2019-07-13,Astra Giurgiu,CFR Cluj,850000,free transfer
+136744,mike,cestor,18/19,2018-07-24,SAS Epinal,Astra Giurgiu,100000,free transfer
+136744,mike,cestor,16/17,2016-07-03,Without Club,SAS Epinal,0,0
+136744,mike,cestor,15/16,2015-07-01,Woking,Without Club,0,0
+136744,mike,cestor,12/13,2012-07-19,Leyton Orient,Woking,0,free transfer
+136744,mike,cestor,11/12,2012-03-14,Woking,Leyton Orient,0,End of loan
+136744,mike,cestor,11/12,2012-01-12,Leyton Orient,Woking,0,loan transfer
+136744,mike,cestor,11/12,2011-09-19,Woking,Leyton Orient,0,End of loan
+136744,mike,cestor,11/12,2011-08-19,Leyton Orient,Woking,0,loan transfer
+136744,mike,cestor,10/11,2011-02-12,Boreham Wood,Leyton Orient,0,End of loan
+136744,mike,cestor,10/11,2011-01-11,Leyton Orient,Boreham Wood,0,loan transfer
+136744,mike,cestor,10/11,2010-07-01,Leyton U18,Leyton Orient,0,0
+136744,mike,cestor,09/10,2009-07-01,AC Pisa,Leyton U18,0,free transfer

@@ -1,2 +1,2 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-04-15,Piast Gliwice II,Piast Gliwice,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+1006682,bartosz,luczak,21/22,2022-04-15,Piast Gliwice II,Piast Gliwice,0,0

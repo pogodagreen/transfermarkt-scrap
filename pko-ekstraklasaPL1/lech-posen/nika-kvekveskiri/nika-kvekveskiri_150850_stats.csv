@@ -1,38 +1,39 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-150850,nika-kvekveskiri,22/23,Ekstraklasa,15,1,946
-150850,nika-kvekveskiri,22/23,Liga Konferencji,6,0,360
-150850,nika-kvekveskiri,22/23,Fortuna Puchar Polski,1,0,90
-150850,nika-kvekveskiri,22/23,UECL Kwalifikacje,6,0,370
-150850,nika-kvekveskiri,22/23,Kwalifikacje do Ligi Mistrzów,2,0,15
-150850,nika-kvekveskiri,22/23,Superpuchar,1,0,90
-150850,nika-kvekveskiri,21/22,Ekstraklasa,29,2,1189
-150850,nika-kvekveskiri,21/22,Fortuna Puchar Polski,6,0,251
-150850,nika-kvekveskiri,20/21,Ekstraklasa,12,0,610
-150850,nika-kvekveskiri,20/21,Fortuna Puchar Polski,1,0,54
-150850,nika-kvekveskiri,2020,Premier Liga,16,0,959
-150850,nika-kvekveskiri,19/20,Kwalifikacje do Ligi Europy,2,0,180
-150850,nika-kvekveskiri,2019,Premier Liga,22,2,1670
-150850,nika-kvekveskiri,2019,Kubok Kazakhstana,2,0,180
-150850,nika-kvekveskiri,18/19,Kwalifikacje do Ligi Europy,4,0,360
-150850,nika-kvekveskiri,2018,Premier Liga,23,2,1467
-150850,nika-kvekveskiri,2017,Premier Liga,14,1,1210
-150850,nika-kvekveskiri,16/17,Premyer Liqa,14,0,1091
-150850,nika-kvekveskiri,16/17,Liga Europy,3,0,186
-150850,nika-kvekveskiri,16/17,Kwalifikacje do Ligi Europy,8,1,709
-150850,nika-kvekveskiri,15/16,Premyer Liqa,29,4,2521
-150850,nika-kvekveskiri,15/16,Kwalifikacje do Ligi Europy,6,2,570
-150850,nika-kvekveskiri,14/15,Erovnuli Liga (bis 2016/17),25,7,1895
-150850,nika-kvekveskiri,14/15,David Kipiani Cup,2,0,165
-150850,nika-kvekveskiri,13/14,Erovnuli Liga (bis 2016/17),7,1,622
-150850,nika-kvekveskiri,13/14,David Kipiani Cup,1,0,90
-150850,nika-kvekveskiri,12/13,Erovnuli Liga (bis 2016/17),8,0,210
-150850,nika-kvekveskiri,12/13,David Kipiani Cup,1,0,44
-150850,nika-kvekveskiri,11/12,Umaglesi Liga Meisterschaftsrunde,14,1,1038
-150850,nika-kvekveskiri,11/12,Erovnuli Liga (bis 2016/17),20,1,1696
-150850,nika-kvekveskiri,11/12,David Kipiani Cup,2,0,142
-150850,nika-kvekveskiri,11/12,Liga Europy,2,0,210
-150850,nika-kvekveskiri,11/12,Kwalifikacje do Ligi Europy,5,1,440
-150850,nika-kvekveskiri,10/11,Erovnuli Liga (bis 2016/17),17,0,807
-150850,nika-kvekveskiri,10/11,Erovnuli Liga (bis 2016/17),14,1,1218
-150850,nika-kvekveskiri,09/10,Erovnuli Liga (bis 2016/17),11,0,833
-150850,nika-kvekveskiri,09/10,David Kipiani Cup,4,3,356
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+150850,nika,kvekveskiri,22/23,Ekstraklasa,16,1,991
+150850,nika,kvekveskiri,22/23,Liga Konferencji,7,0,405
+150850,nika,kvekveskiri,22/23,Fortuna Puchar Polski,1,0,90
+150850,nika,kvekveskiri,22/23,UECL Kwalifikacje,6,0,370
+150850,nika,kvekveskiri,22/23,Kwalifikacje do Ligi Mistrzów,2,0,15
+150850,nika,kvekveskiri,22/23,Superpuchar,1,0,90
+150850,nika,kvekveskiri,21/22,Ekstraklasa,29,2,1189
+150850,nika,kvekveskiri,21/22,Fortuna Puchar Polski,6,0,251
+150850,nika,kvekveskiri,20/21,Ekstraklasa,12,0,610
+150850,nika,kvekveskiri,20/21,Fortuna Puchar Polski,1,0,54
+150850,nika,kvekveskiri,2020,Premier Liga,16,0,959
+150850,nika,kvekveskiri,19/20,Kwalifikacje do Ligi Europy,2,0,180
+150850,nika,kvekveskiri,2019,Premier Liga,22,2,1670
+150850,nika,kvekveskiri,2019,Kubok Kazakhstana,2,0,180
+150850,nika,kvekveskiri,18/19,Kwalifikacje do Ligi Europy,4,0,360
+150850,nika,kvekveskiri,2018,Premier Liga,23,2,1467
+150850,nika,kvekveskiri,2018,Kubok Kazakhstana,1,0,44
+150850,nika,kvekveskiri,2017,Premier Liga,14,1,1210
+150850,nika,kvekveskiri,16/17,Premyer Liqa,14,0,1091
+150850,nika,kvekveskiri,16/17,Liga Europy,3,0,186
+150850,nika,kvekveskiri,16/17,Kwalifikacje do Ligi Europy,8,1,709
+150850,nika,kvekveskiri,15/16,Premyer Liqa,29,4,2521
+150850,nika,kvekveskiri,15/16,Kwalifikacje do Ligi Europy,6,2,570
+150850,nika,kvekveskiri,14/15,Erovnuli Liga (bis 2016/17),25,7,1895
+150850,nika,kvekveskiri,14/15,David Kipiani Cup,2,0,165
+150850,nika,kvekveskiri,13/14,Erovnuli Liga (bis 2016/17),7,1,622
+150850,nika,kvekveskiri,13/14,David Kipiani Cup,1,0,90
+150850,nika,kvekveskiri,12/13,Erovnuli Liga (bis 2016/17),8,0,210
+150850,nika,kvekveskiri,12/13,David Kipiani Cup,1,0,44
+150850,nika,kvekveskiri,11/12,Umaglesi Liga Meisterschaftsrunde,14,1,1038
+150850,nika,kvekveskiri,11/12,Erovnuli Liga (bis 2016/17),20,1,1696
+150850,nika,kvekveskiri,11/12,David Kipiani Cup,2,0,142
+150850,nika,kvekveskiri,11/12,Liga Europy,2,0,210
+150850,nika,kvekveskiri,11/12,Kwalifikacje do Ligi Europy,5,1,440
+150850,nika,kvekveskiri,10/11,Erovnuli Liga (bis 2016/17),17,0,807
+150850,nika,kvekveskiri,10/11,Erovnuli Liga (bis 2016/17),14,1,1218
+150850,nika,kvekveskiri,09/10,Erovnuli Liga (bis 2016/17),11,0,833
+150850,nika,kvekveskiri,09/10,David Kipiani Cup,4,3,356

@@ -1,8 +1,8 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-29,Wisla Plock,Debrecen,300000,free transfer
-20/21,2020-08-11,Sochi,Wisla Plock,500000,free transfer
-18/19,2018-07-01,Čukarički,Sochi,300000,free transfer
-17/18,2018-06-30,Dinamo SPb,Čukarički,300000,End of loan
-17/18,2018-01-01,Čukarički,Dinamo SPb,300000,loan transfer
-15/16,2016-01-01,FK Mladost,Čukarički,75000,free transfer
-13/14,2014-01-01,Mogren,FK Mladost,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+246831,dusan,lagator,22/23,2022-07-29,Wisla Plock,Debrecen,300000,free transfer
+246831,dusan,lagator,20/21,2020-08-11,Sochi,Wisla Plock,500000,free transfer
+246831,dusan,lagator,18/19,2018-07-01,Čukarički,Sochi,300000,free transfer
+246831,dusan,lagator,17/18,2018-06-30,Dinamo SPb,Čukarički,300000,End of loan
+246831,dusan,lagator,17/18,2018-01-01,Čukarički,Dinamo SPb,300000,loan transfer
+246831,dusan,lagator,15/16,2016-01-01,FK Mladost,Čukarički,75000,free transfer
+246831,dusan,lagator,13/14,2014-01-01,Mogren,FK Mladost,0,0

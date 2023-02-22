@@ -1,20 +1,20 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-470375,mateusz-zukowski,22/23,eWinner 2 liga,7,0,630
-470375,mateusz-zukowski,22/23,Liga Konferencji,0,0,0
-470375,mateusz-zukowski,22/23,Ekstraklasa,3,0,69
-470375,mateusz-zukowski,22/23,Fortuna Puchar Polski,0,0,0
-470375,mateusz-zukowski,22/23,Challenge Cup,2,0,180
-470375,mateusz-zukowski,21/22,SFA Cup,1,0,90
-470375,mateusz-zukowski,21/22,Premiership,0,0,0
-470375,mateusz-zukowski,21/22,Ekstraklasa,18,2,1215
-470375,mateusz-zukowski,21/22,Fortuna Puchar Polski,2,0,100
-470375,mateusz-zukowski,20/21,Ekstraklasa,16,0,216
-470375,mateusz-zukowski,20/21,Fortuna Puchar Polski,3,0,64
-470375,mateusz-zukowski,19/20,1 Liga,11,0,344
-470375,mateusz-zukowski,19/20,Fortuna Puchar Polski,1,0,62
-470375,mateusz-zukowski,19/20,Ekstraklasa,0,0,0
-470375,mateusz-zukowski,18/19,Ekstraklasa,8,0,171
-470375,mateusz-zukowski,18/19,Fortuna Puchar Polski,1,0,0
-470375,mateusz-zukowski,17/18,Ekstraklasa,2,0,52
-470375,mateusz-zukowski,17/18,CLJ - Grupa Zachodnia,13,4,940
-470375,mateusz-zukowski,16/17,CLJ - Grupa Zachodnia,6,1,316
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+470375,mateusz,zukowski,22/23,Ekstraklasa,3,0,69
+470375,mateusz,zukowski,22/23,Liga Konferencji,0,0,0
+470375,mateusz,zukowski,22/23,eWinner 2 liga,7,0,630
+470375,mateusz,zukowski,22/23,Fortuna Puchar Polski,0,0,0
+470375,mateusz,zukowski,22/23,Challenge Cup,2,0,180
+470375,mateusz,zukowski,21/22,SFA Cup,1,0,90
+470375,mateusz,zukowski,21/22,Premiership,0,0,0
+470375,mateusz,zukowski,21/22,Ekstraklasa,18,2,1215
+470375,mateusz,zukowski,21/22,Fortuna Puchar Polski,2,0,100
+470375,mateusz,zukowski,20/21,Ekstraklasa,16,0,216
+470375,mateusz,zukowski,20/21,Fortuna Puchar Polski,3,0,64
+470375,mateusz,zukowski,19/20,1 Liga,11,0,344
+470375,mateusz,zukowski,19/20,Fortuna Puchar Polski,1,0,62
+470375,mateusz,zukowski,19/20,Ekstraklasa,0,0,0
+470375,mateusz,zukowski,18/19,Ekstraklasa,8,0,171
+470375,mateusz,zukowski,18/19,Fortuna Puchar Polski,1,0,0
+470375,mateusz,zukowski,17/18,Ekstraklasa,2,0,52
+470375,mateusz,zukowski,17/18,CLJ - Grupa Zachodnia,13,4,940
+470375,mateusz,zukowski,16/17,CLJ - Grupa Zachodnia,6,1,316

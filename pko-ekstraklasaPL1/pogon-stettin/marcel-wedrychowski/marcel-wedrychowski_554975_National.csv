@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-554975,marcel-wedrychowski,2002,Poland,"1,73",Right Winger,0,7,8,0,7,3,2,0
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+554975,marcel,wedrychowski,2002,Poland,"1,73",Right Winger,0,7,8,0,7,3,2,0

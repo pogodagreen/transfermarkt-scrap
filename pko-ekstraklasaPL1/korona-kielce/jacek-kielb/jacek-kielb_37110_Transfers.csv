@@ -1,13 +1,13 @@
-season,date,sourceTeam,destTeam,marketValue,price
-19/20,2020-02-06,Termalica,Korona Kielce,100000,free transfer
-18/19,2018-07-02,Korona Kielce,Termalica,400000,free transfer
-16/17,2016-08-01,Slask Wroclaw,Korona Kielce,200000,free transfer
-15/16,2015-07-01,Korona Kielce,Slask Wroclaw,400000,free transfer
-13/14,2013-07-01,Lech Poznan,Korona Kielce,450000,100000
-12/13,2013-06-30,Pol. Warsaw,Lech Poznan,450000,End of loan
-12/13,2012-08-16,Lech Poznan,Pol. Warsaw,650000,loan transfer
-11/12,2012-06-30,Korona Kielce,Lech Poznan,650000,End of loan
-11/12,2011-08-01,Lech Poznan,Korona Kielce,650000,Loan
-10/11,2010-07-01,Korona Kielce,Lech Poznan,625000,250000
-05/06,2006-01-01,Pogon Siedlce,Korona Kielce,0,10000
-04/05,2004-07-01,P. Siedlce U19,Pogon Siedlce,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+37110,jacek,kielb,19/20,2020-02-06,Termalica,Korona Kielce,100000,free transfer
+37110,jacek,kielb,18/19,2018-07-02,Korona Kielce,Termalica,400000,free transfer
+37110,jacek,kielb,16/17,2016-08-01,Slask Wroclaw,Korona Kielce,200000,free transfer
+37110,jacek,kielb,15/16,2015-07-01,Korona Kielce,Slask Wroclaw,400000,free transfer
+37110,jacek,kielb,13/14,2013-07-01,Lech Poznan,Korona Kielce,450000,100000
+37110,jacek,kielb,12/13,2013-06-30,Pol. Warsaw,Lech Poznan,450000,End of loan
+37110,jacek,kielb,12/13,2012-08-16,Lech Poznan,Pol. Warsaw,650000,loan transfer
+37110,jacek,kielb,11/12,2012-06-30,Korona Kielce,Lech Poznan,650000,End of loan
+37110,jacek,kielb,11/12,2011-08-01,Lech Poznan,Korona Kielce,650000,Loan
+37110,jacek,kielb,10/11,2010-07-01,Korona Kielce,Lech Poznan,625000,250000
+37110,jacek,kielb,05/06,2006-01-01,Pogon Siedlce,Korona Kielce,0,10000
+37110,jacek,kielb,04/05,2004-07-01,P. Siedlce U19,Pogon Siedlce,0,0

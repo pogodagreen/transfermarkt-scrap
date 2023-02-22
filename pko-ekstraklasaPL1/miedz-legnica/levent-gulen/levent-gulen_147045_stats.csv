@@ -1,42 +1,42 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-147045,levent-gulen,22/23,Ekstraklasa,16,0,1381
-147045,levent-gulen,22/23,Fortuna Puchar Polski,0,0,0
-147045,levent-gulen,21/22,SL1 Play-out,6,0,520
-147045,levent-gulen,21/22,Super League 1,18,1,1232
-147045,levent-gulen,21/22,Kypello Elladas,2,0,180
-147045,levent-gulen,20/21,1.Lig,19,0,1439
-147045,levent-gulen,20/21,Türkiye Kupasi,1,0,90
-147045,levent-gulen,19/20,Süper Lig,2,0,83
-147045,levent-gulen,19/20,Türkiye Kupasi,1,0,120
-147045,levent-gulen,18/19,Süper Lig,26,0,1368
-147045,levent-gulen,18/19,Türkiye Kupasi,4,0,360
-147045,levent-gulen,17/18,Süper Lig,13,1,835
-147045,levent-gulen,17/18,Türkiye Kupasi,8,0,675
-147045,levent-gulen,16/17,Süper Lig,30,1,2560
-147045,levent-gulen,16/17,Türkiye Kupasi,10,1,800
-147045,levent-gulen,16/17,Super League,1,0,29
-147045,levent-gulen,16/17,Kwalifikacje do Ligi Europy,0,0,0
-147045,levent-gulen,15/16,Super League,17,0,1294
-147045,levent-gulen,15/16,FL-Cup,2,0,180
-147045,levent-gulen,15/16,Super League,14,0,1205
-147045,levent-gulen,15/16,Schweizer Cup,2,0,166
-147045,levent-gulen,14/15,Super League,23,0,2005
-147045,levent-gulen,14/15,Schweizer Cup,4,0,420
-147045,levent-gulen,14/15,Liga Europy,1,0,90
-147045,levent-gulen,14/15,1. Liga gr. 3,1,0,90
-147045,levent-gulen,14/15,Kwalifikacje do Ligi Mistrzów,0,0,0
-147045,levent-gulen,13/14,1.Liga Cl. Gr. 2,7,0,630
-147045,levent-gulen,13/14,Süper Lig,14,0,1178
-147045,levent-gulen,13/14,Super League,1,0,0
-147045,levent-gulen,13/14,Schweizer Cup,0,0,0
-147045,levent-gulen,13/14,Kwalifikacje do Ligi Mistrzów,0,0,0
-147045,levent-gulen,12/13,Super League,0,0,0
-147045,levent-gulen,12/13,1.Liga Cl. Gr. 2,20,0,1769
-147045,levent-gulen,12/13,Swiss Cup,1,0,21
-147045,levent-gulen,11/12,Swiss U18 Elite League,3,0,260
-147045,levent-gulen,11/12,1.Liga Gruppe 2,27,0,2430
-147045,levent-gulen,11/12,Super League,0,0,0
-147045,levent-gulen,10/11,Swiss U18 Elite League,24,0,2132
-147045,levent-gulen,10/11,1.Liga Gruppe 2,1,0,5
-147045,levent-gulen,10/11,Viareggio,2,0,180
-147045,levent-gulen,09/10,Swiss U18 Elite League,15,1,1319
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+147045,levent,gulen,22/23,Ekstraklasa,16,0,1381
+147045,levent,gulen,22/23,Fortuna Puchar Polski,0,0,0
+147045,levent,gulen,21/22,SL1 Play-out,6,0,520
+147045,levent,gulen,21/22,Super League 1,18,1,1232
+147045,levent,gulen,21/22,Kypello Elladas,2,0,180
+147045,levent,gulen,20/21,1.Lig,19,0,1439
+147045,levent,gulen,20/21,Türkiye Kupasi,1,0,90
+147045,levent,gulen,19/20,Süper Lig,2,0,83
+147045,levent,gulen,19/20,Türkiye Kupasi,1,0,120
+147045,levent,gulen,18/19,Süper Lig,26,0,1368
+147045,levent,gulen,18/19,Türkiye Kupasi,4,0,360
+147045,levent,gulen,17/18,Süper Lig,13,1,835
+147045,levent,gulen,17/18,Türkiye Kupasi,8,0,675
+147045,levent,gulen,16/17,Süper Lig,30,1,2560
+147045,levent,gulen,16/17,Türkiye Kupasi,10,1,800
+147045,levent,gulen,16/17,Super League,1,0,29
+147045,levent,gulen,16/17,Kwalifikacje do Ligi Europy,0,0,0
+147045,levent,gulen,15/16,Super League,17,0,1294
+147045,levent,gulen,15/16,FL-Cup,2,0,180
+147045,levent,gulen,15/16,Super League,14,0,1205
+147045,levent,gulen,15/16,Schweizer Cup,2,0,166
+147045,levent,gulen,14/15,Super League,23,0,2005
+147045,levent,gulen,14/15,Schweizer Cup,4,0,420
+147045,levent,gulen,14/15,Liga Europy,1,0,90
+147045,levent,gulen,14/15,1. Liga gr. 3,1,0,90
+147045,levent,gulen,14/15,Kwalifikacje do Ligi Mistrzów,0,0,0
+147045,levent,gulen,13/14,1.Liga Cl. Gr. 2,7,0,630
+147045,levent,gulen,13/14,Süper Lig,14,0,1178
+147045,levent,gulen,13/14,Super League,1,0,0
+147045,levent,gulen,13/14,Schweizer Cup,0,0,0
+147045,levent,gulen,13/14,Kwalifikacje do Ligi Mistrzów,0,0,0
+147045,levent,gulen,12/13,Super League,0,0,0
+147045,levent,gulen,12/13,1.Liga Cl. Gr. 2,20,0,1769
+147045,levent,gulen,12/13,Swiss Cup,1,0,21
+147045,levent,gulen,11/12,Swiss U18 Elite League,3,0,260
+147045,levent,gulen,11/12,1.Liga Gruppe 2,27,0,2430
+147045,levent,gulen,11/12,Super League,0,0,0
+147045,levent,gulen,10/11,Swiss U18 Elite League,24,0,2132
+147045,levent,gulen,10/11,1.Liga Gruppe 2,1,0,5
+147045,levent,gulen,10/11,Viareggio,2,0,180
+147045,levent,gulen,09/10,Swiss U18 Elite League,15,1,1319

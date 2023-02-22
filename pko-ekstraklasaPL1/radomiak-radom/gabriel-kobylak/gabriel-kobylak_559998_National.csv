@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-559998,gabriel-kobylak,2002,Poland,"1,93",Goalkeeper,0,0,0,0,0,0,0,0
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+559998,gabriel,kobylak,2002,Poland,"1,93",Goalkeeper,0,0,0,0,0,0,0,0

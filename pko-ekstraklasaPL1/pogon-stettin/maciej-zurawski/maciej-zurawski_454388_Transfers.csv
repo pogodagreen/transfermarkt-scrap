@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-20,Pogon Szczecin,Warta Poznan,500000,0
-20/21,2021-06-30,Warta Poznan,Pogon Szczecin,500000,End of loan
-20/21,2021-01-13,Pogon Szczecin,Warta Poznan,200000,loan transfer
-18/19,2018-07-12,Pogon U19,Pogon Szczecin,0,0
-15/16,2016-01-01,Wlokniarz U19,Pogon U19,0,free transfer
-13/14,2014-01-01,Elana U19,Wlokniarz U19,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+454388,maciej,zurawski,22/23,2022-07-20,Pogon Szczecin,Warta Poznan,500000,0
+454388,maciej,zurawski,20/21,2021-06-30,Warta Poznan,Pogon Szczecin,500000,End of loan
+454388,maciej,zurawski,20/21,2021-01-13,Pogon Szczecin,Warta Poznan,200000,loan transfer
+454388,maciej,zurawski,18/19,2018-07-12,Pogon U19,Pogon Szczecin,0,0
+454388,maciej,zurawski,15/16,2016-01-01,Wlokniarz U19,Pogon U19,0,free transfer
+454388,maciej,zurawski,13/14,2014-01-01,Elana U19,Wlokniarz U19,0,free transfer

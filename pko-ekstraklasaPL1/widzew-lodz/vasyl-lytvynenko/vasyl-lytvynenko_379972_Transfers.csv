@@ -1,8 +1,8 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-04-05,FK Obolon,Widzew Lodz,150000,free transfer
-18/19,2019-02-04,Kolos Kovalivka,Obolon-Brovar,75000,free transfer
-13/14,2014-01-01,Desna Pogreby,Kolos Kovalivka,0,free transfer
-12/13,2013-01-01,Obolon 2 Kyiv,Desna Pogreby,0,free transfer
-12/13,2012-08-30,Obolon Kyiv II,Obolon 2 Kyiv,0,0
-12/13,2012-08-29,Khmelnytskyi,Obolon Kyiv II,0,End of loan
-12/13,2012-07-01,Obolon Kyiv II,Khmelnytskyi,0,loan transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+379972,vasyl,lytvynenko,21/22,2022-04-05,FK Obolon,Widzew Lodz,150000,free transfer
+379972,vasyl,lytvynenko,18/19,2019-02-04,Kolos Kovalivka,Obolon-Brovar,75000,free transfer
+379972,vasyl,lytvynenko,13/14,2014-01-01,Desna Pogreby,Kolos Kovalivka,0,free transfer
+379972,vasyl,lytvynenko,12/13,2013-01-01,Obolon 2 Kyiv,Desna Pogreby,0,free transfer
+379972,vasyl,lytvynenko,12/13,2012-08-30,Obolon Kyiv II,Obolon 2 Kyiv,0,0
+379972,vasyl,lytvynenko,12/13,2012-08-29,Dyn. Khmeln.,Obolon Kyiv II,0,End of loan
+379972,vasyl,lytvynenko,12/13,2012-07-01,Obolon Kyiv II,Dyn. Khmeln.,0,loan transfer

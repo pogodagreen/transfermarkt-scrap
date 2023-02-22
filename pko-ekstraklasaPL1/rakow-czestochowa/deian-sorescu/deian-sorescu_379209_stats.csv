@@ -1,27 +1,27 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-379209,deian-sorescu,22/23,SuperLiga,4,0,234
-379209,deian-sorescu,22/23,Ekstraklasa,11,2,692
-379209,deian-sorescu,22/23,Fortuna Puchar Polski,2,0,178
-379209,deian-sorescu,22/23,UECL Kwalifikacje,2,0,23
-379209,deian-sorescu,22/23,Superpuchar,0,0,0
-379209,deian-sorescu,21/22,Fortuna Puchar Polski,3,0,202
-379209,deian-sorescu,21/22,Ekstraklasa,9,1,723
-379209,deian-sorescu,21/22,Liga 1,19,8,1661
-379209,deian-sorescu,21/22,Cupa României,1,0,90
-379209,deian-sorescu,20/21,Liga 1 - Relegation group,9,3,810
-379209,deian-sorescu,20/21,Cupa României,5,1,435
-379209,deian-sorescu,20/21,Liga 1,28,4,2401
-379209,deian-sorescu,19/20,Liga 1 - Relegation group,8,4,712
-379209,deian-sorescu,19/20,Cupa României,5,1,325
-379209,deian-sorescu,19/20,Liga 1,24,6,1965
-379209,deian-sorescu,18/19,Liga 1 - Relegation group,13,0,1076
-379209,deian-sorescu,18/19,Liga 1,22,2,1616
-379209,deian-sorescu,17/18,Liga 2,34,14,3018
-379209,deian-sorescu,17/18,Cupa României,1,0,90
-379209,deian-sorescu,16/17,Liga 2,4,0,260
-379209,deian-sorescu,16/17,Liga 1,5,0,209
-379209,deian-sorescu,16/17,Cupa Ligii,1,0,90
-379209,deian-sorescu,15/16,Liga 1 - Relegation group,2,0,101
-379209,deian-sorescu,15/16,Liga 1,0,0,0
-379209,deian-sorescu,15/16,Cupa României,1,0,0
-379209,deian-sorescu,14/15,Liga II - Seria II Play-Off,1,0,90
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+379209,deian,sorescu,22/23,SuperLiga,5,0,324
+379209,deian,sorescu,22/23,Ekstraklasa,11,2,692
+379209,deian,sorescu,22/23,Fortuna Puchar Polski,2,0,178
+379209,deian,sorescu,22/23,UECL Kwalifikacje,2,0,23
+379209,deian,sorescu,22/23,Superpuchar,0,0,0
+379209,deian,sorescu,21/22,Fortuna Puchar Polski,3,0,202
+379209,deian,sorescu,21/22,Ekstraklasa,9,1,723
+379209,deian,sorescu,21/22,Liga 1,19,8,1661
+379209,deian,sorescu,21/22,Cupa României,1,0,90
+379209,deian,sorescu,20/21,Liga 1 - Relegation group,9,3,810
+379209,deian,sorescu,20/21,Cupa României,5,1,435
+379209,deian,sorescu,20/21,Liga 1,28,4,2401
+379209,deian,sorescu,19/20,Liga 1 - Relegation group,8,4,712
+379209,deian,sorescu,19/20,Cupa României,5,1,325
+379209,deian,sorescu,19/20,Liga 1,24,6,1965
+379209,deian,sorescu,18/19,Liga 1 - Relegation group,13,0,1076
+379209,deian,sorescu,18/19,Liga 1,22,2,1616
+379209,deian,sorescu,17/18,Liga 2,34,14,3018
+379209,deian,sorescu,17/18,Cupa României,1,0,90
+379209,deian,sorescu,16/17,Liga 2,4,0,260
+379209,deian,sorescu,16/17,Liga 1,5,0,209
+379209,deian,sorescu,16/17,Cupa Ligii,1,0,90
+379209,deian,sorescu,15/16,Liga 1 - Relegation group,2,0,101
+379209,deian,sorescu,15/16,Liga 1,0,0,0
+379209,deian,sorescu,15/16,Cupa României,1,0,0
+379209,deian,sorescu,14/15,Liga II - Seria II Play-Off,1,0,90

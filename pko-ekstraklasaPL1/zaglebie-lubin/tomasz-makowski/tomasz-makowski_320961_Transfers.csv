@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-01,Lechia Gdansk,Zaglebie Lubin,800000,free transfer
-18/19,2018-07-18,Lechia II,Lechia Gdansk,100000,0
-17/18,2018-06-30,Gornik Leczna,Lechia II,75000,End of loan
-17/18,2017-07-25,Lechia II,Gornik Leczna,50000,loan transfer
-16/17,2016-07-01,Lechia U19,Lechia II,0,0
-15/16,2015-07-01,UKS SMS U19,Lechia U19,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+320961,tomasz,makowski,22/23,2022-07-01,Lechia Gdansk,Zaglebie Lubin,800000,free transfer
+320961,tomasz,makowski,18/19,2018-07-18,Lechia II,Lechia Gdansk,100000,0
+320961,tomasz,makowski,17/18,2018-06-30,Gornik Leczna,Lechia II,75000,End of loan
+320961,tomasz,makowski,17/18,2017-07-25,Lechia II,Gornik Leczna,50000,loan transfer
+320961,tomasz,makowski,16/17,2016-07-01,Lechia U19,Lechia II,0,0
+320961,tomasz,makowski,15/16,2015-07-01,UKS SMS U19,Lechia U19,0,free transfer

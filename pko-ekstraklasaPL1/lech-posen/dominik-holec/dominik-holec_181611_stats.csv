@@ -1,36 +1,37 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-181611,dominik-holec,22/23,Ekstraklasa,0,0,0
-181611,dominik-holec,22/23,Fortuna Liga,7,0,3
-181611,dominik-holec,22/23,UECL Kwalifikacje,2,0,1
-181611,dominik-holec,21/22,MOL Cup,1,0,1
-181611,dominik-holec,21/22,Fortuna Liga Meisterrunde,0,0,0
-181611,dominik-holec,21/22,Fortuna Liga,10,0,4
-181611,dominik-holec,21/22,Liga Konferencji,2,0,0
-181611,dominik-holec,21/22,Liga Europy,2,0,1
-181611,dominik-holec,21/22,FNL,1,0,0
-181611,dominik-holec,21/22,Kwalifikacje do Ligi Mistrzów,0,0,0
-181611,dominik-holec,20/21,Ekstraklasa,16,0,8
-181611,dominik-holec,20/21,Fortuna Puchar Polski,3,0,1
-181611,dominik-holec,20/21,Liga Europy,0,0,0
-181611,dominik-holec,20/21,CFL,2,0,0
-181611,dominik-holec,20/21,MOL Cup,0,0,0
-181611,dominik-holec,20/21,Fortuna Liga,0,0,0
-181611,dominik-holec,19/20,Fortuna Liga,22,0,11
-181611,dominik-holec,19/20,Slovnaft Cup,0,0,0
-181611,dominik-holec,18/19,Fort. Liga - Champ. G.,10,0,1
-181611,dominik-holec,18/19,Slovnaft Cup,0,0,0
-181611,dominik-holec,18/19,Fortuna Liga,20,0,8
-181611,dominik-holec,17/18,Fortuna L. - Rel. Playoff,2,0,1
-181611,dominik-holec,17/18,Fort. Liga - Releg. G.,9,0,2
-181611,dominik-holec,17/18,Fortuna Liga,3,0,1
-181611,dominik-holec,17/18,II. Liga,8,0,1
-181611,dominik-holec,17/18,Slovnaft Cup,0,0,0
-181611,dominik-holec,17/18,Fortuna Liga,2,0,0
-181611,dominik-holec,17/18,Kwalifikacje do Ligi Mistrzów,0,0,0
-181611,dominik-holec,16/17,Fortuna Liga,3,0,0
-181611,dominik-holec,16/17,II. Liga West,7,0,2
-181611,dominik-holec,15/16,II. Liga Promotion,8,0,5
-181611,dominik-holec,15/16,II. Liga West,4,0,1
-181611,dominik-holec,15/16,II. Liga East,11,0,0
-181611,dominik-holec,14/15,II. Liga Promotion,3,0,0
-181611,dominik-holec,14/15,II. Liga West,4,0,1
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+181611,dominik,holec,22/23,Ekstraklasa,0,0,0
+181611,dominik,holec,22/23,Liga Konferencji,0,0,0
+181611,dominik,holec,22/23,Fortuna Liga,7,0,3
+181611,dominik,holec,22/23,UECL Kwalifikacje,2,0,1
+181611,dominik,holec,21/22,MOL Cup,1,0,1
+181611,dominik,holec,21/22,Fortuna Liga Meisterrunde,0,0,0
+181611,dominik,holec,21/22,Fortuna Liga,10,0,4
+181611,dominik,holec,21/22,Liga Konferencji,2,0,0
+181611,dominik,holec,21/22,Liga Europy,2,0,1
+181611,dominik,holec,21/22,FNL,1,0,0
+181611,dominik,holec,21/22,Kwalifikacje do Ligi Mistrzów,0,0,0
+181611,dominik,holec,20/21,Ekstraklasa,16,0,8
+181611,dominik,holec,20/21,Fortuna Puchar Polski,3,0,1
+181611,dominik,holec,20/21,Liga Europy,0,0,0
+181611,dominik,holec,20/21,CFL,2,0,0
+181611,dominik,holec,20/21,MOL Cup,0,0,0
+181611,dominik,holec,20/21,Fortuna Liga,0,0,0
+181611,dominik,holec,19/20,Fortuna Liga,22,0,11
+181611,dominik,holec,19/20,Slovnaft Cup,0,0,0
+181611,dominik,holec,18/19,Fort. Liga - Champ. G.,10,0,1
+181611,dominik,holec,18/19,Slovnaft Cup,0,0,0
+181611,dominik,holec,18/19,Fortuna Liga,20,0,8
+181611,dominik,holec,17/18,Fortuna L. - Rel. Playoff,2,0,1
+181611,dominik,holec,17/18,Fort. Liga - Releg. G.,9,0,2
+181611,dominik,holec,17/18,Fortuna Liga,3,0,1
+181611,dominik,holec,17/18,II. Liga,8,0,1
+181611,dominik,holec,17/18,Slovnaft Cup,0,0,0
+181611,dominik,holec,17/18,Fortuna Liga,2,0,0
+181611,dominik,holec,17/18,Kwalifikacje do Ligi Mistrzów,0,0,0
+181611,dominik,holec,16/17,Fortuna Liga,3,0,0
+181611,dominik,holec,16/17,II. Liga West,7,0,2
+181611,dominik,holec,15/16,II. Liga Promotion,8,0,5
+181611,dominik,holec,15/16,II. Liga West,4,0,1
+181611,dominik,holec,15/16,II. Liga East,11,0,0
+181611,dominik,holec,14/15,II. Liga Promotion,3,0,0
+181611,dominik,holec,14/15,II. Liga West,4,0,1

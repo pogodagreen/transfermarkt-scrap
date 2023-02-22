@@ -1,13 +1,13 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-573348,igor-lewandowski,22/23,3 Liga - Grupa III,16,0,1225
-573348,igor-lewandowski,22/23,Ekstraklasa,0,0,0
-573348,igor-lewandowski,22/23,Fortuna Puchar Polski,0,0,0
-573348,igor-lewandowski,21/22,1 Liga,5,0,118
-573348,igor-lewandowski,21/22,3 Liga - Grupa III,20,0,1471
-573348,igor-lewandowski,21/22,Fortuna Puchar Polski,0,0,0
-573348,igor-lewandowski,20/21,3 Liga - Grupa III,26,4,2025
-573348,igor-lewandowski,20/21,1 Liga,0,0,0
-573348,igor-lewandowski,19/20,3 Liga - Grupa III,6,0,447
-573348,igor-lewandowski,18/19,3 Liga - Grupa III,14,0,906
-573348,igor-lewandowski,17/18,3 Liga - Grupa III,3,0,26
-573348,igor-lewandowski,17/18,CLJ - Grupa Zachodnia,2,0,118
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+573348,igor,lewandowski,22/23,3 Liga - Grupa III,16,0,1225
+573348,igor,lewandowski,22/23,Ekstraklasa,0,0,0
+573348,igor,lewandowski,22/23,Fortuna Puchar Polski,0,0,0
+573348,igor,lewandowski,21/22,1 Liga,5,0,118
+573348,igor,lewandowski,21/22,3 Liga - Grupa III,20,0,1471
+573348,igor,lewandowski,21/22,Fortuna Puchar Polski,0,0,0
+573348,igor,lewandowski,20/21,3 Liga - Grupa III,26,4,2025
+573348,igor,lewandowski,20/21,1 Liga,0,0,0
+573348,igor,lewandowski,19/20,3 Liga - Grupa III,6,0,447
+573348,igor,lewandowski,18/19,3 Liga - Grupa III,14,0,906
+573348,igor,lewandowski,17/18,3 Liga - Grupa III,3,0,26
+573348,igor,lewandowski,17/18,CLJ - Grupa Zachodnia,2,0,118

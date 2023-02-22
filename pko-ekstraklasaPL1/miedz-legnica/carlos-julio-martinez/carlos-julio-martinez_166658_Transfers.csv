@@ -1,10 +1,10 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-30,Miedz Legnica,Atl. Baleares,250000,free transfer
-21/22,2021-08-14,CD Mirandés,Miedz Legnica,500000,free transfer
-18/19,2018-07-09,Marbella FC,CD Mirandés,300000,free transfer
-16/17,2016-07-09,Villarreal CF B,Marbella FC,0,free transfer
-15/16,2015-07-01,FC Villarreal C,Villarreal CF B,0,0
-13/14,2013-07-01,CE Europa,FC Villarreal C,0,free transfer
-12/13,2013-04-01,Barça U19,CE Europa,0,0
-11/12,2011-07-01,Barça U18,Barça U19,0,0
-10/11,2010-07-01,Barça U16,Barça U18,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+166658,carlos,julio,22/23,2023-01-30,Miedz Legnica,Atl. Baleares,250000,free transfer
+166658,carlos,julio,21/22,2021-08-14,CD Mirandés,Miedz Legnica,500000,free transfer
+166658,carlos,julio,18/19,2018-07-09,Marbella FC,CD Mirandés,300000,free transfer
+166658,carlos,julio,16/17,2016-07-09,Villarreal CF B,Marbella FC,0,free transfer
+166658,carlos,julio,15/16,2015-07-01,FC Villarreal C,Villarreal CF B,0,0
+166658,carlos,julio,13/14,2013-07-01,CE Europa,FC Villarreal C,0,free transfer
+166658,carlos,julio,12/13,2013-04-01,Barça U19,CE Europa,0,0
+166658,carlos,julio,11/12,2011-07-01,Barça U18,Barça U19,0,0
+166658,carlos,julio,10/11,2010-07-01,Barça U16,Barça U18,0,0

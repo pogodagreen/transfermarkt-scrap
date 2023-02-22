@@ -1,10 +1,10 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Jagiellonia,Spezia Calcio,300000,End of loan
-22/23,2023-01-13,Spezia Calcio,Jagiellonia,300000,loan transfer
-21/22,2021-09-28,Without Club,Spezia Calcio,500000,0
-21/22,2021-07-01,AS Nancy,Without Club,500000,0
-19/20,2020-06-30,G. Ajaccio,AS Nancy,450000,End of loan
-19/20,2020-01-09,AS Nancy,G. Ajaccio,500000,loan transfer
-18/19,2018-07-01,AS Nancy B,AS Nancy,0,0
-16/17,2017-01-01,AS Nancy U19,AS Nancy B,0,0
-15/16,2015-07-01,AS Nancy U17,AS Nancy U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+344595,aurelien,nguiamba,22/23,2023-06-30,Jagiellonia,Spezia Calcio,300000,End of loan
+344595,aurelien,nguiamba,22/23,2023-01-13,Spezia Calcio,Jagiellonia,300000,loan transfer
+344595,aurelien,nguiamba,21/22,2021-09-28,Without Club,Spezia Calcio,500000,0
+344595,aurelien,nguiamba,21/22,2021-07-01,AS Nancy,Without Club,500000,0
+344595,aurelien,nguiamba,19/20,2020-06-30,G. Ajaccio,AS Nancy,450000,End of loan
+344595,aurelien,nguiamba,19/20,2020-01-09,AS Nancy,G. Ajaccio,500000,loan transfer
+344595,aurelien,nguiamba,18/19,2018-07-01,AS Nancy B,AS Nancy,0,0
+344595,aurelien,nguiamba,16/17,2017-01-01,AS Nancy U19,AS Nancy B,0,0
+344595,aurelien,nguiamba,15/16,2015-07-01,AS Nancy U17,AS Nancy U19,0,0

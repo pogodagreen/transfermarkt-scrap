@@ -1,12 +1,12 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Stal Mielec,Lech Poznan,600000,End of loan
-21/22,2022-05-12,Lech Poznan,Stal Mielec,100000,loan transfer
-20/21,2021-06-30,GKS Katowice,Lech Poznan,100000,End of loan
-19/20,2019-07-01,Lech Poznan,GKS Katowice,0,loan transfer
-18/19,2019-06-30,Elana Torun,Lech Poznan,0,End of loan
-18/19,2018-07-10,Lech Poznan,Elana Torun,50000,loan transfer
-16/17,2016-07-12,Lech Poznan II,Lech Poznan,0,0
-15/16,2015-07-01,Lech U19,Lech Poznan II,0,0
-14/15,2014-07-01,GKS Tychy U19,Lech U19,0,0
-12/13,2012-07-01,Stadion Slaski Chorzow,GKS Tychy U19,0,0
-10/11,2010-07-01,Rozwoj U19,Stadion Slaski Chorzow,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+345452,bartosz,mrozek,22/23,2023-06-30,Stal Mielec,Lech Poznan,600000,End of loan
+345452,bartosz,mrozek,21/22,2022-05-12,Lech Poznan,Stal Mielec,100000,loan transfer
+345452,bartosz,mrozek,20/21,2021-06-30,GKS Katowice,Lech Poznan,100000,End of loan
+345452,bartosz,mrozek,19/20,2019-07-01,Lech Poznan,GKS Katowice,0,loan transfer
+345452,bartosz,mrozek,18/19,2019-06-30,Elana Torun,Lech Poznan,0,End of loan
+345452,bartosz,mrozek,18/19,2018-07-10,Lech Poznan,Elana Torun,50000,loan transfer
+345452,bartosz,mrozek,16/17,2016-07-12,Lech Poznan II,Lech Poznan,0,0
+345452,bartosz,mrozek,15/16,2015-07-01,Lech U19,Lech Poznan II,0,0
+345452,bartosz,mrozek,14/15,2014-07-01,GKS Tychy U19,Lech U19,0,0
+345452,bartosz,mrozek,12/13,2012-07-01,Stadion Slaski Chorzow,GKS Tychy U19,0,0
+345452,bartosz,mrozek,10/11,2010-07-01,Rozwoj U19,Stadion Slaski Chorzow,0,0

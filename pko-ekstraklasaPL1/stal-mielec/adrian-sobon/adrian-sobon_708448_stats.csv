@@ -1,6 +1,6 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-708448,adrian-sobon,22/23,Fortuna Puchar Polski,1,0,19
-708448,adrian-sobon,22/23,Ekstraklasa,0,0,0
-708448,adrian-sobon,21/22,3 Liga - Grupa IV,31,0,2059
-708448,adrian-sobon,20/21,3 Liga - Grupa IV,15,0,752
-708448,adrian-sobon,19/20,CLJ,5,0,385
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+708448,adrian,sobon,22/23,Fortuna Puchar Polski,1,0,19
+708448,adrian,sobon,22/23,Ekstraklasa,0,0,0
+708448,adrian,sobon,21/22,3 Liga - Grupa IV,31,0,2059
+708448,adrian,sobon,20/21,3 Liga - Grupa IV,15,0,752
+708448,adrian,sobon,19/20,CLJ,5,0,385

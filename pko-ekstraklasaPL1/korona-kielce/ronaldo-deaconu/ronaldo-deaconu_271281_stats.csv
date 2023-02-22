@@ -1,27 +1,27 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-271281,ronaldo-deaconu,22/23,Ekstraklasa,14,0,1001
-271281,ronaldo-deaconu,22/23,Fortuna Puchar Polski,1,0,61
-271281,ronaldo-deaconu,2022,League One,6,3,418
-271281,ronaldo-deaconu,21/22,Liga 1,18,3,1353
-271281,ronaldo-deaconu,21/22,Cupa României,2,0,128
-271281,ronaldo-deaconu,20/21,Liga 1 - Relegation group,9,2,582
-271281,ronaldo-deaconu,20/21,Liga 1,28,7,2027
-271281,ronaldo-deaconu,20/21,Cupa României,2,2,180
-271281,ronaldo-deaconu,20/21,Liga 1,0,0,0
-271281,ronaldo-deaconu,19/20,Liga 1 - Relegation group,7,1,330
-271281,ronaldo-deaconu,19/20,Cupa României,4,0,199
-271281,ronaldo-deaconu,19/20,Liga 1,14,0,680
-271281,ronaldo-deaconu,18/19,SuperSport HNL,5,0,100
-271281,ronaldo-deaconu,18/19,Liga 1,16,0,1120
-271281,ronaldo-deaconu,18/19,Cupa României,1,0,79
-271281,ronaldo-deaconu,17/18,Liga 1 - Relegation group,12,0,557
-271281,ronaldo-deaconu,17/18,Liga 1,20,3,1281
-271281,ronaldo-deaconu,17/18,Cupa României,1,0,90
-271281,ronaldo-deaconu,16/17,Liga 1 - Relegation group,7,0,630
-271281,ronaldo-deaconu,16/17,Liga 1,9,0,328
-271281,ronaldo-deaconu,16/17,Cupa Ligii,1,0,62
-271281,ronaldo-deaconu,16/17,Cupa României,2,1,180
-271281,ronaldo-deaconu,14/15,Beloften Eredivisie,7,0,317
-271281,ronaldo-deaconu,14/15,U19 Eredivisie,5,1,254
-271281,ronaldo-deaconu,14/15,Runda U19 Eredivisie,4,0,114
-271281,ronaldo-deaconu,14/15,Beloften Runda Wstępna,6,0,348
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+271281,ronaldo,deaconu,22/23,Ekstraklasa,15,1,1067
+271281,ronaldo,deaconu,22/23,Fortuna Puchar Polski,1,0,61
+271281,ronaldo,deaconu,2022,League One,6,3,418
+271281,ronaldo,deaconu,21/22,Liga 1,18,3,1353
+271281,ronaldo,deaconu,21/22,Cupa României,2,0,128
+271281,ronaldo,deaconu,20/21,Liga 1 - Relegation group,9,2,582
+271281,ronaldo,deaconu,20/21,Liga 1,28,7,2027
+271281,ronaldo,deaconu,20/21,Cupa României,2,2,180
+271281,ronaldo,deaconu,20/21,Liga 1,0,0,0
+271281,ronaldo,deaconu,19/20,Liga 1 - Relegation group,7,1,330
+271281,ronaldo,deaconu,19/20,Cupa României,4,0,199
+271281,ronaldo,deaconu,19/20,Liga 1,14,0,680
+271281,ronaldo,deaconu,18/19,SuperSport HNL,5,0,100
+271281,ronaldo,deaconu,18/19,Liga 1,16,0,1120
+271281,ronaldo,deaconu,18/19,Cupa României,1,0,79
+271281,ronaldo,deaconu,17/18,Liga 1 - Relegation group,12,0,557
+271281,ronaldo,deaconu,17/18,Liga 1,20,3,1281
+271281,ronaldo,deaconu,17/18,Cupa României,1,0,90
+271281,ronaldo,deaconu,16/17,Liga 1 - Relegation group,7,0,630
+271281,ronaldo,deaconu,16/17,Liga 1,9,0,328
+271281,ronaldo,deaconu,16/17,Cupa Ligii,1,0,62
+271281,ronaldo,deaconu,16/17,Cupa României,2,1,180
+271281,ronaldo,deaconu,14/15,Beloften Eredivisie,7,0,317
+271281,ronaldo,deaconu,14/15,U19 Eredivisie,5,1,254
+271281,ronaldo,deaconu,14/15,Runda U19 Eredivisie,4,0,114
+271281,ronaldo,deaconu,14/15,Beloften Runda Wstępna,6,0,348

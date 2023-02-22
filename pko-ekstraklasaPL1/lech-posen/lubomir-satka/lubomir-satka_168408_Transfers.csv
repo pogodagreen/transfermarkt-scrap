@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-19/20,2019-07-19,Dunajska Streda,Lech Poznan,650000,750000
-17/18,2017-07-01,Newcastle,Dunajska Streda,250000,free transfer
-16/17,2017-06-30,Dunajska Streda,Newcastle,250000,End of loan
-16/17,2017-01-09,Newcastle,Dunajska Streda,0,loan transfer
-15/16,2016-02-29,York City,Newcastle,0,End of loan
-15/16,2016-01-29,Newcastle,York City,0,loan transfer
-13/14,2014-03-25,Newcastle U18,Newcastle,0,0
-11/12,2012-05-14,Dubnica U19,Newcastle U18,0,100000
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+168408,lubomir,satka,19/20,2019-07-19,Dunajska Streda,Lech Poznan,650000,750000
+168408,lubomir,satka,17/18,2017-07-01,Newcastle,Dunajska Streda,250000,free transfer
+168408,lubomir,satka,16/17,2017-06-30,Dunajska Streda,Newcastle,250000,End of loan
+168408,lubomir,satka,16/17,2017-01-09,Newcastle,Dunajska Streda,0,loan transfer
+168408,lubomir,satka,15/16,2016-02-29,York City,Newcastle,0,End of loan
+168408,lubomir,satka,15/16,2016-01-29,Newcastle,York City,0,loan transfer
+168408,lubomir,satka,13/14,2014-03-25,Newcastle U18,Newcastle,0,0
+168408,lubomir,satka,11/12,2012-05-14,Dubnica U19,Newcastle U18,0,100000

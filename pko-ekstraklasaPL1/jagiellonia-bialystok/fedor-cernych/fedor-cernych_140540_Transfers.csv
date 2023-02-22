@@ -1,0 +1,11 @@
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+140540,fedor,cernych,22/23,2023-01-08,Jagiellonia,AEL Limassol,300000,0
+140540,fedor,cernych,20/21,2020-09-17,Dynamo Moscow,Jagiellonia,700000,free transfer
+140540,fedor,cernych,19/20,2020-07-31,Orenburg,Dinamo Moscow,700000,End of loan
+140540,fedor,cernych,19/20,2019-08-21,Dinamo Moscow,Orenburg,1500000,loan transfer
+140540,fedor,cernych,17/18,2018-01-01,Jagiellonia,Dinamo Moscow,1350000,400000
+140540,fedor,cernych,15/16,2015-08-31,Gornik Leczna,Jagiellonia,700000,125000
+140540,fedor,cernych,14/15,2014-07-01,Dnepr Mogilev,Gornik Leczna,500000,free transfer
+140540,fedor,cernych,12/13,2012-12-31,Naftan,Dnepr Mogilev,500000,End of loan
+140540,fedor,cernych,11/12,2012-03-15,Dnepr Mogilev,Naftan,200000,loan transfer
+140540,fedor,cernych,09/10,2009-08-11,Granitas,Dnepr Mogilev,0,c

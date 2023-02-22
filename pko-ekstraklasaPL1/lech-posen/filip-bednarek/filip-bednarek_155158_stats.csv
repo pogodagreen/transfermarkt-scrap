@@ -1,44 +1,44 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-155158,filip-bednarek,22/23,Ekstraklasa,19,0,10
-155158,filip-bednarek,22/23,Liga Konferencji,6,0,2
-155158,filip-bednarek,22/23,UECL Kwalifikacje,4,0,1
-155158,filip-bednarek,22/23,Kwalifikacje do Ligi Mistrzów,0,0,0
-155158,filip-bednarek,22/23,Superpuchar,1,0,0
-155158,filip-bednarek,21/22,Ekstraklasa,20,0,9
-155158,filip-bednarek,21/22,Fortuna Puchar Polski,1,0,1
-155158,filip-bednarek,21/22,eWinner 2 liga,1,0,1
-155158,filip-bednarek,20/21,Ekstraklasa,15,0,3
-155158,filip-bednarek,20/21,Fortuna Puchar Polski,3,0,0
-155158,filip-bednarek,20/21,Liga Europy,6,0,0
-155158,filip-bednarek,20/21,Kwalifikacje do Ligi Europy,4,0,3
-155158,filip-bednarek,19/20,Eredivisie,6,0,0
-155158,filip-bednarek,19/20,KNVB beker,1,0,0
-155158,filip-bednarek,19/20,Beloften Runda Wstępna,4,0,0
-155158,filip-bednarek,18/19,Eredivisie,0,0,0
-155158,filip-bednarek,18/19,Beloften Eerste Divisie,3,0,2
-155158,filip-bednarek,18/19,KNVB beker,0,0,0
-155158,filip-bednarek,18/19,Beloften Runda Wstępna,4,0,0
-155158,filip-bednarek,17/18,Play-Offs Promotie/Deg.,4,0,0
-155158,filip-bednarek,17/18,Jupiler League,38,0,13
-155158,filip-bednarek,17/18,KNVB beker,0,0,0
-155158,filip-bednarek,16/17,Jupiler League,38,0,8
-155158,filip-bednarek,16/17,KNVB Beker,1,0,0
-155158,filip-bednarek,15/16,Play-Offs Conference League,4,0,1
-155158,filip-bednarek,15/16,Eredivisie,5,0,0
-155158,filip-bednarek,15/16,KNVB Beker,2,0,1
-155158,filip-bednarek,15/16,Beloften Eredivisie,13,0,3
-155158,filip-bednarek,14/15,Eredivisie,0,0,0
-155158,filip-bednarek,14/15,Jupiler League,16,0,3
-155158,filip-bednarek,13/14,Jupiler League,15,0,4
-155158,filip-bednarek,13/14,Eredivisie,0,0,0
-155158,filip-bednarek,12/13,Eredivisie,0,0,0
-155158,filip-bednarek,12/13,Beloften nacompetitie,9,0,0
-155158,filip-bednarek,12/13,Liga Europy,1,0,0
-155158,filip-bednarek,12/13,Beloften Eredivisie,5,0,0
-155158,filip-bednarek,12/13,Kwalifikacje do Ligi Europy,0,0,0
-155158,filip-bednarek,11/12,Beloften Eredivisie,7,0,2
-155158,filip-bednarek,11/12,Liga Europy,0,0,0
-155158,filip-bednarek,11/12,Eredivisie,0,0,0
-155158,filip-bednarek,11/12,KNVB beker,0,0,0
-155158,filip-bednarek,10/11,U19 Eredivisie,4,0,1
-155158,filip-bednarek,09/10,U19 Eredivisie,2,0,1
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+155158,filip,bednarek,22/23,Ekstraklasa,20,0,10
+155158,filip,bednarek,22/23,Liga Konferencji,7,0,3
+155158,filip,bednarek,22/23,UECL Kwalifikacje,4,0,1
+155158,filip,bednarek,22/23,Kwalifikacje do Ligi Mistrzów,0,0,0
+155158,filip,bednarek,22/23,Superpuchar,1,0,0
+155158,filip,bednarek,21/22,Ekstraklasa,20,0,9
+155158,filip,bednarek,21/22,Fortuna Puchar Polski,1,0,1
+155158,filip,bednarek,21/22,eWinner 2 liga,1,0,1
+155158,filip,bednarek,20/21,Ekstraklasa,15,0,3
+155158,filip,bednarek,20/21,Fortuna Puchar Polski,3,0,0
+155158,filip,bednarek,20/21,Liga Europy,6,0,0
+155158,filip,bednarek,20/21,Kwalifikacje do Ligi Europy,4,0,3
+155158,filip,bednarek,19/20,Eredivisie,6,0,0
+155158,filip,bednarek,19/20,KNVB beker,1,0,0
+155158,filip,bednarek,19/20,Beloften Runda Wstępna,4,0,0
+155158,filip,bednarek,18/19,Eredivisie,0,0,0
+155158,filip,bednarek,18/19,Beloften Eerste Divisie,3,0,2
+155158,filip,bednarek,18/19,KNVB beker,0,0,0
+155158,filip,bednarek,18/19,Beloften Runda Wstępna,4,0,0
+155158,filip,bednarek,17/18,Play-Offs Promotie/Deg.,4,0,0
+155158,filip,bednarek,17/18,Jupiler League,38,0,13
+155158,filip,bednarek,17/18,KNVB beker,0,0,0
+155158,filip,bednarek,16/17,Jupiler League,38,0,8
+155158,filip,bednarek,16/17,KNVB Beker,1,0,0
+155158,filip,bednarek,15/16,Play-Offs Conference League,4,0,1
+155158,filip,bednarek,15/16,Eredivisie,5,0,0
+155158,filip,bednarek,15/16,KNVB Beker,2,0,1
+155158,filip,bednarek,15/16,Beloften Eredivisie,13,0,3
+155158,filip,bednarek,14/15,Eredivisie,0,0,0
+155158,filip,bednarek,14/15,Jupiler League,16,0,3
+155158,filip,bednarek,13/14,Jupiler League,15,0,4
+155158,filip,bednarek,13/14,Eredivisie,0,0,0
+155158,filip,bednarek,12/13,Eredivisie,0,0,0
+155158,filip,bednarek,12/13,Beloften nacompetitie,9,0,0
+155158,filip,bednarek,12/13,Liga Europy,1,0,0
+155158,filip,bednarek,12/13,Beloften Eredivisie,5,0,0
+155158,filip,bednarek,12/13,Kwalifikacje do Ligi Europy,0,0,0
+155158,filip,bednarek,11/12,Beloften Eredivisie,7,0,2
+155158,filip,bednarek,11/12,Liga Europy,0,0,0
+155158,filip,bednarek,11/12,Eredivisie,0,0,0
+155158,filip,bednarek,11/12,KNVB beker,0,0,0
+155158,filip,bednarek,10/11,U19 Eredivisie,4,0,1
+155158,filip,bednarek,09/10,U19 Eredivisie,2,0,1

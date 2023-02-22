@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-364278,joseph-ceesay,1998,Sweden,"1,84",Right-Back,0,0,0,0,1,0,0,0
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+364278,joseph,ceesay,1998,Sweden,"1,84",Right-Back,0,0,0,0,1,0,0,0

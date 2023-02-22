@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-08-30,Legia Warszawa,Fehérvár,550000,free transfer
-21/22,2021-09-01,Dinamo Zagreb,Legia Warszawa,1000000,1300000
-19/20,2020-08-05,NK Lokomotiva,Dinamo Zagreb,2000000,End of loan
-19/20,2020-02-17,Dinamo Zagreb,NK Lokomotiva,1800000,loan transfer
-19/20,2020-02-16,NK Lokomotiva,Dinamo Zagreb,1800000,2000000
-17/18,2018-01-08,Lokomotiva U19,NK Lokomotiva,50000,0
-17/18,2017-08-11,Shkëndija U19,Lokomotiva U19,0,0
-15/16,2015-09-08,Shkëndija U17,Shkëndija U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+531218,lirim,kastrati,22/23,2022-08-30,Legia Warszawa,Fehérvár,550000,free transfer
+531218,lirim,kastrati,21/22,2021-09-01,Dinamo Zagreb,Legia Warszawa,1000000,1300000
+531218,lirim,kastrati,19/20,2020-08-05,NK Lokomotiva,Dinamo Zagreb,2000000,End of loan
+531218,lirim,kastrati,19/20,2020-02-17,Dinamo Zagreb,NK Lokomotiva,1800000,loan transfer
+531218,lirim,kastrati,19/20,2020-02-16,NK Lokomotiva,Dinamo Zagreb,1800000,2000000
+531218,lirim,kastrati,17/18,2018-01-08,Lokomotiva U19,NK Lokomotiva,50000,0
+531218,lirim,kastrati,17/18,2017-08-11,Shkëndija U19,Lokomotiva U19,0,0
+531218,lirim,kastrati,15/16,2015-09-08,Shkëndija U17,Shkëndija U19,0,0

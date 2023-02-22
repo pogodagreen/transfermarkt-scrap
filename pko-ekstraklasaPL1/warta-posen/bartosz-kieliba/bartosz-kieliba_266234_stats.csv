@@ -1,16 +1,16 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-266234,bartosz-kieliba,22/23,Ekstraklasa,0,0,0
-266234,bartosz-kieliba,21/22,Ekstraklasa,4,0,315
-266234,bartosz-kieliba,21/22,Fortuna Puchar Polski,0,0,0
-266234,bartosz-kieliba,20/21,Ekstraklasa,14,1,1184
-266234,bartosz-kieliba,20/21,Fortuna Puchar Polski,3,0,330
-266234,bartosz-kieliba,19/20,Baraze o udzial w Ekstraklasie,2,0,180
-266234,bartosz-kieliba,19/20,1 Liga,31,3,2744
-266234,bartosz-kieliba,18/19,Fortuna 1 Liga,29,1,2610
-266234,bartosz-kieliba,17/18,eWinner 2 liga,31,1,2758
-266234,bartosz-kieliba,17/18,Fortuna Puchar Polski,1,0,120
-266234,bartosz-kieliba,16/17,eWinner 2 liga,20,1,1755
-266234,bartosz-kieliba,14/15,Fortuna Puchar Polski,1,0,90
-266234,bartosz-kieliba,13/14,2 Liga - Grupa zachodnia,31,1,2751
-266234,bartosz-kieliba,13/14,Fortuna Puchar Polski,1,0,90
-266234,bartosz-kieliba,12/13,2 Liga - Grupa zachodnia,17,1,1440
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+266234,bartosz,kieliba,22/23,Ekstraklasa,0,0,0
+266234,bartosz,kieliba,21/22,Ekstraklasa,4,0,315
+266234,bartosz,kieliba,21/22,Fortuna Puchar Polski,0,0,0
+266234,bartosz,kieliba,20/21,Ekstraklasa,14,1,1184
+266234,bartosz,kieliba,20/21,Fortuna Puchar Polski,3,0,330
+266234,bartosz,kieliba,19/20,Baraze o udzial w Ekstraklasie,2,0,180
+266234,bartosz,kieliba,19/20,1 Liga,31,3,2744
+266234,bartosz,kieliba,18/19,Fortuna 1 Liga,29,1,2610
+266234,bartosz,kieliba,17/18,eWinner 2 liga,31,1,2758
+266234,bartosz,kieliba,17/18,Fortuna Puchar Polski,1,0,120
+266234,bartosz,kieliba,16/17,eWinner 2 liga,20,1,1755
+266234,bartosz,kieliba,14/15,Fortuna Puchar Polski,1,0,90
+266234,bartosz,kieliba,13/14,2 Liga - Grupa zachodnia,31,1,2751
+266234,bartosz,kieliba,13/14,Fortuna Puchar Polski,1,0,90
+266234,bartosz,kieliba,12/13,2 Liga - Grupa zachodnia,17,1,1440

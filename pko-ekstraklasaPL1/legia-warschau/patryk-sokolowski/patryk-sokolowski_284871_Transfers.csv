@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-01-06,Piast Gliwice,Legia Warszawa,800000,free transfer
-18/19,2018-07-01,Wigry Suwalki,Piast Gliwice,75000,free transfer
-17/18,2017-07-06,Olimpia Elblag,Wigry Suwalki,0,free transfer
-14/15,2015-02-24,Znicz Pruszkow,Olimpia Elblag,0,free transfer
-14/15,2014-08-27,Legia II,Znicz Pruszkow,0,free transfer
-13/14,2014-06-30,Olimpia Elblag,Legia II,0,End of loan
-13/14,2014-02-01,Legia II,Olimpia Elblag,0,loan transfer
-13/14,2013-08-01,Legia U19,Legia II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+284871,patryk,sokolowski,21/22,2022-01-06,Piast Gliwice,Legia Warszawa,800000,free transfer
+284871,patryk,sokolowski,18/19,2018-07-01,Wigry Suwalki,Piast Gliwice,75000,free transfer
+284871,patryk,sokolowski,17/18,2017-07-06,Olimpia Elblag,Wigry Suwalki,0,free transfer
+284871,patryk,sokolowski,14/15,2015-02-24,Znicz Pruszkow,Olimpia Elblag,0,free transfer
+284871,patryk,sokolowski,14/15,2014-08-27,Legia II,Znicz Pruszkow,0,free transfer
+284871,patryk,sokolowski,13/14,2014-06-30,Olimpia Elblag,Legia II,0,End of loan
+284871,patryk,sokolowski,13/14,2014-02-01,Legia II,Olimpia Elblag,0,loan transfer
+284871,patryk,sokolowski,13/14,2013-08-01,Legia U19,Legia II,0,0

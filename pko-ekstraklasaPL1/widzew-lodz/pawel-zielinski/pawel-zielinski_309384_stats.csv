@@ -1,25 +1,25 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-309384,pawel-zielinski,22/23,Ekstraklasa,12,0,622
-309384,pawel-zielinski,22/23,Fortuna Puchar Polski,0,0,0
-309384,pawel-zielinski,21/22,1 Liga,31,1,2493
-309384,pawel-zielinski,21/22,Fortuna Puchar Polski,3,0,180
-309384,pawel-zielinski,20/21,1 Liga,33,2,2951
-309384,pawel-zielinski,20/21,Fortuna Puchar Polski,1,0,90
-309384,pawel-zielinski,19/20,Baraze o udzial w Ekstraklasie,1,0,90
-309384,pawel-zielinski,19/20,1 Liga,32,3,2868
-309384,pawel-zielinski,19/20,Fortuna Puchar Polski,3,1,239
-309384,pawel-zielinski,18/19,Ekstraklasa,31,3,2382
-309384,pawel-zielinski,18/19,Fortuna Puchar Polski,2,0,180
-309384,pawel-zielinski,18/19,3 Liga - Grupa III,1,1,90
-309384,pawel-zielinski,17/18,Nice 1 Liga,21,1,1239
-309384,pawel-zielinski,17/18,3 Liga - Grupa III,1,0,60
-309384,pawel-zielinski,17/18,Fortuna Puchar Polski,2,1,180
-309384,pawel-zielinski,16/17,Ekstraklasa,6,0,344
-309384,pawel-zielinski,16/17,3 Liga - Grupa III,11,0,990
-309384,pawel-zielinski,16/17,Fortuna Puchar Polski,2,0,210
-309384,pawel-zielinski,15/16,Ekstraklasa,26,0,2100
-309384,pawel-zielinski,15/16,Fortuna Puchar Polski,4,0,211
-309384,pawel-zielinski,15/16,Kwalifikacje do Ligi Europy,4,0,357
-309384,pawel-zielinski,14/15,Ekstraklasa,35,1,3129
-309384,pawel-zielinski,14/15,Fortuna Puchar Polski,3,0,300
-309384,pawel-zielinski,13/14,Ekstraklasa,15,0,984
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+309384,pawel,zielinski,22/23,Ekstraklasa,13,0,643
+309384,pawel,zielinski,22/23,Fortuna Puchar Polski,0,0,0
+309384,pawel,zielinski,21/22,1 Liga,31,1,2493
+309384,pawel,zielinski,21/22,Fortuna Puchar Polski,3,0,180
+309384,pawel,zielinski,20/21,1 Liga,33,2,2951
+309384,pawel,zielinski,20/21,Fortuna Puchar Polski,1,0,90
+309384,pawel,zielinski,19/20,Baraze o udzial w Ekstraklasie,1,0,90
+309384,pawel,zielinski,19/20,1 Liga,32,3,2868
+309384,pawel,zielinski,19/20,Fortuna Puchar Polski,3,1,239
+309384,pawel,zielinski,18/19,Ekstraklasa,31,3,2382
+309384,pawel,zielinski,18/19,Fortuna Puchar Polski,2,0,180
+309384,pawel,zielinski,18/19,3 Liga - Grupa III,1,1,90
+309384,pawel,zielinski,17/18,Nice 1 Liga,21,1,1239
+309384,pawel,zielinski,17/18,3 Liga - Grupa III,1,0,60
+309384,pawel,zielinski,17/18,Fortuna Puchar Polski,2,1,180
+309384,pawel,zielinski,16/17,Ekstraklasa,6,0,344
+309384,pawel,zielinski,16/17,3 Liga - Grupa III,11,0,990
+309384,pawel,zielinski,16/17,Fortuna Puchar Polski,2,0,210
+309384,pawel,zielinski,15/16,Ekstraklasa,26,0,2100
+309384,pawel,zielinski,15/16,Fortuna Puchar Polski,4,0,211
+309384,pawel,zielinski,15/16,Kwalifikacje do Ligi Europy,4,0,357
+309384,pawel,zielinski,14/15,Ekstraklasa,35,1,3129
+309384,pawel,zielinski,14/15,Fortuna Puchar Polski,3,0,300
+309384,pawel,zielinski,13/14,Ekstraklasa,15,0,984

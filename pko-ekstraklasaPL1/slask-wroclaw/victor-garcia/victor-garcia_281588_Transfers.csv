@@ -1,10 +1,10 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-01,Castellón,Slask Wroclaw,200000,free transfer
-19/20,2019-07-03,CD Ebro,Castellón,200000,free transfer
-18/19,2018-07-01,UCAM Murcia,CD Ebro,200000,free transfer
-17/18,2017-07-23,Badalona,UCAM Murcia,250000,free transfer
-16/17,2016-07-17,CD Tenerife,Badalona,0,free transfer
-15/16,2016-06-30,Pobla de Mafumet CF,CD Tenerife,0,End of loan
-15/16,2015-07-23,CD Tenerife,Pobla de Mafumet CF,100000,loan transfer
-14/15,2014-07-01,AE Prat,CD Tenerife,0,free transfer
-13/14,2013-07-01,Espanyol U19,AE Prat,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+281588,victor,garcia,21/22,2021-07-01,Castellón,Slask Wroclaw,200000,free transfer
+281588,victor,garcia,19/20,2019-07-03,CD Ebro,Castellón,200000,free transfer
+281588,victor,garcia,18/19,2018-07-01,UCAM Murcia,CD Ebro,200000,free transfer
+281588,victor,garcia,17/18,2017-07-23,Badalona,UCAM Murcia,250000,free transfer
+281588,victor,garcia,16/17,2016-07-17,CD Tenerife,Badalona,0,free transfer
+281588,victor,garcia,15/16,2016-06-30,Pobla de Mafumet CF,CD Tenerife,0,End of loan
+281588,victor,garcia,15/16,2015-07-23,CD Tenerife,Pobla de Mafumet CF,100000,loan transfer
+281588,victor,garcia,14/15,2014-07-01,AE Prat,CD Tenerife,0,free transfer
+281588,victor,garcia,13/14,2013-07-01,Espanyol U19,AE Prat,0,0

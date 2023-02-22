@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-01,Denizlispor,Lech Poznan,850000,free transfer
-19/20,2019-07-30,Palermo,Denizlispor,1000000,free transfer
-17/18,2017-07-21,Piast Gliwice,US Palermo,650000,650000
-11/12,2011-07-01,Piast U19,Piast Gliwice,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+220969,radoslaw,murawski,21/22,2021-07-01,Denizlispor,Lech Poznan,850000,free transfer
+220969,radoslaw,murawski,19/20,2019-07-30,Palermo,Denizlispor,1000000,free transfer
+220969,radoslaw,murawski,17/18,2017-07-21,Piast Gliwice,US Palermo,650000,650000
+220969,radoslaw,murawski,11/12,2011-07-01,Piast U19,Piast Gliwice,0,0

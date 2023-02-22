@@ -1,3 +1,3 @@
-id,name,dates,marketValue
-727318,rafal-mamla,2022-09-28,25000
-727318,rafal-mamla,2022-11-15,25000
+id,firstName,lastName,dates,marketValue
+727318,rafal,mamla,2022-09-28,25000
+727318,rafal,mamla,2022-11-15,25000

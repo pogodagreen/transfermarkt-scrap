@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Odra Opole,Widzew Lodz,150000,End of loan
-22/23,2022-07-04,Widzew Lodz,Odra Opole,350000,loan transfer
-21/22,2021-07-01,Rekord B-B,Widzew Lodz,0,free transfer
-20/21,2021-06-30,Ruch Chorzow,Rekord B-B,0,End of loan
-20/21,2021-03-05,Rekord B-B,Ruch Chorzow,0,loan transfer
-18/19,2019-01-01,Rekord BB U19,Rekord B-B,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+697454,bartosz,guzdek,22/23,2023-06-30,Odra Opole,Widzew Lodz,150000,End of loan
+697454,bartosz,guzdek,22/23,2022-07-04,Widzew Lodz,Odra Opole,350000,loan transfer
+697454,bartosz,guzdek,21/22,2021-07-01,Rekord B-B,Widzew Lodz,0,free transfer
+697454,bartosz,guzdek,20/21,2021-06-30,Ruch Chorzow,Rekord B-B,0,End of loan
+697454,bartosz,guzdek,20/21,2021-03-05,Rekord B-B,Ruch Chorzow,0,loan transfer
+697454,bartosz,guzdek,18/19,2019-01-01,Rekord BB U19,Rekord B-B,0,0

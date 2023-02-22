@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-01-10,MSK Zilina,Pogon Szczecin,900000,900000
-17/18,2017-07-24,Shirak Gyumri,MSK Zilina,250000,0
-16/17,2016-07-01,Shirak II,Shirak Gyumri,0,0
-14/15,2015-01-01,Shirak U18,Shirak II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+399348,vahan,bichakhchyan,21/22,2022-01-10,MSK Zilina,Pogon Szczecin,900000,900000
+399348,vahan,bichakhchyan,17/18,2017-07-24,Shirak Gyumri,MSK Zilina,250000,0
+399348,vahan,bichakhchyan,16/17,2016-07-01,Shirak II,Shirak Gyumri,0,0
+399348,vahan,bichakhchyan,14/15,2015-01-01,Shirak U18,Shirak II,0,0

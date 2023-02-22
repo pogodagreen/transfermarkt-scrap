@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-01,Jagiellonia,Aris Limassol,450000,400000
-20/21,2021-06-30,Gornik Leczna,Jagiellonia,200000,End of loan
-20/21,2020-08-14,Jagiellonia,Gornik Leczna,50000,loan transfer
-19/20,2019-07-01,Jagiellonia U19,Jagiellonia,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+553562,karol,struski,22/23,2022-07-01,Jagiellonia,Aris Limassol,450000,400000
+553562,karol,struski,20/21,2021-06-30,Gornik Leczna,Jagiellonia,200000,End of loan
+553562,karol,struski,20/21,2020-08-14,Jagiellonia,Gornik Leczna,50000,loan transfer
+553562,karol,struski,19/20,2019-07-01,Jagiellonia U19,Jagiellonia,0,0

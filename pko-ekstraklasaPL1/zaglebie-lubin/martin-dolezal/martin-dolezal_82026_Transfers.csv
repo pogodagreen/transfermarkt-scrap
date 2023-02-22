@@ -1,8 +1,8 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-01-10,Jablonec,Zaglebie Lubin,550000,200000
-13/14,2014-01-27,Sigma Olomouc,FK Jablonec,300000,0
-11/12,2012-06-30,Zbrojovka Brno,Sigma Olomouc,350000,End of loan
-11/12,2011-07-28,Sigma Olomouc,Zbrojovka Brno,350000,loan transfer
-10/11,2010-12-31,Fotbal Trinec,Sigma Olomouc,350000,End of loan
-09/10,2009-07-20,Sigma Olomouc,Fotbal Trinec,350000,loan transfer
-09/10,2009-07-01,Olomouc U19,Sigma Olomouc,350000,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+82026,martin,dolezal,21/22,2022-01-10,Jablonec,Zaglebie Lubin,550000,200000
+82026,martin,dolezal,13/14,2014-01-27,Sigma Olomouc,FK Jablonec,300000,0
+82026,martin,dolezal,11/12,2012-06-30,Zbrojovka Brno,Sigma Olomouc,350000,End of loan
+82026,martin,dolezal,11/12,2011-07-28,Sigma Olomouc,Zbrojovka Brno,350000,loan transfer
+82026,martin,dolezal,10/11,2010-12-31,Fotbal Trinec,Sigma Olomouc,350000,End of loan
+82026,martin,dolezal,09/10,2009-07-20,Sigma Olomouc,Fotbal Trinec,350000,loan transfer
+82026,martin,dolezal,09/10,2009-07-01,Olomouc U19,Sigma Olomouc,350000,0

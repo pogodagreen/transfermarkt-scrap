@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2020-10-10,Without Club,Piast Gliwice,350000,0
-20/21,2020-08-01,Slask Wroclaw,Without Club,350000,0
-17/18,2017-07-01,Lechia Gdansk,Slask Wroclaw,500000,65000
-15/16,2015-08-31,Catania,Lechia Gdansk,800000,free transfer
-14/15,2014-07-01,Wisla Kraków,Catania,1200000,1400000
-11/12,2012-06-30,Kolejarz Stroze,Wisla Kraków,175000,End of loan
-11/12,2011-07-01,Wisla Kraków,Kolejarz Stroze,125000,loan transfer
-09/10,2009-07-01,Wisla U19,Wisla Kraków,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+117683,michal,chrapek,20/21,2020-10-10,Without Club,Piast Gliwice,350000,0
+117683,michal,chrapek,20/21,2020-08-01,Slask Wroclaw,Without Club,350000,0
+117683,michal,chrapek,17/18,2017-07-01,Lechia Gdansk,Slask Wroclaw,500000,65000
+117683,michal,chrapek,15/16,2015-08-31,Catania,Lechia Gdansk,800000,free transfer
+117683,michal,chrapek,14/15,2014-07-01,Wisla Kraków,Catania,1200000,1400000
+117683,michal,chrapek,11/12,2012-06-30,Kolejarz Stroze,Wisla Kraków,175000,End of loan
+117683,michal,chrapek,11/12,2011-07-01,Wisla Kraków,Kolejarz Stroze,125000,loan transfer
+117683,michal,chrapek,09/10,2009-07-01,Wisla U19,Wisla Kraków,0,0

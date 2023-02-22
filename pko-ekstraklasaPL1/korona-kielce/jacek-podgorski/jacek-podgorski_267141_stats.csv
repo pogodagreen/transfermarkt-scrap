@@ -1,19 +1,19 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-267141,jacek-podgorski,22/23,Ekstraklasa,18,1,939
-267141,jacek-podgorski,22/23,Fortuna Puchar Polski,1,0,90
-267141,jacek-podgorski,21/22,Baraze o udzial w Ekstraklasie,2,2,195
-267141,jacek-podgorski,21/22,1 Liga,33,6,2451
-267141,jacek-podgorski,21/22,Fortuna Puchar Polski,3,1,196
-267141,jacek-podgorski,20/21,1 Liga,33,6,2698
-267141,jacek-podgorski,20/21,Fortuna Puchar Polski,2,0,143
-267141,jacek-podgorski,19/20,1 Liga,14,0,658
-267141,jacek-podgorski,19/20,Fortuna Puchar Polski,1,0,83
-267141,jacek-podgorski,18/19,Fortuna 1 Liga,16,1,1007
-267141,jacek-podgorski,18/19,Fortuna Puchar Polski,1,0,90
-267141,jacek-podgorski,17/18,Nice 1 Liga,20,1,895
-267141,jacek-podgorski,17/18,Fortuna Puchar Polski,4,1,235
-267141,jacek-podgorski,16/17,Nice 1 Liga,28,3,2357
-267141,jacek-podgorski,16/17,Fortuna Puchar Polski,2,0,180
-267141,jacek-podgorski,15/16,1 Liga,2,0,0
-267141,jacek-podgorski,13/14,1 Liga,0,0,0
-267141,jacek-podgorski,13/14,Fortuna Puchar Polski,2,0,18
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+267141,jacek,podgorski,22/23,Ekstraklasa,19,1,963
+267141,jacek,podgorski,22/23,Fortuna Puchar Polski,1,0,90
+267141,jacek,podgorski,21/22,Baraze o udzial w Ekstraklasie,2,2,195
+267141,jacek,podgorski,21/22,1 Liga,33,6,2451
+267141,jacek,podgorski,21/22,Fortuna Puchar Polski,3,1,196
+267141,jacek,podgorski,20/21,1 Liga,33,6,2698
+267141,jacek,podgorski,20/21,Fortuna Puchar Polski,2,0,143
+267141,jacek,podgorski,19/20,1 Liga,14,0,658
+267141,jacek,podgorski,19/20,Fortuna Puchar Polski,1,0,83
+267141,jacek,podgorski,18/19,Fortuna 1 Liga,16,1,1007
+267141,jacek,podgorski,18/19,Fortuna Puchar Polski,1,0,90
+267141,jacek,podgorski,17/18,Nice 1 Liga,20,1,895
+267141,jacek,podgorski,17/18,Fortuna Puchar Polski,4,1,235
+267141,jacek,podgorski,16/17,Nice 1 Liga,28,3,2357
+267141,jacek,podgorski,16/17,Fortuna Puchar Polski,2,0,180
+267141,jacek,podgorski,15/16,1 Liga,2,0,0
+267141,jacek,podgorski,13/14,1 Liga,0,0,0
+267141,jacek,podgorski,13/14,Fortuna Puchar Polski,2,0,18

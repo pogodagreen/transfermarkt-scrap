@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-13,Sl. Wroclaw II,Slask Wroclaw,0,0
-20/21,2021-02-23,Warta Sieradz,Sl. Wroclaw II,0,0
-19/20,2019-07-01,SpSch Widz. U19,Warta Sieradz,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+866431,oskar,mielcarz,22/23,2022-07-13,Sl. Wroclaw II,Slask Wroclaw,0,0
+866431,oskar,mielcarz,20/21,2021-02-23,Warta Sieradz,Sl. Wroclaw II,0,0
+866431,oskar,mielcarz,19/20,2019-07-01,SpSch Widz. U19,Warta Sieradz,0,0

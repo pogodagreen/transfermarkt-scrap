@@ -1,30 +1,30 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-346549,dawid-kurminowski,22/23,Ekstraklasa,3,0,75
-346549,dawid-kurminowski,22/23,Superligaen,4,0,6
-346549,dawid-kurminowski,21/22,Superligaen Relegation round,7,1,319
-346549,dawid-kurminowski,21/22,Superligaen,18,1,639
-346549,dawid-kurminowski,21/22,Reserveligaen Spring,1,0,90
-346549,dawid-kurminowski,21/22,Reserveligaen,4,2,305
-346549,dawid-kurminowski,21/22,DBU Pokalen,2,1,119
-346549,dawid-kurminowski,21/22,UECL Kwalifikacje,2,0,159
-346549,dawid-kurminowski,20/21,Fortuna L. - Conf. L. Playoff,2,1,180
-346549,dawid-kurminowski,20/21,Fort. Liga - Champ. G.,10,10,695
-346549,dawid-kurminowski,20/21,Slovnaft Cup,3,3,172
-346549,dawid-kurminowski,20/21,II. Liga,4,3,321
-346549,dawid-kurminowski,20/21,Fortuna Liga,22,9,1435
-346549,dawid-kurminowski,20/21,Kwalifikacje do Ligi Europy,1,0,35
-346549,dawid-kurminowski,19/20,Fort. Liga - Champ. G.,5,1,144
-346549,dawid-kurminowski,19/20,Fortuna Liga,7,3,358
-346549,dawid-kurminowski,19/20,Slovnaft Cup,2,0,180
-346549,dawid-kurminowski,19/20,II. Liga,12,9,928
-346549,dawid-kurminowski,18/19,II. Liga,9,4,449
-346549,dawid-kurminowski,18/19,Fortuna Liga,16,2,410
-346549,dawid-kurminowski,18/19,Slovnaft Cup,4,2,328
-346549,dawid-kurminowski,17/18,Fort. Liga - Releg. G.,6,3,380
-346549,dawid-kurminowski,17/18,Fortuna Liga,1,0,13
-346549,dawid-kurminowski,17/18,3 Liga - Grupa II,16,7,1057
-346549,dawid-kurminowski,16/17,CLJ - Runda Finałowa,2,1,210
-346549,dawid-kurminowski,16/17,3 Liga - Grupa II,28,10,1751
-346549,dawid-kurminowski,16/17,CLJ - Grupa Zachodnia,2,4,135
-346549,dawid-kurminowski,15/16,CLJ - Runda Finałowa,2,1,130
-346549,dawid-kurminowski,15/16,CLJ - Grupa Zachodnia,26,20,1644
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+346549,dawid,kurminowski,22/23,Ekstraklasa,4,1,146
+346549,dawid,kurminowski,22/23,Superligaen,4,0,6
+346549,dawid,kurminowski,21/22,Superligaen Relegation round,7,1,319
+346549,dawid,kurminowski,21/22,Superligaen,18,1,639
+346549,dawid,kurminowski,21/22,Reserveligaen Spring,1,0,90
+346549,dawid,kurminowski,21/22,Reserveligaen,4,2,305
+346549,dawid,kurminowski,21/22,DBU Pokalen,2,1,119
+346549,dawid,kurminowski,21/22,UECL Kwalifikacje,2,0,159
+346549,dawid,kurminowski,20/21,Fortuna L. - Conf. L. Playoff,2,1,180
+346549,dawid,kurminowski,20/21,Fort. Liga - Champ. G.,10,10,695
+346549,dawid,kurminowski,20/21,Slovnaft Cup,3,3,172
+346549,dawid,kurminowski,20/21,II. Liga,4,3,321
+346549,dawid,kurminowski,20/21,Fortuna Liga,22,9,1435
+346549,dawid,kurminowski,20/21,Kwalifikacje do Ligi Europy,1,0,35
+346549,dawid,kurminowski,19/20,Fort. Liga - Champ. G.,5,1,144
+346549,dawid,kurminowski,19/20,Fortuna Liga,7,3,358
+346549,dawid,kurminowski,19/20,Slovnaft Cup,2,0,180
+346549,dawid,kurminowski,19/20,II. Liga,12,9,928
+346549,dawid,kurminowski,18/19,II. Liga,9,4,449
+346549,dawid,kurminowski,18/19,Fortuna Liga,16,2,410
+346549,dawid,kurminowski,18/19,Slovnaft Cup,4,2,328
+346549,dawid,kurminowski,17/18,Fort. Liga - Releg. G.,6,3,380
+346549,dawid,kurminowski,17/18,Fortuna Liga,1,0,13
+346549,dawid,kurminowski,17/18,3 Liga - Grupa II,16,7,1057
+346549,dawid,kurminowski,16/17,CLJ - Runda Finałowa,2,1,210
+346549,dawid,kurminowski,16/17,3 Liga - Grupa II,28,10,1751
+346549,dawid,kurminowski,16/17,CLJ - Grupa Zachodnia,2,4,135
+346549,dawid,kurminowski,15/16,CLJ - Runda Finałowa,2,1,130
+346549,dawid,kurminowski,15/16,CLJ - Grupa Zachodnia,26,20,1644

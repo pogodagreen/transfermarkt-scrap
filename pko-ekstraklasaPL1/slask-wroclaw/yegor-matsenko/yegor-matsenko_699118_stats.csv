@@ -1,8 +1,8 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-699118,yegor-matsenko,22/23,eWinner 2 liga,12,0,701
-699118,yegor-matsenko,22/23,Fortuna Puchar Polski,1,0,64
-699118,yegor-matsenko,21/22,eWinner 2 liga,5,0,274
-699118,yegor-matsenko,21/22,3 Liga - Grupa I,8,0,423
-699118,yegor-matsenko,20/21,CLJ,8,0,582
-699118,yegor-matsenko,20/21,3 Liga - Grupa I,22,1,1720
-699118,yegor-matsenko,19/20,CLJ,15,3,1303
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+699118,yegor,matsenko,22/23,eWinner 2 liga,12,0,701
+699118,yegor,matsenko,22/23,Fortuna Puchar Polski,1,0,64
+699118,yegor,matsenko,21/22,eWinner 2 liga,5,0,274
+699118,yegor,matsenko,21/22,3 Liga - Grupa I,8,0,423
+699118,yegor,matsenko,20/21,CLJ,8,0,582
+699118,yegor,matsenko,20/21,3 Liga - Grupa I,22,1,1720
+699118,yegor,matsenko,19/20,CLJ,15,3,1303

@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-17/18,2017-07-01,Ferencváros,Lechia Gdansk,450000,free transfer
-14/15,2014-07-01,Wisla Kraków,Ferencváros,300000,free transfer
-12/13,2013-06-30,Termalica,Wisla Kraków,275000,End of loan
-12/13,2012-07-01,Wisla Kraków,Termalica,125000,loan transfer
-11/12,2012-06-30,Radzionkow,Wisla Kraków,125000,End of loan
-11/12,2011-07-20,Wisla Kraków,Radzionkow,100000,loan transfer
-11/12,2011-07-01,Wisla Krakow II,Wisla Kraków,50000,0
-10/11,2010-07-01,Wisla U19,Wisla Krakow II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+175947,michal,nalepa,17/18,2017-07-01,Ferencváros,Lechia Gdansk,450000,free transfer
+175947,michal,nalepa,14/15,2014-07-01,Wisla Kraków,Ferencváros,300000,free transfer
+175947,michal,nalepa,12/13,2013-06-30,Termalica,Wisla Kraków,275000,End of loan
+175947,michal,nalepa,12/13,2012-07-01,Wisla Kraków,Termalica,125000,loan transfer
+175947,michal,nalepa,11/12,2012-06-30,Radzionkow,Wisla Kraków,125000,End of loan
+175947,michal,nalepa,11/12,2011-07-20,Wisla Kraków,Radzionkow,100000,loan transfer
+175947,michal,nalepa,11/12,2011-07-01,Wisla Krakow II,Wisla Kraków,50000,0
+175947,michal,nalepa,10/11,2010-07-01,Wisla U19,Wisla Krakow II,0,0

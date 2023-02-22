@@ -1,7 +1,7 @@
-id,name,dates,marketValue
-553932,dawid-lisowski,2020-08-17,100000
-553932,dawid-lisowski,2021-02-23,100000
-553932,dawid-lisowski,2021-06-29,125000
-553932,dawid-lisowski,2022-01-13,75000
-553932,dawid-lisowski,2022-06-23,50000
-553932,dawid-lisowski,2022-11-15,25000
+id,firstName,lastName,dates,marketValue
+553932,dawid,lisowski,2020-08-17,100000
+553932,dawid,lisowski,2021-02-23,100000
+553932,dawid,lisowski,2021-06-29,125000
+553932,dawid,lisowski,2022-01-13,75000
+553932,dawid,lisowski,2022-06-23,50000
+553932,dawid,lisowski,2022-11-15,25000

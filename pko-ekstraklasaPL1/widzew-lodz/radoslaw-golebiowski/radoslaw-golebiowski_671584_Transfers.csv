@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Skra Czesto.,Widzew Lodz,150000,End of loan
-22/23,2022-09-01,Widzew Lodz,Skra Czesto.,250000,loan transfer
-21/22,2021-07-01,Skra Czesto.,Widzew Lodz,100000,free transfer
-18/19,2019-03-02,Skra U19,Skra Czesto.,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+671584,radoslaw,golebiowski,22/23,2023-06-30,Skra Czesto.,Widzew Lodz,150000,End of loan
+671584,radoslaw,golebiowski,22/23,2022-09-01,Widzew Lodz,Skra Czesto.,250000,loan transfer
+671584,radoslaw,golebiowski,21/22,2021-07-01,Skra Czesto.,Widzew Lodz,100000,free transfer
+671584,radoslaw,golebiowski,18/19,2019-03-02,Skra U19,Skra Czesto.,0,0

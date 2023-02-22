@@ -1,16 +1,16 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-407089,wiktor-plesnierowicz,22/23,Ekstraklasa,9,0,172
-407089,wiktor-plesnierowicz,22/23,Fortuna Puchar Polski,2,0,171
-407089,wiktor-plesnierowicz,20/21,1 Liga,14,0,1065
-407089,wiktor-plesnierowicz,20/21,3 Liga - Grupa III,8,1,678
-407089,wiktor-plesnierowicz,19/20,Primavera 1,8,0,487
-407089,wiktor-plesnierowicz,19/20,Coppa Primavera,1,0,6
-407089,wiktor-plesnierowicz,19/20,eWinner 2 liga,4,0,357
-407089,wiktor-plesnierowicz,18/19,3 Liga - Grupa II,18,0,1281
-407089,wiktor-plesnierowicz,18/19,Ekstraklasa,0,0,0
-407089,wiktor-plesnierowicz,18/19,CLJ,3,0,270
-407089,wiktor-plesnierowicz,18/19,Kwalifikacje do Ligi Europy,0,0,0
-407089,wiktor-plesnierowicz,17/18,CLJ - Runda Finałowa,4,1,340
-407089,wiktor-plesnierowicz,17/18,CLJ - Grupa Zachodnia,13,1,936
-407089,wiktor-plesnierowicz,17/18,3 Liga - Grupa II,8,1,642
-407089,wiktor-plesnierowicz,16/17,CLJ - Grupa Zachodnia,2,0,107
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+407089,wiktor,plesnierowicz,22/23,Ekstraklasa,9,0,172
+407089,wiktor,plesnierowicz,22/23,Fortuna Puchar Polski,2,0,171
+407089,wiktor,plesnierowicz,20/21,1 Liga,14,0,1065
+407089,wiktor,plesnierowicz,20/21,3 Liga - Grupa III,8,1,678
+407089,wiktor,plesnierowicz,19/20,Primavera 1,8,0,487
+407089,wiktor,plesnierowicz,19/20,Coppa Primavera,1,0,6
+407089,wiktor,plesnierowicz,19/20,eWinner 2 liga,4,0,357
+407089,wiktor,plesnierowicz,18/19,3 Liga - Grupa II,18,0,1281
+407089,wiktor,plesnierowicz,18/19,Ekstraklasa,0,0,0
+407089,wiktor,plesnierowicz,18/19,CLJ,3,0,270
+407089,wiktor,plesnierowicz,18/19,Kwalifikacje do Ligi Europy,0,0,0
+407089,wiktor,plesnierowicz,17/18,CLJ - Runda Finałowa,4,1,340
+407089,wiktor,plesnierowicz,17/18,CLJ - Grupa Zachodnia,13,1,936
+407089,wiktor,plesnierowicz,17/18,3 Liga - Grupa II,8,1,642
+407089,wiktor,plesnierowicz,16/17,CLJ - Grupa Zachodnia,2,0,107

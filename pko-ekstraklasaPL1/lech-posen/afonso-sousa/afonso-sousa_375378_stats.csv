@@ -1,18 +1,18 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-375378,afonso-sousa,22/23,Ekstraklasa,15,2,820
-375378,afonso-sousa,22/23,Liga Konferencji,1,0,0
-375378,afonso-sousa,22/23,Fortuna Puchar Polski,1,1,90
-375378,afonso-sousa,22/23,UECL Kwalifikacje,2,1,43
-375378,afonso-sousa,22/23,eWinner 2 liga,1,0,82
-375378,afonso-sousa,22/23,Superpuchar,1,0,26
-375378,afonso-sousa,22/23,Kwalifikacje do Ligi Mistrzów,0,0,0
-375378,afonso-sousa,21/22,Liga Bwin,30,1,2289
-375378,afonso-sousa,21/22,Taça de Portugal,3,2,251
-375378,afonso-sousa,21/22,Allianz Cup,1,0,45
-375378,afonso-sousa,20/21,Liga NOS,32,2,1929
-375378,afonso-sousa,20/21,Taça de Portugal,3,0,228
-375378,afonso-sousa,19/20,LigaPro,21,7,1250
-375378,afonso-sousa,19/20,Liga Młodzieżowa UEFA,5,4,471
-375378,afonso-sousa,18/19,Liga Młodzieżowa UEFA,7,3,286
-375378,afonso-sousa,17/18,Liga Młodzieżowa UEFA,5,0,242
-375378,afonso-sousa,16/17,Liga Młodzieżowa UEFA,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+375378,afonso,sousa,22/23,Ekstraklasa,16,2,910
+375378,afonso,sousa,22/23,Liga Konferencji,1,0,0
+375378,afonso,sousa,22/23,Fortuna Puchar Polski,1,1,90
+375378,afonso,sousa,22/23,UECL Kwalifikacje,2,1,43
+375378,afonso,sousa,22/23,eWinner 2 liga,1,0,82
+375378,afonso,sousa,22/23,Superpuchar,1,0,26
+375378,afonso,sousa,22/23,Kwalifikacje do Ligi Mistrzów,0,0,0
+375378,afonso,sousa,21/22,Liga Bwin,30,1,2289
+375378,afonso,sousa,21/22,Taça de Portugal,3,2,251
+375378,afonso,sousa,21/22,Allianz Cup,1,0,45
+375378,afonso,sousa,20/21,Liga NOS,32,2,1929
+375378,afonso,sousa,20/21,Taça de Portugal,3,0,228
+375378,afonso,sousa,19/20,LigaPro,21,7,1250
+375378,afonso,sousa,19/20,Liga Młodzieżowa UEFA,5,4,471
+375378,afonso,sousa,18/19,Liga Młodzieżowa UEFA,7,3,286
+375378,afonso,sousa,17/18,Liga Młodzieżowa UEFA,5,0,242
+375378,afonso,sousa,16/17,Liga Młodzieżowa UEFA,0,0,0

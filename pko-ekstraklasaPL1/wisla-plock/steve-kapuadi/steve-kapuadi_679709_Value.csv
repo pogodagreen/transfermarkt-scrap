@@ -1,8 +1,8 @@
-id,name,dates,marketValue
-679709,steve-kapuadi,2020-07-09,150000
-679709,steve-kapuadi,2020-12-27,150000
-679709,steve-kapuadi,2021-06-25,200000
-679709,steve-kapuadi,2021-12-25,125000
-679709,steve-kapuadi,2022-06-22,100000
-679709,steve-kapuadi,2022-09-28,500000
-679709,steve-kapuadi,2022-11-15,400000
+id,firstName,lastName,dates,marketValue
+679709,steve,kapuadi,2020-07-09,150000
+679709,steve,kapuadi,2020-12-27,150000
+679709,steve,kapuadi,2021-06-25,200000
+679709,steve,kapuadi,2021-12-25,125000
+679709,steve,kapuadi,2022-06-22,100000
+679709,steve,kapuadi,2022-09-28,500000
+679709,steve,kapuadi,2022-11-15,400000

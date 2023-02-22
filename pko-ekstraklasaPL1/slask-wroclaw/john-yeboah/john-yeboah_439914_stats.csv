@@ -1,26 +1,26 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-439914,john-yeboah,22/23,Ekstraklasa,19,4,1381
-439914,john-yeboah,22/23,Fortuna Puchar Polski,3,3,264
-439914,john-yeboah,21/22,3. Liga,18,0,1396
-439914,john-yeboah,21/22,Niederrheinpokal,2,2,163
-439914,john-yeboah,21/22,Eredivisie,8,0,70
-439914,john-yeboah,21/22,KNVB beker,1,0,17
-439914,john-yeboah,20/21,Play-Offs Promotie/Deg.,1,0,52
-439914,john-yeboah,20/21,Keuken Kampioen Divisie,17,4,993
-439914,john-yeboah,20/21,Eredivisie,9,1,305
-439914,john-yeboah,20/21,KNVB beker,1,0,11
-439914,john-yeboah,20/21,Kwalifikacje do Ligi Europy,1,0,31
-439914,john-yeboah,19/20,Eredivisie,18,1,1006
-439914,john-yeboah,19/20,Reserve Erediv.,1,1,79
-439914,john-yeboah,19/20,Beloften Runda Wstępna,2,4,180
-439914,john-yeboah,19/20,Regionalliga Nord,5,4,428
-439914,john-yeboah,18/19,U19-Bundesliga Endrunde,2,1,210
-439914,john-yeboah,18/19,U19-BL N/NO,19,20,1596
-439914,john-yeboah,18/19,Bundesliga,2,0,53
-439914,john-yeboah,18/19,DFB-Pokal,1,0,31
-439914,john-yeboah,18/19,DFB-Pokal der Junioren,3,0,262
-439914,john-yeboah,17/18,U19-BL N/NO,22,10,1738
-439914,john-yeboah,17/18,DFB-Jun.-Pokal,1,0,59
-439914,john-yeboah,16/17,U17-BL N/NO,25,7,2018
-439914,john-yeboah,15/16,U17-Bundesliga Endrunde,1,0,20
-439914,john-yeboah,15/16,U17-BL N/NO,1,0,90
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+439914,john,yeboah,22/23,Ekstraklasa,20,4,1463
+439914,john,yeboah,22/23,Fortuna Puchar Polski,3,3,264
+439914,john,yeboah,21/22,3. Liga,18,0,1396
+439914,john,yeboah,21/22,Niederrheinpokal,2,2,163
+439914,john,yeboah,21/22,Eredivisie,8,0,70
+439914,john,yeboah,21/22,KNVB beker,1,0,17
+439914,john,yeboah,20/21,Play-Offs Promotie/Deg.,1,0,52
+439914,john,yeboah,20/21,Keuken Kampioen Divisie,17,4,993
+439914,john,yeboah,20/21,Eredivisie,9,1,305
+439914,john,yeboah,20/21,KNVB beker,1,0,11
+439914,john,yeboah,20/21,Kwalifikacje do Ligi Europy,1,0,31
+439914,john,yeboah,19/20,Eredivisie,18,1,1006
+439914,john,yeboah,19/20,Reserve Erediv.,1,1,79
+439914,john,yeboah,19/20,Beloften Runda Wstępna,2,4,180
+439914,john,yeboah,19/20,Regionalliga Nord,5,4,428
+439914,john,yeboah,18/19,U19-Bundesliga Endrunde,2,1,210
+439914,john,yeboah,18/19,U19-BL N/NO,19,20,1596
+439914,john,yeboah,18/19,Bundesliga,2,0,53
+439914,john,yeboah,18/19,DFB-Pokal,1,0,31
+439914,john,yeboah,18/19,DFB-Pokal der Junioren,3,0,262
+439914,john,yeboah,17/18,U19-BL N/NO,22,10,1738
+439914,john,yeboah,17/18,DFB-Jun.-Pokal,1,0,59
+439914,john,yeboah,16/17,U17-BL N/NO,25,7,2018
+439914,john,yeboah,15/16,U17-Bundesliga Endrunde,1,0,20
+439914,john,yeboah,15/16,U17-BL N/NO,1,0,90

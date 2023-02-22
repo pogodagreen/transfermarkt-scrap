@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-06-30,Pogon Grodzisk,Jagiellonia,100000,End of loan
-21/22,2022-01-27,Jagiellonia,Pogon Grodzisk,100000,loan transfer
-21/22,2021-12-31,Korona Kielce,Jagiellonia,150000,End of loan
-21/22,2021-07-03,Jagiellonia,Korona Kielce,150000,loan transfer
-20/21,2020-08-11,Jagiellonia U19,Jagiellonia,0,0
-19/20,2019-12-31,O. Zambrow,Jagiellonia U19,0,End of loan
-19/20,2019-08-01,Jagiellonia U19,O. Zambrow,0,loan transfer
-18/19,2018-07-01,Białystok Youth,Jagiellonia U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+587156,maciej,bortniczuk,21/22,2022-06-30,Pogon Grodzisk,Jagiellonia,100000,End of loan
+587156,maciej,bortniczuk,21/22,2022-01-27,Jagiellonia,Pogon Grodzisk,100000,loan transfer
+587156,maciej,bortniczuk,21/22,2021-12-31,Korona Kielce,Jagiellonia,150000,End of loan
+587156,maciej,bortniczuk,21/22,2021-07-03,Jagiellonia,Korona Kielce,150000,loan transfer
+587156,maciej,bortniczuk,20/21,2020-08-11,Jagiellonia U19,Jagiellonia,0,0
+587156,maciej,bortniczuk,19/20,2019-12-31,O. Zambrow,Jagiellonia U19,0,End of loan
+587156,maciej,bortniczuk,19/20,2019-08-01,Jagiellonia U19,O. Zambrow,0,loan transfer
+587156,maciej,bortniczuk,18/19,2018-07-01,Białystok Youth,Jagiellonia U19,0,0

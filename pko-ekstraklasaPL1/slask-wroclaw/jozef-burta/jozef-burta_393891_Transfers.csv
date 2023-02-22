@@ -1,10 +1,10 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-02,Piast Zmigrod,Slask Wroclaw,0,free transfer
-20/21,2020-09-19,Pogon Siedlce,Piast Zmigrod,0,free transfer
-19/20,2020-06-30,KKS Kalisz,Pogon Siedlce,0,End of loan
-19/20,2019-07-20,Pogon Siedlce,KKS Kalisz,0,loan transfer
-18/19,2018-07-20,Legia U19,Pogon Siedlce,0,free transfer
-17/18,2018-06-30,Victoria Sulejowek,Legia U19,0,End of loan
-17/18,2017-08-31,Legia U19,Victoria Sulejowek,0,loan transfer
-15/16,2016-01-01,Legia U19,Legia II,0,0
-15/16,2015-07-01,P. Siedlce U19,Legia U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+393891,jozef,burta,21/22,2021-07-02,Piast Zmigrod,Slask Wroclaw,0,free transfer
+393891,jozef,burta,20/21,2020-09-19,Pogon Siedlce,Piast Zmigrod,0,free transfer
+393891,jozef,burta,19/20,2020-06-30,KKS Kalisz,Pogon Siedlce,0,End of loan
+393891,jozef,burta,19/20,2019-07-20,Pogon Siedlce,KKS Kalisz,0,loan transfer
+393891,jozef,burta,18/19,2018-07-20,Legia U19,Pogon Siedlce,0,free transfer
+393891,jozef,burta,17/18,2018-06-30,Victoria Sulejowek,Legia U19,0,End of loan
+393891,jozef,burta,17/18,2017-08-31,Legia U19,Victoria Sulejowek,0,loan transfer
+393891,jozef,burta,15/16,2016-01-01,Legia U19,Legia II,0,0
+393891,jozef,burta,15/16,2015-07-01,P. Siedlce U19,Legia U19,0,0

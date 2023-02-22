@@ -1,8 +1,8 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-14,Without Club,Wisla Plock,100000,0
-21/22,2022-01-01,Michalovce,Without Club,125000,0
-21/22,2021-07-07,Banska Bystrica,Michalovce,100000,free transfer
-20/21,2021-01-12,Radomiak,Banska Bystrica,100000,free transfer
-20/21,2020-08-10,Michalovce,Radomiak,100000,free transfer
-19/20,2019-09-19,AS Trencin,Michalovce,100000,free transfer
-16/17,2016-09-20,AS Trencin U19,AS Trencin,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+464800,milan,kvocera,22/23,2022-07-14,Without Club,Wisla Plock,100000,0
+464800,milan,kvocera,21/22,2022-01-01,Michalovce,Without Club,125000,0
+464800,milan,kvocera,21/22,2021-07-07,Banska Bystrica,Michalovce,100000,free transfer
+464800,milan,kvocera,20/21,2021-01-12,Radomiak,Banska Bystrica,100000,free transfer
+464800,milan,kvocera,20/21,2020-08-10,Michalovce,Radomiak,100000,free transfer
+464800,milan,kvocera,19/20,2019-09-19,AS Trencin,Michalovce,100000,free transfer
+464800,milan,kvocera,16/17,2016-09-20,AS Trencin U19,AS Trencin,0,0

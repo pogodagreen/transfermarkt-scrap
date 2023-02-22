@@ -1,16 +1,16 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-385759,michal-kaput,22/23,Ekstraklasa,12,0,284
-385759,michal-kaput,22/23,Fortuna Puchar Polski,2,0,172
-385759,michal-kaput,21/22,Ekstraklasa,11,0,335
-385759,michal-kaput,21/22,Fortuna Puchar Polski,1,0,105
-385759,michal-kaput,21/22,Ekstraklasa,18,0,1483
-385759,michal-kaput,21/22,Fortuna Puchar Polski,1,0,44
-385759,michal-kaput,20/21,1 Liga,30,1,2302
-385759,michal-kaput,20/21,Fortuna Puchar Polski,2,0,180
-385759,michal-kaput,19/20,Baraze o udzial w Ekstraklasie,2,0,180
-385759,michal-kaput,19/20,1 Liga,27,1,2111
-385759,michal-kaput,19/20,Fortuna Puchar Polski,1,0,90
-385759,michal-kaput,18/19,eWinner 2 liga,32,3,2377
-385759,michal-kaput,17/18,3 Liga - Grupa I,30,2,2545
-385759,michal-kaput,16/17,CLJ - Grupa Wschodnia,19,5,1553
-385759,michal-kaput,15/16,CLJ - Grupa Wschodnia,23,1,1887
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+385759,michal,kaput,22/23,Ekstraklasa,13,0,295
+385759,michal,kaput,22/23,Fortuna Puchar Polski,2,0,172
+385759,michal,kaput,21/22,Ekstraklasa,11,0,335
+385759,michal,kaput,21/22,Fortuna Puchar Polski,1,0,105
+385759,michal,kaput,21/22,Ekstraklasa,18,0,1483
+385759,michal,kaput,21/22,Fortuna Puchar Polski,1,0,44
+385759,michal,kaput,20/21,1 Liga,30,1,2302
+385759,michal,kaput,20/21,Fortuna Puchar Polski,2,0,180
+385759,michal,kaput,19/20,Baraze o udzial w Ekstraklasie,2,0,180
+385759,michal,kaput,19/20,1 Liga,27,1,2111
+385759,michal,kaput,19/20,Fortuna Puchar Polski,1,0,90
+385759,michal,kaput,18/19,eWinner 2 liga,32,3,2377
+385759,michal,kaput,17/18,3 Liga - Grupa I,30,2,2545
+385759,michal,kaput,16/17,CLJ - Grupa Wschodnia,19,5,1553
+385759,michal,kaput,15/16,CLJ - Grupa Wschodnia,23,1,1887

@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2021-01-01,GKS Belchatow,Miedz Legnica,100000,free transfer
-13/14,2013-10-04,Belchatow II,GKS Belchatow,0,0
-12/13,2013-01-01,Belchatow U19,Belchatow II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+279144,pawel,lenarcik,20/21,2021-01-01,GKS Belchatow,Miedz Legnica,100000,free transfer
+279144,pawel,lenarcik,13/14,2013-10-04,Belchatow II,GKS Belchatow,0,0
+279144,pawel,lenarcik,12/13,2013-01-01,Belchatow U19,Belchatow II,0,0

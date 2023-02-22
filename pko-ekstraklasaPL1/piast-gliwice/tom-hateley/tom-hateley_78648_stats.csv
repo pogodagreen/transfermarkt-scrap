@@ -1,43 +1,43 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-78648,tom-hateley,22/23,Ekstraklasa,19,0,1234
-78648,tom-hateley,22/23,Fortuna Puchar Polski,1,1,38
-78648,tom-hateley,21/22,Ekstraklasa,23,0,1725
-78648,tom-hateley,21/22,Fortuna Puchar Polski,1,0,120
-78648,tom-hateley,20/21,Protathlima Cyta Championship Round,9,0,785
-78648,tom-hateley,20/21,Protathlima Cyta,23,1,1727
-78648,tom-hateley,20/21,Kypello Kyprou,2,0,178
-78648,tom-hateley,19/20,Ekstraklasa,33,1,2868
-78648,tom-hateley,19/20,Fortuna Puchar Polski,3,1,155
-78648,tom-hateley,19/20,Kwalifikacje do Ligi Europy,2,0,175
-78648,tom-hateley,19/20,Kwalifikacje do Ligi Mistrzów,2,0,180
-78648,tom-hateley,19/20,Superpuchar,1,0,62
-78648,tom-hateley,18/19,Ekstraklasa,34,4,2633
-78648,tom-hateley,17/18,Ekstraklasa,13,1,1161
-78648,tom-hateley,17/18,Premiership,0,0,0
-78648,tom-hateley,17/18,League Cup,0,0,0
-78648,tom-hateley,16/17,Premiership,27,0,2116
-78648,tom-hateley,16/17,SFA Cup,1,0,58
-78648,tom-hateley,15/16,Ekstraklasa,29,1,2407
-78648,tom-hateley,15/16,Fortuna Puchar Polski,2,0,92
-78648,tom-hateley,15/16,Kwalifikacje do Ligi Europy,4,0,337
-78648,tom-hateley,14/15,Ekstraklasa,30,0,2088
-78648,tom-hateley,14/15,Fortuna Puchar Polski,4,0,358
-78648,tom-hateley,13/14,Ekstraklasa,12,0,1008
-78648,tom-hateley,13/14,League One,8,0,585
-78648,tom-hateley,13/14,FA Cup,1,0,59
-78648,tom-hateley,13/14,EFL Cup,1,0,90
-78648,tom-hateley,12/13,Premiership,34,3,3044
-78648,tom-hateley,12/13,SFA Cup,2,0,175
-78648,tom-hateley,12/13,League Cup,1,0,64
-78648,tom-hateley,12/13,Liga Europy,1,0,90
-78648,tom-hateley,12/13,Kwalifikacje do Ligi Mistrzów,2,0,180
-78648,tom-hateley,11/12,Premiership,38,2,3420
-78648,tom-hateley,11/12,SFA Cup,3,1,270
-78648,tom-hateley,11/12,League Cup,2,1,210
-78648,tom-hateley,10/11,SFA Cup,6,0,540
-78648,tom-hateley,10/11,Premiership,38,2,3113
-78648,tom-hateley,10/11,League Cup,3,0,259
-78648,tom-hateley,10/11,Kwalifikacje do Ligi Europy,6,1,540
-78648,tom-hateley,09/10,Premiership,38,2,3358
-78648,tom-hateley,09/10,SFA Cup,1,0,90
-78648,tom-hateley,09/10,League Cup,2,0,210
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+78648,tom,hateley,22/23,Ekstraklasa,19,0,1234
+78648,tom,hateley,22/23,Fortuna Puchar Polski,1,1,38
+78648,tom,hateley,21/22,Ekstraklasa,23,0,1725
+78648,tom,hateley,21/22,Fortuna Puchar Polski,1,0,120
+78648,tom,hateley,20/21,Protathlima Cyta Championship Round,9,0,785
+78648,tom,hateley,20/21,Protathlima Cyta,23,1,1727
+78648,tom,hateley,20/21,Kypello Kyprou,2,0,178
+78648,tom,hateley,19/20,Ekstraklasa,33,1,2868
+78648,tom,hateley,19/20,Fortuna Puchar Polski,3,1,155
+78648,tom,hateley,19/20,Kwalifikacje do Ligi Europy,2,0,175
+78648,tom,hateley,19/20,Kwalifikacje do Ligi Mistrzów,2,0,180
+78648,tom,hateley,19/20,Superpuchar,1,0,62
+78648,tom,hateley,18/19,Ekstraklasa,34,4,2633
+78648,tom,hateley,17/18,Ekstraklasa,13,1,1161
+78648,tom,hateley,17/18,Premiership,0,0,0
+78648,tom,hateley,17/18,League Cup,0,0,0
+78648,tom,hateley,16/17,Premiership,27,0,2116
+78648,tom,hateley,16/17,SFA Cup,1,0,58
+78648,tom,hateley,15/16,Ekstraklasa,29,1,2407
+78648,tom,hateley,15/16,Fortuna Puchar Polski,2,0,92
+78648,tom,hateley,15/16,Kwalifikacje do Ligi Europy,4,0,337
+78648,tom,hateley,14/15,Ekstraklasa,30,0,2088
+78648,tom,hateley,14/15,Fortuna Puchar Polski,4,0,358
+78648,tom,hateley,13/14,Ekstraklasa,12,0,1008
+78648,tom,hateley,13/14,League One,8,0,585
+78648,tom,hateley,13/14,FA Cup,1,0,59
+78648,tom,hateley,13/14,EFL Cup,1,0,90
+78648,tom,hateley,12/13,Premiership,34,3,3044
+78648,tom,hateley,12/13,SFA Cup,2,0,175
+78648,tom,hateley,12/13,League Cup,1,0,64
+78648,tom,hateley,12/13,Liga Europy,1,0,90
+78648,tom,hateley,12/13,Kwalifikacje do Ligi Mistrzów,2,0,180
+78648,tom,hateley,11/12,Premiership,38,2,3420
+78648,tom,hateley,11/12,SFA Cup,3,1,270
+78648,tom,hateley,11/12,League Cup,2,1,210
+78648,tom,hateley,10/11,SFA Cup,6,0,540
+78648,tom,hateley,10/11,Premiership,38,2,3113
+78648,tom,hateley,10/11,League Cup,3,0,259
+78648,tom,hateley,10/11,Kwalifikacje do Ligi Europy,6,1,540
+78648,tom,hateley,09/10,Premiership,38,2,3358
+78648,tom,hateley,09/10,SFA Cup,1,0,90
+78648,tom,hateley,09/10,League Cup,2,0,210

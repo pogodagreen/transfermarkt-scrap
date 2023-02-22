@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-573573,miroslav-gono,2000,Slovakia,"1,81",Central Midfield,0,0,0,2,5,0,13,0
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+573573,miroslav,gono,2000,Slovakia,"1,81",Central Midfield,0,0,0,2,5,0,13,0

@@ -1,13 +1,13 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Lechia Gdansk,Legia Warszawa,300000,End of loan
-22/23,2022-08-27,Legia Warszawa,Lechia Gdansk,300000,loan transfer
-21/22,2021-07-01,Zorya Lugansk,Legia Warszawa,1200000,free transfer
-19/20,2019-07-16,1.FC Magdeburg,Zorya Lugansk,250000,free transfer
-18/19,2019-06-30,Fortuna Köln,1.FC Magdeburg,250000,End of loan
-18/19,2019-01-16,1.FC Magdeburg,Fortuna Köln,300000,loan transfer
-18/19,2018-07-01,1.FC K'lautern,1.FC Magdeburg,350000,free transfer
-17/18,2017-08-30,B. Leverkusen,1.FC K'lautern,100000,0
-16/17,2016-07-01,Leverkusen U19,B. Leverkusen,0,0
-15/16,2015-07-01,Leverkusen U17,Leverkusen U19,0,0
-13/14,2013-07-01,Leverkusen Yth.,Leverkusen U17,0,0
-08/09,2008-07-01,Hennef 05 Yth.,Leverkusen Yth.,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+267330,joel,abu,22/23,2023-06-30,Lechia Gdansk,Legia Warszawa,300000,End of loan
+267330,joel,abu,22/23,2022-08-27,Legia Warszawa,Lechia Gdansk,300000,loan transfer
+267330,joel,abu,21/22,2021-07-01,Zorya Lugansk,Legia Warszawa,1200000,free transfer
+267330,joel,abu,19/20,2019-07-16,1.FC Magdeburg,Zorya Lugansk,250000,free transfer
+267330,joel,abu,18/19,2019-06-30,Fortuna Köln,1.FC Magdeburg,250000,End of loan
+267330,joel,abu,18/19,2019-01-16,1.FC Magdeburg,Fortuna Köln,300000,loan transfer
+267330,joel,abu,18/19,2018-07-01,1.FC K'lautern,1.FC Magdeburg,350000,free transfer
+267330,joel,abu,17/18,2017-08-30,B. Leverkusen,1.FC K'lautern,100000,0
+267330,joel,abu,16/17,2016-07-01,Leverkusen U19,B. Leverkusen,0,0
+267330,joel,abu,15/16,2015-07-01,Leverkusen U17,Leverkusen U19,0,0
+267330,joel,abu,13/14,2013-07-01,Leverkusen Yth.,Leverkusen U17,0,0
+267330,joel,abu,08/09,2008-07-01,Hennef 05 Yth.,Leverkusen Yth.,0,free transfer

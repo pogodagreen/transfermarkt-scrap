@@ -1,6 +1,6 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-01,Genclerbirligi,Legia Warszawa,500000,free transfer
-20/21,2020-08-24,Panathinaikos,Genclerbirligi,550000,free transfer
-17/18,2017-08-04,AZ Alkmaar,Panathinaikos,1500000,free transfer
-11/12,2012-01-01,Kalmar FF,AZ Alkmaar,1500000,1500000
-09/10,2010-01-01,Kalmar U19,Kalmar FF,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+132014,mattias,johansson,21/22,2021-07-01,Genclerbirligi,Legia Warszawa,500000,free transfer
+132014,mattias,johansson,20/21,2020-08-24,Panathinaikos,Genclerbirligi,550000,free transfer
+132014,mattias,johansson,17/18,2017-08-04,AZ Alkmaar,Panathinaikos,1500000,free transfer
+132014,mattias,johansson,11/12,2012-01-01,Kalmar FF,AZ Alkmaar,1500000,1500000
+132014,mattias,johansson,09/10,2010-01-01,Kalmar U19,Kalmar FF,0,0

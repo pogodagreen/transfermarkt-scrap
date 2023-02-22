@@ -1,50 +1,50 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-199000,rauno-sappinen,22/23,Ekstraklasa,3,0,260
-199000,rauno-sappinen,22/23,Ekstraklasa,11,1,411
-199000,rauno-sappinen,22/23,Fortuna Puchar Polski,2,0,84
-199000,rauno-sappinen,21/22,Ekstraklasa,8,0,369
-199000,rauno-sappinen,21/22,Fortuna Puchar Polski,1,0,56
-199000,rauno-sappinen,21/22,Liga Konferencji,4,3,296
-199000,rauno-sappinen,21/22,UECL Kwalifikacje,2,2,177
-199000,rauno-sappinen,21/22,Kwalifikacje do Ligi Europy,2,2,199
-199000,rauno-sappinen,21/22,Kwalifikacje do Ligi Mistrzów,4,4,328
-199000,rauno-sappinen,2021,Premium Liiga,30,23,2199
-199000,rauno-sappinen,20/21,Eesti Karikas,3,1,202
-199000,rauno-sappinen,20/21,Eesti Superkarikas,1,1,90
-199000,rauno-sappinen,20/21,Kwalifikacje do Ligi Europy,2,1,162
-199000,rauno-sappinen,20/21,Kwalifikacje do Ligi Mistrzów,1,1,120
-199000,rauno-sappinen,2020,Premium Liiga,28,26,2247
-199000,rauno-sappinen,19/20,Eesti Karikas,3,0,196
-199000,rauno-sappinen,19/20,Eesti Superkarikas,1,1,88
-199000,rauno-sappinen,19/20,Prva Liga,10,2,396
-199000,rauno-sappinen,19/20,Pokal Slovenije,1,0,11
-199000,rauno-sappinen,18/19,Play-Offs Promotie/Deg.,1,0,57
-199000,rauno-sappinen,18/19,Keuken Kampioen Divisie,30,6,1908
-199000,rauno-sappinen,18/19,KNVB beker,1,0,90
-199000,rauno-sappinen,18/19,Kwalifikacje do Ligi Europy,1,0,90
-199000,rauno-sappinen,18/19,Kwalifikacje do Ligi Mistrzów,2,1,180
-199000,rauno-sappinen,2018,Premium Liiga,2,0,95
-199000,rauno-sappinen,17/18,JPL Playoff II,1,0,60
-199000,rauno-sappinen,17/18,Proximus League,1,0,45
-199000,rauno-sappinen,17/18,Eesti Karikas,1,0,30
-199000,rauno-sappinen,17/18,Kwalifikacje do Ligi Europy,2,0,153
-199000,rauno-sappinen,2017,Premium Liiga,35,27,3120
-199000,rauno-sappinen,16/17,Eesti Superkarikas,1,0,90
-199000,rauno-sappinen,16/17,Eesti Karikas,3,1,148
-199000,rauno-sappinen,16/17,Kwalifikacje do Ligi Mistrzów,2,1,180
-199000,rauno-sappinen,2016,Premium Liiga,32,19,2463
-199000,rauno-sappinen,15/16,Eesti Karikas,5,4,337
-199000,rauno-sappinen,15/16,Eesti Superkarikas,1,1,90
-199000,rauno-sappinen,15/16,Kwalifikacje do Ligi Europy,2,0,143
-199000,rauno-sappinen,2015,Premium Liiga,32,16,2487
-199000,rauno-sappinen,14/15,Eesti Karikas,4,4,340
-199000,rauno-sappinen,2014,Premium Liiga,12,2,504
-199000,rauno-sappinen,2014,Esiliiga,14,5,1100
-199000,rauno-sappinen,13/14,Eesti Superkarikas,1,0,55
-199000,rauno-sappinen,13/14,Eesti Karikas,3,0,150
-199000,rauno-sappinen,13/14,Kwalifikacje do Ligi Europy,1,0,5
-199000,rauno-sappinen,2013,Premium Liiga,23,5,1163
-199000,rauno-sappinen,2013,Esiliiga,8,0,515
-199000,rauno-sappinen,12/13,Eesti Karikas,2,0,65
-199000,rauno-sappinen,12/13,Eesti Karikas,2,0,62
-199000,rauno-sappinen,2012,Esiliiga,10,1,497
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+199000,rauno,sappinen,22/23,Ekstraklasa,4,0,334
+199000,rauno,sappinen,22/23,Ekstraklasa,11,1,411
+199000,rauno,sappinen,22/23,Fortuna Puchar Polski,2,0,84
+199000,rauno,sappinen,21/22,Ekstraklasa,8,0,369
+199000,rauno,sappinen,21/22,Fortuna Puchar Polski,1,0,56
+199000,rauno,sappinen,21/22,Liga Konferencji,4,3,296
+199000,rauno,sappinen,21/22,UECL Kwalifikacje,2,2,177
+199000,rauno,sappinen,21/22,Kwalifikacje do Ligi Europy,2,2,199
+199000,rauno,sappinen,21/22,Kwalifikacje do Ligi Mistrzów,4,4,328
+199000,rauno,sappinen,2021,Premium Liiga,30,23,2199
+199000,rauno,sappinen,20/21,Eesti Karikas,3,1,202
+199000,rauno,sappinen,20/21,Eesti Superkarikas,1,1,90
+199000,rauno,sappinen,20/21,Kwalifikacje do Ligi Europy,2,1,162
+199000,rauno,sappinen,20/21,Kwalifikacje do Ligi Mistrzów,1,1,120
+199000,rauno,sappinen,2020,Premium Liiga,28,26,2247
+199000,rauno,sappinen,19/20,Eesti Karikas,3,0,196
+199000,rauno,sappinen,19/20,Eesti Superkarikas,1,1,88
+199000,rauno,sappinen,19/20,Prva Liga,10,2,396
+199000,rauno,sappinen,19/20,Pokal Slovenije,1,0,11
+199000,rauno,sappinen,18/19,Play-Offs Promotie/Deg.,1,0,57
+199000,rauno,sappinen,18/19,Keuken Kampioen Divisie,30,6,1908
+199000,rauno,sappinen,18/19,KNVB beker,1,0,90
+199000,rauno,sappinen,18/19,Kwalifikacje do Ligi Europy,1,0,90
+199000,rauno,sappinen,18/19,Kwalifikacje do Ligi Mistrzów,2,1,180
+199000,rauno,sappinen,2018,Premium Liiga,2,0,95
+199000,rauno,sappinen,17/18,JPL Playoff II,1,0,60
+199000,rauno,sappinen,17/18,Proximus League,1,0,45
+199000,rauno,sappinen,17/18,Eesti Karikas,1,0,30
+199000,rauno,sappinen,17/18,Kwalifikacje do Ligi Europy,2,0,153
+199000,rauno,sappinen,2017,Premium Liiga,35,27,3120
+199000,rauno,sappinen,16/17,Eesti Superkarikas,1,0,90
+199000,rauno,sappinen,16/17,Eesti Karikas,3,1,148
+199000,rauno,sappinen,16/17,Kwalifikacje do Ligi Mistrzów,2,1,180
+199000,rauno,sappinen,2016,Premium Liiga,32,19,2463
+199000,rauno,sappinen,15/16,Eesti Karikas,5,4,337
+199000,rauno,sappinen,15/16,Eesti Superkarikas,1,1,90
+199000,rauno,sappinen,15/16,Kwalifikacje do Ligi Europy,2,0,143
+199000,rauno,sappinen,2015,Premium Liiga,32,16,2487
+199000,rauno,sappinen,14/15,Eesti Karikas,4,4,340
+199000,rauno,sappinen,2014,Premium Liiga,12,2,504
+199000,rauno,sappinen,2014,Esiliiga,14,5,1100
+199000,rauno,sappinen,13/14,Eesti Superkarikas,1,0,55
+199000,rauno,sappinen,13/14,Eesti Karikas,3,0,150
+199000,rauno,sappinen,13/14,Kwalifikacje do Ligi Europy,1,0,5
+199000,rauno,sappinen,2013,Premium Liiga,23,5,1163
+199000,rauno,sappinen,2013,Esiliiga,8,0,515
+199000,rauno,sappinen,12/13,Eesti Karikas,2,0,65
+199000,rauno,sappinen,12/13,Eesti Karikas,2,0,62
+199000,rauno,sappinen,2012,Esiliiga,10,1,497

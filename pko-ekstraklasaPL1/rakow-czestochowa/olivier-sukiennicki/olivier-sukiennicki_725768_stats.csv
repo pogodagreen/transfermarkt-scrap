@@ -1,5 +1,5 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-725768,olivier-sukiennicki,22/23,Ekstraklasa,0,0,0
-725768,olivier-sukiennicki,22/23,3 Liga - Grupa III,4,0,38
-725768,olivier-sukiennicki,20/21,EFL Trophy,1,0,10
-725768,olivier-sukiennicki,19/20,FA Youth Cup,1,0,32
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+725768,olivier,sukiennicki,22/23,Ekstraklasa,0,0,0
+725768,olivier,sukiennicki,22/23,3 Liga - Grupa III,4,0,38
+725768,olivier,sukiennicki,20/21,EFL Trophy,1,0,10
+725768,olivier,sukiennicki,19/20,FA Youth Cup,1,0,32

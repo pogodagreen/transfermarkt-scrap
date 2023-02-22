@@ -1,5 +1,5 @@
-id,name,dates,marketValue
-858521,michael-wyparlo,2021-05-20,25000
-858521,michael-wyparlo,2021-12-30,25000
-858521,michael-wyparlo,2022-06-13,25000
-858521,michael-wyparlo,2022-11-15,25000
+id,firstName,lastName,dates,marketValue
+858521,michael,wyparlo,2021-05-20,25000
+858521,michael,wyparlo,2021-12-30,25000
+858521,michael,wyparlo,2022-06-13,25000
+858521,michael,wyparlo,2022-11-15,25000

@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-16/17,2016-11-25,Pogon II,Pogon Szczecin,0,0
-14/15,2015-01-01,Pogon U19,Pogon II,0,0
-13/14,2013-07-01,Pogon Youth,Pogon U19,0,0
-12/13,2012-07-01,S. Szczecin U19,Pogon Youth,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+289168,sebastian,kowalczyk,16/17,2016-11-25,Pogon II,Pogon Szczecin,0,0
+289168,sebastian,kowalczyk,14/15,2015-01-01,Pogon U19,Pogon II,0,0
+289168,sebastian,kowalczyk,13/14,2013-07-01,Pogon Youth,Pogon U19,0,0
+289168,sebastian,kowalczyk,12/13,2012-07-01,S. Szczecin U19,Pogon Youth,0,0

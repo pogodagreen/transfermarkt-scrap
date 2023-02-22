@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2021-02-24,Slask Wroclaw,Korona Kielce,100000,0
-19/20,2020-02-20,Sl. Wroclaw II,Slask Wroclaw,0,0
-19/20,2019-07-01,Slask U19,Sl. Wroclaw II,0,0
-17/18,2017-07-01,Falubaz U19,Slask U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+605748,marcin,szpakowski,20/21,2021-02-24,Slask Wroclaw,Korona Kielce,100000,0
+605748,marcin,szpakowski,19/20,2020-02-20,Sl. Wroclaw II,Slask Wroclaw,0,0
+605748,marcin,szpakowski,19/20,2019-07-01,Slask U19,Sl. Wroclaw II,0,0
+605748,marcin,szpakowski,17/18,2017-07-01,Falubaz U19,Slask U19,0,0

@@ -1,15 +1,15 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-261286,mario-zebic,22/23,SuperLiga,4,0,360
-261286,mario-zebic,22/23,Ekstraklasa,8,0,490
-261286,mario-zebic,22/23,Fortuna Puchar Polski,1,0,45
-261286,mario-zebic,21/22,Baraze o udzial w Ekstraklasie,1,0,28
-261286,mario-zebic,21/22,1 Liga,26,0,1653
-261286,mario-zebic,21/22,Fortuna Puchar Polski,3,1,300
-261286,mario-zebic,20/21,1 Liga,15,0,1342
-261286,mario-zebic,20/21,Prva Liga,12,0,938
-261286,mario-zebic,19/20,Prva Liga,26,1,2059
-261286,mario-zebic,19/20,Pokal Slovenije,1,0,69
-261286,mario-zebic,18/19,Prva NL,8,0,453
-261286,mario-zebic,15/16,Bayernliga Süd,21,1,1406
-261286,mario-zebic,14/15,Bayernliga Süd,17,0,903
-261286,mario-zebic,12/13,Prva NL,2,0,28
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+261286,mario,zebic,22/23,SuperLiga,5,0,450
+261286,mario,zebic,22/23,Ekstraklasa,8,0,490
+261286,mario,zebic,22/23,Fortuna Puchar Polski,1,0,45
+261286,mario,zebic,21/22,Baraze o udzial w Ekstraklasie,1,0,28
+261286,mario,zebic,21/22,1 Liga,26,0,1653
+261286,mario,zebic,21/22,Fortuna Puchar Polski,3,1,300
+261286,mario,zebic,20/21,1 Liga,15,0,1342
+261286,mario,zebic,20/21,Prva Liga,12,0,938
+261286,mario,zebic,19/20,Prva Liga,26,1,2059
+261286,mario,zebic,19/20,Pokal Slovenije,1,0,69
+261286,mario,zebic,18/19,Prva NL,8,0,453
+261286,mario,zebic,15/16,Bayernliga Süd,21,1,1406
+261286,mario,zebic,14/15,Bayernliga Süd,17,0,903
+261286,mario,zebic,12/13,Prva NL,2,0,28

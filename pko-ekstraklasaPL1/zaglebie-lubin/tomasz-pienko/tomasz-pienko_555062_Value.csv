@@ -1,6 +1,6 @@
-id,name,dates,marketValue
-555062,tomasz-pienko,2021-10-14,25000
-555062,tomasz-pienko,2021-12-30,25000
-555062,tomasz-pienko,2022-06-13,400000
-555062,tomasz-pienko,2022-09-28,600000
-555062,tomasz-pienko,2022-11-15,500000
+id,firstName,lastName,dates,marketValue
+555062,tomasz,pienko,2021-10-14,25000
+555062,tomasz,pienko,2021-12-30,25000
+555062,tomasz,pienko,2022-06-13,400000
+555062,tomasz,pienko,2022-09-28,600000
+555062,tomasz,pienko,2022-11-15,500000

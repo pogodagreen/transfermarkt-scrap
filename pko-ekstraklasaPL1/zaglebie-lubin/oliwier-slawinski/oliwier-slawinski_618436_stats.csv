@@ -1,12 +1,12 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-618436,oliwier-slawinski,22/23,CLJ,7,1,585
-618436,oliwier-slawinski,22/23,eWinner 2 liga,8,0,446
-618436,oliwier-slawinski,22/23,Liga Młodzieżowa UEFA,1,0,90
-618436,oliwier-slawinski,22/23,Ekstraklasa,0,0,0
-618436,oliwier-slawinski,21/22,CLJ,4,2,259
-618436,oliwier-slawinski,21/22,3 Liga - Grupa III,16,1,842
-618436,oliwier-slawinski,21/22,Ekstraklasa,3,0,46
-618436,oliwier-slawinski,21/22,Fortuna Puchar Polski,1,0,0
-618436,oliwier-slawinski,20/21,CLJ,22,16,1712
-618436,oliwier-slawinski,20/21,3 Liga - Grupa III,9,0,194
-618436,oliwier-slawinski,20/21,Ekstraklasa,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+618436,oliwier,slawinski,22/23,CLJ,7,1,585
+618436,oliwier,slawinski,22/23,eWinner 2 liga,8,0,446
+618436,oliwier,slawinski,22/23,Liga Młodzieżowa UEFA,1,0,90
+618436,oliwier,slawinski,22/23,Ekstraklasa,0,0,0
+618436,oliwier,slawinski,21/22,CLJ,4,2,259
+618436,oliwier,slawinski,21/22,3 Liga - Grupa III,16,1,842
+618436,oliwier,slawinski,21/22,Ekstraklasa,3,0,46
+618436,oliwier,slawinski,21/22,Fortuna Puchar Polski,1,0,0
+618436,oliwier,slawinski,20/21,CLJ,22,16,1712
+618436,oliwier,slawinski,20/21,3 Liga - Grupa III,9,0,194
+618436,oliwier,slawinski,20/21,Ekstraklasa,0,0,0

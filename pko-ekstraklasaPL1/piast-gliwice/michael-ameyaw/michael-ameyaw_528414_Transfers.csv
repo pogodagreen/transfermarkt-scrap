@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-01,Widzew Lodz,Piast Gliwice,175000,free transfer
-19/20,2020-07-31,Bytovia Bytow,Widzew Lodz,0,End of loan
-19/20,2020-01-08,Widzew Lodz,Bytovia Bytow,0,Loan
-18/19,2018-07-01,MKS Polonia U19,Widzew Lodz,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+528414,michael,ameyaw,21/22,2021-07-01,Widzew Lodz,Piast Gliwice,175000,free transfer
+528414,michael,ameyaw,19/20,2020-07-31,Bytovia Bytow,Widzew Lodz,0,End of loan
+528414,michael,ameyaw,19/20,2020-01-08,Widzew Lodz,Bytovia Bytow,0,Loan
+528414,michael,ameyaw,18/19,2018-07-01,MKS Polonia U19,Widzew Lodz,0,free transfer

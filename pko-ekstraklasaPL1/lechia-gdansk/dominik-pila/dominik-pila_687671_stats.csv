@@ -1,11 +1,11 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-687671,dominik-pila,22/23,Ekstraklasa,5,0,152
-687671,dominik-pila,22/23,Fortuna Puchar Polski,1,0,29
-687671,dominik-pila,22/23,UECL Kwalifikacje,0,0,0
-687671,dominik-pila,21/22,Baraze o udzial w Ekstraklasie,2,1,208
-687671,dominik-pila,21/22,1 Liga,33,4,2784
-687671,dominik-pila,21/22,Fortuna Puchar Polski,1,0,28
-687671,dominik-pila,20/21,1 Liga,19,1,813
-687671,dominik-pila,20/21,Fortuna Puchar Polski,1,0,77
-687671,dominik-pila,19/20,1 Liga,8,1,272
-687671,dominik-pila,19/20,Fortuna Puchar Polski,1,0,1
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+687671,dominik,pila,22/23,Ekstraklasa,6,0,157
+687671,dominik,pila,22/23,Fortuna Puchar Polski,1,0,29
+687671,dominik,pila,22/23,UECL Kwalifikacje,0,0,0
+687671,dominik,pila,21/22,Baraze o udzial w Ekstraklasie,2,1,208
+687671,dominik,pila,21/22,1 Liga,33,4,2784
+687671,dominik,pila,21/22,Fortuna Puchar Polski,1,0,28
+687671,dominik,pila,20/21,1 Liga,19,1,813
+687671,dominik,pila,20/21,Fortuna Puchar Polski,1,0,77
+687671,dominik,pila,19/20,1 Liga,8,1,272
+687671,dominik,pila,19/20,Fortuna Puchar Polski,1,0,1

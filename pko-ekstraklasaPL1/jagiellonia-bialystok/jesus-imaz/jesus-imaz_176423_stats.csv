@@ -1,33 +1,33 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-176423,jesus-imaz,22/23,Ekstraklasa,19,9,1584
-176423,jesus-imaz,22/23,Fortuna Puchar Polski,2,0,210
-176423,jesus-imaz,21/22,Ekstraklasa,16,9,1344
-176423,jesus-imaz,21/22,Fortuna Puchar Polski,1,0,90
-176423,jesus-imaz,20/21,Ekstraklasa,27,11,2270
-176423,jesus-imaz,20/21,Fortuna Puchar Polski,1,0,90
-176423,jesus-imaz,19/20,Ekstraklasa,35,11,2662
-176423,jesus-imaz,19/20,Fortuna Puchar Polski,1,0,90
-176423,jesus-imaz,18/19,Ekstraklasa,14,10,1037
-176423,jesus-imaz,18/19,Fortuna Puchar Polski,2,0,99
-176423,jesus-imaz,18/19,Ekstraklasa,17,6,1433
-176423,jesus-imaz,18/19,Fortuna Puchar Polski,1,0,108
-176423,jesus-imaz,17/18,Ekstraklasa,30,8,2201
-176423,jesus-imaz,17/18,Fortuna Puchar Polski,1,0,50
-176423,jesus-imaz,16/17,Promoción LaLiga,0,0,0
-176423,jesus-imaz,16/17,LaLiga 1|2|3,6,1,337
-176423,jesus-imaz,16/17,LaLiga 1|2|3,14,5,911
-176423,jesus-imaz,16/17,Puchar Króla,2,1,109
-176423,jesus-imaz,15/16,LaLiga2,32,6,2118
-176423,jesus-imaz,15/16,Puchar Króla,3,0,209
-176423,jesus-imaz,14/15,LaLiga2,29,5,1414
-176423,jesus-imaz,14/15,Puchar Króla,0,0,0
-176423,jesus-imaz,13/14,Ascenso a 2ª,2,0,42
-176423,jesus-imaz,13/14,2ª B - Grupo III,21,8,1200
-176423,jesus-imaz,13/14,Puchar Króla,3,3,195
-176423,jesus-imaz,12/13,Ascenso a 2ª,4,2,390
-176423,jesus-imaz,12/13,2ª B - Grupo II,32,7,2183
-176423,jesus-imaz,12/13,Puchar Króla,1,0,90
-176423,jesus-imaz,11/12,2ª B - Grupo III,34,6,2701
-176423,jesus-imaz,11/12,Puchar Króla,1,0,45
-176423,jesus-imaz,10/11,2ª B - Grupo III,26,4,670
-176423,jesus-imaz,09/10,2ª B - Grupo III,1,0,26
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+176423,jesus,imaz,22/23,Ekstraklasa,20,9,1674
+176423,jesus,imaz,22/23,Fortuna Puchar Polski,2,0,210
+176423,jesus,imaz,21/22,Ekstraklasa,16,9,1344
+176423,jesus,imaz,21/22,Fortuna Puchar Polski,1,0,90
+176423,jesus,imaz,20/21,Ekstraklasa,27,11,2270
+176423,jesus,imaz,20/21,Fortuna Puchar Polski,1,0,90
+176423,jesus,imaz,19/20,Ekstraklasa,35,11,2662
+176423,jesus,imaz,19/20,Fortuna Puchar Polski,1,0,90
+176423,jesus,imaz,18/19,Ekstraklasa,14,10,1037
+176423,jesus,imaz,18/19,Fortuna Puchar Polski,2,0,99
+176423,jesus,imaz,18/19,Ekstraklasa,17,6,1433
+176423,jesus,imaz,18/19,Fortuna Puchar Polski,1,0,108
+176423,jesus,imaz,17/18,Ekstraklasa,30,8,2201
+176423,jesus,imaz,17/18,Fortuna Puchar Polski,1,0,50
+176423,jesus,imaz,16/17,Promoción LaLiga,0,0,0
+176423,jesus,imaz,16/17,LaLiga 1|2|3,6,1,337
+176423,jesus,imaz,16/17,LaLiga 1|2|3,14,5,911
+176423,jesus,imaz,16/17,Puchar Króla,2,1,109
+176423,jesus,imaz,15/16,LaLiga2,32,6,2118
+176423,jesus,imaz,15/16,Puchar Króla,3,0,209
+176423,jesus,imaz,14/15,LaLiga2,29,5,1414
+176423,jesus,imaz,14/15,Puchar Króla,0,0,0
+176423,jesus,imaz,13/14,Ascenso a 2ª,2,0,42
+176423,jesus,imaz,13/14,2ª B - Grupo III,21,8,1200
+176423,jesus,imaz,13/14,Puchar Króla,3,3,195
+176423,jesus,imaz,12/13,Ascenso a 2ª,4,2,390
+176423,jesus,imaz,12/13,2ª B - Grupo II,32,7,2183
+176423,jesus,imaz,12/13,Puchar Króla,1,0,90
+176423,jesus,imaz,11/12,2ª B - Grupo III,34,6,2701
+176423,jesus,imaz,11/12,Puchar Króla,1,0,45
+176423,jesus,imaz,10/11,2ª B - Grupo III,26,4,670
+176423,jesus,imaz,09/10,2ª B - Grupo III,1,0,26

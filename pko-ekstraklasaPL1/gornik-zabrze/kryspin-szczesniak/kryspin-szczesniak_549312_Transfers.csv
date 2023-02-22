@@ -1,10 +1,10 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Górnik Zabrze,Pogon Szczecin,500000,End of loan
-22/23,2022-08-30,Pogon Szczecin,Górnik Zabrze,350000,loan transfer
-22/23,2022-07-01,Pogon II,Pogon Szczecin,350000,0
-21/22,2022-06-30,Gornik Leczna,Pogon II,350000,End of loan
-21/22,2021-07-10,Pogon II,Gornik Leczna,150000,loan transfer
-20/21,2021-06-30,GKS Jastrzebie,Pogon II,150000,End of loan
-20/21,2020-08-26,Pogon II,GKS Jastrzebie,0,loan transfer
-17/18,2018-01-01,Pogon U19,Pogon II,0,0
-17/18,2017-07-01,Pogon Youth,Pogon U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+549312,kryspin,szczesniak,22/23,2023-06-30,Górnik Zabrze,Pogon Szczecin,500000,End of loan
+549312,kryspin,szczesniak,22/23,2022-08-30,Pogon Szczecin,Górnik Zabrze,350000,loan transfer
+549312,kryspin,szczesniak,22/23,2022-07-01,Pogon II,Pogon Szczecin,350000,0
+549312,kryspin,szczesniak,21/22,2022-06-30,Gornik Leczna,Pogon II,350000,End of loan
+549312,kryspin,szczesniak,21/22,2021-07-10,Pogon II,Gornik Leczna,150000,loan transfer
+549312,kryspin,szczesniak,20/21,2021-06-30,GKS Jastrzebie,Pogon II,150000,End of loan
+549312,kryspin,szczesniak,20/21,2020-08-26,Pogon II,GKS Jastrzebie,0,loan transfer
+549312,kryspin,szczesniak,17/18,2018-01-01,Pogon U19,Pogon II,0,0
+549312,kryspin,szczesniak,17/18,2017-07-01,Pogon Youth,Pogon U19,0,0

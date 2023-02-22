@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-05,Reggina,Warta Poznan,700000,free transfer
-20/21,2020-08-22,Panionios,Reggina,400000,free transfer
-16/17,2016-08-03,Panionios U20,Panionios,0,0
-13/14,2013-07-01,Olympiakos U20,Panionios U20,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+402970,dimitrios,stavropoulos,22/23,2022-07-05,Reggina,Warta Poznan,700000,free transfer
+402970,dimitrios,stavropoulos,20/21,2020-08-22,Panionios,Reggina,400000,free transfer
+402970,dimitrios,stavropoulos,16/17,2016-08-03,Panionios U20,Panionios,0,0
+402970,dimitrios,stavropoulos,13/14,2013-07-01,Olympiakos U20,Panionios U20,0,free transfer

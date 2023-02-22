@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Wisla Plock,MSK Zilina,250000,End of loan
-22/23,2022-09-02,MSK Zilina,Wisla Plock,375000,loan transfer
-19/20,2020-01-01,MSK Zilina B,MSK Zilina,0,0
-19/20,2019-07-01,MSK Zilina U19,MSK Zilina B,0,0
-18/19,2018-07-24,AS Trencin U19,MSK Zilina U19,0,0
-16/17,2016-08-02,Trnava Youth,AS Trencin U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+573573,miroslav,gono,22/23,2023-06-30,Wisla Plock,MSK Zilina,250000,End of loan
+573573,miroslav,gono,22/23,2022-09-02,MSK Zilina,Wisla Plock,375000,loan transfer
+573573,miroslav,gono,19/20,2020-01-01,MSK Zilina B,MSK Zilina,0,0
+573573,miroslav,gono,19/20,2019-07-01,MSK Zilina U19,MSK Zilina B,0,0
+573573,miroslav,gono,18/19,2018-07-24,AS Trencin U19,MSK Zilina U19,0,0
+573573,miroslav,gono,16/17,2016-08-02,Trnava Youth,AS Trencin U19,0,0

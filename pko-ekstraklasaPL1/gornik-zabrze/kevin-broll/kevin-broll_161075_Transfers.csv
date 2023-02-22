@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-31,Górnik Zabrze,Dynamo Dresden,400000,free transfer
-22/23,2022-07-04,Dynamo Dresden,Górnik Zabrze,600000,free transfer
-19/20,2019-07-01,Sonnenhof-Gr.,Dynamo Dresden,500000,free transfer
-15/16,2015-07-01,FC 08 Homburg,Sonnenhof-Gr.,50000,free transfer
-14/15,2014-07-01,Waldh. Mannheim,FC 08 Homburg,25000,0
-13/14,2013-07-01,W. Mannheim U19,Waldh. Mannheim,0,0
-12/13,2012-07-01,W. Mannheim U17,W. Mannheim U19,0,0
-10/11,2010-07-01,Mannheim Yth.,W. Mannheim U17,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+161075,kevin,broll,22/23,2023-01-31,Górnik Zabrze,Dynamo Dresden,400000,free transfer
+161075,kevin,broll,22/23,2022-07-04,Dynamo Dresden,Górnik Zabrze,600000,free transfer
+161075,kevin,broll,19/20,2019-07-01,Sonnenhof-Gr.,Dynamo Dresden,500000,free transfer
+161075,kevin,broll,15/16,2015-07-01,FC 08 Homburg,Sonnenhof-Gr.,50000,free transfer
+161075,kevin,broll,14/15,2014-07-01,Waldh. Mannheim,FC 08 Homburg,25000,0
+161075,kevin,broll,13/14,2013-07-01,W. Mannheim U19,Waldh. Mannheim,0,0
+161075,kevin,broll,12/13,2012-07-01,W. Mannheim U17,W. Mannheim U19,0,0
+161075,kevin,broll,10/11,2010-07-01,Mannheim Yth.,W. Mannheim U17,0,0

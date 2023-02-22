@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-18/19,2018-07-01,Podbeskidzie,Pogon Szczecin,100000,65000
-16/17,2017-02-01,Olimpia Grudz.,Podbeskidzie,100000,free transfer
-15/16,2016-01-12,Polonia Bytom,Olimpia Grudz.,0,free transfer
-14/15,2014-07-01,Ruch U19,Polonia Bytom,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+331871,mariusz,malec,18/19,2018-07-01,Podbeskidzie,Pogon Szczecin,100000,65000
+331871,mariusz,malec,16/17,2017-02-01,Olimpia Grudz.,Podbeskidzie,100000,free transfer
+331871,mariusz,malec,15/16,2016-01-12,Polonia Bytom,Olimpia Grudz.,0,free transfer
+331871,mariusz,malec,14/15,2014-07-01,Ruch U19,Polonia Bytom,0,0

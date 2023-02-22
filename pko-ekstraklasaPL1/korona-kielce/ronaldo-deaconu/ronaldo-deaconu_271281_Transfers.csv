@@ -1,13 +1,13 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-28,SX Chang'an At.,Korona Kielce,1000000,free transfer
-21/22,2022-03-15,Gaz Metan,SX Chang'an At.,1200000,free transfer
-20/21,2020-08-26,Sepsi OSK,Gaz Metan,200000,free transfer
-19/20,2019-08-07,HNK Gorica,Sepsi OSK,500000,100000
-18/19,2019-01-31,Concordia,HNK Gorica,500000,50000
-16/17,2017-02-22,ASA 2013 Tg. Ms,Concordia,150000,free transfer
-16/17,2016-08-05,Without Club,ASA 2013 Tg. Ms,50000,0
-15/16,2015-07-01,FC Twente U19,Without Club,50000,0
-14/15,2014-07-01,FC Twente U17,FC Twente U19,0,0
-13/14,2013-07-01,FC Twente Youth,FC Twente U17,0,0
-12/13,2012-07-01,Feyenoord Youth,FC Twente Youth,0,free transfer
-11/12,2011-07-01,Academia Hagi,Feyenoord Youth,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+271281,ronaldo,deaconu,22/23,2022-07-28,SX Chang'an At.,Korona Kielce,1000000,free transfer
+271281,ronaldo,deaconu,21/22,2022-03-15,Gaz Metan,SX Chang'an At.,1200000,free transfer
+271281,ronaldo,deaconu,20/21,2020-08-26,Sepsi OSK,Gaz Metan,200000,free transfer
+271281,ronaldo,deaconu,19/20,2019-08-07,HNK Gorica,Sepsi OSK,500000,100000
+271281,ronaldo,deaconu,18/19,2019-01-31,Concordia,HNK Gorica,500000,50000
+271281,ronaldo,deaconu,16/17,2017-02-22,ASA 2013 Tg. Ms,Concordia,150000,free transfer
+271281,ronaldo,deaconu,16/17,2016-08-05,Without Club,ASA 2013 Tg. Ms,50000,0
+271281,ronaldo,deaconu,15/16,2015-07-01,FC Twente U19,Without Club,50000,0
+271281,ronaldo,deaconu,14/15,2014-07-01,FC Twente U17,FC Twente U19,0,0
+271281,ronaldo,deaconu,13/14,2013-07-01,FC Twente Youth,FC Twente U17,0,0
+271281,ronaldo,deaconu,12/13,2012-07-01,Feyenoord Youth,FC Twente Youth,0,free transfer
+271281,ronaldo,deaconu,11/12,2011-07-01,Academia Hagi,Feyenoord Youth,0,free transfer

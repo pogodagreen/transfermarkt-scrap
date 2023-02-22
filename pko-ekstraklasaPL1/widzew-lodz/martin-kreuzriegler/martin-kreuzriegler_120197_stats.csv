@@ -1,26 +1,26 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-120197,martin-kreuzriegler,22/23,Ekstraklasa,19,2,1192
-120197,martin-kreuzriegler,22/23,Fortuna Puchar Polski,1,0,74
-120197,martin-kreuzriegler,21/22,1 Liga,13,0,991
-120197,martin-kreuzriegler,2021,Eliteserien,27,1,2306
-120197,martin-kreuzriegler,2021,NM-Cup,0,0,0
-120197,martin-kreuzriegler,2020,Eliteserien,24,1,1995
-120197,martin-kreuzriegler,19/20,2. Liga,21,5,1890
-120197,martin-kreuzriegler,19/20,ÖFB-Cup,2,1,210
-120197,martin-kreuzriegler,18/19,2. Liga,28,0,2418
-120197,martin-kreuzriegler,18/19,ÖFB-Cup,1,0,120
-120197,martin-kreuzriegler,17/18,Premier League,25,1,1862
-120197,martin-kreuzriegler,17/18,Maltese FA Trophy,3,0,296
-120197,martin-kreuzriegler,2018,Maltese Super Cup,1,0,90
-120197,martin-kreuzriegler,17/18,Kwalifikacje do Ligi Mistrzów,3,0,270
-120197,martin-kreuzriegler,16/17,Erste Liga,32,2,2761
-120197,martin-kreuzriegler,16/17,ÖFB-Cup,3,0,270
-120197,martin-kreuzriegler,15/16,Erste Liga,12,0,703
-120197,martin-kreuzriegler,15/16,ÖFB-Cup,1,0,90
-120197,martin-kreuzriegler,14/15,Erste Liga,25,0,2099
-120197,martin-kreuzriegler,14/15,ÖFB-Cup,2,0,134
-120197,martin-kreuzriegler,13/14,Regionalliga Mitte,13,0,858
-120197,martin-kreuzriegler,12/13,Erste Liga,15,0,1129
-120197,martin-kreuzriegler,11/12,ÖFB Jugendliga U18,20,5,1800
-120197,martin-kreuzriegler,11/12,Erste Liga,2,0,21
-120197,martin-kreuzriegler,10/11,ÖFB Jugendliga U18,21,2,1821
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+120197,martin,kreuzriegler,22/23,Ekstraklasa,19,2,1192
+120197,martin,kreuzriegler,22/23,Fortuna Puchar Polski,1,0,74
+120197,martin,kreuzriegler,21/22,1 Liga,13,0,991
+120197,martin,kreuzriegler,2021,Eliteserien,27,1,2306
+120197,martin,kreuzriegler,2021,NM-Cup,0,0,0
+120197,martin,kreuzriegler,2020,Eliteserien,24,1,1995
+120197,martin,kreuzriegler,19/20,2. Liga,21,5,1890
+120197,martin,kreuzriegler,19/20,ÖFB-Cup,2,1,210
+120197,martin,kreuzriegler,18/19,2. Liga,28,0,2418
+120197,martin,kreuzriegler,18/19,ÖFB-Cup,1,0,120
+120197,martin,kreuzriegler,17/18,Premier League,25,1,1862
+120197,martin,kreuzriegler,17/18,Maltese FA Trophy,3,0,296
+120197,martin,kreuzriegler,2018,Maltese Super Cup,1,0,90
+120197,martin,kreuzriegler,17/18,Kwalifikacje do Ligi Mistrzów,3,0,270
+120197,martin,kreuzriegler,16/17,Erste Liga,32,2,2761
+120197,martin,kreuzriegler,16/17,ÖFB-Cup,3,0,270
+120197,martin,kreuzriegler,15/16,Erste Liga,12,0,703
+120197,martin,kreuzriegler,15/16,ÖFB-Cup,1,0,90
+120197,martin,kreuzriegler,14/15,Erste Liga,25,0,2099
+120197,martin,kreuzriegler,14/15,ÖFB-Cup,2,0,134
+120197,martin,kreuzriegler,13/14,Regionalliga Mitte,13,0,858
+120197,martin,kreuzriegler,12/13,Erste Liga,15,0,1129
+120197,martin,kreuzriegler,11/12,ÖFB Jugendliga U18,20,5,1800
+120197,martin,kreuzriegler,11/12,Erste Liga,2,0,21
+120197,martin,kreuzriegler,10/11,ÖFB Jugendliga U18,21,2,1821

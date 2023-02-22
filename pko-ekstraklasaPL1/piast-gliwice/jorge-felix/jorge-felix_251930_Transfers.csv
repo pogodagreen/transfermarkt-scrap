@@ -1,11 +1,11 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-08-02,Sivasspor,Piast Gliwice,500000,free transfer
-20/21,2020-08-04,Piast Gliwice,Sivasspor,800000,free transfer
-18/19,2018-07-01,Lleida Esportiu,Piast Gliwice,300000,25000
-17/18,2017-07-01,R. Majadahonda,Lleida Esportiu,300000,free transfer
-15/16,2015-07-01,Trival Valderas,R. Majadahonda,0,free transfer
-14/15,2015-01-23,AD Alcorcón B,Trival Valderas,0,free transfer
-14/15,2014-07-02,Getafe CF B,AD Alcorcón B,0,free transfer
-12/13,2012-07-01,Moscardó,Getafe CF B,0,free transfer
-11/12,2011-07-01,Atl. Madrid C,Moscardó,0,free transfer
-10/11,2010-07-01,Atl. Madrid U19,Atl. Madrid C,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+251930,jorge,felix,22/23,2022-08-02,Sivasspor,Piast Gliwice,500000,free transfer
+251930,jorge,felix,20/21,2020-08-04,Piast Gliwice,Sivasspor,800000,free transfer
+251930,jorge,felix,18/19,2018-07-01,Lleida Esportiu,Piast Gliwice,300000,25000
+251930,jorge,felix,17/18,2017-07-01,R. Majadahonda,Lleida Esportiu,300000,free transfer
+251930,jorge,felix,15/16,2015-07-01,Trival Valderas,R. Majadahonda,0,free transfer
+251930,jorge,felix,14/15,2015-01-23,AD Alcorcón B,Trival Valderas,0,free transfer
+251930,jorge,felix,14/15,2014-07-02,Getafe CF B,AD Alcorcón B,0,free transfer
+251930,jorge,felix,12/13,2012-07-01,Moscardó,Getafe CF B,0,free transfer
+251930,jorge,felix,11/12,2011-07-01,Atl. Madrid C,Moscardó,0,free transfer
+251930,jorge,felix,10/11,2010-07-01,Atl. Madrid U19,Atl. Madrid C,0,0

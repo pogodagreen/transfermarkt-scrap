@@ -1,4 +1,4 @@
-id,name,dates,marketValue
-1031741,krystian-kardys,2022-07-12,25000
-1031741,krystian-kardys,2022-09-28,50000
-1031741,krystian-kardys,2022-11-15,50000
+id,firstName,lastName,dates,marketValue
+1031741,krystian,kardys,2022-07-12,25000
+1031741,krystian,kardys,2022-09-28,50000
+1031741,krystian,kardys,2022-11-15,50000

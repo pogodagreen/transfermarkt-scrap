@@ -1,21 +1,21 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-166658,carlos-julio-martinez,22/23,Primera Federación - Gr. II,1,0,56
-166658,carlos-julio-martinez,22/23,Ekstraklasa,12,0,953
-166658,carlos-julio-martinez,22/23,Fortuna Puchar Polski,1,0,21
-166658,carlos-julio-martinez,21/22,1 Liga,18,0,1204
-166658,carlos-julio-martinez,21/22,Fortuna Puchar Polski,2,0,210
-166658,carlos-julio-martinez,21/22,3 Liga - Grupa III,1,0,45
-166658,carlos-julio-martinez,20/21,LaLiga SmartBank,14,0,1082
-166658,carlos-julio-martinez,20/21,Puchar Króla,1,0,60
-166658,carlos-julio-martinez,19/20,LaLiga SmartBank,27,0,1933
-166658,carlos-julio-martinez,19/20,Puchar Króla,3,0,122
-166658,carlos-julio-martinez,18/19,Ascenso a 2ª,5,0,209
-166658,carlos-julio-martinez,18/19,2ª B - Grupo II,15,0,925
-166658,carlos-julio-martinez,18/19,Puchar Króla,1,0,90
-166658,carlos-julio-martinez,17/18,Ascenso a 2ª,2,0,175
-166658,carlos-julio-martinez,17/18,2ª B - Grupo IV,34,2,2845
-166658,carlos-julio-martinez,17/18,Puchar Króla,1,0,61
-166658,carlos-julio-martinez,16/17,2ª B - Grupo IV,29,0,2481
-166658,carlos-julio-martinez,15/16,Ascenso a 2ª,0,0,0
-166658,carlos-julio-martinez,15/16,2ª B - Grupo III,30,0,2449
-166658,carlos-julio-martinez,14/15,2ª B - Grupo III,8,0,586
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+166658,carlos,julio,22/23,Primera Federación - Gr. II,2,0,68
+166658,carlos,julio,22/23,Ekstraklasa,12,0,953
+166658,carlos,julio,22/23,Fortuna Puchar Polski,1,0,21
+166658,carlos,julio,21/22,1 Liga,18,0,1204
+166658,carlos,julio,21/22,Fortuna Puchar Polski,2,0,210
+166658,carlos,julio,21/22,3 Liga - Grupa III,1,0,45
+166658,carlos,julio,20/21,LaLiga SmartBank,14,0,1082
+166658,carlos,julio,20/21,Puchar Króla,1,0,60
+166658,carlos,julio,19/20,LaLiga SmartBank,27,0,1933
+166658,carlos,julio,19/20,Puchar Króla,3,0,122
+166658,carlos,julio,18/19,Ascenso a 2ª,5,0,209
+166658,carlos,julio,18/19,2ª B - Grupo II,15,0,925
+166658,carlos,julio,18/19,Puchar Króla,1,0,90
+166658,carlos,julio,17/18,Ascenso a 2ª,2,0,175
+166658,carlos,julio,17/18,2ª B - Grupo IV,34,2,2845
+166658,carlos,julio,17/18,Puchar Króla,1,0,61
+166658,carlos,julio,16/17,2ª B - Grupo IV,29,0,2481
+166658,carlos,julio,15/16,Ascenso a 2ª,0,0,0
+166658,carlos,julio,15/16,2ª B - Grupo III,30,0,2449
+166658,carlos,julio,14/15,2ª B - Grupo III,8,0,586

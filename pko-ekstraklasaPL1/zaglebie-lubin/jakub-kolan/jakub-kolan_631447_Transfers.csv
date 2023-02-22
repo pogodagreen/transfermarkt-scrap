@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-10-18,Lubin II,Zaglebie Lubin,0,0
-20/21,2020-07-01,Lubin U19,Lubin II,0,0
-20/21,2020-07-01,Lubin Youth,Lubin U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+631447,jakub,kolan,22/23,2022-10-18,Lubin II,Zaglebie Lubin,0,0
+631447,jakub,kolan,20/21,2020-07-01,Lubin U19,Lubin II,0,0
+631447,jakub,kolan,20/21,2020-07-01,Lubin Youth,Lubin U19,0,0

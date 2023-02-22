@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-01,GKS Katowice,Zaglebie Lubin,200000,free transfer
-18/19,2018-08-17,Zaglebie Lubin,GKS Katowice,300000,free transfer
-13/14,2014-06-30,Gornik Leczna,Zaglebie Lubin,400000,End of loan
-13/14,2014-02-25,Zaglebie Lubin,Gornik Leczna,400000,loan transfer
-09/10,2010-01-01,Lubin II,Zaglebie Lubin,0,0
-08/09,2008-07-01,Lubin U19,Lubin II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+144721,arkadiusz,wozniak,22/23,2022-07-01,GKS Katowice,Zaglebie Lubin,200000,free transfer
+144721,arkadiusz,wozniak,18/19,2018-08-17,Zaglebie Lubin,GKS Katowice,300000,free transfer
+144721,arkadiusz,wozniak,13/14,2014-06-30,Gornik Leczna,Zaglebie Lubin,400000,End of loan
+144721,arkadiusz,wozniak,13/14,2014-02-25,Zaglebie Lubin,Gornik Leczna,400000,loan transfer
+144721,arkadiusz,wozniak,09/10,2010-01-01,Lubin II,Zaglebie Lubin,0,0
+144721,arkadiusz,wozniak,08/09,2008-07-01,Lubin U19,Lubin II,0,0

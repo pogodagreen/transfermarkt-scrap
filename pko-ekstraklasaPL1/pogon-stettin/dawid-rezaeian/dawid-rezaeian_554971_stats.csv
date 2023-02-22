@@ -1,13 +1,13 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-554971,dawid-rezaeian,22/23,Ekstraklasa,0,0,0
-554971,dawid-rezaeian,22/23,3 Liga - Grupa II,14,1,809
-554971,dawid-rezaeian,22/23,Fortuna Puchar Polski,1,0,24
-554971,dawid-rezaeian,21/22,3 Liga - Grupa II,16,2,1063
-554971,dawid-rezaeian,21/22,Liga Młodzieżowa UEFA,2,0,125
-554971,dawid-rezaeian,21/22,Fortuna Puchar Polski,0,0,0
-554971,dawid-rezaeian,20/21,CLJ,27,1,2025
-554971,dawid-rezaeian,20/21,3 Liga - Grupa II,1,0,90
-554971,dawid-rezaeian,19/20,3 Liga - Grupa II,1,0,12
-554971,dawid-rezaeian,19/20,CLJ,13,2,1018
-554971,dawid-rezaeian,18/19,CLJ,26,0,1995
-554971,dawid-rezaeian,18/19,3 Liga - Grupa II,1,0,7
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+554971,dawid,rezaeian,22/23,Ekstraklasa,0,0,0
+554971,dawid,rezaeian,22/23,3 Liga - Grupa II,14,1,809
+554971,dawid,rezaeian,22/23,Fortuna Puchar Polski,1,0,24
+554971,dawid,rezaeian,21/22,3 Liga - Grupa II,16,2,1063
+554971,dawid,rezaeian,21/22,Liga Młodzieżowa UEFA,2,0,125
+554971,dawid,rezaeian,21/22,Fortuna Puchar Polski,0,0,0
+554971,dawid,rezaeian,20/21,CLJ,27,1,2025
+554971,dawid,rezaeian,20/21,3 Liga - Grupa II,1,0,90
+554971,dawid,rezaeian,19/20,3 Liga - Grupa II,1,0,12
+554971,dawid,rezaeian,19/20,CLJ,13,2,1018
+554971,dawid,rezaeian,18/19,CLJ,26,0,1995
+554971,dawid,rezaeian,18/19,3 Liga - Grupa II,1,0,7

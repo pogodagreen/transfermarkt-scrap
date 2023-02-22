@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-72462,luciano-narsingh,1990,Netherlands,"1,75",Attacking Midfield,0,0,10,2,10,1,10,19
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+72462,luciano,narsingh,1990,Netherlands,"1,75",Attacking Midfield,0,0,10,2,10,1,10,19

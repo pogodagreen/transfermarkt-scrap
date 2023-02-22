@@ -1,29 +1,29 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-236235,mateusz-cichocki,22/23,Ekstraklasa,14,0,1145
-236235,mateusz-cichocki,22/23,Fortuna Puchar Polski,3,0,254
-236235,mateusz-cichocki,21/22,Ekstraklasa,33,0,2970
-236235,mateusz-cichocki,21/22,Fortuna Puchar Polski,1,0,90
-236235,mateusz-cichocki,20/21,1 Liga,32,0,2833
-236235,mateusz-cichocki,20/21,Fortuna Puchar Polski,3,0,300
-236235,mateusz-cichocki,19/20,Baraze o udzial w Ekstraklasie,2,0,180
-236235,mateusz-cichocki,19/20,1 Liga,31,2,2790
-236235,mateusz-cichocki,19/20,Fortuna Puchar Polski,0,0,0
-236235,mateusz-cichocki,18/19,Ekstraklasa,22,0,1848
-236235,mateusz-cichocki,18/19,Fortuna Puchar Polski,0,0,0
-236235,mateusz-cichocki,17/18,Nice 1 Liga,32,1,2880
-236235,mateusz-cichocki,17/18,Fortuna Puchar Polski,2,0,210
-236235,mateusz-cichocki,16/17,Ekstraklasa,7,0,489
-236235,mateusz-cichocki,16/17,Fortuna Puchar Polski,2,0,210
-236235,mateusz-cichocki,15/16,Ekstraklasa,20,0,1800
-236235,mateusz-cichocki,15/16,Fortuna Puchar Polski,2,0,169
-236235,mateusz-cichocki,14/15,1 Liga,31,0,2790
-236235,mateusz-cichocki,14/15,Fortuna Puchar Polski,1,0,77
-236235,mateusz-cichocki,13/14,1 Liga,13,0,984
-236235,mateusz-cichocki,13/14,Fortuna Puchar Polski,4,0,390
-236235,mateusz-cichocki,13/14,Liga Europy,0,0,0
-236235,mateusz-cichocki,13/14,Ekstraklasa,4,0,360
-236235,mateusz-cichocki,13/14,Fortuna Puchar Polski,1,0,90
-236235,mateusz-cichocki,13/14,Kwalifikacje do Ligi Mistrzów,0,0,0
-236235,mateusz-cichocki,12/13,1 Liga,14,0,1221
-236235,mateusz-cichocki,12/13,Fortuna Puchar Polski,1,0,120
-236235,mateusz-cichocki,09/10,Viareggio,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+236235,mateusz,cichocki,22/23,Ekstraklasa,15,0,1235
+236235,mateusz,cichocki,22/23,Fortuna Puchar Polski,3,0,254
+236235,mateusz,cichocki,21/22,Ekstraklasa,33,0,2970
+236235,mateusz,cichocki,21/22,Fortuna Puchar Polski,1,0,90
+236235,mateusz,cichocki,20/21,1 Liga,32,0,2833
+236235,mateusz,cichocki,20/21,Fortuna Puchar Polski,3,0,300
+236235,mateusz,cichocki,19/20,Baraze o udzial w Ekstraklasie,2,0,180
+236235,mateusz,cichocki,19/20,1 Liga,31,2,2790
+236235,mateusz,cichocki,19/20,Fortuna Puchar Polski,0,0,0
+236235,mateusz,cichocki,18/19,Ekstraklasa,22,0,1848
+236235,mateusz,cichocki,18/19,Fortuna Puchar Polski,0,0,0
+236235,mateusz,cichocki,17/18,Nice 1 Liga,32,1,2880
+236235,mateusz,cichocki,17/18,Fortuna Puchar Polski,2,0,210
+236235,mateusz,cichocki,16/17,Ekstraklasa,7,0,489
+236235,mateusz,cichocki,16/17,Fortuna Puchar Polski,2,0,210
+236235,mateusz,cichocki,15/16,Ekstraklasa,20,0,1800
+236235,mateusz,cichocki,15/16,Fortuna Puchar Polski,2,0,169
+236235,mateusz,cichocki,14/15,1 Liga,31,0,2790
+236235,mateusz,cichocki,14/15,Fortuna Puchar Polski,1,0,77
+236235,mateusz,cichocki,13/14,1 Liga,13,0,984
+236235,mateusz,cichocki,13/14,Fortuna Puchar Polski,4,0,390
+236235,mateusz,cichocki,13/14,Liga Europy,0,0,0
+236235,mateusz,cichocki,13/14,Ekstraklasa,4,0,360
+236235,mateusz,cichocki,13/14,Fortuna Puchar Polski,1,0,90
+236235,mateusz,cichocki,13/14,Kwalifikacje do Ligi Mistrzów,0,0,0
+236235,mateusz,cichocki,12/13,1 Liga,14,0,1221
+236235,mateusz,cichocki,12/13,Fortuna Puchar Polski,1,0,120
+236235,mateusz,cichocki,09/10,Viareggio,0,0,0

@@ -1,5 +1,5 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-797820,maciej-kowal,22/23,3 Liga - Grupa II,12,0,8
-797820,maciej-kowal,22/23,Fortuna Puchar Polski,1,0,0
-797820,maciej-kowal,21/22,3 Liga - Grupa IV,21,0,8
-797820,maciej-kowal,20/21,3 Liga - Grupa IV,40,0,10
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+797820,maciej,kowal,22/23,3 Liga - Grupa II,12,0,8
+797820,maciej,kowal,22/23,Fortuna Puchar Polski,1,0,0
+797820,maciej,kowal,21/22,3 Liga - Grupa IV,21,0,8
+797820,maciej,kowal,20/21,3 Liga - Grupa IV,40,0,10

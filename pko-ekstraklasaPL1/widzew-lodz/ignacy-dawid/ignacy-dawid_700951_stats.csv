@@ -1,5 +1,5 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-700951,ignacy-dawid,22/23,Ekstraklasa,0,0,0
-700951,ignacy-dawid,21/22,CLJ,9,0,328
-700951,ignacy-dawid,20/21,CLJ,22,0,1465
-700951,ignacy-dawid,19/20,CLJ,3,0,92
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+700951,ignacy,dawid,22/23,Ekstraklasa,0,0,0
+700951,ignacy,dawid,21/22,CLJ,9,0,328
+700951,ignacy,dawid,20/21,CLJ,22,0,1465
+700951,ignacy,dawid,19/20,CLJ,3,0,92

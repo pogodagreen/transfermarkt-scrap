@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2020-08-11,Chojniczanka,Korona Kielce,75000,free transfer
-14/15,2015-06-30,Unia Solec,Chojniczanka,50000,End of loan
-14/15,2015-02-01,Chojniczanka,Unia Solec,50000,loan transfer
-14/15,2014-12-31,Koral Debnica,Chojniczanka,50000,End of loan
-14/15,2014-08-08,Chojniczanka,Koral Debnica,50000,loan transfer
-13/14,2013-07-01,Chojnice U19,Chojniczanka,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+267141,jacek,podgorski,20/21,2020-08-11,Chojniczanka,Korona Kielce,75000,free transfer
+267141,jacek,podgorski,14/15,2015-06-30,Unia Solec,Chojniczanka,50000,End of loan
+267141,jacek,podgorski,14/15,2015-02-01,Chojniczanka,Unia Solec,50000,loan transfer
+267141,jacek,podgorski,14/15,2014-12-31,Koral Debnica,Chojniczanka,50000,End of loan
+267141,jacek,podgorski,14/15,2014-08-08,Chojniczanka,Koral Debnica,50000,loan transfer
+267141,jacek,podgorski,13/14,2013-07-01,Chojnice U19,Chojniczanka,0,0

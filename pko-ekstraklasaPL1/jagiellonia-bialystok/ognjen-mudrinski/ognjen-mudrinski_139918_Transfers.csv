@@ -1,20 +1,20 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-23,Lamphun Warrior,Újpest FC,500000,free transfer
-22/23,2022-08-01,Jagiellonia,Lamphun Warrior,900000,free transfer
-21/22,2022-06-30,NK Maribor,Jagiellonia,900000,End of loan
-21/22,2021-08-31,Jagiellonia,NK Maribor,1000000,loan transfer
-20/21,2021-06-30,HNK Gorica,Jagiellonia,1000000,End of loan
-19/20,2020-02-17,Jagiellonia,HNK Gorica,600000,loan transfer
-19/20,2019-07-02,Čukarički,Jagiellonia,1750000,600000
-17/18,2017-07-17,Spartak,Čukarički,600000,200000
-15/16,2016-02-01,Without Club,Spartak,350000,0
-15/16,2015-07-01,FC Aarau,Without Club,350000,0
-14/15,2014-08-28,Greuther Fürth,FC Aarau,700000,free transfer
-13/14,2013-07-09,Red Star,Greuther Fürth,1500000,650000
-12/13,2012-08-28,Jagodina,Red Star,700000,235000
-11/12,2011-08-03,Vojvodina,Jagodina,250000,free transfer
-10/11,2011-06-30,RFK Novi Sad,Vojvodina,250000,End of loan
-10/11,2011-01-01,Vojvodina,RFK Novi Sad,0,loan transfer
-10/11,2010-09-30,Hajduk Kula,Vojvodina,0,End of loan
-10/11,2010-08-01,Vojvodina,Hajduk Kula,0,loan transfer
-10/11,2010-07-01,Vojvodina U19,Vojvodina,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+139918,ognjen,mudrinski,22/23,2023-01-23,Lamphun Warrior,Újpest FC,500000,free transfer
+139918,ognjen,mudrinski,22/23,2022-08-01,Jagiellonia,Lamphun Warrior,900000,free transfer
+139918,ognjen,mudrinski,21/22,2022-06-30,NK Maribor,Jagiellonia,900000,End of loan
+139918,ognjen,mudrinski,21/22,2021-08-31,Jagiellonia,NK Maribor,1000000,loan transfer
+139918,ognjen,mudrinski,20/21,2021-06-30,HNK Gorica,Jagiellonia,1000000,End of loan
+139918,ognjen,mudrinski,19/20,2020-02-17,Jagiellonia,HNK Gorica,600000,loan transfer
+139918,ognjen,mudrinski,19/20,2019-07-02,Čukarički,Jagiellonia,1750000,600000
+139918,ognjen,mudrinski,17/18,2017-07-17,Spartak,Čukarički,600000,200000
+139918,ognjen,mudrinski,15/16,2016-02-01,Without Club,Spartak,350000,0
+139918,ognjen,mudrinski,15/16,2015-07-01,FC Aarau,Without Club,350000,0
+139918,ognjen,mudrinski,14/15,2014-08-28,Greuther Fürth,FC Aarau,700000,free transfer
+139918,ognjen,mudrinski,13/14,2013-07-09,Red Star,Greuther Fürth,1500000,650000
+139918,ognjen,mudrinski,12/13,2012-08-28,Jagodina,Red Star,700000,235000
+139918,ognjen,mudrinski,11/12,2011-08-03,Vojvodina,Jagodina,250000,free transfer
+139918,ognjen,mudrinski,10/11,2011-06-30,RFK Novi Sad,Vojvodina,250000,End of loan
+139918,ognjen,mudrinski,10/11,2011-01-01,Vojvodina,RFK Novi Sad,0,loan transfer
+139918,ognjen,mudrinski,10/11,2010-09-30,Hajduk Kula,Vojvodina,0,End of loan
+139918,ognjen,mudrinski,10/11,2010-08-01,Vojvodina,Hajduk Kula,0,loan transfer
+139918,ognjen,mudrinski,10/11,2010-07-01,Vojvodina U19,Vojvodina,0,0

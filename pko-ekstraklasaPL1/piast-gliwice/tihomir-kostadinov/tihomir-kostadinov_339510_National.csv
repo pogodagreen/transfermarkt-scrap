@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-339510,tihomir-kostadinov,1996,North,"1,79",Attacking Midfield,0,0,2,0,5,0,11,19
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+339510,tihomir,kostadinov,1996,North,"1,79",Attacking Midfield,0,0,2,0,5,0,11,19

@@ -1,21 +1,21 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-583917,ernest-muci,22/23,Ekstraklasa,19,3,1027
-583917,ernest-muci,22/23,Fortuna Puchar Polski,3,1,267
-583917,ernest-muci,21/22,Ekstraklasa,24,4,1075
-583917,ernest-muci,21/22,Fortuna Puchar Polski,3,1,111
-583917,ernest-muci,21/22,Liga Europy,4,0,191
-583917,ernest-muci,21/22,Kwalifikacje do Ligi Europy,1,0,10
-583917,ernest-muci,21/22,Kwalifikacje do Ligi Mistrzów,3,1,41
-583917,ernest-muci,21/22,Superpuchar,1,0,58
-583917,ernest-muci,20/21,Ekstraklasa,6,0,233
-583917,ernest-muci,20/21,Fortuna Puchar Polski,1,0,9
-583917,ernest-muci,20/21,Abissnet Superiore,20,5,1787
-583917,ernest-muci,20/21,Kupa e Shqipërisë,1,2,77
-583917,ernest-muci,20/21,Kwalifikacje do Ligi Europy,1,0,85
-583917,ernest-muci,20/21,Superkupa e Shqipërisë,1,0,90
-583917,ernest-muci,20/21,Kwalifikacje do Ligi Mistrzów,2,0,177
-583917,ernest-muci,19/20,Abissnet Superiore,20,7,717
-583917,ernest-muci,19/20,Kupa e Shqipërisë,7,5,502
-583917,ernest-muci,18/19,Abissnet Superiore,9,1,239
-583917,ernest-muci,18/19,Kupa e Shqipërisë,3,0,66
-583917,ernest-muci,17/18,Kupa e Shqipërisë,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+583917,ernest,muci,22/23,Ekstraklasa,20,3,1112
+583917,ernest,muci,22/23,Fortuna Puchar Polski,3,1,267
+583917,ernest,muci,21/22,Ekstraklasa,24,4,1075
+583917,ernest,muci,21/22,Fortuna Puchar Polski,3,1,111
+583917,ernest,muci,21/22,Liga Europy,4,0,191
+583917,ernest,muci,21/22,Kwalifikacje do Ligi Europy,1,0,10
+583917,ernest,muci,21/22,Kwalifikacje do Ligi Mistrzów,3,1,41
+583917,ernest,muci,21/22,Superpuchar,1,0,58
+583917,ernest,muci,20/21,Ekstraklasa,6,0,233
+583917,ernest,muci,20/21,Fortuna Puchar Polski,1,0,9
+583917,ernest,muci,20/21,Abissnet Superiore,20,5,1787
+583917,ernest,muci,20/21,Kupa e Shqipërisë,1,2,77
+583917,ernest,muci,20/21,Kwalifikacje do Ligi Europy,1,0,85
+583917,ernest,muci,20/21,Superkupa e Shqipërisë,1,0,90
+583917,ernest,muci,20/21,Kwalifikacje do Ligi Mistrzów,2,0,177
+583917,ernest,muci,19/20,Abissnet Superiore,20,7,717
+583917,ernest,muci,19/20,Kupa e Shqipërisë,7,5,502
+583917,ernest,muci,18/19,Abissnet Superiore,9,1,239
+583917,ernest,muci,18/19,Kupa e Shqipërisë,3,0,66
+583917,ernest,muci,17/18,Kupa e Shqipërisë,0,0,0

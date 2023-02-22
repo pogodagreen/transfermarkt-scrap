@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-253290,karol-angielski,1996,Poland,"1,81",Centre-Forward,0,0,0,2,2,8,0,0
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+253290,karol,angielski,1996,Poland,"1,81",Centre-Forward,0,0,0,2,2,8,0,0

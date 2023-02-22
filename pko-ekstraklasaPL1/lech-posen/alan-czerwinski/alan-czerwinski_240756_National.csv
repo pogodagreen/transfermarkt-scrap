@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-240756,alan-czerwinski,1993,Poland,"1,81",Right-Back,0,0,0,0,0,0,0,1
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+240756,alan,czerwinski,1993,Poland,"1,81",Right-Back,0,0,0,0,0,0,0,1

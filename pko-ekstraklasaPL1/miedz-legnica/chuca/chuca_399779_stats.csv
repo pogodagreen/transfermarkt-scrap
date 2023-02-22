@@ -1,20 +1,20 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-399779,chuca,22/23,Ekstraklasa,18,3,1272
-399779,chuca,22/23,Fortuna Puchar Polski,1,0,90
-399779,chuca,21/22,1 Liga,23,5,1269
-399779,chuca,21/22,Fortuna Puchar Polski,1,0,120
-399779,chuca,20/21,Ekstraklasa,13,3,807
-399779,chuca,20/21,Fortuna Puchar Polski,1,1,90
-399779,chuca,19/20,Ekstraklasa,25,2,1133
-399779,chuca,18/19,Ascenso a 2ª,1,0,30
-399779,chuca,18/19,2ª B - Grupo III,12,0,708
-399779,chuca,18/19,LaLiga 1|2|3,6,0,252
-399779,chuca,18/19,Puchar Króla,1,0,69
-399779,chuca,17/18,Ascenso a 2ª,5,0,375
-399779,chuca,17/18,2ª B - Grupo III,27,6,2266
-399779,chuca,17/18,LaLiga,4,0,86
-399779,chuca,17/18,Puchar Króla,2,0,119
-399779,chuca,17/18,Liga Europy,2,0,108
-399779,chuca,16/17,2ª B - Grupo III,7,0,159
-399779,chuca,15/16,2ª B - Grupo III,3,0,29
-399779,chuca,15/16,Liga Młodzieżowa UEFA,2,0,153
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+399779,chuca,-,22/23,Ekstraklasa,19,3,1362
+399779,chuca,-,22/23,Fortuna Puchar Polski,1,0,90
+399779,chuca,-,21/22,1 Liga,23,5,1269
+399779,chuca,-,21/22,Fortuna Puchar Polski,1,0,120
+399779,chuca,-,20/21,Ekstraklasa,13,3,807
+399779,chuca,-,20/21,Fortuna Puchar Polski,1,1,90
+399779,chuca,-,19/20,Ekstraklasa,25,2,1133
+399779,chuca,-,18/19,Ascenso a 2ª,1,0,30
+399779,chuca,-,18/19,2ª B - Grupo III,12,0,708
+399779,chuca,-,18/19,LaLiga 1|2|3,6,0,252
+399779,chuca,-,18/19,Puchar Króla,1,0,69
+399779,chuca,-,17/18,Ascenso a 2ª,5,0,375
+399779,chuca,-,17/18,2ª B - Grupo III,27,6,2266
+399779,chuca,-,17/18,LaLiga,4,0,86
+399779,chuca,-,17/18,Puchar Króla,2,0,119
+399779,chuca,-,17/18,Liga Europy,2,0,108
+399779,chuca,-,16/17,2ª B - Grupo III,7,0,159
+399779,chuca,-,15/16,2ª B - Grupo III,3,0,29
+399779,chuca,-,15/16,Liga Młodzieżowa UEFA,2,0,153

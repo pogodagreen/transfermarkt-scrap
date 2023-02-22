@@ -1,5 +1,5 @@
-id,name,dates,marketValue
-527248,maksymilian-boruc,2021-10-14,100000
-527248,maksymilian-boruc,2021-12-30,100000
-527248,maksymilian-boruc,2022-06-13,100000
-527248,maksymilian-boruc,2022-11-15,50000
+id,firstName,lastName,dates,marketValue
+527248,maksymilian,boruc,2021-10-14,100000
+527248,maksymilian,boruc,2021-12-30,100000
+527248,maksymilian,boruc,2022-06-13,100000
+527248,maksymilian,boruc,2022-11-15,50000

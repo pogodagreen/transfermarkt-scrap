@@ -1,12 +1,12 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-01-11,Lechia Gdansk,Zaglebie Lubin,750000,265000
-20/21,2020-08-01,Zaglebie Lubin,Lechia Gdansk,350000,free transfer
-17/18,2017-07-01,Górnik Zabrze,Zaglebie Lubin,275000,free transfer
-14/15,2015-06-30,Termalica,Górnik Zabrze,200000,End of loan
-13/14,2013-07-01,Górnik Zabrze,Termalica,125000,loan transfer
-12/13,2012-12-31,Zawisza,Górnik Zabrze,125000,End of loan
-12/13,2012-07-01,Górnik Zabrze,Zawisza,125000,loan transfer
-11/12,2012-06-30,Radzionkow,Górnik Zabrze,125000,End of loan
-11/12,2011-07-01,Górnik Zabrze,Radzionkow,50000,loan transfer
-10/11,2010-07-01,GKS Jastrzebie,Górnik Zabrze,0,15000
-09/10,2010-01-01,MOSiR Jastrzebie Zdroj U19,GKS Jastrzebie,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+153306,bartosz,kopacz,21/22,2022-01-11,Lechia Gdansk,Zaglebie Lubin,750000,265000
+153306,bartosz,kopacz,20/21,2020-08-01,Zaglebie Lubin,Lechia Gdansk,350000,free transfer
+153306,bartosz,kopacz,17/18,2017-07-01,Górnik Zabrze,Zaglebie Lubin,275000,free transfer
+153306,bartosz,kopacz,14/15,2015-06-30,Termalica,Górnik Zabrze,200000,End of loan
+153306,bartosz,kopacz,13/14,2013-07-01,Górnik Zabrze,Termalica,125000,loan transfer
+153306,bartosz,kopacz,12/13,2012-12-31,Zawisza,Górnik Zabrze,125000,End of loan
+153306,bartosz,kopacz,12/13,2012-07-01,Górnik Zabrze,Zawisza,125000,loan transfer
+153306,bartosz,kopacz,11/12,2012-06-30,Radzionkow,Górnik Zabrze,125000,End of loan
+153306,bartosz,kopacz,11/12,2011-07-01,Górnik Zabrze,Radzionkow,50000,loan transfer
+153306,bartosz,kopacz,10/11,2010-07-01,GKS Jastrzebie,Górnik Zabrze,0,15000
+153306,bartosz,kopacz,09/10,2010-01-01,MOSiR Jastrzebie Zdroj U19,GKS Jastrzebie,0,free transfer

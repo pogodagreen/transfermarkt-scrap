@@ -1,5 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-12-31,GKS Tychy,Lechia Gdansk,500000,End of loan
-22/23,2022-08-26,Lechia Gdansk,GKS Tychy,500000,loan transfer
-20/21,2021-01-01,GKS Tychy,Lechia Gdansk,150000,free transfer
-17/18,2018-03-01,GKS Tychy U19,GKS Tychy,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+566355,jan,bieganski,22/23,2023-06-30,GKS Tychy,Lechia Gdansk,500000,End of loan
+566355,jan,bieganski,22/23,2023-02-22,Lechia Gdansk,GKS Tychy,500000,loan transfer
+566355,jan,bieganski,22/23,2022-12-31,GKS Tychy,Lechia Gdansk,500000,End of loan
+566355,jan,bieganski,22/23,2022-08-26,Lechia Gdansk,GKS Tychy,500000,loan transfer
+566355,jan,bieganski,20/21,2021-01-01,GKS Tychy,Lechia Gdansk,150000,free transfer
+566355,jan,bieganski,17/18,2018-03-01,GKS Tychy U19,GKS Tychy,0,0

@@ -1,26 +1,26 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-207561,maxime-dominguez,22/23,Ekstraklasa,19,0,1361
-207561,maxime-dominguez,21/22,1 Liga,31,6,2656
-207561,maxime-dominguez,21/22,Fortuna Puchar Polski,2,0,106
-207561,maxime-dominguez,20/21,Challenge League,31,4,2363
-207561,maxime-dominguez,20/21,Swiss Cup,1,0,90
-207561,maxime-dominguez,19/20,Challenge League,27,2,1399
-207561,maxime-dominguez,19/20,Schweizer Cup,1,0,11
-207561,maxime-dominguez,18/19,Challenge League,29,7,1384
-207561,maxime-dominguez,18/19,Schweizer Cup,1,1,90
-207561,maxime-dominguez,17/18,Super League,3,1,54
-207561,maxime-dominguez,17/18,1. Liga gr. 1,2,0,155
-207561,maxime-dominguez,17/18,Schweizer Cup,0,0,0
-207561,maxime-dominguez,16/17,Super League,4,0,219
-207561,maxime-dominguez,16/17,1. Liga gr. 1,10,8,837
-207561,maxime-dominguez,16/17,Schweizer Cup,2,0,68
-207561,maxime-dominguez,15/16,Schweizer Cup,1,0,0
-207561,maxime-dominguez,15/16,Super League,2,0,123
-207561,maxime-dominguez,15/16,Promotion League,13,1,802
-207561,maxime-dominguez,14/15,Promotion League,11,2,798
-207561,maxime-dominguez,14/15,Challenge League,11,0,434
-207561,maxime-dominguez,14/15,Schweizer Cup,1,2,90
-207561,maxime-dominguez,13/14,Swiss U18 Elite League,12,5,944
-207561,maxime-dominguez,13/14,Challenge League,13,1,692
-207561,maxime-dominguez,13/14,Schweizer U18-Cup,2,0,210
-207561,maxime-dominguez,12/13,Swiss U18 Elite League,21,8,1568
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+207561,maxime,dominguez,22/23,Ekstraklasa,20,0,1451
+207561,maxime,dominguez,21/22,1 Liga,31,6,2656
+207561,maxime,dominguez,21/22,Fortuna Puchar Polski,2,0,106
+207561,maxime,dominguez,20/21,Challenge League,31,4,2363
+207561,maxime,dominguez,20/21,Swiss Cup,1,0,90
+207561,maxime,dominguez,19/20,Challenge League,27,2,1399
+207561,maxime,dominguez,19/20,Schweizer Cup,1,0,11
+207561,maxime,dominguez,18/19,Challenge League,29,7,1384
+207561,maxime,dominguez,18/19,Schweizer Cup,1,1,90
+207561,maxime,dominguez,17/18,Super League,3,1,54
+207561,maxime,dominguez,17/18,1. Liga gr. 1,2,0,155
+207561,maxime,dominguez,17/18,Schweizer Cup,0,0,0
+207561,maxime,dominguez,16/17,Super League,4,0,219
+207561,maxime,dominguez,16/17,1. Liga gr. 1,10,8,837
+207561,maxime,dominguez,16/17,Schweizer Cup,2,0,68
+207561,maxime,dominguez,15/16,Schweizer Cup,1,0,0
+207561,maxime,dominguez,15/16,Super League,2,0,123
+207561,maxime,dominguez,15/16,Promotion League,13,1,802
+207561,maxime,dominguez,14/15,Promotion League,11,2,798
+207561,maxime,dominguez,14/15,Challenge League,11,0,434
+207561,maxime,dominguez,14/15,Schweizer Cup,1,2,90
+207561,maxime,dominguez,13/14,Swiss U18 Elite League,12,5,944
+207561,maxime,dominguez,13/14,Challenge League,13,1,692
+207561,maxime,dominguez,13/14,Schweizer U18-Cup,2,0,210
+207561,maxime,dominguez,12/13,Swiss U18 Elite League,21,8,1568

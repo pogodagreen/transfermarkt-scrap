@@ -1,10 +1,10 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-523766,bruno-garcia,22/23,Fortuna 1 Liga,4,1,224
-523766,bruno-garcia,21/22,1 Liga,20,3,532
-523766,bruno-garcia,21/22,3 Liga - Grupa III,6,2,425
-523766,bruno-garcia,21/22,Fortuna Puchar Polski,2,1,133
-523766,bruno-garcia,20/21,3 Liga - Grupa III,17,6,1202
-523766,bruno-garcia,20/21,1 Liga,1,0,45
-523766,bruno-garcia,18/19,National 2 - Grp. C,9,0,402
-523766,bruno-garcia,17/18,Championnat National,5,0,27
-523766,bruno-garcia,17/18,Coupe de France,1,0,65
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+523766,bruno,garcia,22/23,Fortuna 1 Liga,4,1,224
+523766,bruno,garcia,21/22,1 Liga,20,3,532
+523766,bruno,garcia,21/22,3 Liga - Grupa III,6,2,425
+523766,bruno,garcia,21/22,Fortuna Puchar Polski,2,1,133
+523766,bruno,garcia,20/21,3 Liga - Grupa III,17,6,1202
+523766,bruno,garcia,20/21,1 Liga,1,0,45
+523766,bruno,garcia,18/19,National 2 - Grp. C,9,0,402
+523766,bruno,garcia,17/18,Championnat National,5,0,27
+523766,bruno,garcia,17/18,Coupe de France,1,0,65

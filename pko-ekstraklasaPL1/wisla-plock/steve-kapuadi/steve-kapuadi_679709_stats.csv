@@ -1,10 +1,10 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-679709,steve-kapuadi,22/23,Ekstraklasa,15,0,1342
-679709,steve-kapuadi,22/23,Fortuna Puchar Polski,2,1,180
-679709,steve-kapuadi,20/21,Fort. Liga - Champ. G.,2,0,135
-679709,steve-kapuadi,20/21,Fortuna Liga,12,0,1057
-679709,steve-kapuadi,20/21,Slovnaft Cup,2,0,180
-679709,steve-kapuadi,19/20,Fortuna L. - Conf. L. Playoff,1,0,90
-679709,steve-kapuadi,19/20,Fort. Liga - Releg. G.,3,0,270
-679709,steve-kapuadi,19/20,Fortuna Liga,4,0,360
-679709,steve-kapuadi,19/20,Slovnaft Cup,1,0,90
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+679709,steve,kapuadi,22/23,Ekstraklasa,15,0,1342
+679709,steve,kapuadi,22/23,Fortuna Puchar Polski,2,1,180
+679709,steve,kapuadi,20/21,Fort. Liga - Champ. G.,2,0,135
+679709,steve,kapuadi,20/21,Fortuna Liga,12,0,1057
+679709,steve,kapuadi,20/21,Slovnaft Cup,2,0,180
+679709,steve,kapuadi,19/20,Fortuna L. - Conf. L. Playoff,1,0,90
+679709,steve,kapuadi,19/20,Fort. Liga - Releg. G.,3,0,270
+679709,steve,kapuadi,19/20,Fortuna Liga,4,0,360
+679709,steve,kapuadi,19/20,Slovnaft Cup,1,0,90

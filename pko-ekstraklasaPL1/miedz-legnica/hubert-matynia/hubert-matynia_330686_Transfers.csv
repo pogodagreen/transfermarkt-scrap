@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-01,Pogon Szczecin,Miedz Legnica,250000,free transfer
-14/15,2014-07-01,Pogon II,Pogon Szczecin,0,0
-13/14,2014-01-01,Vineta Wolin,Pogon II,0,free transfer
-13/14,2013-07-01,S. Szczecin U19,Vineta Wolin,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+330686,hubert,matynia,22/23,2022-07-01,Pogon Szczecin,Miedz Legnica,250000,free transfer
+330686,hubert,matynia,14/15,2014-07-01,Pogon II,Pogon Szczecin,0,0
+330686,hubert,matynia,13/14,2014-01-01,Vineta Wolin,Pogon II,0,free transfer
+330686,hubert,matynia,13/14,2013-07-01,S. Szczecin U19,Vineta Wolin,0,free transfer

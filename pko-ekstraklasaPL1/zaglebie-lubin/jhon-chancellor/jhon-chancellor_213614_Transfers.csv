@@ -1,11 +1,11 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-08-11,Zaglebie Lubin,Coritiba FC,600000,free transfer
-21/22,2022-02-28,Brescia,Zaglebie Lubin,800000,free transfer
-19/20,2019-07-21,Al-Ahli SC,Brescia,700000,1600000
-18/19,2019-02-14,Anzhi,Al-Ahli SC,750000,free transfer
-17/18,2018-01-01,Delfín SC,Anzhi,800000,free transfer
-16/17,2017-01-01,Mineros,Delfín SC,250000,0
-16/17,2016-12-31,Dep. La Guaira,Mineros,250000,End of loan
-16/17,2016-07-01,Mineros,Dep. La Guaira,275000,loan transfer
-15/16,2015-07-06,Deportivo Lara,Mineros,0,0
-13/14,2013-07-01,Mineros,Deportivo Lara,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+213614,jhon,chancellor,22/23,2022-08-11,Zaglebie Lubin,Coritiba FC,600000,free transfer
+213614,jhon,chancellor,21/22,2022-02-28,Brescia,Zaglebie Lubin,800000,free transfer
+213614,jhon,chancellor,19/20,2019-07-21,Al-Ahli SC,Brescia,700000,1600000
+213614,jhon,chancellor,18/19,2019-02-14,Anzhi,Al-Ahli SC,750000,free transfer
+213614,jhon,chancellor,17/18,2018-01-01,Delfín SC,Anzhi,800000,free transfer
+213614,jhon,chancellor,16/17,2017-01-01,Mineros,Delfín SC,250000,0
+213614,jhon,chancellor,16/17,2016-12-31,Dep. La Guaira,Mineros,250000,End of loan
+213614,jhon,chancellor,16/17,2016-07-01,Mineros,Dep. La Guaira,275000,loan transfer
+213614,jhon,chancellor,15/16,2015-07-06,Deportivo Lara,Mineros,0,0
+213614,jhon,chancellor,13/14,2013-07-01,Mineros,Deportivo Lara,0,0

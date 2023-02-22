@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-02-04,Lech Poznan II,Wisla Plock,0,0
-21/22,2021-09-08,Lech U19,Lech Poznan II,0,0
-20/21,2020-08-01,Lech Academy,Lech U19,0,0
-18/19,2019-04-08,Mielec U19,Lech Academy,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+717904,dawid,zieba,22/23,2023-02-04,Lech Poznan II,Wisla Plock,0,0
+717904,dawid,zieba,21/22,2021-09-08,Lech U19,Lech Poznan II,0,0
+717904,dawid,zieba,20/21,2020-08-01,Lech Academy,Lech U19,0,0
+717904,dawid,zieba,18/19,2019-04-08,Mielec U19,Lech Academy,0,free transfer

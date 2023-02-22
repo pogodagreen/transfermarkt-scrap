@@ -1,20 +1,21 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-407491,luka-gugeshashvili,22/23,Premyer Liqa,11,0,5
-407491,luka-gugeshashvili,22/23,Aserbaidschanischer Pokal,1,0,0
-407491,luka-gugeshashvili,22/23,Liga Europy,0,0,0
-407491,luka-gugeshashvili,22/23,Kwalifikacje do Ligi Mistrzów,0,0,0
-407491,luka-gugeshashvili,21/22,Aserbaidschanischer Pokal,2,0,2
-407491,luka-gugeshashvili,21/22,Premyer Liqa,4,0,2
-407491,luka-gugeshashvili,21/22,Liga Konferencji,2,0,0
-407491,luka-gugeshashvili,21/22,UECL Kwalifikacje,2,0,0
-407491,luka-gugeshashvili,21/22,David Kipiani Cup,1,0,0
-407491,luka-gugeshashvili,2021,Crystalbet Erovnuli Liga,35,0,14
-407491,luka-gugeshashvili,20/21,David Kipiani Cup,0,0,0
-407491,luka-gugeshashvili,2020,Crystalbet Erovnuli Liga,16,0,5
-407491,luka-gugeshashvili,19/20,2ª B - Grupo IV,5,0,0
-407491,luka-gugeshashvili,19/20,David Kipiani Cup,0,0,0
-407491,luka-gugeshashvili,2019,Crystalbet Erovnuli Liga,17,0,4
-407491,luka-gugeshashvili,18/19,David Kipiani Cup,1,0,0
-407491,luka-gugeshashvili,2018,Crystalbet Erovnuli Liga,17,0,11
-407491,luka-gugeshashvili,17/18,3 Liga - Grupa IV,16,0,3
-407491,luka-gugeshashvili,15/16,Erovnuli Liga,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+407491,luka,gugeshashvili,22/23,Premyer Liqa,12,0,6
+407491,luka,gugeshashvili,22/23,Liga Konferencji,1,0,1
+407491,luka,gugeshashvili,22/23,Aserbaidschanischer Pokal,1,0,0
+407491,luka,gugeshashvili,22/23,Liga Europy,0,0,0
+407491,luka,gugeshashvili,22/23,Kwalifikacje do Ligi Mistrzów,0,0,0
+407491,luka,gugeshashvili,21/22,Aserbaidschanischer Pokal,2,0,2
+407491,luka,gugeshashvili,21/22,Premyer Liqa,4,0,2
+407491,luka,gugeshashvili,21/22,Liga Konferencji,2,0,0
+407491,luka,gugeshashvili,21/22,UECL Kwalifikacje,2,0,0
+407491,luka,gugeshashvili,21/22,David Kipiani Cup,1,0,0
+407491,luka,gugeshashvili,2021,Crystalbet Erovnuli Liga,35,0,14
+407491,luka,gugeshashvili,20/21,David Kipiani Cup,0,0,0
+407491,luka,gugeshashvili,2020,Crystalbet Erovnuli Liga,16,0,5
+407491,luka,gugeshashvili,19/20,2ª B - Grupo IV,5,0,0
+407491,luka,gugeshashvili,19/20,David Kipiani Cup,0,0,0
+407491,luka,gugeshashvili,2019,Crystalbet Erovnuli Liga,17,0,4
+407491,luka,gugeshashvili,18/19,David Kipiani Cup,1,0,0
+407491,luka,gugeshashvili,2018,Crystalbet Erovnuli Liga,17,0,11
+407491,luka,gugeshashvili,17/18,3 Liga - Grupa IV,16,0,3
+407491,luka,gugeshashvili,15/16,Erovnuli Liga,0,0,0

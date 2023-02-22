@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-19/20,2019-07-01,Lech Poznan,Lechia Gdansk,500000,free transfer
-15/16,2015-08-31,Jagiellonia,Lech Poznan,800000,500000
-12/13,2012-07-01,Rakow,Jagiellonia,0,50000
-09/10,2009-07-01,Rakow U19,Rakow,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+236891,maciej,gajos,19/20,2019-07-01,Lech Poznan,Lechia Gdansk,500000,free transfer
+236891,maciej,gajos,15/16,2015-08-31,Jagiellonia,Lech Poznan,800000,500000
+236891,maciej,gajos,12/13,2012-07-01,Rakow,Jagiellonia,0,50000
+236891,maciej,gajos,09/10,2009-07-01,Rakow U19,Rakow,0,0

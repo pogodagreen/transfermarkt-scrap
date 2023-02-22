@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-01,Stal Mielec,Odra Opole,350000,free transfer
-18/19,2019-01-31,Ruch Chorzow,Stal Mielec,0,free transfer
-13/14,2013-07-01,Ruch Chorzow II,Ruch Chorzow,0,0
-11/12,2011-07-01,Ruch U19,Ruch Chorzow II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+255423,maciej,urbanczyk,22/23,2022-07-01,Stal Mielec,Odra Opole,350000,free transfer
+255423,maciej,urbanczyk,18/19,2019-01-31,Ruch Chorzow,Stal Mielec,0,free transfer
+255423,maciej,urbanczyk,13/14,2013-07-01,Ruch Chorzow II,Ruch Chorzow,0,0
+255423,maciej,urbanczyk,11/12,2011-07-01,Ruch U19,Ruch Chorzow II,0,0

@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2020-09-03,Pogon Siedlce,Górnik Zabrze,0,50000
-19/20,2019-07-22,Cracovia U19,Pogon Siedlce,0,free transfer
-18/19,2018-07-01,Progres U19,Cracovia U19,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+607435,norbert,wojtuszek,20/21,2020-09-03,Pogon Siedlce,Górnik Zabrze,0,50000
+607435,norbert,wojtuszek,19/20,2019-07-22,Cracovia U19,Pogon Siedlce,0,free transfer
+607435,norbert,wojtuszek,18/19,2018-07-01,Progres U19,Cracovia U19,0,free transfer

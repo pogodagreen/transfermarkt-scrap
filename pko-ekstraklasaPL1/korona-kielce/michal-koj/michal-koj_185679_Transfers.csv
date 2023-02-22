@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-01,Korona Kielce,P. Niepolomice,300000,free transfer
-21/22,2021-07-01,Górnik Zabrze,Korona Kielce,350000,free transfer
-17/18,2017-07-01,Ruch Chorzow,Górnik Zabrze,200000,free transfer
-15/16,2015-07-02,Pogon Szczecin,Ruch Chorzow,100000,free transfer
-13/14,2013-07-01,Pogon II,Pogon Szczecin,0,0
-12/13,2013-01-01,Without Club,Pogon II,0,0
-12/13,2012-07-01,PAO U20,Without Club,0,0
-09/10,2010-01-01,Ruch U19,PAO U20,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+185679,michal,koj,22/23,2022-07-01,Korona Kielce,P. Niepolomice,300000,free transfer
+185679,michal,koj,21/22,2021-07-01,Górnik Zabrze,Korona Kielce,350000,free transfer
+185679,michal,koj,17/18,2017-07-01,Ruch Chorzow,Górnik Zabrze,200000,free transfer
+185679,michal,koj,15/16,2015-07-02,Pogon Szczecin,Ruch Chorzow,100000,free transfer
+185679,michal,koj,13/14,2013-07-01,Pogon II,Pogon Szczecin,0,0
+185679,michal,koj,12/13,2013-01-01,Without Club,Pogon II,0,0
+185679,michal,koj,12/13,2012-07-01,PAO U20,Without Club,0,0
+185679,michal,koj,09/10,2010-01-01,Ruch U19,PAO U20,0,free transfer

@@ -1,25 +1,25 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-255721,bartosz-kwiecien,22/23,Fortuna Puchar Polski,2,1,119
-255721,bartosz-kwiecien,22/23,Fortuna 1 Liga,14,2,908
-255721,bartosz-kwiecien,21/22,1 Liga,2,0,100
-255721,bartosz-kwiecien,21/22,Ekstraklasa,7,0,373
-255721,bartosz-kwiecien,21/22,Fortuna Puchar Polski,0,0,0
-255721,bartosz-kwiecien,20/21,Ekstraklasa,12,0,611
-255721,bartosz-kwiecien,20/21,1 Liga,14,0,1111
-255721,bartosz-kwiecien,20/21,Fortuna Puchar Polski,1,0,65
-255721,bartosz-kwiecien,19/20,Ekstraklasa,13,1,651
-255721,bartosz-kwiecien,19/20,Fortuna Puchar Polski,1,0,64
-255721,bartosz-kwiecien,18/19,Ekstraklasa,27,1,1372
-255721,bartosz-kwiecien,18/19,Fortuna Puchar Polski,3,0,164
-255721,bartosz-kwiecien,18/19,Kwalifikacje do Ligi Europy,4,0,283
-255721,bartosz-kwiecien,17/18,Ekstraklasa,18,3,1018
-255721,bartosz-kwiecien,17/18,Fortuna Puchar Polski,1,0,62
-255721,bartosz-kwiecien,17/18,Ekstraklasa,1,0,55
-255721,bartosz-kwiecien,16/17,Ekstraklasa,9,0,771
-255721,bartosz-kwiecien,16/17,Nice 1 Liga,16,3,1193
-255721,bartosz-kwiecien,15/16,Ekstraklasa,0,0,0
-255721,bartosz-kwiecien,14/15,Ekstraklasa,2,0,38
-255721,bartosz-kwiecien,13/14,1 Liga,7,0,276
-255721,bartosz-kwiecien,13/14,Ekstraklasa,4,0,73
-255721,bartosz-kwiecien,13/14,Fortuna Puchar Polski,1,0,90
-255721,bartosz-kwiecien,12/13,Ekstraklasa,3,0,222
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+255721,bartosz,kwiecien,22/23,Fortuna Puchar Polski,2,1,119
+255721,bartosz,kwiecien,22/23,Fortuna 1 Liga,14,2,908
+255721,bartosz,kwiecien,21/22,1 Liga,2,0,100
+255721,bartosz,kwiecien,21/22,Ekstraklasa,7,0,373
+255721,bartosz,kwiecien,21/22,Fortuna Puchar Polski,0,0,0
+255721,bartosz,kwiecien,20/21,Ekstraklasa,12,0,611
+255721,bartosz,kwiecien,20/21,1 Liga,14,0,1111
+255721,bartosz,kwiecien,20/21,Fortuna Puchar Polski,1,0,65
+255721,bartosz,kwiecien,19/20,Ekstraklasa,13,1,651
+255721,bartosz,kwiecien,19/20,Fortuna Puchar Polski,1,0,64
+255721,bartosz,kwiecien,18/19,Ekstraklasa,27,1,1372
+255721,bartosz,kwiecien,18/19,Fortuna Puchar Polski,3,0,164
+255721,bartosz,kwiecien,18/19,Kwalifikacje do Ligi Europy,4,0,283
+255721,bartosz,kwiecien,17/18,Ekstraklasa,18,3,1018
+255721,bartosz,kwiecien,17/18,Fortuna Puchar Polski,1,0,62
+255721,bartosz,kwiecien,17/18,Ekstraklasa,1,0,55
+255721,bartosz,kwiecien,16/17,Ekstraklasa,9,0,771
+255721,bartosz,kwiecien,16/17,Nice 1 Liga,16,3,1193
+255721,bartosz,kwiecien,15/16,Ekstraklasa,0,0,0
+255721,bartosz,kwiecien,14/15,Ekstraklasa,2,0,38
+255721,bartosz,kwiecien,13/14,1 Liga,7,0,276
+255721,bartosz,kwiecien,13/14,Ekstraklasa,4,0,73
+255721,bartosz,kwiecien,13/14,Fortuna Puchar Polski,1,0,90
+255721,bartosz,kwiecien,12/13,Ekstraklasa,3,0,222

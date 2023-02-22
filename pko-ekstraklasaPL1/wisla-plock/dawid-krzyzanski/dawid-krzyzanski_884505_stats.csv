@@ -1,4 +1,4 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-884505,dawid-krzyzanski,21/22,Baraże o udział w 1 lidze,1,0,9
-884505,dawid-krzyzanski,21/22,eWinner 2 liga,4,1,91
-884505,dawid-krzyzanski,21/22,Ekstraklasa,1,0,13
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+884505,dawid,krzyzanski,21/22,Baraże o udział w 1 lidze,1,0,9
+884505,dawid,krzyzanski,21/22,eWinner 2 liga,4,1,91
+884505,dawid,krzyzanski,21/22,Ekstraklasa,1,0,13

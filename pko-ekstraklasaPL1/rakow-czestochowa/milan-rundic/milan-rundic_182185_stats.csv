@@ -1,40 +1,40 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-182185,milan-rundic,22/23,Ekstraklasa,11,0,819
-182185,milan-rundic,22/23,Fortuna Puchar Polski,0,0,0
-182185,milan-rundic,22/23,UECL Kwalifikacje,6,0,570
-182185,milan-rundic,22/23,Superpuchar,1,0,90
-182185,milan-rundic,21/22,Ekstraklasa,18,1,1069
-182185,milan-rundic,21/22,Fortuna Puchar Polski,2,0,101
-182185,milan-rundic,21/22,UECL Kwalifikacje,4,0,251
-182185,milan-rundic,21/22,Superpuchar,1,0,90
-182185,milan-rundic,20/21,Ekstraklasa,21,1,1787
-182185,milan-rundic,20/21,Fortuna Puchar Polski,1,0,120
-182185,milan-rundic,19/20,Fortuna Liga Abstiegsrunde,3,0,176
-182185,milan-rundic,19/20,Fortuna Liga,26,2,2340
-182185,milan-rundic,19/20,MOL Cup,0,0,0
-182185,milan-rundic,18/19,Fortuna Liga Abstiegsplayoff,2,0,180
-182185,milan-rundic,18/19,Fortuna Liga Abstiegsrunde,5,0,404
-182185,milan-rundic,18/19,Fortuna Liga,11,0,990
-182185,milan-rundic,18/19,MOL Cup,1,0,33
-182185,milan-rundic,18/19,Fortuna Liga,1,0,58
-182185,milan-rundic,18/19,Slovnaft Cup,1,0,90
-182185,milan-rundic,17/18,Fort. Liga - Champ. G.,8,0,688
-182185,milan-rundic,17/18,Slovnaft Cup,5,0,480
-182185,milan-rundic,17/18,Fortuna Liga,16,1,1415
-182185,milan-rundic,17/18,Kwalifikacje do Ligi Europy,4,0,360
-182185,milan-rundic,17/18,Cesko-slovensky Superpohar,1,0,120
-182185,milan-rundic,16/17,Fortuna Liga,10,1,880
-182185,milan-rundic,16/17,Slovnaft Cup,4,1,360
-182185,milan-rundic,15/16,Fortuna Liga,17,1,1523
-182185,milan-rundic,15/16,Slovnaft Cup,2,0,180
-182185,milan-rundic,15/16,Kwalifikacje do Ligi Mistrzów,2,0,164
-182185,milan-rundic,14/15,Fortuna Liga,22,1,1892
-182185,milan-rundic,14/15,Slovnaft Cup,5,0,480
-182185,milan-rundic,14/15,Kwalifikacje do Ligi Europy,4,0,185
-182185,milan-rundic,13/14,Fortuna Liga,18,1,1506
-182185,milan-rundic,13/14,Kwalifikacje do Ligi Europy,0,0,0
-182185,milan-rundic,12/13,SuperSport HNL,3,0,148
-182185,milan-rundic,12/13,Prva liga Srbije,13,2,1170
-182185,milan-rundic,11/12,Prva liga Srbije,17,2,1356
-182185,milan-rundic,11/12,Kup Srbije,1,0,44
-182185,milan-rundic,10/11,Prva liga Srbije,14,0,1077
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+182185,milan,rundic,22/23,Ekstraklasa,12,0,909
+182185,milan,rundic,22/23,Fortuna Puchar Polski,0,0,0
+182185,milan,rundic,22/23,UECL Kwalifikacje,6,0,570
+182185,milan,rundic,22/23,Superpuchar,1,0,90
+182185,milan,rundic,21/22,Ekstraklasa,18,1,1069
+182185,milan,rundic,21/22,Fortuna Puchar Polski,2,0,101
+182185,milan,rundic,21/22,UECL Kwalifikacje,4,0,251
+182185,milan,rundic,21/22,Superpuchar,1,0,90
+182185,milan,rundic,20/21,Ekstraklasa,21,1,1787
+182185,milan,rundic,20/21,Fortuna Puchar Polski,1,0,120
+182185,milan,rundic,19/20,Fortuna Liga Abstiegsrunde,3,0,176
+182185,milan,rundic,19/20,Fortuna Liga,26,2,2340
+182185,milan,rundic,19/20,MOL Cup,0,0,0
+182185,milan,rundic,18/19,Fortuna Liga Abstiegsplayoff,2,0,180
+182185,milan,rundic,18/19,Fortuna Liga Abstiegsrunde,5,0,404
+182185,milan,rundic,18/19,Fortuna Liga,11,0,990
+182185,milan,rundic,18/19,MOL Cup,1,0,33
+182185,milan,rundic,18/19,Fortuna Liga,1,0,58
+182185,milan,rundic,18/19,Slovnaft Cup,1,0,90
+182185,milan,rundic,17/18,Fort. Liga - Champ. G.,8,0,688
+182185,milan,rundic,17/18,Slovnaft Cup,5,0,480
+182185,milan,rundic,17/18,Fortuna Liga,16,1,1415
+182185,milan,rundic,17/18,Kwalifikacje do Ligi Europy,4,0,360
+182185,milan,rundic,17/18,Cesko-slovensky Superpohar,1,0,120
+182185,milan,rundic,16/17,Fortuna Liga,10,1,880
+182185,milan,rundic,16/17,Slovnaft Cup,4,1,360
+182185,milan,rundic,15/16,Fortuna Liga,17,1,1523
+182185,milan,rundic,15/16,Slovnaft Cup,2,0,180
+182185,milan,rundic,15/16,Kwalifikacje do Ligi Mistrzów,2,0,164
+182185,milan,rundic,14/15,Fortuna Liga,22,1,1892
+182185,milan,rundic,14/15,Slovnaft Cup,5,0,480
+182185,milan,rundic,14/15,Kwalifikacje do Ligi Europy,4,0,185
+182185,milan,rundic,13/14,Fortuna Liga,18,1,1506
+182185,milan,rundic,13/14,Kwalifikacje do Ligi Europy,0,0,0
+182185,milan,rundic,12/13,SuperSport HNL,3,0,148
+182185,milan,rundic,12/13,Prva liga Srbije,13,2,1170
+182185,milan,rundic,11/12,Prva liga Srbije,17,2,1356
+182185,milan,rundic,11/12,Kup Srbije,1,0,44
+182185,milan,rundic,10/11,Prva liga Srbije,14,0,1077

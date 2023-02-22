@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-19/20,2020-01-22,Odra Opole,Jagiellonia,25000,125000
-19/20,2019-07-01,Ruch Chorzow,Odra Opole,0,free transfer
-17/18,2018-05-04,Ruch U19,Ruch Chorzow,0,0
-16/17,2016-07-01,Spojnia Osiek-Zimnodol,Ruch U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+589013,bartlomiej,wdowik,19/20,2020-01-22,Odra Opole,Jagiellonia,25000,125000
+589013,bartlomiej,wdowik,19/20,2019-07-01,Ruch Chorzow,Odra Opole,0,free transfer
+589013,bartlomiej,wdowik,17/18,2018-05-04,Ruch U19,Ruch Chorzow,0,0
+589013,bartlomiej,wdowik,16/17,2016-07-01,Spojnia Osiek-Zimnodol,Ruch U19,0,0

@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-01-06,Warta Poznan,Zaglebie Lubin,800000,0
-19/20,2019-07-09,M. Legnica II,Warta Poznan,0,free transfer
-18/19,2018-08-01,Wa. Poznan U19,M. Legnica II,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+425739,aleks,lawniczak,21/22,2022-01-06,Warta Poznan,Zaglebie Lubin,800000,0
+425739,aleks,lawniczak,19/20,2019-07-09,M. Legnica II,Warta Poznan,0,free transfer
+425739,aleks,lawniczak,18/19,2018-08-01,Wa. Poznan U19,M. Legnica II,0,free transfer

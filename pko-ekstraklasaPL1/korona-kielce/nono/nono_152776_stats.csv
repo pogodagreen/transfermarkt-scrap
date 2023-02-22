@@ -1,26 +1,26 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-152776,nono,22/23,Ekstraklasa,3,0,220
-152776,nono,21/22,LaLiga SmartBank,22,2,753
-152776,nono,21/22,Puchar Króla,2,0,104
-152776,nono,21/22,LaLiga SmartBank,3,0,190
-152776,nono,20/21,LaLiga SmartBank,37,0,2452
-152776,nono,20/21,Puchar Króla,2,0,109
-152776,nono,19/20,LaLiga SmartBank,39,6,2748
-152776,nono,19/20,Puchar Króla,1,0,15
-152776,nono,18/19,LaLiga 1|2|3,30,2,2171
-152776,nono,18/19,Puchar Króla,2,0,155
-152776,nono,17/18,LaLiga 1|2|3,23,1,1204
-152776,nono,16/17,LaLiga 1|2|3,37,2,1607
-152776,nono,16/17,Puchar Króla,2,1,106
-152776,nono,15/16,Ascenso a 2ª,3,0,279
-152776,nono,15/16,2ª B - Grupo IV,36,3,2764
-152776,nono,14/15,Ascenso a 2ª,4,0,235
-152776,nono,14/15,2ª B - Grupo IV,31,3,2381
-152776,nono,14/15,Puchar Króla,3,1,204
-152776,nono,13/14,2ª B - Grupo IV,33,7,2453
-152776,nono,12/13,2ª B - Grupo I,11,2,939
-152776,nono,12/13,LaLiga,0,0,0
-152776,nono,11/12,2ª B - Grupo I,35,3,2518
-152776,nono,11/12,Puchar Króla,0,0,0
-152776,nono,10/11,2ª B - Grupo I,19,1,753
-152776,nono,09/10,LaLiga2,1,0,13
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+152776,nono,-,22/23,Ekstraklasa,4,0,293
+152776,nono,-,21/22,LaLiga SmartBank,22,2,753
+152776,nono,-,21/22,Puchar Króla,2,0,104
+152776,nono,-,21/22,LaLiga SmartBank,3,0,190
+152776,nono,-,20/21,LaLiga SmartBank,37,0,2452
+152776,nono,-,20/21,Puchar Króla,2,0,109
+152776,nono,-,19/20,LaLiga SmartBank,39,6,2748
+152776,nono,-,19/20,Puchar Króla,1,0,15
+152776,nono,-,18/19,LaLiga 1|2|3,30,2,2171
+152776,nono,-,18/19,Puchar Króla,2,0,155
+152776,nono,-,17/18,LaLiga 1|2|3,23,1,1204
+152776,nono,-,16/17,LaLiga 1|2|3,37,2,1607
+152776,nono,-,16/17,Puchar Króla,2,1,106
+152776,nono,-,15/16,Ascenso a 2ª,3,0,279
+152776,nono,-,15/16,2ª B - Grupo IV,36,3,2764
+152776,nono,-,14/15,Ascenso a 2ª,4,0,235
+152776,nono,-,14/15,2ª B - Grupo IV,31,3,2381
+152776,nono,-,14/15,Puchar Króla,3,1,204
+152776,nono,-,13/14,2ª B - Grupo IV,33,7,2453
+152776,nono,-,12/13,2ª B - Grupo I,11,2,939
+152776,nono,-,12/13,LaLiga,0,0,0
+152776,nono,-,11/12,2ª B - Grupo I,35,3,2518
+152776,nono,-,11/12,Puchar Króla,0,0,0
+152776,nono,-,10/11,2ª B - Grupo I,19,1,753
+152776,nono,-,09/10,LaLiga2,1,0,13

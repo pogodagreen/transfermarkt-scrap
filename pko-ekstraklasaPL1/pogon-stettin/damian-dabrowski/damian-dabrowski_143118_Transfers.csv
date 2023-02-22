@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-19/20,2019-08-24,Cracovia,Pogon Szczecin,550000,125000
-13/14,2013-07-01,Zaglebie Lubin,Cracovia,250000,100000
-12/13,2013-06-30,Cracovia,Zaglebie Lubin,250000,End of loan
-12/13,2012-08-02,Zaglebie Lubin,Cracovia,300000,loan transfer
-11/12,2012-06-30,Gornik Polk.,Zaglebie Lubin,300000,End of loan
-11/12,2012-02-01,Zaglebie Lubin,Gornik Polk.,300000,loan transfer
-09/10,2010-01-01,Lubin II,Zaglebie Lubin,0,0
-08/09,2008-07-01,Lubin U19,Lubin II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+143118,damian,dabrowski,19/20,2019-08-24,Cracovia,Pogon Szczecin,550000,125000
+143118,damian,dabrowski,13/14,2013-07-01,Zaglebie Lubin,Cracovia,250000,100000
+143118,damian,dabrowski,12/13,2013-06-30,Cracovia,Zaglebie Lubin,250000,End of loan
+143118,damian,dabrowski,12/13,2012-08-02,Zaglebie Lubin,Cracovia,300000,loan transfer
+143118,damian,dabrowski,11/12,2012-06-30,Gornik Polk.,Zaglebie Lubin,300000,End of loan
+143118,damian,dabrowski,11/12,2012-02-01,Zaglebie Lubin,Gornik Polk.,300000,loan transfer
+143118,damian,dabrowski,09/10,2010-01-01,Lubin II,Zaglebie Lubin,0,0
+143118,damian,dabrowski,08/09,2008-07-01,Lubin U19,Lubin II,0,0

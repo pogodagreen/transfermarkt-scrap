@@ -1,33 +1,33 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-212432,christos-donis,22/23,Ekstraklasa,3,0,105
-212432,christos-donis,21/22,Serie B,0,0,0
-212432,christos-donis,20/21,Eredivisie,9,1,545
-212432,christos-donis,20/21,KNVB beker,2,0,210
-212432,christos-donis,20/21,Serie B,5,0,228
-212432,christos-donis,20/21,Puchar Włoch,1,0,63
-212432,christos-donis,19/20,SL1 Play-off,3,0,240
-212432,christos-donis,19/20,Super League 1,23,1,1984
-212432,christos-donis,19/20,Kypello Elladas,5,1,372
-212432,christos-donis,18/19,Super League,25,1,1763
-212432,christos-donis,18/19,Kypello Elladas,2,0,32
-212432,christos-donis,17/18,Super League,19,1,1211
-212432,christos-donis,17/18,Kypello Elladas,4,0,243
-212432,christos-donis,17/18,Kwalifikacje do Ligi Europy,3,0,25
-212432,christos-donis,16/17,Super League,15,4,1311
-212432,christos-donis,16/17,Super League,3,0,54
-212432,christos-donis,16/17,Kypello Elladas,3,1,241
-212432,christos-donis,16/17,Kwalifikacje do Ligi Europy,4,0,64
-212432,christos-donis,15/16,Super League,1,0,57
-212432,christos-donis,15/16,2. Liga Inter - Gr. 4,2,1,160
-212432,christos-donis,15/16,Kwalifikacje do Ligi Mistrzów,0,0,0
-212432,christos-donis,14/15,SL Play-off,3,0,169
-212432,christos-donis,14/15,Super League,18,0,838
-212432,christos-donis,14/15,Kypello Elladas,5,0,383
-212432,christos-donis,14/15,Liga Europy,7,0,393
-212432,christos-donis,13/14,SL Play-off,2,0,84
-212432,christos-donis,13/14,Kypello Elladas,5,1,362
-212432,christos-donis,13/14,Super League,11,1,246
-212432,christos-donis,13/14,Super League K20,1,0,90
-212432,christos-donis,12/13,Super League K20,2,0,154
-212432,christos-donis,12/13,Kypello Elladas,2,0,83
-212432,christos-donis,12/13,Super League,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+212432,christos,donis,22/23,Ekstraklasa,3,0,105
+212432,christos,donis,21/22,Serie B,0,0,0
+212432,christos,donis,20/21,Eredivisie,9,1,545
+212432,christos,donis,20/21,KNVB beker,2,0,210
+212432,christos,donis,20/21,Serie B,5,0,228
+212432,christos,donis,20/21,Puchar Włoch,1,0,63
+212432,christos,donis,19/20,SL1 Play-off,3,0,240
+212432,christos,donis,19/20,Super League 1,23,1,1984
+212432,christos,donis,19/20,Kypello Elladas,5,1,372
+212432,christos,donis,18/19,Super League,25,1,1763
+212432,christos,donis,18/19,Kypello Elladas,2,0,32
+212432,christos,donis,17/18,Super League,19,1,1211
+212432,christos,donis,17/18,Kypello Elladas,4,0,243
+212432,christos,donis,17/18,Kwalifikacje do Ligi Europy,3,0,25
+212432,christos,donis,16/17,Super League,15,4,1311
+212432,christos,donis,16/17,Super League,3,0,54
+212432,christos,donis,16/17,Kypello Elladas,3,1,241
+212432,christos,donis,16/17,Kwalifikacje do Ligi Europy,4,0,64
+212432,christos,donis,15/16,Super League,1,0,57
+212432,christos,donis,15/16,2. Liga Inter - Gr. 4,2,1,160
+212432,christos,donis,15/16,Kwalifikacje do Ligi Mistrzów,0,0,0
+212432,christos,donis,14/15,SL Play-off,3,0,169
+212432,christos,donis,14/15,Super League,18,0,838
+212432,christos,donis,14/15,Kypello Elladas,5,0,383
+212432,christos,donis,14/15,Liga Europy,7,0,393
+212432,christos,donis,13/14,SL Play-off,2,0,84
+212432,christos,donis,13/14,Kypello Elladas,5,1,362
+212432,christos,donis,13/14,Super League,11,1,246
+212432,christos,donis,13/14,Super League K20,1,0,90
+212432,christos,donis,12/13,Super League K20,2,0,154
+212432,christos,donis,12/13,Kypello Elladas,2,0,83
+212432,christos,donis,12/13,Super League,0,0,0

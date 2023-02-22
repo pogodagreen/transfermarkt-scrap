@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-26,NK Celje,Jagiellonia,400000,free transfer
-21/22,2022-01-27,Khimki,NK Celje,800000,End of loan
-21/22,2021-07-01,NK Celje,Khimki,800000,loan transfer
-17/18,2018-01-10,NK Bravo U19,NK Celje,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+469688,dusan,stojinovic,22/23,2023-01-26,NK Celje,Jagiellonia,400000,free transfer
+469688,dusan,stojinovic,21/22,2022-01-27,Khimki,NK Celje,800000,End of loan
+469688,dusan,stojinovic,21/22,2021-07-01,NK Celje,Khimki,800000,loan transfer
+469688,dusan,stojinovic,17/18,2018-01-10,NK Bravo U19,NK Celje,0,free transfer

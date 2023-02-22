@@ -1,12 +1,12 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-554315,patryk-kusztal,22/23,Fortuna 1 Liga,16,1,833
-554315,patryk-kusztal,22/23,Fortuna Puchar Polski,2,0,90
-554315,patryk-kusztal,22/23,3 Liga - Grupa III,1,1,90
-554315,patryk-kusztal,21/22,3 Liga - Grupa III,23,17,1819
-554315,patryk-kusztal,21/22,CLJ,2,4,155
-554315,patryk-kusztal,21/22,Fortuna Puchar Polski,0,0,0
-554315,patryk-kusztal,21/22,Ekstraklasa,3,0,69
-554315,patryk-kusztal,20/21,CLJ,6,1,445
-554315,patryk-kusztal,20/21,3 Liga - Grupa III,27,7,1490
-554315,patryk-kusztal,19/20,CLJ,14,1,931
-554315,patryk-kusztal,18/19,CLJ,11,2,558
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+554315,patryk,kusztal,22/23,Fortuna 1 Liga,16,1,833
+554315,patryk,kusztal,22/23,Fortuna Puchar Polski,2,0,90
+554315,patryk,kusztal,22/23,3 Liga - Grupa III,1,1,90
+554315,patryk,kusztal,21/22,3 Liga - Grupa III,23,17,1819
+554315,patryk,kusztal,21/22,CLJ,2,4,155
+554315,patryk,kusztal,21/22,Fortuna Puchar Polski,0,0,0
+554315,patryk,kusztal,21/22,Ekstraklasa,3,0,69
+554315,patryk,kusztal,20/21,CLJ,6,1,445
+554315,patryk,kusztal,20/21,3 Liga - Grupa III,27,7,1490
+554315,patryk,kusztal,19/20,CLJ,14,1,931
+554315,patryk,kusztal,18/19,CLJ,11,2,558

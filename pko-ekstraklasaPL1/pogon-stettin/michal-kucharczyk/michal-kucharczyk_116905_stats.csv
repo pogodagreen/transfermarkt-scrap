@@ -1,50 +1,50 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-116905,michal-kucharczyk,22/23,Ekstraklasa,10,0,515
-116905,michal-kucharczyk,22/23,Fortuna Puchar Polski,2,0,171
-116905,michal-kucharczyk,22/23,3 Liga - Grupa II,1,0,90
-116905,michal-kucharczyk,22/23,UECL Kwalifikacje,1,0,30
-116905,michal-kucharczyk,21/22,Ekstraklasa,32,5,1645
-116905,michal-kucharczyk,21/22,Fortuna Puchar Polski,1,0,44
-116905,michal-kucharczyk,20/21,Ekstraklasa,30,6,2289
-116905,michal-kucharczyk,20/21,Fortuna Puchar Polski,3,1,205
-116905,michal-kucharczyk,19/20,Puchar Rosji,3,0,215
-116905,michal-kucharczyk,19/20,Premier Liga,16,0,915
-116905,michal-kucharczyk,18/19,Ekstraklasa,28,4,1903
-116905,michal-kucharczyk,18/19,Fortuna Puchar Polski,4,2,333
-116905,michal-kucharczyk,18/19,Kwalifikacje do Ligi Europy,2,0,180
-116905,michal-kucharczyk,18/19,Kwalifikacje do Ligi Mistrzów,3,1,225
-116905,michal-kucharczyk,18/19,Superpuchar,1,0,90
-116905,michal-kucharczyk,17/18,Ekstraklasa,33,7,1843
-116905,michal-kucharczyk,17/18,Fortuna Puchar Polski,4,1,291
-116905,michal-kucharczyk,17/18,Kwalifikacje do Ligi Europy,2,0,150
-116905,michal-kucharczyk,17/18,Kwalifikacje do Ligi Mistrzów,3,2,238
-116905,michal-kucharczyk,16/17,Ekstraklasa,21,6,1142
-116905,michal-kucharczyk,16/17,Liga Europy,2,0,122
-116905,michal-kucharczyk,16/17,Liga Mistrzów,4,1,229
-116905,michal-kucharczyk,16/17,Kwalifikacje do Ligi Mistrzów,6,1,534
-116905,michal-kucharczyk,16/17,Fortuna Puchar Polski,1,0,61
-116905,michal-kucharczyk,16/17,Superpuchar,1,0,90
-116905,michal-kucharczyk,15/16,Ekstraklasa,32,6,2518
-116905,michal-kucharczyk,15/16,Fortuna Puchar Polski,5,0,382
-116905,michal-kucharczyk,15/16,Liga Europy,6,1,417
-116905,michal-kucharczyk,15/16,Kwalifikacje do Ligi Europy,6,2,518
-116905,michal-kucharczyk,15/16,Superpuchar,1,0,73
-116905,michal-kucharczyk,14/15,Ekstraklasa,27,6,1711
-116905,michal-kucharczyk,14/15,Fortuna Puchar Polski,6,1,560
-116905,michal-kucharczyk,14/15,Liga Europy,10,2,863
-116905,michal-kucharczyk,14/15,Kwalifikacje do Ligi Mistrzów,3,1,235
-116905,michal-kucharczyk,13/14,Ekstraklasa,24,9,1345
-116905,michal-kucharczyk,13/14,Fortuna Puchar Polski,2,0,135
-116905,michal-kucharczyk,13/14,Liga Europy,5,0,215
-116905,michal-kucharczyk,13/14,Kwalifikacje do Ligi Mistrzów,4,1,202
-116905,michal-kucharczyk,12/13,Ekstraklasa,23,2,1150
-116905,michal-kucharczyk,12/13,Fortuna Puchar Polski,6,1,540
-116905,michal-kucharczyk,12/13,Liga Europy,1,0,76
-116905,michal-kucharczyk,12/13,Superpuchar,1,0,45
-116905,michal-kucharczyk,12/13,Kwalifikacje do Ligi Europy,3,1,215
-116905,michal-kucharczyk,11/12,Ekstraklasa,25,3,956
-116905,michal-kucharczyk,11/12,Fortuna Puchar Polski,3,0,217
-116905,michal-kucharczyk,11/12,Liga Europy,6,2,173
-116905,michal-kucharczyk,11/12,Kwalifikacje do Ligi Europy,1,0,62
-116905,michal-kucharczyk,10/11,Ekstraklasa,27,5,1828
-116905,michal-kucharczyk,10/11,Fortuna Puchar Polski,7,3,401
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+116905,michal,kucharczyk,22/23,Ekstraklasa,10,0,515
+116905,michal,kucharczyk,22/23,Fortuna Puchar Polski,2,0,171
+116905,michal,kucharczyk,22/23,3 Liga - Grupa II,1,0,90
+116905,michal,kucharczyk,22/23,UECL Kwalifikacje,1,0,30
+116905,michal,kucharczyk,21/22,Ekstraklasa,32,5,1645
+116905,michal,kucharczyk,21/22,Fortuna Puchar Polski,1,0,44
+116905,michal,kucharczyk,20/21,Ekstraklasa,30,6,2289
+116905,michal,kucharczyk,20/21,Fortuna Puchar Polski,3,1,205
+116905,michal,kucharczyk,19/20,Puchar Rosji,3,0,215
+116905,michal,kucharczyk,19/20,Premier Liga,16,0,915
+116905,michal,kucharczyk,18/19,Ekstraklasa,28,4,1903
+116905,michal,kucharczyk,18/19,Fortuna Puchar Polski,4,2,333
+116905,michal,kucharczyk,18/19,Kwalifikacje do Ligi Europy,2,0,180
+116905,michal,kucharczyk,18/19,Kwalifikacje do Ligi Mistrzów,3,1,225
+116905,michal,kucharczyk,18/19,Superpuchar,1,0,90
+116905,michal,kucharczyk,17/18,Ekstraklasa,33,7,1843
+116905,michal,kucharczyk,17/18,Fortuna Puchar Polski,4,1,291
+116905,michal,kucharczyk,17/18,Kwalifikacje do Ligi Europy,2,0,150
+116905,michal,kucharczyk,17/18,Kwalifikacje do Ligi Mistrzów,3,2,238
+116905,michal,kucharczyk,16/17,Ekstraklasa,21,6,1142
+116905,michal,kucharczyk,16/17,Liga Europy,2,0,122
+116905,michal,kucharczyk,16/17,Liga Mistrzów,4,1,229
+116905,michal,kucharczyk,16/17,Kwalifikacje do Ligi Mistrzów,6,1,534
+116905,michal,kucharczyk,16/17,Fortuna Puchar Polski,1,0,61
+116905,michal,kucharczyk,16/17,Superpuchar,1,0,90
+116905,michal,kucharczyk,15/16,Ekstraklasa,32,6,2518
+116905,michal,kucharczyk,15/16,Fortuna Puchar Polski,5,0,382
+116905,michal,kucharczyk,15/16,Liga Europy,6,1,417
+116905,michal,kucharczyk,15/16,Kwalifikacje do Ligi Europy,6,2,518
+116905,michal,kucharczyk,15/16,Superpuchar,1,0,73
+116905,michal,kucharczyk,14/15,Ekstraklasa,27,6,1711
+116905,michal,kucharczyk,14/15,Fortuna Puchar Polski,6,1,560
+116905,michal,kucharczyk,14/15,Liga Europy,10,2,863
+116905,michal,kucharczyk,14/15,Kwalifikacje do Ligi Mistrzów,3,1,235
+116905,michal,kucharczyk,13/14,Ekstraklasa,24,9,1345
+116905,michal,kucharczyk,13/14,Fortuna Puchar Polski,2,0,135
+116905,michal,kucharczyk,13/14,Liga Europy,5,0,215
+116905,michal,kucharczyk,13/14,Kwalifikacje do Ligi Mistrzów,4,1,202
+116905,michal,kucharczyk,12/13,Ekstraklasa,23,2,1150
+116905,michal,kucharczyk,12/13,Fortuna Puchar Polski,6,1,540
+116905,michal,kucharczyk,12/13,Liga Europy,1,0,76
+116905,michal,kucharczyk,12/13,Superpuchar,1,0,45
+116905,michal,kucharczyk,12/13,Kwalifikacje do Ligi Europy,3,1,215
+116905,michal,kucharczyk,11/12,Ekstraklasa,25,3,956
+116905,michal,kucharczyk,11/12,Fortuna Puchar Polski,3,0,217
+116905,michal,kucharczyk,11/12,Liga Europy,6,2,173
+116905,michal,kucharczyk,11/12,Kwalifikacje do Ligi Europy,1,0,62
+116905,michal,kucharczyk,10/11,Ekstraklasa,27,5,1828
+116905,michal,kucharczyk,10/11,Fortuna Puchar Polski,7,3,401

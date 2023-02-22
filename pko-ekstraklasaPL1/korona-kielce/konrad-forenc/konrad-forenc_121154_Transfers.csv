@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-14,Zaglebie Lubin,Korona Kielce,250000,free transfer
-13/14,2014-06-30,Calisia,Zaglebie Lubin,125000,End of loan
-13/14,2014-02-12,Zaglebie Lubin,Calisia,125000,loan transfer
-13/14,2014-01-31,F. Swinoujscie,Zaglebie Lubin,125000,End of loan
-13/14,2013-07-24,Zaglebie Lubin,F. Swinoujscie,150000,loan transfer
-12/13,2013-06-30,Kolejarz Stroze,Zaglebie Lubin,150000,End of loan
-12/13,2012-08-02,Zaglebie Lubin,Kolejarz Stroze,50000,loan transfer
-09/10,2009-07-01,MKS Olawa,Zaglebie Lubin,0,15000
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+121154,konrad,forenc,21/22,2021-07-14,Zaglebie Lubin,Korona Kielce,250000,free transfer
+121154,konrad,forenc,13/14,2014-06-30,Calisia,Zaglebie Lubin,125000,End of loan
+121154,konrad,forenc,13/14,2014-02-12,Zaglebie Lubin,Calisia,125000,loan transfer
+121154,konrad,forenc,13/14,2014-01-31,F. Swinoujscie,Zaglebie Lubin,125000,End of loan
+121154,konrad,forenc,13/14,2013-07-24,Zaglebie Lubin,F. Swinoujscie,150000,loan transfer
+121154,konrad,forenc,12/13,2013-06-30,Kolejarz Stroze,Zaglebie Lubin,150000,End of loan
+121154,konrad,forenc,12/13,2012-08-02,Zaglebie Lubin,Kolejarz Stroze,50000,loan transfer
+121154,konrad,forenc,09/10,2009-07-01,MKS Olawa,Zaglebie Lubin,0,15000

@@ -1,8 +1,8 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-01,Arka Gdynia,Korona Kielce,350000,free transfer
-18/19,2018-09-05,Cracovia,Arka Gdynia,150000,free transfer
-17/18,2017-07-12,Podbeskidzie,Cracovia,150000,50000
-13/14,2013-07-03,MKS Kluczbork,Podbeskidzie,50000,1000
-12/13,2013-06-30,Podbeskidzie,MKS Kluczbork,50000,End of loan
-12/13,2013-01-24,MKS Kluczbork,Podbeskidzie,0,loan transfer
-11/12,2011-08-02,OKS Olesno,MKS Kluczbork,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+257244,adam,deja,22/23,2022-07-01,Arka Gdynia,Korona Kielce,350000,free transfer
+257244,adam,deja,18/19,2018-09-05,Cracovia,Arka Gdynia,150000,free transfer
+257244,adam,deja,17/18,2017-07-12,Podbeskidzie,Cracovia,150000,50000
+257244,adam,deja,13/14,2013-07-03,MKS Kluczbork,Podbeskidzie,50000,1000
+257244,adam,deja,12/13,2013-06-30,Podbeskidzie,MKS Kluczbork,50000,End of loan
+257244,adam,deja,12/13,2013-01-24,MKS Kluczbork,Podbeskidzie,0,loan transfer
+257244,adam,deja,11/12,2011-08-02,OKS Olesno,MKS Kluczbork,0,free transfer

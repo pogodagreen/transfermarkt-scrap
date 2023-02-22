@@ -1,9 +1,9 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-618392,oliwier-wojciechowski,22/23,Ekstraklasa,7,0,300
-618392,oliwier-wojciechowski,22/23,3 Liga - Grupa I,4,0,304
-618392,oliwier-wojciechowski,22/23,Fortuna Puchar Polski,2,0,91
-618392,oliwier-wojciechowski,21/22,3 Liga - Grupa I,15,1,1159
-618392,oliwier-wojciechowski,21/22,Ekstraklasa,6,0,261
-618392,oliwier-wojciechowski,21/22,CLJ,1,1,90
-618392,oliwier-wojciechowski,20/21,3 Liga - Grupa I,4,0,192
-618392,oliwier-wojciechowski,20/21,CLJ,1,0,28
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+618392,oliwier,wojciechowski,22/23,Ekstraklasa,7,0,300
+618392,oliwier,wojciechowski,22/23,3 Liga - Grupa I,4,0,304
+618392,oliwier,wojciechowski,22/23,Fortuna Puchar Polski,2,0,91
+618392,oliwier,wojciechowski,21/22,3 Liga - Grupa I,15,1,1159
+618392,oliwier,wojciechowski,21/22,Ekstraklasa,6,0,261
+618392,oliwier,wojciechowski,21/22,CLJ,1,1,90
+618392,oliwier,wojciechowski,20/21,3 Liga - Grupa I,4,0,192
+618392,oliwier,wojciechowski,20/21,CLJ,1,0,28

@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2020-08-01,Liepaja,Lechia Gdansk,225000,100000
-19/20,2020-07-31,Lechia Gdansk,Liepaja,225000,End of loan
-19/20,2020-01-17,Liepaja,Lechia Gdansk,225000,loan transfer
-17/18,2018-01-01,Liepaja II,Liepaja,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+448883,kristers,tobers,20/21,2020-08-01,Liepaja,Lechia Gdansk,225000,100000
+448883,kristers,tobers,19/20,2020-07-31,Lechia Gdansk,Liepaja,225000,End of loan
+448883,kristers,tobers,19/20,2020-01-17,Liepaja,Lechia Gdansk,225000,loan transfer
+448883,kristers,tobers,17/18,2018-01-01,Liepaja II,Liepaja,0,0

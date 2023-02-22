@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-02-01,Lech Poznan II,Lech Poznan,0,0
-20/21,2020-08-06,Lech Academy,Lech Poznan II,0,0
-19/20,2019-07-01,Wrocław A. U19,Lech Academy,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+631442,jakub,antczak,21/22,2022-02-01,Lech Poznan II,Lech Poznan,0,0
+631442,jakub,antczak,20/21,2020-08-06,Lech Academy,Lech Poznan II,0,0
+631442,jakub,antczak,19/20,2019-07-01,Wrocław A. U19,Lech Academy,0,0

@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-01,Zaglebie Lubin,Basaksehir,1500000,free transfer
-18/19,2018-12-31,Gornik Leczna,Zaglebie Lubin,150000,End of loan
-18/19,2018-08-30,Zaglebie Lubin,Gornik Leczna,150000,loan transfer
-18/19,2018-08-29,Gornik Leczna,Zaglebie Lubin,150000,150000
-17/18,2017-07-12,Leczna II,Gornik Leczna,0,0
-16/17,2017-06-30,Motor Lublin,Leczna II,0,End of loan
-16/17,2016-08-26,Leczna II,Motor Lublin,0,loan transfer
-13/14,2014-02-01,Leczna U19,Leczna II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+421710,patryk,szysz,22/23,2022-07-01,Zaglebie Lubin,Basaksehir,1500000,free transfer
+421710,patryk,szysz,18/19,2018-12-31,Gornik Leczna,Zaglebie Lubin,150000,End of loan
+421710,patryk,szysz,18/19,2018-08-30,Zaglebie Lubin,Gornik Leczna,150000,loan transfer
+421710,patryk,szysz,18/19,2018-08-29,Gornik Leczna,Zaglebie Lubin,150000,150000
+421710,patryk,szysz,17/18,2017-07-12,Leczna II,Gornik Leczna,0,0
+421710,patryk,szysz,16/17,2017-06-30,Motor Lublin,Leczna II,0,End of loan
+421710,patryk,szysz,16/17,2016-08-26,Leczna II,Motor Lublin,0,loan transfer
+421710,patryk,szysz,13/14,2014-02-01,Leczna U19,Leczna II,0,0

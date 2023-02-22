@@ -1,14 +1,14 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2021-06-30,Paços Ferreira,Lech Poznan,700000,End of loan
-19/20,2020-01-02,Lech Poznan,Paços Ferreira,1500000,loan transfer
-18/19,2018-07-21,Benfica,Lech Poznan,1500000,350000
-17/18,2018-06-30,Vitória Setúbal,Benfica,1500000,End of loan
-17/18,2017-07-02,Benfica,Vitória Setúbal,1000000,loan transfer
-17/18,2017-07-01,Vitória Setúbal,Benfica,1000000,600000
-16/17,2016-07-01,FC Pedras Rubras,Vitória Setúbal,0,free transfer
-14/15,2015-06-30,Oliveirense,FC Pedras Rubras,0,End of loan
-14/15,2015-01-01,FC Pedras Rubras,Oliveirense,0,loan transfer
-14/15,2014-07-01,Mirandela,FC Pedras Rubras,0,free transfer
-13/14,2013-07-01,Padroense,Mirandela,0,free transfer
-12/13,2012-07-01,CD Candal,Padroense,0,free transfer
-10/11,2010-07-01,CD Candal Y19,CD Candal,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+352898,joao,amaral,20/21,2021-06-30,Paços Ferreira,Lech Poznan,700000,End of loan
+352898,joao,amaral,19/20,2020-01-02,Lech Poznan,Paços Ferreira,1500000,loan transfer
+352898,joao,amaral,18/19,2018-07-21,Benfica,Lech Poznan,1500000,350000
+352898,joao,amaral,17/18,2018-06-30,Vitória Setúbal,Benfica,1500000,End of loan
+352898,joao,amaral,17/18,2017-07-02,Benfica,Vitória Setúbal,1000000,loan transfer
+352898,joao,amaral,17/18,2017-07-01,Vitória Setúbal,Benfica,1000000,600000
+352898,joao,amaral,16/17,2016-07-01,FC Pedras Rubras,Vitória Setúbal,0,free transfer
+352898,joao,amaral,14/15,2015-06-30,Oliveirense,FC Pedras Rubras,0,End of loan
+352898,joao,amaral,14/15,2015-01-01,FC Pedras Rubras,Oliveirense,0,loan transfer
+352898,joao,amaral,14/15,2014-07-01,Mirandela,FC Pedras Rubras,0,free transfer
+352898,joao,amaral,13/14,2013-07-01,Padroense,Mirandela,0,free transfer
+352898,joao,amaral,12/13,2012-07-01,CD Candal,Padroense,0,free transfer
+352898,joao,amaral,10/11,2010-07-01,CD Candal Y19,CD Candal,0,0

@@ -1,29 +1,29 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-240756,alan-czerwinski,22/23,Ekstraklasa,12,0,936
-240756,alan-czerwinski,22/23,Liga Konferencji,1,0,17
-240756,alan-czerwinski,22/23,Fortuna Puchar Polski,0,0,0
-240756,alan-czerwinski,22/23,UECL Kwalifikacje,3,1,160
-240756,alan-czerwinski,22/23,Kwalifikacje do Ligi Mistrzów,1,0,7
-240756,alan-czerwinski,22/23,Superpuchar,1,0,90
-240756,alan-czerwinski,21/22,Ekstraklasa,11,1,469
-240756,alan-czerwinski,21/22,eWinner 2 liga,2,0,180
-240756,alan-czerwinski,21/22,Fortuna Puchar Polski,3,1,253
-240756,alan-czerwinski,20/21,Ekstraklasa,25,0,1965
-240756,alan-czerwinski,20/21,Fortuna Puchar Polski,4,0,259
-240756,alan-czerwinski,20/21,Liga Europy,5,0,323
-240756,alan-czerwinski,20/21,Kwalifikacje do Ligi Europy,4,0,297
-240756,alan-czerwinski,20/21,eWinner 2 liga,1,0,90
-240756,alan-czerwinski,19/20,Ekstraklasa,35,1,3123
-240756,alan-czerwinski,19/20,Fortuna Puchar Polski,3,0,270
-240756,alan-czerwinski,18/19,Ekstraklasa,16,0,931
-240756,alan-czerwinski,18/19,3 Liga - Grupa III,4,0,195
-240756,alan-czerwinski,17/18,Ekstraklasa,31,1,2693
-240756,alan-czerwinski,17/18,Fortuna Puchar Polski,2,0,135
-240756,alan-czerwinski,16/17,Nice 1 Liga,30,0,2687
-240756,alan-czerwinski,15/16,1 Liga,32,0,2848
-240756,alan-czerwinski,15/16,Fortuna Puchar Polski,3,0,270
-240756,alan-czerwinski,14/15,1 Liga,24,1,1882
-240756,alan-czerwinski,14/15,Fortuna Puchar Polski,1,0,90
-240756,alan-czerwinski,13/14,1 Liga,27,1,2369
-240756,alan-czerwinski,13/14,Fortuna Puchar Polski,2,0,210
-240756,alan-czerwinski,12/13,1 Liga,24,0,1719
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+240756,alan,czerwinski,22/23,Ekstraklasa,13,0,997
+240756,alan,czerwinski,22/23,Liga Konferencji,2,0,107
+240756,alan,czerwinski,22/23,Fortuna Puchar Polski,0,0,0
+240756,alan,czerwinski,22/23,UECL Kwalifikacje,3,1,160
+240756,alan,czerwinski,22/23,Kwalifikacje do Ligi Mistrzów,1,0,7
+240756,alan,czerwinski,22/23,Superpuchar,1,0,90
+240756,alan,czerwinski,21/22,Ekstraklasa,11,1,469
+240756,alan,czerwinski,21/22,eWinner 2 liga,2,0,180
+240756,alan,czerwinski,21/22,Fortuna Puchar Polski,3,1,253
+240756,alan,czerwinski,20/21,Ekstraklasa,25,0,1965
+240756,alan,czerwinski,20/21,Fortuna Puchar Polski,4,0,259
+240756,alan,czerwinski,20/21,Liga Europy,5,0,323
+240756,alan,czerwinski,20/21,Kwalifikacje do Ligi Europy,4,0,297
+240756,alan,czerwinski,20/21,eWinner 2 liga,1,0,90
+240756,alan,czerwinski,19/20,Ekstraklasa,35,1,3123
+240756,alan,czerwinski,19/20,Fortuna Puchar Polski,3,0,270
+240756,alan,czerwinski,18/19,Ekstraklasa,16,0,931
+240756,alan,czerwinski,18/19,3 Liga - Grupa III,4,0,195
+240756,alan,czerwinski,17/18,Ekstraklasa,31,1,2693
+240756,alan,czerwinski,17/18,Fortuna Puchar Polski,2,0,135
+240756,alan,czerwinski,16/17,Nice 1 Liga,30,0,2687
+240756,alan,czerwinski,15/16,1 Liga,32,0,2848
+240756,alan,czerwinski,15/16,Fortuna Puchar Polski,3,0,270
+240756,alan,czerwinski,14/15,1 Liga,24,1,1882
+240756,alan,czerwinski,14/15,Fortuna Puchar Polski,1,0,90
+240756,alan,czerwinski,13/14,1 Liga,27,1,2369
+240756,alan,czerwinski,13/14,Fortuna Puchar Polski,2,0,210
+240756,alan,czerwinski,12/13,1 Liga,24,0,1719

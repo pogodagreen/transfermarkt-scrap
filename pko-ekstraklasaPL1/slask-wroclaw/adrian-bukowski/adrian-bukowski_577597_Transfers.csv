@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2021-01-01,Lubin II,Slask Wroclaw,0,0
-19/20,2019-07-01,Lubin U19,Lubin II,0,0
-18/19,2019-05-01,Lubin Youth,Lubin U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+577597,adrian,bukowski,20/21,2021-01-01,Lubin II,Slask Wroclaw,0,0
+577597,adrian,bukowski,19/20,2019-07-01,Lubin U19,Lubin II,0,0
+577597,adrian,bukowski,18/19,2019-05-01,Lubin Youth,Lubin U19,0,0

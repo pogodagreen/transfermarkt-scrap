@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-04-01,M. Legnica II,Miedz Legnica,0,0
-21/22,2021-08-10,UKS SMS U19,M. Legnica II,0,0
-19/20,2020-01-01,Chorzów Youth,UKS SMS U19,0,free transfer
-18/19,2018-07-01,Unknown,Chorzów Youth,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+904124,mateusz,letkiewicz,21/22,2022-04-01,M. Legnica II,Miedz Legnica,0,0
+904124,mateusz,letkiewicz,21/22,2021-08-10,UKS SMS U19,M. Legnica II,0,0
+904124,mateusz,letkiewicz,19/20,2020-01-01,Chorzów Youth,UKS SMS U19,0,free transfer
+904124,mateusz,letkiewicz,18/19,2018-07-01,Unknown,Chorzów Youth,0,free transfer

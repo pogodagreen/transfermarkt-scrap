@@ -1,5 +1,5 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-849472,filip-zawadzki,22/23,Ekstraklasa,0,0,0
-849472,filip-zawadzki,22/23,Fortuna Puchar Polski,0,0,0
-849472,filip-zawadzki,21/22,1 Liga,2,0,1
-849472,filip-zawadzki,21/22,Fortuna Puchar Polski,1,0,2
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+849472,filip,zawadzki,22/23,Ekstraklasa,0,0,0
+849472,filip,zawadzki,22/23,Fortuna Puchar Polski,0,0,0
+849472,filip,zawadzki,21/22,1 Liga,2,0,1
+849472,filip,zawadzki,21/22,Fortuna Puchar Polski,1,0,2

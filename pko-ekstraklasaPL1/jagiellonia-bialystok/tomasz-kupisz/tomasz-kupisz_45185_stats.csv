@@ -1,38 +1,38 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-45185,tomasz-kupisz,22/23,Ekstraklasa,5,1,336
-45185,tomasz-kupisz,21/22,Serie B,16,0,923
-45185,tomasz-kupisz,21/22,Serie B,9,0,435
-45185,tomasz-kupisz,21/22,Puchar Włoch,1,0,61
-45185,tomasz-kupisz,20/21,Serie B,31,3,1943
-45185,tomasz-kupisz,20/21,Puchar Włoch,2,0,134
-45185,tomasz-kupisz,19/20,Serie B,18,1,1508
-45185,tomasz-kupisz,19/20,Serie C-C,11,0,485
-45185,tomasz-kupisz,19/20,Coppa Serie C,2,1,178
-45185,tomasz-kupisz,18/19,Serie B,9,0,492
-45185,tomasz-kupisz,18/19,Serie B,9,0,427
-45185,tomasz-kupisz,18/19,Puchar Włoch,1,0,90
-45185,tomasz-kupisz,17/18,Serie B,31,4,2219
-45185,tomasz-kupisz,17/18,Puchar Włoch,2,0,210
-45185,tomasz-kupisz,16/17,Serie B,27,1,1273
-45185,tomasz-kupisz,16/17,Puchar Włoch,1,0,90
-45185,tomasz-kupisz,15/16,Serie B,40,6,3436
-45185,tomasz-kupisz,15/16,Puchar Włoch,2,0,210
-45185,tomasz-kupisz,14/15,Serie B,19,4,1540
-45185,tomasz-kupisz,14/15,Serie A,0,0,0
-45185,tomasz-kupisz,13/14,Serie A,1,0,28
-45185,tomasz-kupisz,13/14,Puchar Włoch,0,0,0
-45185,tomasz-kupisz,13/14,Ekstraklasa,6,0,525
-45185,tomasz-kupisz,13/14,Fortuna Puchar Polski,1,0,90
-45185,tomasz-kupisz,12/13,Ekstraklasa,30,1,2530
-45185,tomasz-kupisz,12/13,Fortuna Puchar Polski,4,3,345
-45185,tomasz-kupisz,11/12,Ekstraklasa,29,5,2563
-45185,tomasz-kupisz,11/12,Fortuna Puchar Polski,1,1,44
-45185,tomasz-kupisz,11/12,Kwalifikacje do Ligi Europy,2,0,180
-45185,tomasz-kupisz,10/11,Ekstraklasa,30,5,2545
-45185,tomasz-kupisz,10/11,Fortuna Puchar Polski,4,0,260
-45185,tomasz-kupisz,10/11,Kwalifikacje do Ligi Europy,2,0,180
-45185,tomasz-kupisz,10/11,Superpuchar,1,0,75
-45185,tomasz-kupisz,09/10,Reserve League North,15,6,1315
-45185,tomasz-kupisz,08/09,Premier League,0,0,0
-45185,tomasz-kupisz,08/09,EFL Cup,1,1,27
-45185,tomasz-kupisz,06/07,League One,3,0,6
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+45185,tomasz,kupisz,22/23,Ekstraklasa,6,1,426
+45185,tomasz,kupisz,21/22,Serie B,16,0,923
+45185,tomasz,kupisz,21/22,Serie B,9,0,435
+45185,tomasz,kupisz,21/22,Puchar Włoch,1,0,61
+45185,tomasz,kupisz,20/21,Serie B,31,3,1943
+45185,tomasz,kupisz,20/21,Puchar Włoch,2,0,134
+45185,tomasz,kupisz,19/20,Serie B,18,1,1508
+45185,tomasz,kupisz,19/20,Serie C-C,11,0,485
+45185,tomasz,kupisz,19/20,Coppa Serie C,2,1,178
+45185,tomasz,kupisz,18/19,Serie B,9,0,492
+45185,tomasz,kupisz,18/19,Serie B,9,0,427
+45185,tomasz,kupisz,18/19,Puchar Włoch,1,0,90
+45185,tomasz,kupisz,17/18,Serie B,31,4,2219
+45185,tomasz,kupisz,17/18,Puchar Włoch,2,0,210
+45185,tomasz,kupisz,16/17,Serie B,27,1,1273
+45185,tomasz,kupisz,16/17,Puchar Włoch,1,0,90
+45185,tomasz,kupisz,15/16,Serie B,40,6,3436
+45185,tomasz,kupisz,15/16,Puchar Włoch,2,0,210
+45185,tomasz,kupisz,14/15,Serie B,19,4,1540
+45185,tomasz,kupisz,14/15,Serie A,0,0,0
+45185,tomasz,kupisz,13/14,Serie A,1,0,28
+45185,tomasz,kupisz,13/14,Puchar Włoch,0,0,0
+45185,tomasz,kupisz,13/14,Ekstraklasa,6,0,525
+45185,tomasz,kupisz,13/14,Fortuna Puchar Polski,1,0,90
+45185,tomasz,kupisz,12/13,Ekstraklasa,30,1,2530
+45185,tomasz,kupisz,12/13,Fortuna Puchar Polski,4,3,345
+45185,tomasz,kupisz,11/12,Ekstraklasa,29,5,2563
+45185,tomasz,kupisz,11/12,Fortuna Puchar Polski,1,1,44
+45185,tomasz,kupisz,11/12,Kwalifikacje do Ligi Europy,2,0,180
+45185,tomasz,kupisz,10/11,Ekstraklasa,30,5,2545
+45185,tomasz,kupisz,10/11,Fortuna Puchar Polski,4,0,260
+45185,tomasz,kupisz,10/11,Kwalifikacje do Ligi Europy,2,0,180
+45185,tomasz,kupisz,10/11,Superpuchar,1,0,75
+45185,tomasz,kupisz,09/10,Reserve League North,15,6,1315
+45185,tomasz,kupisz,08/09,Premier League,0,0,0
+45185,tomasz,kupisz,08/09,EFL Cup,1,1,27
+45185,tomasz,kupisz,06/07,League One,3,0,6

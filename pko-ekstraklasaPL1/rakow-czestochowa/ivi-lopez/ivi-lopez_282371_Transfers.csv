@@ -1,13 +1,13 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2020-09-01,Levante,Rakow,650000,free transfer
-19/20,2020-07-21,Ponferradina,Levante,650000,End of loan
-19/20,2020-01-16,Levante,Ponferradina,800000,loan transfer
-19/20,2020-01-15,SD Huesca,Levante,800000,End of loan
-19/20,2019-08-13,Levante,SD Huesca,1000000,loan transfer
-18/19,2019-06-30,Sporting Gijón,Levante,1000000,End of loan
-18/19,2019-01-31,Levante,Sporting Gijón,1500000,loan transfer
-18/19,2019-01-30,Real Valladolid,Levante,1500000,End of loan
-18/19,2018-07-27,Levante,Real Valladolid,2000000,loan transfer
-17/18,2017-08-07,Sevilla Atl.,Levante,1500000,1200000
-15/16,2015-07-01,Getafe CF B,Sevilla Atl.,0,free transfer
-13/14,2013-07-01,Getafe U19,Getafe CF B,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+282371,ivi,lopez,20/21,2020-09-01,Levante,Rakow,650000,free transfer
+282371,ivi,lopez,19/20,2020-07-21,Ponferradina,Levante,650000,End of loan
+282371,ivi,lopez,19/20,2020-01-16,Levante,Ponferradina,800000,loan transfer
+282371,ivi,lopez,19/20,2020-01-15,SD Huesca,Levante,800000,End of loan
+282371,ivi,lopez,19/20,2019-08-13,Levante,SD Huesca,1000000,loan transfer
+282371,ivi,lopez,18/19,2019-06-30,Sporting Gijón,Levante,1000000,End of loan
+282371,ivi,lopez,18/19,2019-01-31,Levante,Sporting Gijón,1500000,loan transfer
+282371,ivi,lopez,18/19,2019-01-30,Real Valladolid,Levante,1500000,End of loan
+282371,ivi,lopez,18/19,2018-07-27,Levante,Real Valladolid,2000000,loan transfer
+282371,ivi,lopez,17/18,2017-08-07,Sevilla Atl.,Levante,1500000,1200000
+282371,ivi,lopez,15/16,2015-07-01,Getafe CF B,Sevilla Atl.,0,free transfer
+282371,ivi,lopez,13/14,2013-07-01,Getafe U19,Getafe CF B,0,0

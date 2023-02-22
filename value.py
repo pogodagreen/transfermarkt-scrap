@@ -7,6 +7,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import os
 
+
 def get_local_safe_setup():
   options = FirefoxOptions() 
   options.add_argument("--disable-blink-features")
@@ -19,6 +20,11 @@ def get_local_safe_setup():
 
 def playerValue(link,file):
     playerName=link.split("/")[3]
+    playerFirstName=playerName.split("-")[0]
+    try:
+      playerLastName=playerName.split("-")[1]
+    except:
+      playerLastName="-"
     playerId=link.split("/")[6]
     link=link.replace("profil", "marktwertverlauf")
 
@@ -36,7 +42,7 @@ def playerValue(link,file):
 
       for i in range(len(date)):
         date[i]=date[i][:10]
-      df = pd.DataFrame({'id':playerId, 'name': playerName,'dates': date, 'marketValue': value})
+      df = pd.DataFrame({'id':playerId, 'firstName': playerFirstName,'lastName':playerLastName,'dates': date, 'marketValue': value})
 
       fileName=playerName+"_"+playerId+"_Value.csv"
       df.to_csv(fileName, index=False)
@@ -47,3 +53,4 @@ def playerValue(link,file):
       driver.quit()
       string=os.getcwd()+","+link+"\n"
       file.write(string)
+

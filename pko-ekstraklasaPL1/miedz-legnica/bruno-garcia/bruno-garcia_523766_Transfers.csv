@@ -1,8 +1,8 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Resovia,Miedz Legnica,100000,End of loan
-22/23,2022-07-29,Miedz Legnica,Resovia,200000,loan transfer
-20/21,2020-10-30,C. Inowroclaw,Miedz Legnica,0,free transfer
-20/21,2020-09-15,CE União,C. Inowroclaw,0,free transfer
-19/20,2020-01-21,C'Chartres,CE União,0,free transfer
-18/19,2018-07-01,US Boulogne,C'Chartres,0,free transfer
-17/18,2017-07-01,Palmeiras U20,US Boulogne,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+523766,bruno,garcia,22/23,2023-06-30,Resovia,Miedz Legnica,100000,End of loan
+523766,bruno,garcia,22/23,2022-07-29,Miedz Legnica,Resovia,200000,loan transfer
+523766,bruno,garcia,20/21,2020-10-30,C. Inowroclaw,Miedz Legnica,0,free transfer
+523766,bruno,garcia,20/21,2020-09-15,CE União,C. Inowroclaw,0,free transfer
+523766,bruno,garcia,19/20,2020-01-21,C'Chartres,CE União,0,free transfer
+523766,bruno,garcia,18/19,2018-07-01,US Boulogne,C'Chartres,0,free transfer
+523766,bruno,garcia,17/18,2017-07-01,Palmeiras U20,US Boulogne,0,free transfer

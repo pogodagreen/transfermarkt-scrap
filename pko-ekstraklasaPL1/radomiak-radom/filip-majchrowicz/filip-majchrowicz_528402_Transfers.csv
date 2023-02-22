@@ -1,8 +1,8 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-05-31,Pafos FC,Radomiak,800000,End of loan
-22/23,2022-08-30,Radomiak,Pafos FC,1300000,Loan
-20/21,2021-03-31,Cracovia II,Radomiak,50000,free transfer
-19/20,2020-06-30,Resovia,Cracovia,50000,End of loan
-19/20,2019-07-18,Cracovia,Resovia,50000,loan transfer
-17/18,2018-02-09,MKS Polonia U19,Cracovia,0,0
-16/17,2016-07-01,Stomil U19,MKS Polonia U19,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+528402,filip,majchrowicz,22/23,2023-05-31,Pafos FC,Radomiak,800000,End of loan
+528402,filip,majchrowicz,22/23,2022-08-30,Radomiak,Pafos FC,1300000,Loan
+528402,filip,majchrowicz,20/21,2021-03-31,Cracovia II,Radomiak,50000,free transfer
+528402,filip,majchrowicz,19/20,2020-06-30,Resovia,Cracovia,50000,End of loan
+528402,filip,majchrowicz,19/20,2019-07-18,Cracovia,Resovia,50000,loan transfer
+528402,filip,majchrowicz,17/18,2018-02-09,MKS Polonia U19,Cracovia,0,0
+528402,filip,majchrowicz,16/17,2016-07-01,Stomil U19,MKS Polonia U19,0,free transfer

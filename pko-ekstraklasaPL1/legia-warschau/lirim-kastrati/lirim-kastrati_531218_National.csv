@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-531218,lirim-kastrati,1999,Kosovo,"1,74",Right Winger,0,0,0,0,5,0,7,17
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+531218,lirim,kastrati,1999,Kosovo,"1,74",Right Winger,0,0,0,0,5,0,7,17

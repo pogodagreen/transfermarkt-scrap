@@ -1,11 +1,12 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-652996,said-hamulic,22/23,Ligue 1,0,0,0
-652996,said-hamulic,22/23,Coupe de France,1,0,17
-652996,said-hamulic,22/23,Ekstraklasa,17,9,1269
-652996,said-hamulic,22/23,Fortuna Puchar Polski,2,0,114
-652996,said-hamulic,2022,A Lyga,13,6,920
-652996,said-hamulic,2022,Puchar Litwy,1,1,61
-652996,said-hamulic,21/22,Vtora Liga,1,0,45
-652996,said-hamulic,2021,A Lyga,36,16,2925
-652996,said-hamulic,18/19,U19 Eerste Divisie,9,7,526
-652996,said-hamulic,18/19,Beloften Eerste Divisie,6,2,193
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+652996,said,hamulic,22/23,Ligue 1,1,0,9
+652996,said,hamulic,22/23,Coupe de France,1,0,17
+652996,said,hamulic,22/23,N3 - Occitanie,1,2,59
+652996,said,hamulic,22/23,Ekstraklasa,17,9,1269
+652996,said,hamulic,22/23,Fortuna Puchar Polski,2,0,114
+652996,said,hamulic,2022,A Lyga,13,6,920
+652996,said,hamulic,2022,Puchar Litwy,1,1,61
+652996,said,hamulic,21/22,Vtora Liga,1,0,45
+652996,said,hamulic,2021,A Lyga,36,16,2925
+652996,said,hamulic,18/19,U19 Eerste Divisie,9,7,526
+652996,said,hamulic,18/19,Beloften Eerste Divisie,6,2,193

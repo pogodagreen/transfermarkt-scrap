@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-67655,daniel-lukasik,1991,Poland,"1,80",Defensive Midfield,0,0,0,0,0,0,2,5
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+67655,daniel,lukasik,1991,Poland,"1,80",Defensive Midfield,0,0,0,0,0,0,2,5

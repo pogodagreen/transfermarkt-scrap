@@ -1,24 +1,24 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-325896,henrich-ravas,22/23,Ekstraklasa,20,0,10
-325896,henrich-ravas,22/23,Fortuna Puchar Polski,1,0,0
-325896,henrich-ravas,21/22,1 Liga,10,0,4
-325896,henrich-ravas,21/22,Fort. Liga - Releg. G.,2,0,0
-325896,henrich-ravas,21/22,Slovnaft Cup,0,0,0
-325896,henrich-ravas,21/22,Fortuna Liga,22,0,6
-325896,henrich-ravas,20/21,National League Playoffs,0,0,0
-325896,henrich-ravas,20/21,National League,10,0,2
-325896,henrich-ravas,20/21,FA Cup,1,0,0
-325896,henrich-ravas,20/21,Premier League 2,1,0,0
-325896,henrich-ravas,20/21,EFL Cup,0,0,0
-325896,henrich-ravas,19/20,Premier League 2,10,0,0
-325896,henrich-ravas,19/20,Championship,0,0,0
-325896,henrich-ravas,19/20,FA Cup,0,0,0
-325896,henrich-ravas,18/19,Premier League 2,8,0,2
-325896,henrich-ravas,18/19,Championship,0,0,0
-325896,henrich-ravas,18/19,FA Cup,0,0,0
-325896,henrich-ravas,17/18,Premier League 2,0,0,0
-325896,henrich-ravas,17/18,FA Cup,1,0,0
-325896,henrich-ravas,16/17,Premier League 2,7,0,0
-325896,henrich-ravas,16/17,EFL Trophy,2,0,0
-325896,henrich-ravas,15/16,U21 PL,3,0,2
-325896,henrich-ravas,13/14,Fortuna Liga,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+325896,henrich,ravas,22/23,Ekstraklasa,21,0,11
+325896,henrich,ravas,22/23,Fortuna Puchar Polski,1,0,0
+325896,henrich,ravas,21/22,1 Liga,10,0,4
+325896,henrich,ravas,21/22,Fort. Liga - Releg. G.,2,0,0
+325896,henrich,ravas,21/22,Slovnaft Cup,0,0,0
+325896,henrich,ravas,21/22,Fortuna Liga,22,0,6
+325896,henrich,ravas,20/21,National League Playoffs,0,0,0
+325896,henrich,ravas,20/21,National League,10,0,2
+325896,henrich,ravas,20/21,FA Cup,1,0,0
+325896,henrich,ravas,20/21,Premier League 2,1,0,0
+325896,henrich,ravas,20/21,EFL Cup,0,0,0
+325896,henrich,ravas,19/20,Premier League 2,10,0,0
+325896,henrich,ravas,19/20,Championship,0,0,0
+325896,henrich,ravas,19/20,FA Cup,0,0,0
+325896,henrich,ravas,18/19,Premier League 2,8,0,2
+325896,henrich,ravas,18/19,Championship,0,0,0
+325896,henrich,ravas,18/19,FA Cup,0,0,0
+325896,henrich,ravas,17/18,Premier League 2,0,0,0
+325896,henrich,ravas,17/18,FA Cup,1,0,0
+325896,henrich,ravas,16/17,Premier League 2,7,0,0
+325896,henrich,ravas,16/17,EFL Trophy,2,0,0
+325896,henrich,ravas,15/16,U21 PL,3,0,2
+325896,henrich,ravas,13/14,Fortuna Liga,0,0,0

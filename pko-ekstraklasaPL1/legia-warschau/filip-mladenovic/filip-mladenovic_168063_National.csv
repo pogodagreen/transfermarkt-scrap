@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-168063,filip-mladenovic,1991,Serbia,"1,80",Left Midfield,0,0,0,0,0,0,8,21
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+168063,filip,mladenovic,1991,Serbia,"1,80",Left Midfield,0,0,0,0,0,0,8,21

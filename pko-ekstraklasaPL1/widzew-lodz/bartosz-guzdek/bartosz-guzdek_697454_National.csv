@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-697454,bartosz-guzdek,2002,Poland,"1,90",Centre-Forward,0,0,0,0,0,2,0,0
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+697454,bartosz,guzdek,2002,Poland,"1,90",Centre-Forward,0,0,0,0,0,2,0,0

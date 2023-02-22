@@ -1,6 +1,6 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-03,Ankaragücü,Jagiellonia,350000,free transfer
-18/19,2019-01-29,Legia Warszawa,Ankaragücü,1000000,free transfer
-15/16,2015-07-01,Jagiellonia,Legia Warszawa,800000,700000
-12/13,2012-07-01,Górnik Zabrze,Jagiellonia,500000,free transfer
-07/08,2007-07-01,Hutnik Krakow,Górnik Zabrze,0,20000
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+54512,michal,pazdan,21/22,2021-07-03,Ankaragücü,Jagiellonia,350000,free transfer
+54512,michal,pazdan,18/19,2019-01-29,Legia Warszawa,Ankaragücü,1000000,free transfer
+54512,michal,pazdan,15/16,2015-07-01,Jagiellonia,Legia Warszawa,800000,700000
+54512,michal,pazdan,12/13,2012-07-01,Górnik Zabrze,Jagiellonia,500000,free transfer
+54512,michal,pazdan,07/08,2007-07-01,Hutnik Krakow,Górnik Zabrze,0,20000

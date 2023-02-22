@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-189740,angelo-henriquez,1994,Chile,"1,75",Centre-Forward,0,0,0,0,0,5,0,13
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+189740,angelo,henriquez,1994,Chile,"1,75",Centre-Forward,0,0,0,0,0,5,0,13

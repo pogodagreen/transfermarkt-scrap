@@ -1,12 +1,12 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-727119,szymon-weirauch,22/23,CLJ,7,0,1
-727119,szymon-weirauch,22/23,eWinner 2 liga,7,0,3
-727119,szymon-weirauch,22/23,Liga Młodzieżowa UEFA,2,0,1
-727119,szymon-weirauch,22/23,Ekstraklasa,0,0,0
-727119,szymon-weirauch,21/22,3 Liga - Grupa III,16,0,4
-727119,szymon-weirauch,21/22,CLJ,2,0,0
-727119,szymon-weirauch,21/22,Ekstraklasa,0,0,0
-727119,szymon-weirauch,21/22,Fortuna Puchar Polski,0,0,0
-727119,szymon-weirauch,20/21,CLJ,20,0,7
-727119,szymon-weirauch,20/21,3 Liga - Grupa III,4,0,2
-727119,szymon-weirauch,19/20,CLJ,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+727119,szymon,weirauch,22/23,CLJ,7,0,1
+727119,szymon,weirauch,22/23,eWinner 2 liga,7,0,3
+727119,szymon,weirauch,22/23,Liga Młodzieżowa UEFA,2,0,1
+727119,szymon,weirauch,22/23,Ekstraklasa,0,0,0
+727119,szymon,weirauch,21/22,3 Liga - Grupa III,16,0,4
+727119,szymon,weirauch,21/22,CLJ,2,0,0
+727119,szymon,weirauch,21/22,Ekstraklasa,0,0,0
+727119,szymon,weirauch,21/22,Fortuna Puchar Polski,0,0,0
+727119,szymon,weirauch,20/21,CLJ,20,0,7
+727119,szymon,weirauch,20/21,3 Liga - Grupa III,4,0,2
+727119,szymon,weirauch,19/20,CLJ,0,0,0

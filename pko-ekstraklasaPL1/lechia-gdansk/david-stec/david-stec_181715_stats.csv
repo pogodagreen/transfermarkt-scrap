@@ -1,29 +1,29 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-181715,david-stec,22/23,Ekstraklasa,17,0,1181
-181715,david-stec,22/23,Fortuna Puchar Polski,2,0,167
-181715,david-stec,22/23,UECL Kwalifikacje,4,0,346
-181715,david-stec,21/22,Ekstraklasa,5,0,432
-181715,david-stec,21/22,Bundesliga,15,0,1156
-181715,david-stec,21/22,ÖFB-Cup,2,0,72
-181715,david-stec,20/21,Ekstraklasa,10,0,787
-181715,david-stec,20/21,3 Liga - Grupa II,2,0,180
-181715,david-stec,20/21,Fortuna Puchar Polski,2,0,210
-181715,david-stec,19/20,Ekstraklasa,23,1,1606
-181715,david-stec,19/20,Fortuna Puchar Polski,1,0,90
-181715,david-stec,18/19,Ekstraklasa,26,0,1874
-181715,david-stec,18/19,3 Liga - Grupa II,2,0,180
-181715,david-stec,17/18,Relegation Bundesliga (- 2021),2,0,180
-181715,david-stec,17/18,Bundesliga,27,1,2380
-181715,david-stec,17/18,ÖFB-Cup,1,0,90
-181715,david-stec,16/17,Bundesliga,34,0,2888
-181715,david-stec,16/17,ÖFB-Cup,4,0,329
-181715,david-stec,15/16,Erste Liga,34,5,2938
-181715,david-stec,15/16,ÖFB-Cup,4,1,267
-181715,david-stec,14/15,Erste Liga,26,2,1998
-181715,david-stec,14/15,Regionalliga Ost,1,0,61
-181715,david-stec,14/15,ÖFB-Cup,3,0,103
-181715,david-stec,14/15,Kwalifikacje do Ligi Europy,4,0,274
-181715,david-stec,13/14,Erste Liga,2,0,180
-181715,david-stec,12/13,LL Niederösterreich,2,0,101
-181715,david-stec,11/12,ÖFB Jugendliga U18,22,3,1838
-181715,david-stec,10/11,ÖFB Jugendliga U18,10,0,619
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+181715,david,stec,22/23,Ekstraklasa,17,0,1181
+181715,david,stec,22/23,Fortuna Puchar Polski,2,0,167
+181715,david,stec,22/23,UECL Kwalifikacje,4,0,346
+181715,david,stec,21/22,Ekstraklasa,5,0,432
+181715,david,stec,21/22,Bundesliga,15,0,1156
+181715,david,stec,21/22,ÖFB-Cup,2,0,72
+181715,david,stec,20/21,Ekstraklasa,10,0,787
+181715,david,stec,20/21,3 Liga - Grupa II,2,0,180
+181715,david,stec,20/21,Fortuna Puchar Polski,2,0,210
+181715,david,stec,19/20,Ekstraklasa,23,1,1606
+181715,david,stec,19/20,Fortuna Puchar Polski,1,0,90
+181715,david,stec,18/19,Ekstraklasa,26,0,1874
+181715,david,stec,18/19,3 Liga - Grupa II,2,0,180
+181715,david,stec,17/18,Relegation Bundesliga (- 2021),2,0,180
+181715,david,stec,17/18,Bundesliga,27,1,2380
+181715,david,stec,17/18,ÖFB-Cup,1,0,90
+181715,david,stec,16/17,Bundesliga,34,0,2888
+181715,david,stec,16/17,ÖFB-Cup,4,0,329
+181715,david,stec,15/16,Erste Liga,34,5,2938
+181715,david,stec,15/16,ÖFB-Cup,4,1,267
+181715,david,stec,14/15,Erste Liga,26,2,1998
+181715,david,stec,14/15,Regionalliga Ost,1,0,61
+181715,david,stec,14/15,ÖFB-Cup,3,0,103
+181715,david,stec,14/15,Kwalifikacje do Ligi Europy,4,0,274
+181715,david,stec,13/14,Erste Liga,2,0,180
+181715,david,stec,12/13,LL Niederösterreich,2,0,101
+181715,david,stec,11/12,ÖFB Jugendliga U18,22,3,1838
+181715,david,stec,10/11,ÖFB Jugendliga U18,10,0,619

@@ -1,21 +1,21 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-294191,piotr-krawczyk,22/23,Ekstraklasa,16,2,744
-294191,piotr-krawczyk,22/23,Fortuna Puchar Polski,2,1,173
-294191,piotr-krawczyk,21/22,Ekstraklasa,30,5,1793
-294191,piotr-krawczyk,21/22,Fortuna Puchar Polski,4,0,222
-294191,piotr-krawczyk,20/21,Ekstraklasa,26,4,1100
-294191,piotr-krawczyk,20/21,Fortuna Puchar Polski,3,0,66
-294191,piotr-krawczyk,19/20,Ekstraklasa,12,1,358
-294191,piotr-krawczyk,19/20,3 Liga - Grupa III,5,6,371
-294191,piotr-krawczyk,19/20,Fortuna Puchar Polski,1,1,90
-294191,piotr-krawczyk,18/19,3 Liga - Grupa I,34,26,2678
-294191,piotr-krawczyk,18/19,Fortuna Puchar Polski,3,4,270
-294191,piotr-krawczyk,17/18,3 Liga - Grupa IV,15,1,1108
-294191,piotr-krawczyk,17/18,Nice 1 Liga,6,0,135
-294191,piotr-krawczyk,17/18,Fortuna Puchar Polski,0,0,0
-294191,piotr-krawczyk,16/17,Nice 1 Liga,10,0,349
-294191,piotr-krawczyk,16/17,Fortuna Puchar Polski,1,0,70
-294191,piotr-krawczyk,15/16,1 Liga,13,0,224
-294191,piotr-krawczyk,15/16,Fortuna Puchar Polski,2,0,130
-294191,piotr-krawczyk,14/15,1 Liga,20,0,1243
-294191,piotr-krawczyk,13/14,2 Liga - Grupa wschodnia,4,0,70
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+294191,piotr,krawczyk,22/23,Ekstraklasa,16,2,744
+294191,piotr,krawczyk,22/23,Fortuna Puchar Polski,2,1,173
+294191,piotr,krawczyk,21/22,Ekstraklasa,30,5,1793
+294191,piotr,krawczyk,21/22,Fortuna Puchar Polski,4,0,222
+294191,piotr,krawczyk,20/21,Ekstraklasa,26,4,1100
+294191,piotr,krawczyk,20/21,Fortuna Puchar Polski,3,0,66
+294191,piotr,krawczyk,19/20,Ekstraklasa,12,1,358
+294191,piotr,krawczyk,19/20,3 Liga - Grupa III,5,6,371
+294191,piotr,krawczyk,19/20,Fortuna Puchar Polski,1,1,90
+294191,piotr,krawczyk,18/19,3 Liga - Grupa I,34,26,2678
+294191,piotr,krawczyk,18/19,Fortuna Puchar Polski,3,4,270
+294191,piotr,krawczyk,17/18,3 Liga - Grupa IV,15,1,1108
+294191,piotr,krawczyk,17/18,Nice 1 Liga,6,0,135
+294191,piotr,krawczyk,17/18,Fortuna Puchar Polski,0,0,0
+294191,piotr,krawczyk,16/17,Nice 1 Liga,10,0,349
+294191,piotr,krawczyk,16/17,Fortuna Puchar Polski,1,0,70
+294191,piotr,krawczyk,15/16,1 Liga,13,0,224
+294191,piotr,krawczyk,15/16,Fortuna Puchar Polski,2,0,130
+294191,piotr,krawczyk,14/15,1 Liga,20,0,1243
+294191,piotr,krawczyk,13/14,2 Liga - Grupa wschodnia,4,0,70

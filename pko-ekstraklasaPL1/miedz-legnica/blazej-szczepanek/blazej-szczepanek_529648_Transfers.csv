@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-10-28,M. Legnica II,Miedz Legnica,0,0
-22/23,2022-09-02,Stal Rzeszow,M. Legnica II,150000,free transfer
-21/22,2022-06-30,Sandecja,Stal Rzeszow,150000,End of loan
-21/22,2021-07-26,Stal Rzeszow,Sandecja,0,loan transfer
-19/20,2019-07-25,Odra Wodzislaw,Stal Rzeszow,0,5000
-18/19,2018-07-31,Progres U19,Odra Wodzislaw,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+529648,blazej,szczepanek,22/23,2022-10-28,M. Legnica II,Miedz Legnica,0,0
+529648,blazej,szczepanek,22/23,2022-09-02,Stal Rzeszow,M. Legnica II,150000,free transfer
+529648,blazej,szczepanek,21/22,2022-06-30,Sandecja,Stal Rzeszow,150000,End of loan
+529648,blazej,szczepanek,21/22,2021-07-26,Stal Rzeszow,Sandecja,0,loan transfer
+529648,blazej,szczepanek,19/20,2019-07-25,Odra Wodzislaw,Stal Rzeszow,0,5000
+529648,blazej,szczepanek,18/19,2018-07-31,Progres U19,Odra Wodzislaw,0,free transfer

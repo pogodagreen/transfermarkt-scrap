@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-08-27,Wisla Kraków,Miedz Legnica,350000,free transfer
-19/20,2019-07-31,Villarreal CF B,Wisla Kraków,300000,free transfer
-18/19,2019-01-23,Elche CF,Villarreal CF B,500000,End of loan
-18/19,2018-07-23,Villarreal CF B,Elche CF,500000,loan transfer
-17/18,2017-07-01,FC Villarreal C,Villarreal CF B,150000,0
-16/17,2016-07-01,Villarreal U19,FC Villarreal C,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+399779,chuca,-,21/22,2021-08-27,Wisla Kraków,Miedz Legnica,350000,free transfer
+399779,chuca,-,19/20,2019-07-31,Villarreal CF B,Wisla Kraków,300000,free transfer
+399779,chuca,-,18/19,2019-01-23,Elche CF,Villarreal CF B,500000,End of loan
+399779,chuca,-,18/19,2018-07-23,Villarreal CF B,Elche CF,500000,loan transfer
+399779,chuca,-,17/18,2017-07-01,FC Villarreal C,Villarreal CF B,150000,0
+399779,chuca,-,16/17,2016-07-01,Villarreal U19,FC Villarreal C,0,0

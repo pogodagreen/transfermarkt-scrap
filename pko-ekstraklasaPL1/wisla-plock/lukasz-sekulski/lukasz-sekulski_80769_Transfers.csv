@@ -1,13 +1,13 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-26,LKS Lodz,Wisla Plock,200000,free transfer
-18/19,2019-01-12,SKA Khabarovsk,LKS Lodz,250000,free transfer
-17/18,2018-01-01,Jagiellonia,SKA Khabarovsk,200000,100000
-16/17,2017-06-30,Piast Gliwice,Jagiellonia,250000,End of loan
-16/17,2017-01-01,Jagiellonia,Piast Gliwice,150000,loan transfer
-16/17,2016-12-31,Korona Kielce,Jagiellonia,150000,End of loan
-15/16,2016-01-01,Jagiellonia,Korona Kielce,200000,loan transfer
-15/16,2015-07-01,Stalowa Wola,Jagiellonia,200000,8000
-14/15,2014-07-01,Wisla Plock,Stalowa Wola,150000,free transfer
-09/10,2009-12-31,Rakow,Wisla Plock,0,End of loan
-09/10,2009-07-01,Wisla Plock,Rakow,0,loan transfer
-07/08,2008-01-01,Wisla Plock U19,Wisla Plock,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+80769,lukasz,sekulski,21/22,2021-07-26,LKS Lodz,Wisla Plock,200000,free transfer
+80769,lukasz,sekulski,18/19,2019-01-12,SKA Khabarovsk,LKS Lodz,250000,free transfer
+80769,lukasz,sekulski,17/18,2018-01-01,Jagiellonia,SKA Khabarovsk,200000,100000
+80769,lukasz,sekulski,16/17,2017-06-30,Piast Gliwice,Jagiellonia,250000,End of loan
+80769,lukasz,sekulski,16/17,2017-01-01,Jagiellonia,Piast Gliwice,150000,loan transfer
+80769,lukasz,sekulski,16/17,2016-12-31,Korona Kielce,Jagiellonia,150000,End of loan
+80769,lukasz,sekulski,15/16,2016-01-01,Jagiellonia,Korona Kielce,200000,loan transfer
+80769,lukasz,sekulski,15/16,2015-07-01,Stalowa Wola,Jagiellonia,200000,8000
+80769,lukasz,sekulski,14/15,2014-07-01,Wisla Plock,Stalowa Wola,150000,free transfer
+80769,lukasz,sekulski,09/10,2009-12-31,Rakow,Wisla Plock,0,End of loan
+80769,lukasz,sekulski,09/10,2009-07-01,Wisla Plock,Rakow,0,loan transfer
+80769,lukasz,sekulski,07/08,2008-01-01,Wisla Plock U19,Wisla Plock,0,0

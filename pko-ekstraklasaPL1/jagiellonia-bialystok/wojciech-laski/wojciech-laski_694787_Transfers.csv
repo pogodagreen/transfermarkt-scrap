@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-01,GKS Jastrzebie,Jagiellonia,125000,0
-21/22,2021-12-31,Pniowek P.S.,GKS Jastrzebie,0,End of loan
-20/21,2021-01-29,GKS Jastrzebie,Pniowek P.S.,25000,loan transfer
-19/20,2019-12-31,Pniowek P.S.,GKS Jastrzebie,0,End of loan
-19/20,2019-07-01,GKS Jastrzebie,Pniowek P.S.,0,loan transfer
-18/19,2019-06-30,Płomień P.,GKS Jastrzebie,0,End of loan
-18/19,2018-07-01,GKS Jastrzebie,Płomień P.,0,loan transfer
-17/18,2017-07-01,MOSiR Jastrzebie Zdroj U19,GKS Jastrzebie,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+694787,wojciech,laski,22/23,2022-07-01,GKS Jastrzebie,Jagiellonia,125000,0
+694787,wojciech,laski,21/22,2021-12-31,Pniowek P.S.,GKS Jastrzebie,0,End of loan
+694787,wojciech,laski,20/21,2021-01-29,GKS Jastrzebie,Pniowek P.S.,25000,loan transfer
+694787,wojciech,laski,19/20,2019-12-31,Pniowek P.S.,GKS Jastrzebie,0,End of loan
+694787,wojciech,laski,19/20,2019-07-01,GKS Jastrzebie,Pniowek P.S.,0,loan transfer
+694787,wojciech,laski,18/19,2019-06-30,Płomień P.,GKS Jastrzebie,0,End of loan
+694787,wojciech,laski,18/19,2018-07-01,GKS Jastrzebie,Płomień P.,0,loan transfer
+694787,wojciech,laski,17/18,2017-07-01,MOSiR Jastrzebie Zdroj U19,GKS Jastrzebie,0,0

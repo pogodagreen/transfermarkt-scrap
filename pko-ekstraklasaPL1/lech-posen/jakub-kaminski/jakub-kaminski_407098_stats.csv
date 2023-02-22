@@ -1,16 +1,16 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-407098,jakub-kaminski,22/23,Bundesliga,18,1,1145
-407098,jakub-kaminski,22/23,DFB-Pokal,2,1,115
-407098,jakub-kaminski,21/22,Ekstraklasa,33,9,2658
-407098,jakub-kaminski,21/22,Fortuna Puchar Polski,3,0,169
-407098,jakub-kaminski,20/21,Ekstraklasa,28,1,2016
-407098,jakub-kaminski,20/21,Fortuna Puchar Polski,3,0,232
-407098,jakub-kaminski,20/21,Liga Europy,3,0,140
-407098,jakub-kaminski,20/21,Kwalifikacje do Ligi Europy,4,2,319
-407098,jakub-kaminski,19/20,Ekstraklasa,24,4,1514
-407098,jakub-kaminski,19/20,Fortuna Puchar Polski,4,0,210
-407098,jakub-kaminski,19/20,eWinner 2 liga,6,2,517
-407098,jakub-kaminski,18/19,3 Liga - Grupa II,11,3,744
-407098,jakub-kaminski,18/19,CLJ,13,6,1005
-407098,jakub-kaminski,17/18,CLJ - Runda Finałowa,1,0,32
-407098,jakub-kaminski,17/18,CLJ - Grupa Zachodnia,4,0,181
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+407098,jakub,kaminski,22/23,Bundesliga,18,1,1145
+407098,jakub,kaminski,22/23,DFB-Pokal,2,1,115
+407098,jakub,kaminski,21/22,Ekstraklasa,33,9,2658
+407098,jakub,kaminski,21/22,Fortuna Puchar Polski,3,0,169
+407098,jakub,kaminski,20/21,Ekstraklasa,28,1,2016
+407098,jakub,kaminski,20/21,Fortuna Puchar Polski,3,0,232
+407098,jakub,kaminski,20/21,Liga Europy,3,0,140
+407098,jakub,kaminski,20/21,Kwalifikacje do Ligi Europy,4,2,319
+407098,jakub,kaminski,19/20,Ekstraklasa,24,4,1514
+407098,jakub,kaminski,19/20,Fortuna Puchar Polski,4,0,210
+407098,jakub,kaminski,19/20,eWinner 2 liga,6,2,517
+407098,jakub,kaminski,18/19,3 Liga - Grupa II,11,3,744
+407098,jakub,kaminski,18/19,CLJ,13,6,1005
+407098,jakub,kaminski,17/18,CLJ - Runda Finałowa,1,0,32
+407098,jakub,kaminski,17/18,CLJ - Grupa Zachodnia,4,0,181

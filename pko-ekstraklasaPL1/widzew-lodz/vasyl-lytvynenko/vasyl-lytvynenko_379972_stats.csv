@@ -1,16 +1,16 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-379972,vasyl-lytvynenko,22/23,Ekstraklasa,0,0,0
-379972,vasyl-lytvynenko,22/23,Fortuna Puchar Polski,0,0,0
-379972,vasyl-lytvynenko,21/22,1 Liga,0,0,0
-379972,vasyl-lytvynenko,21/22,Persza Liga,18,0,10
-379972,vasyl-lytvynenko,21/22,Puchar Ukrainy,0,0,0
-379972,vasyl-lytvynenko,20/21,Persza Liga,19,0,7
-379972,vasyl-lytvynenko,20/21,Puchar Ukrainy,1,0,0
-379972,vasyl-lytvynenko,19/20,Persza Liga,2,0,1
-379972,vasyl-lytvynenko,18/19,Persza Liga,3,0,2
-379972,vasyl-lytvynenko,18/19,Persza Liga,0,0,0
-379972,vasyl-lytvynenko,17/18,Persza Liga,1,0,0
-379972,vasyl-lytvynenko,17/18,Puchar Ukrainy,1,0,0
-379972,vasyl-lytvynenko,16/17,Persza Liga,23,0,9
-379972,vasyl-lytvynenko,15/16,Puchar Ukrainy,1,0,0
-379972,vasyl-lytvynenko,12/13,Puchar Ukrainy,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+379972,vasyl,lytvynenko,22/23,Ekstraklasa,0,0,0
+379972,vasyl,lytvynenko,22/23,Fortuna Puchar Polski,0,0,0
+379972,vasyl,lytvynenko,21/22,1 Liga,0,0,0
+379972,vasyl,lytvynenko,21/22,Persza Liga,18,0,10
+379972,vasyl,lytvynenko,21/22,Puchar Ukrainy,0,0,0
+379972,vasyl,lytvynenko,20/21,Persza Liga,19,0,7
+379972,vasyl,lytvynenko,20/21,Puchar Ukrainy,1,0,0
+379972,vasyl,lytvynenko,19/20,Persza Liga,2,0,1
+379972,vasyl,lytvynenko,18/19,Persza Liga,3,0,2
+379972,vasyl,lytvynenko,18/19,Persza Liga,0,0,0
+379972,vasyl,lytvynenko,17/18,Persza Liga,1,0,0
+379972,vasyl,lytvynenko,17/18,Puchar Ukrainy,1,0,0
+379972,vasyl,lytvynenko,16/17,Persza Liga,23,0,9
+379972,vasyl,lytvynenko,15/16,Puchar Ukrainy,1,0,0
+379972,vasyl,lytvynenko,12/13,Puchar Ukrainy,0,0,0

@@ -1,6 +1,6 @@
-id,name,dates,marketValue
-618410,tomasz-walczak,2021-10-14,25000
-618410,tomasz-walczak,2021-12-30,75000
-618410,tomasz-walczak,2022-06-13,150000
-618410,tomasz-walczak,2022-09-28,100000
-618410,tomasz-walczak,2022-11-15,50000
+id,firstName,lastName,dates,marketValue
+618410,tomasz,walczak,2021-10-14,25000
+618410,tomasz,walczak,2021-12-30,75000
+618410,tomasz,walczak,2022-06-13,150000
+618410,tomasz,walczak,2022-09-28,100000
+618410,tomasz,walczak,2022-11-15,50000

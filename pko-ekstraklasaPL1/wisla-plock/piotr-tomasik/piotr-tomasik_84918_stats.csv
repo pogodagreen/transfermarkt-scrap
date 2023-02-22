@@ -1,35 +1,35 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-84918,piotr-tomasik,22/23,Ekstraklasa,13,0,984
-84918,piotr-tomasik,22/23,Fortuna Puchar Polski,1,0,90
-84918,piotr-tomasik,21/22,Ekstraklasa,29,2,2402
-84918,piotr-tomasik,21/22,Fortuna Puchar Polski,0,0,0
-84918,piotr-tomasik,20/21,Ekstraklasa,14,0,1094
-84918,piotr-tomasik,20/21,Fortuna Puchar Polski,1,0,120
-84918,piotr-tomasik,19/20,Ekstraklasa,26,3,1539
-84918,piotr-tomasik,19/20,Fortuna Puchar Polski,1,0,90
-84918,piotr-tomasik,18/19,Ekstraklasa,16,0,862
-84918,piotr-tomasik,18/19,3 Liga - Grupa II,4,1,315
-84918,piotr-tomasik,18/19,Fortuna Puchar Polski,1,0,0
-84918,piotr-tomasik,18/19,Kwalifikacje do Ligi Europy,1,0,90
-84918,piotr-tomasik,17/18,Ekstraklasa,6,0,293
-84918,piotr-tomasik,17/18,Ekstraklasa,9,0,669
-84918,piotr-tomasik,17/18,Kwalifikacje do Ligi Europy,1,0,50
-84918,piotr-tomasik,16/17,Ekstraklasa,33,0,2897
-84918,piotr-tomasik,16/17,Fortuna Puchar Polski,1,0,83
-84918,piotr-tomasik,15/16,Ekstraklasa,29,3,2571
-84918,piotr-tomasik,15/16,Fortuna Puchar Polski,0,0,0
-84918,piotr-tomasik,15/16,Kwalifikacje do Ligi Europy,4,0,360
-84918,piotr-tomasik,14/15,Ekstraklasa,20,0,1734
-84918,piotr-tomasik,14/15,Fortuna Puchar Polski,2,0,180
-84918,piotr-tomasik,13/14,1 Liga,29,4,2412
-84918,piotr-tomasik,13/14,Fortuna Puchar Polski,5,3,397
-84918,piotr-tomasik,12/13,1 Liga,32,1,2487
-84918,piotr-tomasik,12/13,Fortuna Puchar Polski,1,0,90
-84918,piotr-tomasik,11/12,1 Liga,11,3,959
-84918,piotr-tomasik,11/12,Fortuna Puchar Polski,4,1,270
-84918,piotr-tomasik,11/12,1 Liga,14,4,1145
-84918,piotr-tomasik,11/12,Fortuna Puchar Polski,2,1,210
-84918,piotr-tomasik,10/11,1 Liga,13,0,1169
-84918,piotr-tomasik,09/10,Ekstraklasa,27,0,767
-84918,piotr-tomasik,08/09,Ekstraklasa,9,0,462
-84918,piotr-tomasik,08/09,Fortuna Puchar Polski,1,0,20
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+84918,piotr,tomasik,22/23,Ekstraklasa,14,0,1003
+84918,piotr,tomasik,22/23,Fortuna Puchar Polski,1,0,90
+84918,piotr,tomasik,21/22,Ekstraklasa,29,2,2402
+84918,piotr,tomasik,21/22,Fortuna Puchar Polski,0,0,0
+84918,piotr,tomasik,20/21,Ekstraklasa,14,0,1094
+84918,piotr,tomasik,20/21,Fortuna Puchar Polski,1,0,120
+84918,piotr,tomasik,19/20,Ekstraklasa,26,3,1539
+84918,piotr,tomasik,19/20,Fortuna Puchar Polski,1,0,90
+84918,piotr,tomasik,18/19,Ekstraklasa,16,0,862
+84918,piotr,tomasik,18/19,3 Liga - Grupa II,4,1,315
+84918,piotr,tomasik,18/19,Fortuna Puchar Polski,1,0,0
+84918,piotr,tomasik,18/19,Kwalifikacje do Ligi Europy,1,0,90
+84918,piotr,tomasik,17/18,Ekstraklasa,6,0,293
+84918,piotr,tomasik,17/18,Ekstraklasa,9,0,669
+84918,piotr,tomasik,17/18,Kwalifikacje do Ligi Europy,1,0,50
+84918,piotr,tomasik,16/17,Ekstraklasa,33,0,2897
+84918,piotr,tomasik,16/17,Fortuna Puchar Polski,1,0,83
+84918,piotr,tomasik,15/16,Ekstraklasa,29,3,2571
+84918,piotr,tomasik,15/16,Fortuna Puchar Polski,0,0,0
+84918,piotr,tomasik,15/16,Kwalifikacje do Ligi Europy,4,0,360
+84918,piotr,tomasik,14/15,Ekstraklasa,20,0,1734
+84918,piotr,tomasik,14/15,Fortuna Puchar Polski,2,0,180
+84918,piotr,tomasik,13/14,1 Liga,29,4,2412
+84918,piotr,tomasik,13/14,Fortuna Puchar Polski,5,3,397
+84918,piotr,tomasik,12/13,1 Liga,32,1,2487
+84918,piotr,tomasik,12/13,Fortuna Puchar Polski,1,0,90
+84918,piotr,tomasik,11/12,1 Liga,11,3,959
+84918,piotr,tomasik,11/12,Fortuna Puchar Polski,4,1,270
+84918,piotr,tomasik,11/12,1 Liga,14,4,1145
+84918,piotr,tomasik,11/12,Fortuna Puchar Polski,2,1,210
+84918,piotr,tomasik,10/11,1 Liga,13,0,1169
+84918,piotr,tomasik,09/10,Ekstraklasa,27,0,767
+84918,piotr,tomasik,08/09,Ekstraklasa,9,0,462
+84918,piotr,tomasik,08/09,Fortuna Puchar Polski,1,0,20

@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-375378,afonso-sousa,2000,Portugal,"1,74",Attacking Midfield,2,10,15,2,3,4,8,0
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+375378,afonso,sousa,2000,Portugal,"1,74",Attacking Midfield,2,10,15,2,3,4,8,0

@@ -1,0 +1,7 @@
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+653596,camilo,mena,22/23,2023-06-30,Jagiellonia,Valmiera,1200000,End of loan
+653596,camilo,mena,22/23,2023-02-14,Valmiera,Jagiellonia,1200000,loan transfer
+653596,camilo,mena,20/21,2021-01-04,Tigres FC,Valmiera,0,0
+653596,camilo,mena,20/21,2020-12-31,Pereira,Tigres FC,0,End of loan
+653596,camilo,mena,19/20,2020-01-01,Tigres FC,Pereira,0,loan transfer
+653596,camilo,mena,18/19,2018-07-01,Tigres FC U20,Tigres FC,0,0

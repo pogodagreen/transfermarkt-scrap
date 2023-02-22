@@ -1,27 +1,27 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-320898,adam-chrzanowski,22/23,Ekstraklasa,9,0,674
-320898,adam-chrzanowski,22/23,Fortuna Puchar Polski,2,0,128
-320898,adam-chrzanowski,21/22,Ekstraklasa,9,0,683
-320898,adam-chrzanowski,21/22,Serie B,4,0,218
-320898,adam-chrzanowski,21/22,Puchar Włoch,1,0,90
-320898,adam-chrzanowski,20/21,Serie B,13,0,795
-320898,adam-chrzanowski,20/21,Puchar Włoch,2,0,153
-320898,adam-chrzanowski,19/20,1 Liga,5,0,371
-320898,adam-chrzanowski,19/20,Fortuna Puchar Polski,1,0,90
-320898,adam-chrzanowski,19/20,Ekstraklasa,2,0,92
-320898,adam-chrzanowski,19/20,Fortuna Puchar Polski,1,0,52
-320898,adam-chrzanowski,19/20,Kwalifikacje do Ligi Europy,0,0,0
-320898,adam-chrzanowski,18/19,Fortuna 1 Liga,12,0,1035
-320898,adam-chrzanowski,18/19,Ekstraklasa,3,1,100
-320898,adam-chrzanowski,18/19,Fortuna Puchar Polski,1,0,61
-320898,adam-chrzanowski,17/18,Ekstraklasa,10,1,761
-320898,adam-chrzanowski,17/18,CLJ - Grupa Zachodnia,8,2,638
-320898,adam-chrzanowski,16/17,Primavera Fase Finale,1,0,90
-320898,adam-chrzanowski,16/17,Primavera A,18,0,1596
-320898,adam-chrzanowski,16/17,Viareggio,2,0,174
-320898,adam-chrzanowski,16/17,Coppa Primavera,5,0,462
-320898,adam-chrzanowski,16/17,CLJ - Grupa Zachodnia,4,1,360
-320898,adam-chrzanowski,15/16,Ekstraklasa,1,0,12
-320898,adam-chrzanowski,15/16,CLJ - Grupa Zachodnia,3,0,268
-320898,adam-chrzanowski,14/15,eWinner 2 liga,5,0,289
-320898,adam-chrzanowski,14/15,Fortuna Puchar Polski,1,0,11
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+320898,adam,chrzanowski,22/23,Ekstraklasa,10,0,764
+320898,adam,chrzanowski,22/23,Fortuna Puchar Polski,2,0,128
+320898,adam,chrzanowski,21/22,Ekstraklasa,9,0,683
+320898,adam,chrzanowski,21/22,Serie B,4,0,218
+320898,adam,chrzanowski,21/22,Puchar Włoch,1,0,90
+320898,adam,chrzanowski,20/21,Serie B,13,0,795
+320898,adam,chrzanowski,20/21,Puchar Włoch,2,0,153
+320898,adam,chrzanowski,19/20,1 Liga,5,0,371
+320898,adam,chrzanowski,19/20,Fortuna Puchar Polski,1,0,90
+320898,adam,chrzanowski,19/20,Ekstraklasa,2,0,92
+320898,adam,chrzanowski,19/20,Fortuna Puchar Polski,1,0,52
+320898,adam,chrzanowski,19/20,Kwalifikacje do Ligi Europy,0,0,0
+320898,adam,chrzanowski,18/19,Fortuna 1 Liga,12,0,1035
+320898,adam,chrzanowski,18/19,Ekstraklasa,3,1,100
+320898,adam,chrzanowski,18/19,Fortuna Puchar Polski,1,0,61
+320898,adam,chrzanowski,17/18,Ekstraklasa,10,1,761
+320898,adam,chrzanowski,17/18,CLJ - Grupa Zachodnia,8,2,638
+320898,adam,chrzanowski,16/17,Primavera Fase Finale,1,0,90
+320898,adam,chrzanowski,16/17,Primavera A,18,0,1596
+320898,adam,chrzanowski,16/17,Viareggio,2,0,174
+320898,adam,chrzanowski,16/17,Coppa Primavera,5,0,462
+320898,adam,chrzanowski,16/17,CLJ - Grupa Zachodnia,4,1,360
+320898,adam,chrzanowski,15/16,Ekstraklasa,1,0,12
+320898,adam,chrzanowski,15/16,CLJ - Grupa Zachodnia,3,0,268
+320898,adam,chrzanowski,14/15,eWinner 2 liga,5,0,289
+320898,adam,chrzanowski,14/15,Fortuna Puchar Polski,1,0,11

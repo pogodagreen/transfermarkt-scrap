@@ -1,23 +1,23 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-295780,giannis-masouras,22/23,Ekstraklasa,4,1,360
-295780,giannis-masouras,21/22,Eredivisie,18,0,836
-295780,giannis-masouras,21/22,KNVB beker,1,0,90
-295780,giannis-masouras,20/21,Ekstraklasa,23,0,1733
-295780,giannis-masouras,20/21,Fortuna Puchar Polski,2,0,144
-295780,giannis-masouras,19/20,Super League 1,1,0,24
-295780,giannis-masouras,19/20,Super League 1,13,0,931
-295780,giannis-masouras,19/20,Kypello Elladas,1,0,84
-295780,giannis-masouras,18/19,Super League,7,1,630
-295780,giannis-masouras,18/19,Kypello Elladas,1,0,90
-295780,giannis-masouras,18/19,Kypello Elladas,3,0,187
-295780,giannis-masouras,17/18,Super League,23,0,1582
-295780,giannis-masouras,17/18,Kypello Elladas,7,3,488
-295780,giannis-masouras,16/17,Super League K20,12,2,1010
-295780,giannis-masouras,16/17,Super League,2,0,34
-295780,giannis-masouras,16/17,Kypello Elladas,1,0,90
-295780,giannis-masouras,15/16,Football League,14,0,958
-295780,giannis-masouras,15/16,Kypello Elladas,4,0,293
-295780,giannis-masouras,14/15,FL Play-off,8,0,606
-295780,giannis-masouras,14/15,Football League South,3,0,115
-295780,giannis-masouras,14/15,Kypello Elladas,1,0,15
-295780,giannis-masouras,13/14,Football League South,2,0,136
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+295780,giannis,masouras,22/23,Ekstraklasa,5,1,445
+295780,giannis,masouras,21/22,Eredivisie,18,0,836
+295780,giannis,masouras,21/22,KNVB beker,1,0,90
+295780,giannis,masouras,20/21,Ekstraklasa,23,0,1733
+295780,giannis,masouras,20/21,Fortuna Puchar Polski,2,0,144
+295780,giannis,masouras,19/20,Super League 1,1,0,24
+295780,giannis,masouras,19/20,Super League 1,13,0,931
+295780,giannis,masouras,19/20,Kypello Elladas,1,0,84
+295780,giannis,masouras,18/19,Super League,7,1,630
+295780,giannis,masouras,18/19,Kypello Elladas,1,0,90
+295780,giannis,masouras,18/19,Kypello Elladas,3,0,187
+295780,giannis,masouras,17/18,Super League,23,0,1582
+295780,giannis,masouras,17/18,Kypello Elladas,7,3,488
+295780,giannis,masouras,16/17,Super League K20,12,2,1010
+295780,giannis,masouras,16/17,Super League,2,0,34
+295780,giannis,masouras,16/17,Kypello Elladas,1,0,90
+295780,giannis,masouras,15/16,Football League,14,0,958
+295780,giannis,masouras,15/16,Kypello Elladas,4,0,293
+295780,giannis,masouras,14/15,FL Play-off,8,0,606
+295780,giannis,masouras,14/15,Football League South,3,0,115
+295780,giannis,masouras,14/15,Kypello Elladas,1,0,15
+295780,giannis,masouras,13/14,Football League South,2,0,136

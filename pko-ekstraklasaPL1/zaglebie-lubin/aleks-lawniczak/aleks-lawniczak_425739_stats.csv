@@ -1,15 +1,15 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-425739,aleks-lawniczak,22/23,Ekstraklasa,16,0,1320
-425739,aleks-lawniczak,22/23,Fortuna Puchar Polski,1,1,90
-425739,aleks-lawniczak,21/22,Ekstraklasa,8,0,558
-425739,aleks-lawniczak,21/22,Ekstraklasa,12,0,952
-425739,aleks-lawniczak,21/22,Fortuna Puchar Polski,1,0,90
-425739,aleks-lawniczak,20/21,Ekstraklasa,23,1,2039
-425739,aleks-lawniczak,20/21,Fortuna Puchar Polski,1,0,90
-425739,aleks-lawniczak,19/20,Baraze o udzial w Ekstraklasie,2,0,180
-425739,aleks-lawniczak,19/20,1 Liga,21,1,1890
-425739,aleks-lawniczak,19/20,Fortuna Puchar Polski,1,0,120
-425739,aleks-lawniczak,18/19,3 Liga - Grupa III,29,1,2345
-425739,aleks-lawniczak,17/18,CLJ - Grupa Zachodnia,28,4,2468
-425739,aleks-lawniczak,16/17,CLJ - Grupa Zachodnia,21,2,1799
-425739,aleks-lawniczak,15/16,CLJ - Grupa Zachodnia,8,0,720
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+425739,aleks,lawniczak,22/23,Ekstraklasa,16,0,1320
+425739,aleks,lawniczak,22/23,Fortuna Puchar Polski,1,1,90
+425739,aleks,lawniczak,21/22,Ekstraklasa,8,0,558
+425739,aleks,lawniczak,21/22,Ekstraklasa,12,0,952
+425739,aleks,lawniczak,21/22,Fortuna Puchar Polski,1,0,90
+425739,aleks,lawniczak,20/21,Ekstraklasa,23,1,2039
+425739,aleks,lawniczak,20/21,Fortuna Puchar Polski,1,0,90
+425739,aleks,lawniczak,19/20,Baraze o udzial w Ekstraklasie,2,0,180
+425739,aleks,lawniczak,19/20,1 Liga,21,1,1890
+425739,aleks,lawniczak,19/20,Fortuna Puchar Polski,1,0,120
+425739,aleks,lawniczak,18/19,3 Liga - Grupa III,29,1,2345
+425739,aleks,lawniczak,17/18,CLJ - Grupa Zachodnia,28,4,2468
+425739,aleks,lawniczak,16/17,CLJ - Grupa Zachodnia,21,2,1799
+425739,aleks,lawniczak,15/16,CLJ - Grupa Zachodnia,8,0,720

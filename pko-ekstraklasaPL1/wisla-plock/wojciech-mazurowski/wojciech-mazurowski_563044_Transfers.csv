@@ -1,0 +1,13 @@
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+563044,wojciech,mazurowski,22/23,2023-02-16,Wisla Plock II,Wisla Plock,0,0
+563044,wojciech,mazurowski,22/23,2022-07-27,Sokol Ostroda,Wisla Plock II,0,free transfer
+563044,wojciech,mazurowski,21/22,2022-01-28,GKS Jastrzebie,Sokol Ostroda,0,free transfer
+563044,wojciech,mazurowski,21/22,2021-07-16,Sokol Ostroda,GKS Jastrzebie,0,free transfer
+563044,wojciech,mazurowski,20/21,2020-07-17,Górnik Konin,Sokol Ostroda,0,free transfer
+563044,wojciech,mazurowski,19/20,2020-01-30,Pelikan Lowicz,Górnik Konin,0,free transfer
+563044,wojciech,mazurowski,19/20,2019-08-01,Wisla Plock II,Pelikan Lowicz,0,free transfer
+563044,wojciech,mazurowski,18/19,2019-06-30,Kasztelan Sierpc,Wisla Plock II,0,End of loan
+563044,wojciech,mazurowski,18/19,2018-07-01,Wisla Plock II,Kasztelan Sierpc,0,loan transfer
+563044,wojciech,mazurowski,17/18,2018-06-30,Lech Rypin,Wisla Plock II,0,End of loan
+563044,wojciech,mazurowski,17/18,2017-07-01,Wisla Plock II,Lech Rypin,0,loan transfer
+563044,wojciech,mazurowski,16/17,2016-07-01,Wisla Plock U19,Wisla Plock II,0,0

@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2021-01-01,Jagiellonia II,Jagiellonia,0,0
-20/21,2020-07-01,Jagiellonia U19,Jagiellonia II,0,0
-19/20,2020-01-01,Białystok Youth,Jagiellonia U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+751104,milosz,matysik,20/21,2021-01-01,Jagiellonia II,Jagiellonia,0,0
+751104,milosz,matysik,20/21,2020-07-01,Jagiellonia U19,Jagiellonia II,0,0
+751104,milosz,matysik,19/20,2020-01-01,Białystok Youth,Jagiellonia U19,0,0

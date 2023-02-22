@@ -1,14 +1,14 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-06,Antalyaspor,Górnik Zabrze,400000,free transfer
-19/20,2020-01-20,Vissel Kobe,Antalyaspor,1000000,free transfer
-17/18,2017-07-01,Galatasaray,Vissel Kobe,3500000,2600000
-15/16,2015-07-08,Arsenal,Galatasaray,7500000,2500000
-14/15,2015-06-30,Inter,Arsenal,7500000,End of loan
-14/15,2015-01-05,Arsenal,Inter,20000000,Loan
-12/13,2012-07-01,1. FC Köln,Arsenal,20000000,15000000
-09/10,2009-07-01,Bayern Munich,1. FC Köln,12000000,10000000
-06/07,2006-07-10,1. FC Köln,Bayern Munich,12000000,10000000
-03/04,2003-11-10,1.FC Köln U19,1. FC Köln,0,0
-02/03,2002-07-01,1.FC Köln U17,1.FC Köln U19,0,0
-00/01,2000-07-01,1.FC Köln Yth.,1.FC Köln U17,0,0
-95/96,1995-07-01,FC Jugend 07,1.FC Köln Yth.,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+15185,lukas,podolski,21/22,2021-07-06,Antalyaspor,Górnik Zabrze,400000,free transfer
+15185,lukas,podolski,19/20,2020-01-20,Vissel Kobe,Antalyaspor,1000000,free transfer
+15185,lukas,podolski,17/18,2017-07-01,Galatasaray,Vissel Kobe,3500000,2600000
+15185,lukas,podolski,15/16,2015-07-08,Arsenal,Galatasaray,7500000,2500000
+15185,lukas,podolski,14/15,2015-06-30,Inter,Arsenal,7500000,End of loan
+15185,lukas,podolski,14/15,2015-01-05,Arsenal,Inter,20000000,Loan
+15185,lukas,podolski,12/13,2012-07-01,1. FC Köln,Arsenal,20000000,15000000
+15185,lukas,podolski,09/10,2009-07-01,Bayern Munich,1. FC Köln,12000000,10000000
+15185,lukas,podolski,06/07,2006-07-10,1. FC Köln,Bayern Munich,12000000,10000000
+15185,lukas,podolski,03/04,2003-11-10,1.FC Köln U19,1. FC Köln,0,0
+15185,lukas,podolski,02/03,2002-07-01,1.FC Köln U17,1.FC Köln U19,0,0
+15185,lukas,podolski,00/01,2000-07-01,1.FC Köln Yth.,1.FC Köln U17,0,0
+15185,lukas,podolski,95/96,1995-07-01,FC Jugend 07,1.FC Köln Yth.,0,free transfer

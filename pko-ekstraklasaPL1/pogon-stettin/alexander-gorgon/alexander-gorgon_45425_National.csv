@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-45425,alexander-gorgon,1988,Austria,"1,85",Right Winger,0,0,0,0,0,1,0,0
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+45425,alexander,gorgon,1988,Austria,"1,85",Right Winger,0,0,0,0,0,1,0,0

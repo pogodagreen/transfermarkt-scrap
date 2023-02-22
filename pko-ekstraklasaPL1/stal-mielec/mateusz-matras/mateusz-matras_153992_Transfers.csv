@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2020-08-20,Górnik Zabrze,Stal Mielec,350000,free transfer
-19/20,2019-07-01,Zaglebie Lubin,Górnik Zabrze,500000,88000
-18/19,2019-06-30,Górnik Zabrze,Zaglebie Lubin,500000,End of loan
-18/19,2019-01-14,Zaglebie Lubin,Górnik Zabrze,550000,Loan
-17/18,2018-02-26,Lechia Gdansk,Zaglebie Lubin,550000,free transfer
-17/18,2017-07-01,Pogon Szczecin,Lechia Gdansk,450000,free transfer
-14/15,2014-07-01,Piast Gliwice,Pogon Szczecin,500000,free transfer
-10/11,2010-07-01,Gwarek Ornontowice,Piast Gliwice,0,3000
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+153992,mateusz,matras,20/21,2020-08-20,Górnik Zabrze,Stal Mielec,350000,free transfer
+153992,mateusz,matras,19/20,2019-07-01,Zaglebie Lubin,Górnik Zabrze,500000,88000
+153992,mateusz,matras,18/19,2019-06-30,Górnik Zabrze,Zaglebie Lubin,500000,End of loan
+153992,mateusz,matras,18/19,2019-01-14,Zaglebie Lubin,Górnik Zabrze,550000,Loan
+153992,mateusz,matras,17/18,2018-02-26,Lechia Gdansk,Zaglebie Lubin,550000,free transfer
+153992,mateusz,matras,17/18,2017-07-01,Pogon Szczecin,Lechia Gdansk,450000,free transfer
+153992,mateusz,matras,14/15,2014-07-01,Piast Gliwice,Pogon Szczecin,500000,free transfer
+153992,mateusz,matras,10/11,2010-07-01,Gwarek Ornontowice,Piast Gliwice,0,3000

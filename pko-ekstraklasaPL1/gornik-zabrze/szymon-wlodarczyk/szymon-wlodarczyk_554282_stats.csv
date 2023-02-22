@@ -1,17 +1,17 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-554282,szymon-wlodarczyk,22/23,Ekstraklasa,18,8,944
-554282,szymon-wlodarczyk,22/23,Fortuna Puchar Polski,2,0,50
-554282,szymon-wlodarczyk,21/22,Ekstraklasa,7,0,154
-554282,szymon-wlodarczyk,21/22,3 Liga - Grupa I,17,10,1189
-554282,szymon-wlodarczyk,21/22,Fortuna Puchar Polski,3,1,52
-554282,szymon-wlodarczyk,21/22,Liga Europy,2,0,30
-554282,szymon-wlodarczyk,21/22,Kwalifikacje do Ligi Mistrzów,0,0,0
-554282,szymon-wlodarczyk,20/21,Ekstraklasa,2,0,55
-554282,szymon-wlodarczyk,20/21,3 Liga - Grupa I,23,15,1673
-554282,szymon-wlodarczyk,20/21,Fortuna Puchar Polski,0,0,0
-554282,szymon-wlodarczyk,19/20,Ekstraklasa,2,0,95
-554282,szymon-wlodarczyk,19/20,Fortuna Puchar Polski,0,0,0
-554282,szymon-wlodarczyk,19/20,3 Liga - Grupa I,2,0,20
-554282,szymon-wlodarczyk,19/20,Fortuna Puchar Polski,1,0,20
-554282,szymon-wlodarczyk,19/20,CLJ,13,9,961
-554282,szymon-wlodarczyk,18/19,CLJ,11,2,726
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+554282,szymon,wlodarczyk,22/23,Ekstraklasa,19,8,972
+554282,szymon,wlodarczyk,22/23,Fortuna Puchar Polski,2,0,50
+554282,szymon,wlodarczyk,21/22,Ekstraklasa,7,0,154
+554282,szymon,wlodarczyk,21/22,3 Liga - Grupa I,17,10,1189
+554282,szymon,wlodarczyk,21/22,Fortuna Puchar Polski,3,1,52
+554282,szymon,wlodarczyk,21/22,Liga Europy,2,0,30
+554282,szymon,wlodarczyk,21/22,Kwalifikacje do Ligi Mistrzów,0,0,0
+554282,szymon,wlodarczyk,20/21,Ekstraklasa,2,0,55
+554282,szymon,wlodarczyk,20/21,3 Liga - Grupa I,23,15,1673
+554282,szymon,wlodarczyk,20/21,Fortuna Puchar Polski,0,0,0
+554282,szymon,wlodarczyk,19/20,Ekstraklasa,2,0,95
+554282,szymon,wlodarczyk,19/20,Fortuna Puchar Polski,0,0,0
+554282,szymon,wlodarczyk,19/20,3 Liga - Grupa I,2,0,20
+554282,szymon,wlodarczyk,19/20,Fortuna Puchar Polski,1,0,20
+554282,szymon,wlodarczyk,19/20,CLJ,13,9,961
+554282,szymon,wlodarczyk,18/19,CLJ,11,2,726

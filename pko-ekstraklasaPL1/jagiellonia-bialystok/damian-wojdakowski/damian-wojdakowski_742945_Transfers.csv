@@ -1,3 +1,3 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-09-30,Jagiellonia U19,Jagiellonia,0,0
-21/22,2021-07-01,Białystok Youth,Jagiellonia U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+742945,damian,wojdakowski,22/23,2022-09-30,Jagiellonia U19,Jagiellonia,0,0
+742945,damian,wojdakowski,21/22,2021-07-01,Białystok Youth,Jagiellonia U19,0,0

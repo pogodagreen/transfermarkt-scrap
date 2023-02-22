@@ -1,6 +1,6 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-01-03,Without Club,Zaglebie Lubin,200000,free transfer
-21/22,2021-07-01,Hapoel Haifa,Without Club,200000,0
-19/20,2019-07-01,Lech Poznan,Hapoel Haifa,300000,free transfer
-08/09,2009-01-01,Celik Zenica,Lech Poznan,400000,70000
-04/05,2004-07-01,NK Celik U19,Celik Zenica,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+28308,jasmin,buric,21/22,2022-01-03,Without Club,Zaglebie Lubin,200000,free transfer
+28308,jasmin,buric,21/22,2021-07-01,Hapoel Haifa,Without Club,200000,0
+28308,jasmin,buric,19/20,2019-07-01,Lech Poznan,Hapoel Haifa,300000,free transfer
+28308,jasmin,buric,08/09,2009-01-01,Celik Zenica,Lech Poznan,400000,70000
+28308,jasmin,buric,04/05,2004-07-01,NK Celik U19,Celik Zenica,0,0

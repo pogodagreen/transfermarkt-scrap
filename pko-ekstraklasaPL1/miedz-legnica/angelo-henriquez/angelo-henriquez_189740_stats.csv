@@ -1,45 +1,45 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-189740,angelo-henriquez,22/23,Ekstraklasa,18,6,1436
-189740,angelo-henriquez,22/23,Fortuna Puchar Polski,0,0,0
-189740,angelo-henriquez,2022,Série A,0,0,0
-189740,angelo-henriquez,2022,Libertadores,0,0,0
-189740,angelo-henriquez,2022,Nordeste - Fase final,0,0,0
-189740,angelo-henriquez,2022,Campeonato Cearense,1,0,44
-189740,angelo-henriquez,2022,Nordeste - Fase de Grupos,1,0,2
-189740,angelo-henriquez,2021,Série A,14,0,479
-189740,angelo-henriquez,2021,Copa do Brasil,4,1,109
-189740,angelo-henriquez,2021,Primera Divisón,8,1,618
-189740,angelo-henriquez,2021,Libertadores,2,1,180
-189740,angelo-henriquez,2020,Primera Divisón,26,5,1188
-189740,angelo-henriquez,2020,Libertadores,2,0,111
-189740,angelo-henriquez,2019,Primera Divisón,10,2,548
-189740,angelo-henriquez,2019,Libertadores,2,0,127
-189740,angelo-henriquez,18/19,Copa MX Apertura,1,0,65
-189740,angelo-henriquez,2018,Primera Divisón,9,4,724
-189740,angelo-henriquez,17/18,Liga MX Clausura,17,1,590
-189740,angelo-henriquez,17/18,Copa MX Clausura,3,1,252
-189740,angelo-henriquez,17/18,SuperSport HNL,18,5,916
-189740,angelo-henriquez,17/18,Hrvatski nogometni kup,2,3,151
-189740,angelo-henriquez,17/18,Kwalifikacje do Ligi Europy,3,1,90
-189740,angelo-henriquez,16/17,Hrvatski nogometni kup,4,1,171
-189740,angelo-henriquez,16/17,1.HNL,20,1,1058
-189740,angelo-henriquez,16/17,Prva NL,2,0,180
-189740,angelo-henriquez,16/17,Liga Mistrzów,2,0,79
-189740,angelo-henriquez,16/17,Kwalifikacje do Ligi Mistrzów,4,0,156
-189740,angelo-henriquez,15/16,SuperSport HNL,27,8,1788
-189740,angelo-henriquez,15/16,Hrvatski nogometni kup,4,1,193
-189740,angelo-henriquez,15/16,Liga Mistrzów,4,0,93
-189740,angelo-henriquez,15/16,Kwalifikacje do Ligi Mistrzów,4,2,292
-189740,angelo-henriquez,14/15,Hrvatski nogometni kup,6,6,485
-189740,angelo-henriquez,14/15,SuperSport HNL,25,20,1596
-189740,angelo-henriquez,14/15,Liga Europy,6,3,365
-189740,angelo-henriquez,13/14,LaLiga2,25,6,1662
-189740,angelo-henriquez,13/14,U21 PL,2,1,149
-189740,angelo-henriquez,12/13,Premier League,4,1,45
-189740,angelo-henriquez,12/13,FA Cup,4,0,224
-189740,angelo-henriquez,12/13,U21 PL,5,1,285
-189740,angelo-henriquez,11/12,Torneo Clausura,1,1,90
-189740,angelo-henriquez,11/12,Play-Offs Primera División Apertura,6,2,446
-189740,angelo-henriquez,2012,Libertadores,10,4,697
-189740,angelo-henriquez,11/12,Torneo Apertura,10,8,703
-189740,angelo-henriquez,10/11,Torneo Clausura,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+189740,angelo,henriquez,22/23,Ekstraklasa,19,7,1503
+189740,angelo,henriquez,22/23,Fortuna Puchar Polski,0,0,0
+189740,angelo,henriquez,2022,Série A,0,0,0
+189740,angelo,henriquez,2022,Libertadores,0,0,0
+189740,angelo,henriquez,2022,Nordeste - Fase final,0,0,0
+189740,angelo,henriquez,2022,Campeonato Cearense - Group,1,0,44
+189740,angelo,henriquez,2022,Nordeste - Fase de Grupos,1,0,2
+189740,angelo,henriquez,2021,Série A,14,0,479
+189740,angelo,henriquez,2021,Copa do Brasil,4,1,109
+189740,angelo,henriquez,2021,Primera Divisón,8,1,618
+189740,angelo,henriquez,2021,Libertadores,2,1,180
+189740,angelo,henriquez,2020,Primera Divisón,26,5,1188
+189740,angelo,henriquez,2020,Libertadores,2,0,111
+189740,angelo,henriquez,2019,Primera Divisón,10,2,548
+189740,angelo,henriquez,2019,Libertadores,2,0,127
+189740,angelo,henriquez,18/19,Copa MX Apertura,1,0,65
+189740,angelo,henriquez,2018,Primera Divisón,9,4,724
+189740,angelo,henriquez,17/18,Liga MX Clausura,17,1,590
+189740,angelo,henriquez,17/18,Copa MX Clausura,3,1,252
+189740,angelo,henriquez,17/18,SuperSport HNL,18,5,916
+189740,angelo,henriquez,17/18,Hrvatski nogometni kup,2,3,151
+189740,angelo,henriquez,17/18,Kwalifikacje do Ligi Europy,3,1,90
+189740,angelo,henriquez,16/17,Hrvatski nogometni kup,4,1,171
+189740,angelo,henriquez,16/17,1.HNL,20,1,1058
+189740,angelo,henriquez,16/17,Prva NL,2,0,180
+189740,angelo,henriquez,16/17,Liga Mistrzów,2,0,79
+189740,angelo,henriquez,16/17,Kwalifikacje do Ligi Mistrzów,4,0,156
+189740,angelo,henriquez,15/16,SuperSport HNL,27,8,1788
+189740,angelo,henriquez,15/16,Hrvatski nogometni kup,4,1,193
+189740,angelo,henriquez,15/16,Liga Mistrzów,4,0,93
+189740,angelo,henriquez,15/16,Kwalifikacje do Ligi Mistrzów,4,2,292
+189740,angelo,henriquez,14/15,Hrvatski nogometni kup,6,6,485
+189740,angelo,henriquez,14/15,SuperSport HNL,25,20,1596
+189740,angelo,henriquez,14/15,Liga Europy,6,3,365
+189740,angelo,henriquez,13/14,LaLiga2,25,6,1662
+189740,angelo,henriquez,13/14,U21 PL,2,1,149
+189740,angelo,henriquez,12/13,Premier League,4,1,45
+189740,angelo,henriquez,12/13,FA Cup,4,0,224
+189740,angelo,henriquez,12/13,U21 PL,5,1,285
+189740,angelo,henriquez,11/12,Torneo Clausura,1,1,90
+189740,angelo,henriquez,11/12,Play-Offs Primera División Apertura,6,2,446
+189740,angelo,henriquez,2012,Libertadores,10,4,697
+189740,angelo,henriquez,11/12,Torneo Apertura,10,8,703
+189740,angelo,henriquez,10/11,Torneo Clausura,0,0,0

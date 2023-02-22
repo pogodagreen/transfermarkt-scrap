@@ -1,0 +1,14 @@
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+510459,kacper,kostorz,22/23,2023-06-30,Korona Kielce,Pogon Szczecin,100000,End of loan
+510459,kacper,kostorz,22/23,2023-02-17,Pogon Szczecin,Korona Kielce,100000,loan transfer
+510459,kacper,kostorz,21/22,2022-01-07,Legia Warszawa,Pogon Szczecin,100000,0
+510459,kacper,kostorz,19/20,2020-07-31,Miedz Legnica,Legia Warszawa,200000,End of loan
+510459,kacper,kostorz,19/20,2020-02-24,Legia Warszawa,Miedz Legnica,200000,loan transfer
+510459,kacper,kostorz,18/19,2019-06-30,Podbeskidzie,Legia Warszawa,300000,End of loan
+510459,kacper,kostorz,18/19,2019-01-13,Legia Warszawa,Podbeskidzie,75000,loan transfer
+510459,kacper,kostorz,18/19,2019-01-12,Podbeskidzie,Legia Warszawa,75000,200000
+510459,kacper,kostorz,16/17,2017-01-01,Podbeskidzie II,Podbeskidzie,0,0
+510459,kacper,kostorz,15/16,2015-07-01,Piast Cieszyn,Podbeskidzie II,0,0
+510459,kacper,kostorz,14/15,2015-01-01,Gornik U19,Piast Cieszyn,0,free transfer
+510459,kacper,kostorz,13/14,2013-07-01,Karvina U19,Gornik U19,0,free transfer
+510459,kacper,kostorz,11/12,2012-01-01,Podbeskidzie Bielsko-Biala U19,Karvina U19,0,free transfer

@@ -1,24 +1,24 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-358870,dennis-jastrzembski,22/23,Ekstraklasa,16,1,594
-358870,dennis-jastrzembski,22/23,Fortuna Puchar Polski,2,0,58
-358870,dennis-jastrzembski,21/22,Ekstraklasa,15,1,780
-358870,dennis-jastrzembski,21/22,Bundesliga,8,0,220
-358870,dennis-jastrzembski,21/22,DFB-Pokal,2,0,81
-358870,dennis-jastrzembski,21/22,Regionalliga Nordost,2,0,121
-358870,dennis-jastrzembski,20/21,Badenpokal,1,0,25
-358870,dennis-jastrzembski,20/21,3. Liga,15,1,914
-358870,dennis-jastrzembski,20/21,2. Bundesliga,3,0,23
-358870,dennis-jastrzembski,19/20,Bundesliga,6,0,173
-358870,dennis-jastrzembski,19/20,Regionalliga Nordost,11,1,327
-358870,dennis-jastrzembski,18/19,U19-BL N/NO,16,6,1365
-358870,dennis-jastrzembski,18/19,Bundesliga,5,0,56
-358870,dennis-jastrzembski,18/19,Liga Młodzieżowa UEFA,5,0,374
-358870,dennis-jastrzembski,18/19,Regionalliga Nordost,2,0,136
-358870,dennis-jastrzembski,18/19,DFB-Pokal,1,0,15
-358870,dennis-jastrzembski,18/19,DFB-Pokal der Junioren,1,0,89
-358870,dennis-jastrzembski,17/18,U19-Bundesliga Endrunde,3,0,194
-358870,dennis-jastrzembski,17/18,U19-BL N/NO,23,4,1518
-358870,dennis-jastrzembski,17/18,DFB-Jun.-Pokal,2,1,163
-358870,dennis-jastrzembski,16/17,U17-BL N/NO,24,9,2073
-358870,dennis-jastrzembski,16/17,U19-BL N/NO,2,1,126
-358870,dennis-jastrzembski,15/16,U17-BL N/NO,10,2,750
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+358870,dennis,jastrzembski,22/23,Ekstraklasa,17,1,626
+358870,dennis,jastrzembski,22/23,Fortuna Puchar Polski,2,0,58
+358870,dennis,jastrzembski,21/22,Ekstraklasa,15,1,780
+358870,dennis,jastrzembski,21/22,Bundesliga,8,0,220
+358870,dennis,jastrzembski,21/22,DFB-Pokal,2,0,81
+358870,dennis,jastrzembski,21/22,Regionalliga Nordost,2,0,121
+358870,dennis,jastrzembski,20/21,Badenpokal,1,0,25
+358870,dennis,jastrzembski,20/21,3. Liga,15,1,914
+358870,dennis,jastrzembski,20/21,2. Bundesliga,3,0,23
+358870,dennis,jastrzembski,19/20,Bundesliga,6,0,173
+358870,dennis,jastrzembski,19/20,Regionalliga Nordost,11,1,327
+358870,dennis,jastrzembski,18/19,U19-BL N/NO,16,6,1365
+358870,dennis,jastrzembski,18/19,Bundesliga,5,0,56
+358870,dennis,jastrzembski,18/19,Liga Młodzieżowa UEFA,5,0,374
+358870,dennis,jastrzembski,18/19,Regionalliga Nordost,2,0,136
+358870,dennis,jastrzembski,18/19,DFB-Pokal,1,0,15
+358870,dennis,jastrzembski,18/19,DFB-Pokal der Junioren,1,0,89
+358870,dennis,jastrzembski,17/18,U19-Bundesliga Endrunde,3,0,194
+358870,dennis,jastrzembski,17/18,U19-BL N/NO,23,4,1518
+358870,dennis,jastrzembski,17/18,DFB-Jun.-Pokal,2,1,163
+358870,dennis,jastrzembski,16/17,U17-BL N/NO,24,9,2073
+358870,dennis,jastrzembski,16/17,U19-BL N/NO,2,1,126
+358870,dennis,jastrzembski,15/16,U17-BL N/NO,10,2,750

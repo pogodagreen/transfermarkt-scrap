@@ -10,6 +10,11 @@ headers = {'User-Agent':
 
 def statsSeason(link,file):
     playerName=link.split("/")[3]
+    playerFirstName=playerName.split("-")[0]
+    try:
+      playerLastName=playerName.split("-")[1]
+    except:
+      playerLastName="-"
     try:
         link=link.replace("profil", "leistungsdatendetails")
         tree=requests.get(link,headers=headers)
@@ -39,10 +44,10 @@ def statsSeason(link,file):
                 gamesPlayed=str(i[2])
                 goals=str(i[3])
                 minutes=str(i[6]).replace(".","").replace("'","")
-                data2.append([playerId,playerName,str(season),competition,gamesPlayed,goals,minutes])
+                data2.append([playerId,playerFirstName,playerLastName,str(season),competition,gamesPlayed,goals,minutes])
         except:
             pass
-        df=pd.DataFrame(data2,columns=['id','name','season','competition','gamesPlayed','goals','minutes'])
+        df=pd.DataFrame(data2,columns=['id','firstName', 'lastName','season','competition','gamesPlayed','goals','minutes'])
         fileName=playerName+"_"+playerId+"_stats.csv"
         df.to_csv(fileName, index=False)
 

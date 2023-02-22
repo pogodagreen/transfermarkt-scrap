@@ -1,11 +1,11 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-01,Miedz Legnica,Podbeskidzie,150000,free transfer
-20/21,2020-08-01,Wisla Kraków,Miedz Legnica,200000,free transfer
-18/19,2018-12-31,P. Niepolomice,Wisla Kraków,150000,End of loan
-17/18,2018-01-23,Wisla Kraków,P. Niepolomice,125000,loan transfer
-17/18,2017-12-31,Chojniczanka,Wisla Kraków,125000,End of loan
-17/18,2017-07-03,Wisla Kraków,Chojniczanka,500000,loan transfer
-16/17,2017-06-30,Stal Mielec,Wisla Kraków,500000,End of loan
-16/17,2017-01-20,Wisla Kraków,Stal Mielec,100000,loan transfer
-15/16,2016-01-01,Gornik Polk.,Wisla Kraków,25000,free transfer
-13/14,2013-07-01,Polkowice U19,Gornik Polk.,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+267149,krzysztof,drzazga,22/23,2022-07-01,Miedz Legnica,Podbeskidzie,150000,free transfer
+267149,krzysztof,drzazga,20/21,2020-08-01,Wisla Kraków,Miedz Legnica,200000,free transfer
+267149,krzysztof,drzazga,18/19,2018-12-31,P. Niepolomice,Wisla Kraków,150000,End of loan
+267149,krzysztof,drzazga,17/18,2018-01-23,Wisla Kraków,P. Niepolomice,125000,loan transfer
+267149,krzysztof,drzazga,17/18,2017-12-31,Chojniczanka,Wisla Kraków,125000,End of loan
+267149,krzysztof,drzazga,17/18,2017-07-03,Wisla Kraków,Chojniczanka,500000,loan transfer
+267149,krzysztof,drzazga,16/17,2017-06-30,Stal Mielec,Wisla Kraków,500000,End of loan
+267149,krzysztof,drzazga,16/17,2017-01-20,Wisla Kraków,Stal Mielec,100000,loan transfer
+267149,krzysztof,drzazga,15/16,2016-01-01,Gornik Polk.,Wisla Kraków,25000,free transfer
+267149,krzysztof,drzazga,13/14,2013-07-01,Polkowice U19,Gornik Polk.,0,0

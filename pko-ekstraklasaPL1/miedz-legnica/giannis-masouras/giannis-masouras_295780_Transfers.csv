@@ -1,13 +1,13 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-04,Olympiacos,Miedz Legnica,450000,free transfer
-21/22,2022-06-30,Sparta R.,Olympiacos,450000,End of loan
-21/22,2021-08-31,Olympiacos,Sparta R.,600000,loan transfer
-20/21,2021-06-30,Górnik Zabrze,Olympiacos,600000,End of loan
-20/21,2020-08-26,Olympiacos,Górnik Zabrze,600000,loan transfer
-19/20,2020-06-30,AE Larisa,Olympiacos,600000,End of loan
-19/20,2020-01-29,Olympiacos,AE Larisa,750000,loan transfer
-19/20,2020-01-28,Panionios,Olympiacos,750000,End of loan
-18/19,2019-02-04,Olympiacos,Panionios,1000000,loan transfer
-18/19,2018-07-01,AE Larisa,Olympiacos,1000000,1000000
-15/16,2015-07-24,Panachaiki,AE Larisa,100000,free transfer
-13/14,2013-07-01,Panachaiki U19,Panachaiki,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+295780,giannis,masouras,22/23,2023-01-04,Olympiacos,Miedz Legnica,450000,free transfer
+295780,giannis,masouras,21/22,2022-06-30,Sparta R.,Olympiacos,450000,End of loan
+295780,giannis,masouras,21/22,2021-08-31,Olympiacos,Sparta R.,600000,loan transfer
+295780,giannis,masouras,20/21,2021-06-30,Górnik Zabrze,Olympiacos,600000,End of loan
+295780,giannis,masouras,20/21,2020-08-26,Olympiacos,Górnik Zabrze,600000,loan transfer
+295780,giannis,masouras,19/20,2020-06-30,AE Larisa,Olympiacos,600000,End of loan
+295780,giannis,masouras,19/20,2020-01-29,Olympiacos,AE Larisa,750000,loan transfer
+295780,giannis,masouras,19/20,2020-01-28,Panionios,Olympiacos,750000,End of loan
+295780,giannis,masouras,18/19,2019-02-04,Olympiacos,Panionios,1000000,loan transfer
+295780,giannis,masouras,18/19,2018-07-01,AE Larisa,Olympiacos,1000000,1000000
+295780,giannis,masouras,15/16,2015-07-24,Panachaiki,AE Larisa,100000,free transfer
+295780,giannis,masouras,13/14,2013-07-01,Panachaiki U19,Panachaiki,0,0

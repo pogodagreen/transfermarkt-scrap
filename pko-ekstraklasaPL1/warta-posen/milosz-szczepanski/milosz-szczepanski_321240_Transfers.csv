@@ -1,8 +1,8 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Warta Poznan,Lechia Gdansk,250000,End of loan
-21/22,2022-01-20,Lechia Gdansk,Warta Poznan,250000,loan transfer
-21/22,2021-07-01,Rakow,Lechia Gdansk,400000,free transfer
-17/18,2018-01-26,Legia Warszawa,Rakow,50000,25000
-17/18,2017-07-06,Legia II,Legia Warszawa,0,0
-16/17,2016-07-01,Legia U19,Legia II,0,0
-14/15,2014-07-01,Legia Yth.,Legia U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+321240,milosz,szczepanski,22/23,2023-06-30,Warta Poznan,Lechia Gdansk,250000,End of loan
+321240,milosz,szczepanski,21/22,2022-01-20,Lechia Gdansk,Warta Poznan,250000,loan transfer
+321240,milosz,szczepanski,21/22,2021-07-01,Rakow,Lechia Gdansk,400000,free transfer
+321240,milosz,szczepanski,17/18,2018-01-26,Legia Warszawa,Rakow,50000,25000
+321240,milosz,szczepanski,17/18,2017-07-06,Legia II,Legia Warszawa,0,0
+321240,milosz,szczepanski,16/17,2016-07-01,Legia U19,Legia II,0,0
+321240,milosz,szczepanski,14/15,2014-07-01,Legia Yth.,Legia U19,0,0

@@ -1,51 +1,51 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-78590,kamil-wilczek,22/23,Ekstraklasa,17,7,1257
-78590,kamil-wilczek,22/23,Fortuna Puchar Polski,1,0,71
-78590,kamil-wilczek,21/22,Ekstraklasa,13,5,963
-78590,kamil-wilczek,21/22,Fortuna Puchar Polski,1,0,64
-78590,kamil-wilczek,21/22,Liga Konferencji,2,0,17
-78590,kamil-wilczek,21/22,Reserveligaen,1,0,45
-78590,kamil-wilczek,21/22,Superligaen,6,1,287
-78590,kamil-wilczek,21/22,DBU Pokalen,1,0,45
-78590,kamil-wilczek,21/22,UECL Kwalifikacje,5,2,308
-78590,kamil-wilczek,20/21,Superligaen Championship round,10,5,537
-78590,kamil-wilczek,20/21,Superligaen,17,5,762
-78590,kamil-wilczek,20/21,DBU Pokalen,2,0,150
-78590,kamil-wilczek,20/21,Kwalifikacje do Ligi Europy,3,1,270
-78590,kamil-wilczek,19/20,Süper Lig,14,1,741
-78590,kamil-wilczek,19/20,Superligaen,18,17,1620
-78590,kamil-wilczek,19/20,DBU Pokalen,2,0,115
-78590,kamil-wilczek,19/20,Kwalifikacje do Ligi Europy,6,3,467
-78590,kamil-wilczek,18/19,Superligaen Playoffs,1,1,90
-78590,kamil-wilczek,18/19,Superligaen Championship round,10,3,892
-78590,kamil-wilczek,18/19,DBU Pokalen,3,2,300
-78590,kamil-wilczek,18/19,Superliga,23,18,1975
-78590,kamil-wilczek,18/19,Reserveligaen Spring,1,0,90
-78590,kamil-wilczek,18/19,Kwalifikacje do Ligi Europy,4,3,283
-78590,kamil-wilczek,17/18,Superligaen Championship round,9,9,797
-78590,kamil-wilczek,17/18,DBU Pokalen,5,6,326
-78590,kamil-wilczek,17/18,Superliga,21,6,1074
-78590,kamil-wilczek,17/18,Reserveligaen,1,0,61
-78590,kamil-wilczek,17/18,Kwalifikacje do Ligi Europy,4,0,247
-78590,kamil-wilczek,16/17,Superligaen Championship round,5,0,387
-78590,kamil-wilczek,16/17,DBU Pokalen,4,2,316
-78590,kamil-wilczek,16/17,Superliga,25,13,1814
-78590,kamil-wilczek,16/17,Kwalifikacje do Ligi Europy,8,4,681
-78590,kamil-wilczek,15/16,Superliga,13,5,941
-78590,kamil-wilczek,15/16,DBU Pokalen,2,0,87
-78590,kamil-wilczek,15/16,Puchar Włoch,1,0,17
-78590,kamil-wilczek,15/16,Serie A,3,0,115
-78590,kamil-wilczek,14/15,Ekstraklasa,35,20,2916
-78590,kamil-wilczek,14/15,Fortuna Puchar Polski,2,0,102
-78590,kamil-wilczek,13/14,Ekstraklasa,31,9,1787
-78590,kamil-wilczek,13/14,Fortuna Puchar Polski,1,0,58
-78590,kamil-wilczek,13/14,Kwalifikacje do Ligi Europy,1,0,22
-78590,kamil-wilczek,12/13,Ekstraklasa,10,0,197
-78590,kamil-wilczek,12/13,Fortuna Puchar Polski,4,1,199
-78590,kamil-wilczek,11/12,Ekstraklasa,16,0,514
-78590,kamil-wilczek,10/11,Ekstraklasa,16,2,873
-78590,kamil-wilczek,10/11,Fortuna Puchar Polski,1,0,120
-78590,kamil-wilczek,09/10,Ekstraklasa,26,5,2155
-78590,kamil-wilczek,08/09,Ekstraklasa,13,2,1116
-78590,kamil-wilczek,08/09,1 Liga,10,2,721
-78590,kamil-wilczek,07/08,2 Liga,22,3,1377
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+78590,kamil,wilczek,22/23,Ekstraklasa,18,7,1347
+78590,kamil,wilczek,22/23,Fortuna Puchar Polski,1,0,71
+78590,kamil,wilczek,21/22,Ekstraklasa,13,5,963
+78590,kamil,wilczek,21/22,Fortuna Puchar Polski,1,0,64
+78590,kamil,wilczek,21/22,Liga Konferencji,2,0,17
+78590,kamil,wilczek,21/22,Reserveligaen,1,0,45
+78590,kamil,wilczek,21/22,Superligaen,6,1,287
+78590,kamil,wilczek,21/22,DBU Pokalen,1,0,45
+78590,kamil,wilczek,21/22,UECL Kwalifikacje,5,2,308
+78590,kamil,wilczek,20/21,Superligaen Championship round,10,5,537
+78590,kamil,wilczek,20/21,Superligaen,17,5,762
+78590,kamil,wilczek,20/21,DBU Pokalen,2,0,150
+78590,kamil,wilczek,20/21,Kwalifikacje do Ligi Europy,3,1,270
+78590,kamil,wilczek,19/20,Süper Lig,14,1,741
+78590,kamil,wilczek,19/20,Superligaen,18,17,1620
+78590,kamil,wilczek,19/20,DBU Pokalen,2,0,115
+78590,kamil,wilczek,19/20,Kwalifikacje do Ligi Europy,6,3,467
+78590,kamil,wilczek,18/19,Superligaen Playoffs,1,1,90
+78590,kamil,wilczek,18/19,Superligaen Championship round,10,3,892
+78590,kamil,wilczek,18/19,DBU Pokalen,3,2,300
+78590,kamil,wilczek,18/19,Superliga,23,18,1975
+78590,kamil,wilczek,18/19,Reserveligaen Spring,1,0,90
+78590,kamil,wilczek,18/19,Kwalifikacje do Ligi Europy,4,3,283
+78590,kamil,wilczek,17/18,Superligaen Championship round,9,9,797
+78590,kamil,wilczek,17/18,DBU Pokalen,5,6,326
+78590,kamil,wilczek,17/18,Superliga,21,6,1074
+78590,kamil,wilczek,17/18,Reserveligaen,1,0,61
+78590,kamil,wilczek,17/18,Kwalifikacje do Ligi Europy,4,0,247
+78590,kamil,wilczek,16/17,Superligaen Championship round,5,0,387
+78590,kamil,wilczek,16/17,DBU Pokalen,4,2,316
+78590,kamil,wilczek,16/17,Superliga,25,13,1814
+78590,kamil,wilczek,16/17,Kwalifikacje do Ligi Europy,8,4,681
+78590,kamil,wilczek,15/16,Superliga,13,5,941
+78590,kamil,wilczek,15/16,DBU Pokalen,2,0,87
+78590,kamil,wilczek,15/16,Puchar Włoch,1,0,17
+78590,kamil,wilczek,15/16,Serie A,3,0,115
+78590,kamil,wilczek,14/15,Ekstraklasa,35,20,2916
+78590,kamil,wilczek,14/15,Fortuna Puchar Polski,2,0,102
+78590,kamil,wilczek,13/14,Ekstraklasa,31,9,1787
+78590,kamil,wilczek,13/14,Fortuna Puchar Polski,1,0,58
+78590,kamil,wilczek,13/14,Kwalifikacje do Ligi Europy,1,0,22
+78590,kamil,wilczek,12/13,Ekstraklasa,10,0,197
+78590,kamil,wilczek,12/13,Fortuna Puchar Polski,4,1,199
+78590,kamil,wilczek,11/12,Ekstraklasa,16,0,514
+78590,kamil,wilczek,10/11,Ekstraklasa,16,2,873
+78590,kamil,wilczek,10/11,Fortuna Puchar Polski,1,0,120
+78590,kamil,wilczek,09/10,Ekstraklasa,26,5,2155
+78590,kamil,wilczek,08/09,Ekstraklasa,13,2,1116
+78590,kamil,wilczek,08/09,1 Liga,10,2,721
+78590,kamil,wilczek,07/08,2 Liga,22,3,1377

@@ -1,8 +1,8 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2021-01-10,RSC Anderlecht,Lech Poznan,500000,500000
-19/20,2020-06-30,Rayo Vallecano,RSC Anderlecht,650000,End of loan
-19/20,2019-08-30,RSC Anderlecht,Rayo Vallecano,2000000,loan transfer
-18/19,2018-07-01,KV Oostende,RSC Anderlecht,3000000,0
-14/15,2015-01-01,Hajduk Split,KV Oostende,1000000,500000
-11/12,2011-07-01,Hajduk U17,Hajduk Split,0,0
-09/10,2009-07-01,Hajduk Yth.,Hajduk U17,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+179896,antonio,milic,20/21,2021-01-10,RSC Anderlecht,Lech Poznan,500000,500000
+179896,antonio,milic,19/20,2020-06-30,Rayo Vallecano,RSC Anderlecht,650000,End of loan
+179896,antonio,milic,19/20,2019-08-30,RSC Anderlecht,Rayo Vallecano,2000000,loan transfer
+179896,antonio,milic,18/19,2018-07-01,KV Oostende,RSC Anderlecht,3000000,0
+179896,antonio,milic,14/15,2015-01-01,Hajduk Split,KV Oostende,1000000,500000
+179896,antonio,milic,11/12,2011-07-01,Hajduk U17,Hajduk Split,0,0
+179896,antonio,milic,09/10,2009-07-01,Hajduk Yth.,Hajduk U17,0,0

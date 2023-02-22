@@ -1,9 +1,9 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-725654,aleksander-pawlak,22/23,Ekstraklasa,15,1,1081
-725654,aleksander-pawlak,22/23,Fortuna Puchar Polski,2,0,180
-725654,aleksander-pawlak,21/22,Ekstraklasa,7,1,561
-725654,aleksander-pawlak,21/22,1 Liga,4,0,164
-725654,aleksander-pawlak,21/22,Fortuna Puchar Polski,0,0,0
-725654,aleksander-pawlak,20/21,Ekstraklasa,2,0,37
-725654,aleksander-pawlak,20/21,Fortuna Puchar Polski,2,0,43
-725654,aleksander-pawlak,19/20,Ekstraklasa,4,0,87
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+725654,aleksander,pawlak,22/23,Ekstraklasa,16,1,1171
+725654,aleksander,pawlak,22/23,Fortuna Puchar Polski,2,0,180
+725654,aleksander,pawlak,21/22,Ekstraklasa,7,1,561
+725654,aleksander,pawlak,21/22,1 Liga,4,0,164
+725654,aleksander,pawlak,21/22,Fortuna Puchar Polski,0,0,0
+725654,aleksander,pawlak,20/21,Ekstraklasa,2,0,37
+725654,aleksander,pawlak,20/21,Fortuna Puchar Polski,2,0,43
+725654,aleksander,pawlak,19/20,Ekstraklasa,4,0,87

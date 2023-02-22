@@ -1,27 +1,27 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-393565,michal-skoras,22/23,Ekstraklasa,19,4,1270
-393565,michal-skoras,22/23,Liga Konferencji,6,4,515
-393565,michal-skoras,22/23,UECL Kwalifikacje,6,2,541
-393565,michal-skoras,22/23,Kwalifikacje do Ligi Mistrzów,2,0,162
-393565,michal-skoras,22/23,Superpuchar,1,0,16
-393565,michal-skoras,21/22,Ekstraklasa,29,2,1179
-393565,michal-skoras,21/22,Fortuna Puchar Polski,6,0,444
-393565,michal-skoras,21/22,eWinner 2 liga,2,1,180
-393565,michal-skoras,20/21,Ekstraklasa,26,2,1475
-393565,michal-skoras,20/21,Fortuna Puchar Polski,3,0,128
-393565,michal-skoras,20/21,Liga Europy,6,1,366
-393565,michal-skoras,20/21,Kwalifikacje do Ligi Europy,3,0,50
-393565,michal-skoras,20/21,eWinner 2 liga,1,2,89
-393565,michal-skoras,19/20,Ekstraklasa,5,0,93
-393565,michal-skoras,19/20,Fortuna Puchar Polski,0,0,0
-393565,michal-skoras,19/20,eWinner 2 liga,5,1,402
-393565,michal-skoras,19/20,Ekstraklasa,15,1,598
-393565,michal-skoras,19/20,Fortuna Puchar Polski,2,0,174
-393565,michal-skoras,18/19,Fortuna 1 Liga,27,1,1912
-393565,michal-skoras,18/19,Fortuna Puchar Polski,1,0,2
-393565,michal-skoras,17/18,CLJ - Runda Finałowa,4,2,360
-393565,michal-skoras,17/18,CLJ - Grupa Zachodnia,15,4,1253
-393565,michal-skoras,17/18,3 Liga - Grupa II,14,0,562
-393565,michal-skoras,16/17,CLJ - Runda Finałowa,2,0,189
-393565,michal-skoras,16/17,CLJ - Grupa Zachodnia,24,10,1802
-393565,michal-skoras,15/16,CLJ - Grupa Zachodnia,1,0,44
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+393565,michal,skoras,22/23,Ekstraklasa,20,4,1314
+393565,michal,skoras,22/23,Liga Konferencji,7,4,605
+393565,michal,skoras,22/23,UECL Kwalifikacje,6,2,541
+393565,michal,skoras,22/23,Kwalifikacje do Ligi Mistrzów,2,0,162
+393565,michal,skoras,22/23,Superpuchar,1,0,16
+393565,michal,skoras,21/22,Ekstraklasa,29,2,1179
+393565,michal,skoras,21/22,Fortuna Puchar Polski,6,0,444
+393565,michal,skoras,21/22,eWinner 2 liga,2,1,180
+393565,michal,skoras,20/21,Ekstraklasa,26,2,1475
+393565,michal,skoras,20/21,Fortuna Puchar Polski,3,0,128
+393565,michal,skoras,20/21,Liga Europy,6,1,366
+393565,michal,skoras,20/21,Kwalifikacje do Ligi Europy,3,0,50
+393565,michal,skoras,20/21,eWinner 2 liga,1,2,89
+393565,michal,skoras,19/20,Ekstraklasa,5,0,93
+393565,michal,skoras,19/20,Fortuna Puchar Polski,0,0,0
+393565,michal,skoras,19/20,eWinner 2 liga,5,1,402
+393565,michal,skoras,19/20,Ekstraklasa,15,1,598
+393565,michal,skoras,19/20,Fortuna Puchar Polski,2,0,174
+393565,michal,skoras,18/19,Fortuna 1 Liga,27,1,1912
+393565,michal,skoras,18/19,Fortuna Puchar Polski,1,0,2
+393565,michal,skoras,17/18,CLJ - Runda Finałowa,4,2,360
+393565,michal,skoras,17/18,CLJ - Grupa Zachodnia,15,4,1253
+393565,michal,skoras,17/18,3 Liga - Grupa II,14,0,562
+393565,michal,skoras,16/17,CLJ - Runda Finałowa,2,0,189
+393565,michal,skoras,16/17,CLJ - Grupa Zachodnia,24,10,1802
+393565,michal,skoras,15/16,CLJ - Grupa Zachodnia,1,0,44

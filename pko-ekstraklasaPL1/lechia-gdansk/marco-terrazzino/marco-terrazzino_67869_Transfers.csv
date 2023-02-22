@@ -1,15 +1,15 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-08-10,SC Paderborn,Lechia Gdansk,550000,free transfer
-20/21,2020-10-13,Without Club,SC Paderborn,750000,0
-20/21,2020-10-05,SC Freiburg,Without Club,750000,0
-19/20,2020-06-30,Dynamo Dresden,SC Freiburg,800000,End of loan
-19/20,2020-01-03,SC Freiburg,Dynamo Dresden,1000000,Loan
-17/18,2017-08-11,TSG Hoffenheim,SC Freiburg,1500000,2500000
-16/17,2016-07-01,VfL Bochum,TSG Hoffenheim,1000000,free transfer
-14/15,2014-07-01,SC Freiburg,VfL Bochum,400000,free transfer
-12/13,2012-07-01,Karlsruher SC,SC Freiburg,600000,free transfer
-10/11,2011-01-01,TSG Hoffenheim,Karlsruher SC,350000,0
-09/10,2009-07-01,Hoffenheim U19,TSG Hoffenheim,500000,0
-08/09,2008-07-01,Hoffenheim U17,Hoffenheim U19,0,0
-07/08,2007-07-01,Neckarau U17,Hoffenheim U17,0,free transfer
-06/07,2006-07-01,Neckarau Yth.,Neckarau U17,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+67869,marco,terrazzino,21/22,2021-08-10,SC Paderborn,Lechia Gdansk,550000,free transfer
+67869,marco,terrazzino,20/21,2020-10-13,Without Club,SC Paderborn,750000,0
+67869,marco,terrazzino,20/21,2020-10-05,SC Freiburg,Without Club,750000,0
+67869,marco,terrazzino,19/20,2020-06-30,Dynamo Dresden,SC Freiburg,800000,End of loan
+67869,marco,terrazzino,19/20,2020-01-03,SC Freiburg,Dynamo Dresden,1000000,Loan
+67869,marco,terrazzino,17/18,2017-08-11,TSG Hoffenheim,SC Freiburg,1500000,2500000
+67869,marco,terrazzino,16/17,2016-07-01,VfL Bochum,TSG Hoffenheim,1000000,free transfer
+67869,marco,terrazzino,14/15,2014-07-01,SC Freiburg,VfL Bochum,400000,free transfer
+67869,marco,terrazzino,12/13,2012-07-01,Karlsruher SC,SC Freiburg,600000,free transfer
+67869,marco,terrazzino,10/11,2011-01-01,TSG Hoffenheim,Karlsruher SC,350000,0
+67869,marco,terrazzino,09/10,2009-07-01,Hoffenheim U19,TSG Hoffenheim,500000,0
+67869,marco,terrazzino,08/09,2008-07-01,Hoffenheim U17,Hoffenheim U19,0,0
+67869,marco,terrazzino,07/08,2007-07-01,Neckarau U17,Hoffenheim U17,0,free transfer
+67869,marco,terrazzino,06/07,2006-07-01,Neckarau Yth.,Neckarau U17,0,0

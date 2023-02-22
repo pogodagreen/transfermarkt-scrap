@@ -1,13 +1,13 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-15,Lechia Gdansk,Malmö FF,500000,300000
-20/21,2021-01-14,Helsingborgs IF,Lechia Gdansk,300000,free transfer
-19/20,2020-01-01,Djurgården,Helsingborgs IF,125000,free transfer
-19/20,2019-11-30,Dalkurd,Djurgården,125000,End of loan
-18/19,2019-01-28,Djurgården,Dalkurd,125000,loan transfer
-18/19,2018-11-30,Brage,Djurgården,100000,End of loan
-18/19,2018-08-14,Djurgården,Brage,100000,loan transfer
-18/19,2018-07-13,IK Frej Täby,Djurgården,100000,End of loan
-17/18,2017-07-17,Djurgården,IK Frej Täby,50000,loan transfer
-16/17,2016-11-16,Djurgården U19,Djurgården,0,0
-14/15,2015-01-01,Djurgården U17,Djurgården U19,0,0
-13/14,2014-01-01,IF Bromma U17,Djurgården U17,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+364278,joseph,ceesay,22/23,2022-07-15,Lechia Gdansk,Malmö FF,500000,300000
+364278,joseph,ceesay,20/21,2021-01-14,Helsingborgs IF,Lechia Gdansk,300000,free transfer
+364278,joseph,ceesay,19/20,2020-01-01,Djurgården,Helsingborgs IF,125000,free transfer
+364278,joseph,ceesay,19/20,2019-11-30,Dalkurd,Djurgården,125000,End of loan
+364278,joseph,ceesay,18/19,2019-01-28,Djurgården,Dalkurd,125000,loan transfer
+364278,joseph,ceesay,18/19,2018-11-30,Brage,Djurgården,100000,End of loan
+364278,joseph,ceesay,18/19,2018-08-14,Djurgården,Brage,100000,loan transfer
+364278,joseph,ceesay,18/19,2018-07-13,IK Frej Täby,Djurgården,100000,End of loan
+364278,joseph,ceesay,17/18,2017-07-17,Djurgården,IK Frej Täby,50000,loan transfer
+364278,joseph,ceesay,16/17,2016-11-16,Djurgården U19,Djurgården,0,0
+364278,joseph,ceesay,14/15,2015-01-01,Djurgården U17,Djurgården U19,0,0
+364278,joseph,ceesay,13/14,2014-01-01,IF Bromma U17,Djurgården U17,0,free transfer

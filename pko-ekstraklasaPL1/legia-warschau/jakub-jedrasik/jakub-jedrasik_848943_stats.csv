@@ -1,8 +1,8 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-848943,jakub-jedrasik,22/23,Ekstraklasa,0,0,0
-848943,jakub-jedrasik,22/23,CLJ,2,0,180
-848943,jakub-jedrasik,22/23,3 Liga - Grupa I,17,5,1048
-848943,jakub-jedrasik,22/23,Fortuna Puchar Polski,1,0,90
-848943,jakub-jedrasik,21/22,3 Liga - Grupa I,5,1,125
-848943,jakub-jedrasik,21/22,CLJ,12,5,792
-848943,jakub-jedrasik,20/21,CLJ,1,0,20
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+848943,jakub,jedrasik,22/23,Ekstraklasa,0,0,0
+848943,jakub,jedrasik,22/23,CLJ,2,0,180
+848943,jakub,jedrasik,22/23,3 Liga - Grupa I,17,5,1048
+848943,jakub,jedrasik,22/23,Fortuna Puchar Polski,1,0,90
+848943,jakub,jedrasik,21/22,3 Liga - Grupa I,5,1,125
+848943,jakub,jedrasik,21/22,CLJ,12,5,792
+848943,jakub,jedrasik,20/21,CLJ,1,0,20

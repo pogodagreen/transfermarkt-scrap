@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-01,Olympiacos,Pogon Szczecin,800000,free transfer
-21/22,2022-06-30,F. Düsseldorf,Olympiacos,1000000,End of loan
-20/21,2020-10-02,Olympiacos,F. Düsseldorf,3500000,Loan
-19/20,2020-06-30,RCD Mallorca,Olympiacos,3500000,End of loan
-19/20,2020-01-29,Olympiacos,RCD Mallorca,4500000,Loan
-17/18,2017-07-01,PAS Giannina,Olympiacos,600000,600000
-15/16,2016-01-26,Ergotelis,PAS Giannina,300000,free transfer
-12/13,2013-01-28,GS Ergotelis U20,Ergotelis,50000,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+187530,leonardo,koutris,22/23,2023-01-01,Olympiacos,Pogon Szczecin,800000,free transfer
+187530,leonardo,koutris,21/22,2022-06-30,F. Düsseldorf,Olympiacos,1000000,End of loan
+187530,leonardo,koutris,20/21,2020-10-02,Olympiacos,F. Düsseldorf,3500000,Loan
+187530,leonardo,koutris,19/20,2020-06-30,RCD Mallorca,Olympiacos,3500000,End of loan
+187530,leonardo,koutris,19/20,2020-01-29,Olympiacos,RCD Mallorca,4500000,Loan
+187530,leonardo,koutris,17/18,2017-07-01,PAS Giannina,Olympiacos,600000,600000
+187530,leonardo,koutris,15/16,2016-01-26,Ergotelis,PAS Giannina,300000,free transfer
+187530,leonardo,koutris,12/13,2013-01-28,GS Ergotelis U20,Ergotelis,50000,0

@@ -1,10 +1,10 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-739910,pawel-chrupalla,22/23,Ekstraklasa,1,0,32
-739910,pawel-chrupalla,2022,Eliteserien,9,0,129
-739910,pawel-chrupalla,2022,NM-Cup,1,0,81
-739910,pawel-chrupalla,2022,Eliteserien,4,1,48
-739910,pawel-chrupalla,2022,NM-Cup,2,0,63
-739910,pawel-chrupalla,2021,OBOS-ligaen,1,0,0
-739910,pawel-chrupalla,2021,PostNord-ligaen Avd. 2,6,0,494
-739910,pawel-chrupalla,2021,Eliteserien,0,0,0
-739910,pawel-chrupalla,2020,PostNord-ligaen Avd. 2,1,0,10
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+739910,pawel,chrupalla,22/23,Ekstraklasa,2,0,51
+739910,pawel,chrupalla,2022,Eliteserien,9,0,129
+739910,pawel,chrupalla,2022,NM-Cup,1,0,81
+739910,pawel,chrupalla,2022,Eliteserien,4,1,48
+739910,pawel,chrupalla,2022,NM-Cup,2,0,63
+739910,pawel,chrupalla,2021,OBOS-ligaen,1,0,0
+739910,pawel,chrupalla,2021,PostNord-ligaen Avd. 2,6,0,494
+739910,pawel,chrupalla,2021,Eliteserien,0,0,0
+739910,pawel,chrupalla,2020,PostNord-ligaen Avd. 2,1,0,10

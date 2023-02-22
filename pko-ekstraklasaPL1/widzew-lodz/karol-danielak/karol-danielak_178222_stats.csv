@@ -1,28 +1,28 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-178222,karol-danielak,22/23,Ekstraklasa,14,1,847
-178222,karol-danielak,22/23,Fortuna Puchar Polski,1,0,64
-178222,karol-danielak,21/22,1 Liga,33,4,2482
-178222,karol-danielak,21/22,Fortuna Puchar Polski,2,0,82
-178222,karol-danielak,20/21,Ekstraklasa,26,1,1477
-178222,karol-danielak,20/21,Fortuna Puchar Polski,1,1,90
-178222,karol-danielak,19/20,1 Liga,33,13,2771
-178222,karol-danielak,19/20,Fortuna Puchar Polski,0,0,0
-178222,karol-danielak,18/19,Fortuna Puchar Polski,2,0,180
-178222,karol-danielak,18/19,Ekstraklasa,4,0,70
-178222,karol-danielak,18/19,Superpuchar,1,0,44
-178222,karol-danielak,17/18,Nice 1 Liga,33,3,2924
-178222,karol-danielak,17/18,Fortuna Puchar Polski,5,0,450
-178222,karol-danielak,16/17,Nice 1 Liga,25,3,1462
-178222,karol-danielak,15/16,1 Liga,7,0,461
-178222,karol-danielak,15/16,Fortuna Puchar Polski,2,1,119
-178222,karol-danielak,15/16,Ekstraklasa,11,0,541
-178222,karol-danielak,15/16,Fortuna Puchar Polski,1,0,90
-178222,karol-danielak,14/15,Ekstraklasa,11,0,435
-178222,karol-danielak,14/15,1 Liga,17,2,1326
-178222,karol-danielak,14/15,Fortuna Puchar Polski,4,2,270
-178222,karol-danielak,13/14,2 Liga - Grupa zachodnia,15,3,1273
-178222,karol-danielak,13/14,2 Liga - Grupa zachodnia,17,1,1497
-178222,karol-danielak,13/14,Fortuna Puchar Polski,1,0,90
-178222,karol-danielak,12/13,2 Liga - Grupa zachodnia,32,2,2548
-178222,karol-danielak,11/12,Fortuna Puchar Polski,1,0,120
-178222,karol-danielak,10/11,Fortuna Puchar Polski,2,0,188
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+178222,karol,danielak,22/23,Ekstraklasa,14,1,847
+178222,karol,danielak,22/23,Fortuna Puchar Polski,1,0,64
+178222,karol,danielak,21/22,1 Liga,33,4,2482
+178222,karol,danielak,21/22,Fortuna Puchar Polski,2,0,82
+178222,karol,danielak,20/21,Ekstraklasa,26,1,1477
+178222,karol,danielak,20/21,Fortuna Puchar Polski,1,1,90
+178222,karol,danielak,19/20,1 Liga,33,13,2771
+178222,karol,danielak,19/20,Fortuna Puchar Polski,0,0,0
+178222,karol,danielak,18/19,Fortuna Puchar Polski,2,0,180
+178222,karol,danielak,18/19,Ekstraklasa,4,0,70
+178222,karol,danielak,18/19,Superpuchar,1,0,44
+178222,karol,danielak,17/18,Nice 1 Liga,33,3,2924
+178222,karol,danielak,17/18,Fortuna Puchar Polski,5,0,450
+178222,karol,danielak,16/17,Nice 1 Liga,25,3,1462
+178222,karol,danielak,15/16,1 Liga,7,0,461
+178222,karol,danielak,15/16,Fortuna Puchar Polski,2,1,119
+178222,karol,danielak,15/16,Ekstraklasa,11,0,541
+178222,karol,danielak,15/16,Fortuna Puchar Polski,1,0,90
+178222,karol,danielak,14/15,Ekstraklasa,11,0,435
+178222,karol,danielak,14/15,1 Liga,17,2,1326
+178222,karol,danielak,14/15,Fortuna Puchar Polski,4,2,270
+178222,karol,danielak,13/14,2 Liga - Grupa zachodnia,15,3,1273
+178222,karol,danielak,13/14,2 Liga - Grupa zachodnia,17,1,1497
+178222,karol,danielak,13/14,Fortuna Puchar Polski,1,0,90
+178222,karol,danielak,12/13,2 Liga - Grupa zachodnia,32,2,2548
+178222,karol,danielak,11/12,Fortuna Puchar Polski,1,0,120
+178222,karol,danielak,10/11,Fortuna Puchar Polski,2,0,188

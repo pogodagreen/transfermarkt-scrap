@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-04-15,Piast Gliwice II,Piast Gliwice,0,0
-20/21,2021-02-22,Piast U19,Piast Gliwice II,0,0
-20/21,2020-07-01,AP Wisla,Piast U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+581899,jakub,niedbala,21/22,2022-04-15,Piast Gliwice II,Piast Gliwice,0,0
+581899,jakub,niedbala,20/21,2021-02-22,Piast U19,Piast Gliwice II,0,0
+581899,jakub,niedbala,20/21,2020-07-01,AP Wisla,Piast U19,0,0

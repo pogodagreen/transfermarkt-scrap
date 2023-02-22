@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-19/20,2020-01-01,Without Club,Rakow,950000,0
-19/20,2019-07-01,Hajduk Split,Without Club,950000,0
-14/15,2015-04-13,Hajduk Split II,Hajduk Split,0,0
-14/15,2015-02-16,PAO U20,Hajduk Split II,0,free transfer
-14/15,2014-08-31,NK Zagreb U19,PAO U20,0,free transfer
-12/13,2012-07-01,NK Zagreb U17,NK Zagreb U19,0,0
-10/11,2010-07-01,NK Zagreb Yth.,NK Zagreb U17,0,0
-07/08,2007-08-24,D. Zagreb Yth.,NK Zagreb Yth.,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+343158,fran,tudor,19/20,2020-01-01,Without Club,Rakow,950000,0
+343158,fran,tudor,19/20,2019-07-01,Hajduk Split,Without Club,950000,0
+343158,fran,tudor,14/15,2015-04-13,Hajduk Split II,Hajduk Split,0,0
+343158,fran,tudor,14/15,2015-02-16,PAO U20,Hajduk Split II,0,free transfer
+343158,fran,tudor,14/15,2014-08-31,NK Zagreb U19,PAO U20,0,free transfer
+343158,fran,tudor,12/13,2012-07-01,NK Zagreb U17,NK Zagreb U19,0,0
+343158,fran,tudor,10/11,2010-07-01,NK Zagreb Yth.,NK Zagreb U17,0,0
+343158,fran,tudor,07/08,2007-08-24,D. Zagreb Yth.,NK Zagreb Yth.,0,0

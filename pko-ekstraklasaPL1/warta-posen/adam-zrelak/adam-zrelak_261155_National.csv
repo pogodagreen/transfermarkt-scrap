@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-261155,adam-zrelak,1994,Slovakia,"1,83",Centre-Forward,1,0,0,0,3,1,8,0
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+261155,adam,zrelak,1994,Slovakia,"1,83",Centre-Forward,1,0,0,0,3,1,8,0

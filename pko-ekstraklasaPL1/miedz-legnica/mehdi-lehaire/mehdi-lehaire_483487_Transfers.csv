@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-06-30,Resovia,Miedz Legnica,150000,End of loan
-22/23,2023-01-16,Miedz Legnica,Resovia,150000,loan transfer
-20/21,2020-08-18,Utrecht U21,Miedz Legnica,75000,free transfer
-18/19,2018-07-01,Lierse SK U21,Utrecht U21,0,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+483487,mehdi,lehaire,22/23,2023-06-30,Resovia,Miedz Legnica,150000,End of loan
+483487,mehdi,lehaire,22/23,2023-01-16,Miedz Legnica,Resovia,150000,loan transfer
+483487,mehdi,lehaire,20/21,2020-08-18,Utrecht U21,Miedz Legnica,75000,free transfer
+483487,mehdi,lehaire,18/19,2018-07-01,Lierse SK U21,Utrecht U21,0,free transfer

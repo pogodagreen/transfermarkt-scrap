@@ -1,30 +1,30 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-191895,rafal-kurzawa,22/23,Ekstraklasa,10,0,723
-191895,rafal-kurzawa,22/23,Fortuna Puchar Polski,2,0,150
-191895,rafal-kurzawa,22/23,3 Liga - Grupa II,2,0,90
-191895,rafal-kurzawa,21/22,Ekstraklasa,22,1,1052
-191895,rafal-kurzawa,21/22,Fortuna Puchar Polski,1,0,90
-191895,rafal-kurzawa,21/22,UECL Kwalifikacje,2,0,149
-191895,rafal-kurzawa,20/21,Ekstraklasa,10,2,581
-191895,rafal-kurzawa,19/20,Superligaen Relegation round,6,2,540
-191895,rafal-kurzawa,19/20,Superligaen,6,0,534
-191895,rafal-kurzawa,19/20,DBU Pokalen,1,0,90
-191895,rafal-kurzawa,18/19,Superligaen Championship round,5,0,371
-191895,rafal-kurzawa,18/19,Reserveligaen Spring,3,1,270
-191895,rafal-kurzawa,18/19,DBU Pokalen,2,0,180
-191895,rafal-kurzawa,18/19,Superliga,2,1,105
-191895,rafal-kurzawa,18/19,Ligue 1,11,1,230
-191895,rafal-kurzawa,18/19,Coupe de France,1,0,90
-191895,rafal-kurzawa,18/19,Coupe de la Ligue,2,0,158
-191895,rafal-kurzawa,17/18,Ekstraklasa,36,2,3156
-191895,rafal-kurzawa,17/18,Fortuna Puchar Polski,5,2,480
-191895,rafal-kurzawa,16/17,Nice 1 Liga,33,4,2943
-191895,rafal-kurzawa,16/17,Fortuna Puchar Polski,2,1,210
-191895,rafal-kurzawa,15/16,Ekstraklasa,23,1,1192
-191895,rafal-kurzawa,15/16,Fortuna Puchar Polski,1,0,82
-191895,rafal-kurzawa,14/15,Ekstraklasa,12,0,614
-191895,rafal-kurzawa,14/15,Fortuna Puchar Polski,1,0,90
-191895,rafal-kurzawa,13/14,Ekstraklasa,5,0,130
-191895,rafal-kurzawa,13/14,1 Liga,17,1,1283
-191895,rafal-kurzawa,13/14,Fortuna Puchar Polski,1,1,86
-191895,rafal-kurzawa,12/13,2 Liga - Grupa zachodnia,32,3,1897
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+191895,rafal,kurzawa,22/23,Ekstraklasa,11,0,767
+191895,rafal,kurzawa,22/23,Fortuna Puchar Polski,2,0,150
+191895,rafal,kurzawa,22/23,3 Liga - Grupa II,2,0,90
+191895,rafal,kurzawa,21/22,Ekstraklasa,22,1,1052
+191895,rafal,kurzawa,21/22,Fortuna Puchar Polski,1,0,90
+191895,rafal,kurzawa,21/22,UECL Kwalifikacje,2,0,149
+191895,rafal,kurzawa,20/21,Ekstraklasa,10,2,581
+191895,rafal,kurzawa,19/20,Superligaen Relegation round,6,2,540
+191895,rafal,kurzawa,19/20,Superligaen,6,0,534
+191895,rafal,kurzawa,19/20,DBU Pokalen,1,0,90
+191895,rafal,kurzawa,18/19,Superligaen Championship round,5,0,371
+191895,rafal,kurzawa,18/19,Reserveligaen Spring,3,1,270
+191895,rafal,kurzawa,18/19,DBU Pokalen,2,0,180
+191895,rafal,kurzawa,18/19,Superliga,2,1,105
+191895,rafal,kurzawa,18/19,Ligue 1,11,1,230
+191895,rafal,kurzawa,18/19,Coupe de France,1,0,90
+191895,rafal,kurzawa,18/19,Coupe de la Ligue,2,0,158
+191895,rafal,kurzawa,17/18,Ekstraklasa,36,2,3156
+191895,rafal,kurzawa,17/18,Fortuna Puchar Polski,5,2,480
+191895,rafal,kurzawa,16/17,Nice 1 Liga,33,4,2943
+191895,rafal,kurzawa,16/17,Fortuna Puchar Polski,2,1,210
+191895,rafal,kurzawa,15/16,Ekstraklasa,23,1,1192
+191895,rafal,kurzawa,15/16,Fortuna Puchar Polski,1,0,82
+191895,rafal,kurzawa,14/15,Ekstraklasa,12,0,614
+191895,rafal,kurzawa,14/15,Fortuna Puchar Polski,1,0,90
+191895,rafal,kurzawa,13/14,Ekstraklasa,5,0,130
+191895,rafal,kurzawa,13/14,1 Liga,17,1,1283
+191895,rafal,kurzawa,13/14,Fortuna Puchar Polski,1,1,86
+191895,rafal,kurzawa,12/13,2 Liga - Grupa zachodnia,32,3,1897

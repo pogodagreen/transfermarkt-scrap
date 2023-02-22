@@ -1,32 +1,32 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-178078,mato-milos,22/23,Ekstraklasa,13,1,826
-178078,mato-milos,22/23,Fortuna Puchar Polski,1,0,56
-178078,mato-milos,22/23,SuperSport HNL,6,0,312
-178078,mato-milos,22/23,UECL Kwalifikacje,1,0,16
-178078,mato-milos,21/22,1. HNL,22,0,1353
-178078,mato-milos,21/22,Hrvatski nogometni kup,2,0,139
-178078,mato-milos,21/22,UECL Kwalifikacje,4,0,340
-178078,mato-milos,20/21,SuperSport HNL,13,0,906
-178078,mato-milos,20/21,Hrvatski nogometni kup,1,0,90
-178078,mato-milos,19/20,Liga NOS,15,0,1303
-178078,mato-milos,19/20,Taça de Portugal,1,0,90
-178078,mato-milos,19/20,Allianz Cup,1,0,90
-178078,mato-milos,18/19,Liga NOS,6,0,222
-178078,mato-milos,18/19,Taça de Portugal,1,0,90
-178078,mato-milos,18/19,Allianz Cup,0,0,0
-178078,mato-milos,17/18,Ekstraklasa,14,0,1047
-178078,mato-milos,17/18,SuperSport HNL,4,0,360
-178078,mato-milos,16/17,1.HNL,25,0,2167
-178078,mato-milos,15/16,Serie B,15,1,897
-178078,mato-milos,15/16,Serie B,10,0,854
-178078,mato-milos,15/16,Puchar Włoch,2,0,116
-178078,mato-milos,14/15,Serie B Play-off,1,0,120
-178078,mato-milos,14/15,Serie B,30,0,2492
-178078,mato-milos,14/15,Puchar Włoch,0,0,0
-178078,mato-milos,13/14,Serie B,11,0,621
-178078,mato-milos,13/14,Puchar Włoch,1,0,120
-178078,mato-milos,13/14,Primavera A,1,0,90
-178078,mato-milos,12/13,SuperSport HNL,11,0,804
-178078,mato-milos,12/13,SuperSport HNL,7,0,249
-178078,mato-milos,11/12,SuperSport HNL,13,0,926
-178078,mato-milos,10/11,SuperSport HNL,1,0,88
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+178078,mato,milos,22/23,Ekstraklasa,14,1,911
+178078,mato,milos,22/23,Fortuna Puchar Polski,1,0,56
+178078,mato,milos,22/23,SuperSport HNL,6,0,312
+178078,mato,milos,22/23,UECL Kwalifikacje,1,0,16
+178078,mato,milos,21/22,1. HNL,22,0,1353
+178078,mato,milos,21/22,Hrvatski nogometni kup,2,0,139
+178078,mato,milos,21/22,UECL Kwalifikacje,4,0,340
+178078,mato,milos,20/21,SuperSport HNL,13,0,906
+178078,mato,milos,20/21,Hrvatski nogometni kup,1,0,90
+178078,mato,milos,19/20,Liga NOS,15,0,1303
+178078,mato,milos,19/20,Taça de Portugal,1,0,90
+178078,mato,milos,19/20,Allianz Cup,1,0,90
+178078,mato,milos,18/19,Liga NOS,6,0,222
+178078,mato,milos,18/19,Taça de Portugal,1,0,90
+178078,mato,milos,18/19,Allianz Cup,0,0,0
+178078,mato,milos,17/18,Ekstraklasa,14,0,1047
+178078,mato,milos,17/18,SuperSport HNL,4,0,360
+178078,mato,milos,16/17,1.HNL,25,0,2167
+178078,mato,milos,15/16,Serie B,15,1,897
+178078,mato,milos,15/16,Serie B,10,0,854
+178078,mato,milos,15/16,Puchar Włoch,2,0,116
+178078,mato,milos,14/15,Serie B Play-off,1,0,120
+178078,mato,milos,14/15,Serie B,30,0,2492
+178078,mato,milos,14/15,Puchar Włoch,0,0,0
+178078,mato,milos,13/14,Serie B,11,0,621
+178078,mato,milos,13/14,Puchar Włoch,1,0,120
+178078,mato,milos,13/14,Primavera A,1,0,90
+178078,mato,milos,12/13,SuperSport HNL,11,0,804
+178078,mato,milos,12/13,SuperSport HNL,7,0,249
+178078,mato,milos,11/12,SuperSport HNL,13,0,926
+178078,mato,milos,10/11,SuperSport HNL,1,0,88

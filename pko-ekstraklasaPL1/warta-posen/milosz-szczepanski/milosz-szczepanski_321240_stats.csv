@@ -1,21 +1,21 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-321240,milosz-szczepanski,22/23,Ekstraklasa,14,1,614
-321240,milosz-szczepanski,21/22,Ekstraklasa,13,2,593
-321240,milosz-szczepanski,21/22,Ekstraklasa,1,0,5
-321240,milosz-szczepanski,21/22,Fortuna Puchar Polski,1,0,10
-321240,milosz-szczepanski,19/20,Ekstraklasa,25,1,1843
-321240,milosz-szczepanski,19/20,Fortuna Puchar Polski,2,0,133
-321240,milosz-szczepanski,18/19,Fortuna 1 Liga,29,7,2147
-321240,milosz-szczepanski,18/19,Fortuna Puchar Polski,4,1,300
-321240,milosz-szczepanski,17/18,Nice 1 Liga,7,0,379
-321240,milosz-szczepanski,17/18,Liga Młodzieżowa UEFA,4,0,360
-321240,milosz-szczepanski,17/18,3 Liga - Grupa I,14,2,1053
-321240,milosz-szczepanski,17/18,Ekstraklasa,0,0,0
-321240,milosz-szczepanski,17/18,Fortuna Puchar Polski,1,0,17
-321240,milosz-szczepanski,16/17,3 Liga - Grupa I,23,6,1282
-321240,milosz-szczepanski,16/17,CLJ - Grupa Wschodnia,3,0,252
-321240,milosz-szczepanski,16/17,Liga Młodzieżowa UEFA,3,2,259
-321240,milosz-szczepanski,15/16,CLJ - Runda Finałowa,3,2,214
-321240,milosz-szczepanski,15/16,CLJ - Grupa Wschodnia,3,1,224
-321240,milosz-szczepanski,15/16,Liga Młodzieżowa UEFA,4,0,276
-321240,milosz-szczepanski,14/15,CLJ - Runda Finałowa,4,0,167
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+321240,milosz,szczepanski,22/23,Ekstraklasa,15,1,672
+321240,milosz,szczepanski,21/22,Ekstraklasa,13,2,593
+321240,milosz,szczepanski,21/22,Ekstraklasa,1,0,5
+321240,milosz,szczepanski,21/22,Fortuna Puchar Polski,1,0,10
+321240,milosz,szczepanski,19/20,Ekstraklasa,25,1,1843
+321240,milosz,szczepanski,19/20,Fortuna Puchar Polski,2,0,133
+321240,milosz,szczepanski,18/19,Fortuna 1 Liga,29,7,2147
+321240,milosz,szczepanski,18/19,Fortuna Puchar Polski,4,1,300
+321240,milosz,szczepanski,17/18,Nice 1 Liga,7,0,379
+321240,milosz,szczepanski,17/18,Liga Młodzieżowa UEFA,4,0,360
+321240,milosz,szczepanski,17/18,3 Liga - Grupa I,14,2,1053
+321240,milosz,szczepanski,17/18,Ekstraklasa,0,0,0
+321240,milosz,szczepanski,17/18,Fortuna Puchar Polski,1,0,17
+321240,milosz,szczepanski,16/17,3 Liga - Grupa I,23,6,1282
+321240,milosz,szczepanski,16/17,CLJ - Grupa Wschodnia,3,0,252
+321240,milosz,szczepanski,16/17,Liga Młodzieżowa UEFA,3,2,259
+321240,milosz,szczepanski,15/16,CLJ - Runda Finałowa,3,2,214
+321240,milosz,szczepanski,15/16,CLJ - Grupa Wschodnia,3,1,224
+321240,milosz,szczepanski,15/16,Liga Młodzieżowa UEFA,4,0,276
+321240,milosz,szczepanski,14/15,CLJ - Runda Finałowa,4,0,167

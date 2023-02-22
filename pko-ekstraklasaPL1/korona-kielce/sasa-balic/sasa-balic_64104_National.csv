@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-64104,sasa-balic,1990,Montenegro,"1,85",Left-Back,0,0,14,0,16,0,12,14
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+64104,sasa,balic,1990,Montenegro,"1,85",Left-Back,0,0,14,0,16,0,12,14

@@ -1,9 +1,9 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-751104,milosz-matysik,22/23,Ekstraklasa,8,0,477
-751104,milosz-matysik,22/23,Fortuna Puchar Polski,1,0,45
-751104,milosz-matysik,22/23,3 Liga - Grupa I,1,0,30
-751104,milosz-matysik,21/22,Ekstraklasa,13,1,901
-751104,milosz-matysik,20/21,CLJ,18,1,1450
-751104,milosz-matysik,20/21,Ekstraklasa,1,0,6
-751104,milosz-matysik,20/21,3 Liga - Grupa I,6,1,387
-751104,milosz-matysik,19/20,CLJ,1,0,90
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+751104,milosz,matysik,22/23,Ekstraklasa,8,0,477
+751104,milosz,matysik,22/23,Fortuna Puchar Polski,1,0,45
+751104,milosz,matysik,22/23,3 Liga - Grupa I,1,0,30
+751104,milosz,matysik,21/22,Ekstraklasa,13,1,901
+751104,milosz,matysik,20/21,CLJ,18,1,1450
+751104,milosz,matysik,20/21,Ekstraklasa,1,0,6
+751104,milosz,matysik,20/21,3 Liga - Grupa I,6,1,387
+751104,milosz,matysik,19/20,CLJ,1,0,90

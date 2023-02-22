@@ -1,20 +1,20 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-345460,przemyslaw-bargiel,22/23,eWinner 2 liga,13,2,809
-345460,przemyslaw-bargiel,22/23,Fortuna Puchar Polski,1,0,64
-345460,przemyslaw-bargiel,21/22,eWinner 2 liga,23,5,1719
-345460,przemyslaw-bargiel,21/22,Fortuna Puchar Polski,0,0,0
-345460,przemyslaw-bargiel,20/21,eWinner 2 liga,29,4,2037
-345460,przemyslaw-bargiel,20/21,Ekstraklasa,3,0,13
-345460,przemyslaw-bargiel,19/20,Ekstraklasa,0,0,0
-345460,przemyslaw-bargiel,19/20,3 Liga - Grupa III,9,3,673
-345460,przemyslaw-bargiel,18/19,Play-off/out U19,1,0,90
-345460,przemyslaw-bargiel,18/19,Primavera 2 - A,19,1,1383
-345460,przemyslaw-bargiel,18/19,Viareggio,2,0,116
-345460,przemyslaw-bargiel,18/19,Coppa Primavera,1,0,27
-345460,przemyslaw-bargiel,17/18,Primavera 1,5,0,217
-345460,przemyslaw-bargiel,17/18,Coppa Primavera,3,0,220
-345460,przemyslaw-bargiel,17/18,Viareggio,4,0,210
-345460,przemyslaw-bargiel,16/17,Ekstraklasa,1,0,12
-345460,przemyslaw-bargiel,16/17,Fortuna Puchar Polski,1,0,61
-345460,przemyslaw-bargiel,15/16,Ekstraklasa,4,0,82
-345460,przemyslaw-bargiel,15/16,CLJ - Grupa Zachodnia,13,1,988
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+345460,przemyslaw,bargiel,22/23,eWinner 2 liga,13,2,809
+345460,przemyslaw,bargiel,22/23,Fortuna Puchar Polski,1,0,64
+345460,przemyslaw,bargiel,21/22,eWinner 2 liga,23,5,1719
+345460,przemyslaw,bargiel,21/22,Fortuna Puchar Polski,0,0,0
+345460,przemyslaw,bargiel,20/21,eWinner 2 liga,29,4,2037
+345460,przemyslaw,bargiel,20/21,Ekstraklasa,3,0,13
+345460,przemyslaw,bargiel,19/20,Ekstraklasa,0,0,0
+345460,przemyslaw,bargiel,19/20,3 Liga - Grupa III,9,3,673
+345460,przemyslaw,bargiel,18/19,Play-off/out U19,1,0,90
+345460,przemyslaw,bargiel,18/19,Primavera 2 - A,19,1,1383
+345460,przemyslaw,bargiel,18/19,Viareggio,2,0,116
+345460,przemyslaw,bargiel,18/19,Coppa Primavera,1,0,27
+345460,przemyslaw,bargiel,17/18,Primavera 1,5,0,217
+345460,przemyslaw,bargiel,17/18,Coppa Primavera,3,0,220
+345460,przemyslaw,bargiel,17/18,Viareggio,4,0,210
+345460,przemyslaw,bargiel,16/17,Ekstraklasa,1,0,12
+345460,przemyslaw,bargiel,16/17,Fortuna Puchar Polski,1,0,61
+345460,przemyslaw,bargiel,15/16,Ekstraklasa,4,0,82
+345460,przemyslaw,bargiel,15/16,CLJ - Grupa Zachodnia,13,1,988

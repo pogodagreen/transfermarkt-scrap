@@ -1,20 +1,20 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-291693,jordi-sanchez,22/23,Ekstraklasa,19,5,1387
-291693,jordi-sanchez,22/23,Fortuna Puchar Polski,1,2,120
-291693,jordi-sanchez,21/22,Ascenso LaLiga2,2,2,210
-291693,jordi-sanchez,21/22,Primera Federación - Gr. II,35,6,1523
-291693,jordi-sanchez,21/22,Puchar Króla,2,0,119
-291693,jordi-sanchez,20/21,Ascenso LaLiga2,2,0,179
-291693,jordi-sanchez,20/21,2ª B - Fase de ascenso,5,0,348
-291693,jordi-sanchez,20/21,2ª B - Grupo IV,7,4,474
-291693,jordi-sanchez,20/21,LaLiga SmartBank,17,0,534
-291693,jordi-sanchez,20/21,Puchar Króla,2,0,103
-291693,jordi-sanchez,19/20,2ª B - Grupo III,25,8,2207
-291693,jordi-sanchez,18/19,2ª B - Grupo IV,12,2,431
-291693,jordi-sanchez,18/19,LaLiga 1|2|3,7,1,99
-291693,jordi-sanchez,18/19,Puchar Króla,1,0,24
-291693,jordi-sanchez,17/18,2ª B - Grupo III,32,10,2261
-291693,jordi-sanchez,16/17,Ascenso a 2ª,6,0,151
-291693,jordi-sanchez,16/17,2ª B - Grupo III,34,6,1656
-291693,jordi-sanchez,13/14,2ª B - Grupo III,4,1,150
-291693,jordi-sanchez,12/13,2ª B - Grupo III,2,0,48
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+291693,jordi,sanchez,22/23,Ekstraklasa,20,5,1477
+291693,jordi,sanchez,22/23,Fortuna Puchar Polski,1,2,120
+291693,jordi,sanchez,21/22,Ascenso LaLiga2,2,2,210
+291693,jordi,sanchez,21/22,Primera Federación - Gr. II,35,6,1523
+291693,jordi,sanchez,21/22,Puchar Króla,2,0,119
+291693,jordi,sanchez,20/21,Ascenso LaLiga2,2,0,179
+291693,jordi,sanchez,20/21,2ª B - Fase de ascenso,5,0,348
+291693,jordi,sanchez,20/21,2ª B - Grupo IV,7,4,474
+291693,jordi,sanchez,20/21,LaLiga SmartBank,17,0,534
+291693,jordi,sanchez,20/21,Puchar Króla,2,0,103
+291693,jordi,sanchez,19/20,2ª B - Grupo III,25,8,2207
+291693,jordi,sanchez,18/19,2ª B - Grupo IV,12,2,431
+291693,jordi,sanchez,18/19,LaLiga 1|2|3,7,1,99
+291693,jordi,sanchez,18/19,Puchar Króla,1,0,24
+291693,jordi,sanchez,17/18,2ª B - Grupo III,32,10,2261
+291693,jordi,sanchez,16/17,Ascenso a 2ª,6,0,151
+291693,jordi,sanchez,16/17,2ª B - Grupo III,34,6,1656
+291693,jordi,sanchez,13/14,2ª B - Grupo III,4,1,150
+291693,jordi,sanchez,12/13,2ª B - Grupo III,2,0,48

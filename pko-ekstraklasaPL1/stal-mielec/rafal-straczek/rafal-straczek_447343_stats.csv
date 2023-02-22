@@ -1,16 +1,16 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-447343,rafal-straczek,22/23,Ligue 2,0,0,0
-447343,rafal-straczek,22/23,Coupe de France,3,0,1
-447343,rafal-straczek,22/23,N3 - Nouvelle-Aqu.,1,0,0
-447343,rafal-straczek,21/22,Ekstraklasa,26,0,6
-447343,rafal-straczek,20/21,Ekstraklasa,25,0,5
-447343,rafal-straczek,20/21,Fortuna Puchar Polski,1,0,1
-447343,rafal-straczek,19/20,1 Liga,4,0,1
-447343,rafal-straczek,19/20,3 Liga - Grupa IV,5,0,2
-447343,rafal-straczek,18/19,Fortuna 1 Liga,0,0,0
-447343,rafal-straczek,18/19,3 Liga - Grupa IV,11,0,3
-447343,rafal-straczek,17/18,Nice 1 Liga,2,0,0
-447343,rafal-straczek,16/17,Nice 1 Liga,2,0,0
-447343,rafal-straczek,16/17,CLJ - Grupa Wschodnia,6,0,1
-447343,rafal-straczek,16/17,3 Liga - Grupa IV,15,0,6
-447343,rafal-straczek,16/17,Fortuna Puchar Polski,1,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+447343,rafal,straczek,22/23,Ligue 2,0,0,0
+447343,rafal,straczek,22/23,Coupe de France,3,0,1
+447343,rafal,straczek,22/23,N3 - Nouvelle-Aqu.,1,0,0
+447343,rafal,straczek,21/22,Ekstraklasa,26,0,6
+447343,rafal,straczek,20/21,Ekstraklasa,25,0,5
+447343,rafal,straczek,20/21,Fortuna Puchar Polski,1,0,1
+447343,rafal,straczek,19/20,1 Liga,4,0,1
+447343,rafal,straczek,19/20,3 Liga - Grupa IV,5,0,2
+447343,rafal,straczek,18/19,Fortuna 1 Liga,0,0,0
+447343,rafal,straczek,18/19,3 Liga - Grupa IV,11,0,3
+447343,rafal,straczek,17/18,Nice 1 Liga,2,0,0
+447343,rafal,straczek,16/17,Nice 1 Liga,2,0,0
+447343,rafal,straczek,16/17,CLJ - Grupa Wschodnia,6,0,1
+447343,rafal,straczek,16/17,3 Liga - Grupa IV,15,0,6
+447343,rafal,straczek,16/17,Fortuna Puchar Polski,1,0,0

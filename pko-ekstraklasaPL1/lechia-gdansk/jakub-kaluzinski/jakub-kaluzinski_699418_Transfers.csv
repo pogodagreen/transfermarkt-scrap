@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-23/24,2023-07-01,Lechia Gdansk,Without Club,800000,0
-19/20,2020-02-05,Lechia U19,Lechia Gdansk,0,0
-18/19,2018-07-01,Lechia Gdańsk Y,Lechia U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+699418,jakub,kaluzinski,23/24,2023-07-01,Lechia Gdansk,Without Club,800000,0
+699418,jakub,kaluzinski,19/20,2020-02-05,Lechia U19,Lechia Gdansk,0,0
+699418,jakub,kaluzinski,18/19,2018-07-01,Lechia Gdańsk Y,Lechia U19,0,0

@@ -1,8 +1,8 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2020-08-03,HNK Rijeka,Pogon Szczecin,1300000,free transfer
-16/17,2016-08-12,Austria Vienna,HNK Rijeka,1500000,free transfer
-10/11,2010-07-01,A. Vienna Res.,Austria Vienna,150000,0
-06/07,2006-07-01,Austria U19,A. Vienna Res.,0,0
-04/05,2004-07-01,Austria U17,Austria U19,0,0
-03/04,2003-07-01,Austria U15,Austria U17,0,0
-02/03,2002-07-01,FK Austria Vienn,Austria U15,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+45425,alexander,gorgon,20/21,2020-08-03,HNK Rijeka,Pogon Szczecin,1300000,free transfer
+45425,alexander,gorgon,16/17,2016-08-12,Austria Vienna,HNK Rijeka,1500000,free transfer
+45425,alexander,gorgon,10/11,2010-07-01,A. Vienna Res.,Austria Vienna,150000,0
+45425,alexander,gorgon,06/07,2006-07-01,Austria U19,A. Vienna Res.,0,0
+45425,alexander,gorgon,04/05,2004-07-01,Austria U17,Austria U19,0,0
+45425,alexander,gorgon,03/04,2003-07-01,Austria U15,Austria U17,0,0
+45425,alexander,gorgon,02/03,2002-07-01,FK Austria Vienn,Austria U15,0,0

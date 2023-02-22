@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-01-27,Blackpool,Slask Wroclaw,300000,free transfer
-20/21,2020-10-05,Aalesund,Blackpool,400000,0
-14/15,2015-01-21,Grindavík,Aalesund,25000,free transfer
-11/12,2012-01-01,Grindavik U19,Grindavík,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+200747,daniel,leo,21/22,2022-01-27,Blackpool,Slask Wroclaw,300000,free transfer
+200747,daniel,leo,20/21,2020-10-05,Aalesund,Blackpool,400000,0
+200747,daniel,leo,14/15,2015-01-21,Grindavík,Aalesund,25000,free transfer
+200747,daniel,leo,11/12,2012-01-01,Grindavik U19,Grindavík,0,0

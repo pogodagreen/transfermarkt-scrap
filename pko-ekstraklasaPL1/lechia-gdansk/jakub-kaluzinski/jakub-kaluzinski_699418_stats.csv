@@ -1,12 +1,12 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-699418,jakub-kaluzinski,22/23,Ekstraklasa,14,0,622
-699418,jakub-kaluzinski,22/23,Fortuna Puchar Polski,2,1,168
-699418,jakub-kaluzinski,22/23,UECL Kwalifikacje,4,0,240
-699418,jakub-kaluzinski,21/22,Ekstraklasa,18,1,998
-699418,jakub-kaluzinski,21/22,Fortuna Puchar Polski,2,0,81
-699418,jakub-kaluzinski,20/21,Ekstraklasa,11,0,542
-699418,jakub-kaluzinski,20/21,CLJ,2,0,180
-699418,jakub-kaluzinski,20/21,Fortuna Puchar Polski,3,1,168
-699418,jakub-kaluzinski,19/20,Fortuna Puchar Polski,0,0,0
-699418,jakub-kaluzinski,19/20,Ekstraklasa,3,0,207
-699418,jakub-kaluzinski,19/20,CLJ,16,3,1326
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+699418,jakub,kaluzinski,22/23,Ekstraklasa,14,0,622
+699418,jakub,kaluzinski,22/23,Fortuna Puchar Polski,2,1,168
+699418,jakub,kaluzinski,22/23,UECL Kwalifikacje,4,0,240
+699418,jakub,kaluzinski,21/22,Ekstraklasa,18,1,998
+699418,jakub,kaluzinski,21/22,Fortuna Puchar Polski,2,0,81
+699418,jakub,kaluzinski,20/21,Ekstraklasa,11,0,542
+699418,jakub,kaluzinski,20/21,CLJ,2,0,180
+699418,jakub,kaluzinski,20/21,Fortuna Puchar Polski,3,1,168
+699418,jakub,kaluzinski,19/20,Fortuna Puchar Polski,0,0,0
+699418,jakub,kaluzinski,19/20,Ekstraklasa,3,0,207
+699418,jakub,kaluzinski,19/20,CLJ,16,3,1326

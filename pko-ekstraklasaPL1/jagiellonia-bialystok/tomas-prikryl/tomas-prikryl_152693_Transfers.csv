@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-19/20,2019-07-03,Mlada Boleslav,Jagiellonia,900000,free transfer
-15/16,2016-01-01,Sparta Prague,Mlada Boleslav,750000,0
-15/16,2015-12-31,Dukla Prague,Sparta Prague,750000,End of loan
-14/15,2015-01-01,Sparta Prague,Dukla Prague,1250000,loan transfer
-11/12,2012-01-01,Sigma Olomouc,Sparta Prague,400000,600000
-10/11,2010-07-01,Olomouc U19,Sigma Olomouc,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+152693,tomas,prikryl,19/20,2019-07-03,Mlada Boleslav,Jagiellonia,900000,free transfer
+152693,tomas,prikryl,15/16,2016-01-01,Sparta Prague,Mlada Boleslav,750000,0
+152693,tomas,prikryl,15/16,2015-12-31,Dukla Prague,Sparta Prague,750000,End of loan
+152693,tomas,prikryl,14/15,2015-01-01,Sparta Prague,Dukla Prague,1250000,loan transfer
+152693,tomas,prikryl,11/12,2012-01-01,Sigma Olomouc,Sparta Prague,400000,600000
+152693,tomas,prikryl,10/11,2010-07-01,Olomouc U19,Sigma Olomouc,0,0

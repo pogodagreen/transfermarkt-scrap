@@ -1,42 +1,42 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-71019,bartosz-salamon,22/23,Ekstraklasa,4,0,278
-71019,bartosz-salamon,22/23,Liga Konferencji,1,0,0
-71019,bartosz-salamon,21/22,Ekstraklasa,25,3,2250
-71019,bartosz-salamon,21/22,Fortuna Puchar Polski,1,0,90
-71019,bartosz-salamon,20/21,Ekstraklasa,13,1,1081
-71019,bartosz-salamon,20/21,Fortuna Puchar Polski,1,0,90
-71019,bartosz-salamon,20/21,Serie B,13,2,857
-71019,bartosz-salamon,20/21,Puchar Włoch,1,0,45
-71019,bartosz-salamon,19/20,Serie A,7,0,341
-71019,bartosz-salamon,19/20,Puchar Włoch,1,0,25
-71019,bartosz-salamon,18/19,Serie A,20,0,1724
-71019,bartosz-salamon,18/19,Puchar Włoch,1,0,90
-71019,bartosz-salamon,17/18,Serie A,22,0,1722
-71019,bartosz-salamon,16/17,Serie A,15,0,830
-71019,bartosz-salamon,16/17,Puchar Włoch,2,0,102
-71019,bartosz-salamon,15/16,Serie B,33,2,2599
-71019,bartosz-salamon,15/16,Puchar Włoch,1,0,90
-71019,bartosz-salamon,15/16,Kwalifikacje do Ligi Europy,0,0,0
-71019,bartosz-salamon,14/15,Serie B Play-off,5,0,417
-71019,bartosz-salamon,14/15,Serie B,31,1,2532
-71019,bartosz-salamon,14/15,Puchar Włoch,1,0,90
-71019,bartosz-salamon,14/15,Serie A,0,0,0
-71019,bartosz-salamon,14/15,Puchar Włoch,1,0,76
-71019,bartosz-salamon,13/14,Serie A,2,0,76
-71019,bartosz-salamon,13/14,Puchar Włoch,1,0,90
-71019,bartosz-salamon,12/13,Serie A,0,0,0
-71019,bartosz-salamon,12/13,Primavera B,1,0,90
-71019,bartosz-salamon,12/13,Serie B,21,3,1890
-71019,bartosz-salamon,12/13,Puchar Włoch,1,0,120
-71019,bartosz-salamon,11/12,Serie B,25,1,2048
-71019,bartosz-salamon,11/12,Puchar Włoch,0,0,0
-71019,bartosz-salamon,10/11,Lega Pro 1 - B,27,2,1941
-71019,bartosz-salamon,09/10,Primavera Fase Finale,4,0,293
-71019,bartosz-salamon,09/10,Primavera B,15,2,1270
-71019,bartosz-salamon,09/10,Serie B,4,0,72
-71019,bartosz-salamon,09/10,Puchar Włoch,2,1,165
-71019,bartosz-salamon,08/09,Serie B Play-off,0,0,0
-71019,bartosz-salamon,08/09,Serie B,11,0,614
-71019,bartosz-salamon,08/09,Primavera B,6,1,478
-71019,bartosz-salamon,07/08,Serie B,1,0,17
-71019,bartosz-salamon,07/08,Primavera A,8,1,408
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+71019,bartosz,salamon,22/23,Ekstraklasa,5,0,322
+71019,bartosz,salamon,22/23,Liga Konferencji,2,0,90
+71019,bartosz,salamon,21/22,Ekstraklasa,25,3,2250
+71019,bartosz,salamon,21/22,Fortuna Puchar Polski,1,0,90
+71019,bartosz,salamon,20/21,Ekstraklasa,13,1,1081
+71019,bartosz,salamon,20/21,Fortuna Puchar Polski,1,0,90
+71019,bartosz,salamon,20/21,Serie B,13,2,857
+71019,bartosz,salamon,20/21,Puchar Włoch,1,0,45
+71019,bartosz,salamon,19/20,Serie A,7,0,341
+71019,bartosz,salamon,19/20,Puchar Włoch,1,0,25
+71019,bartosz,salamon,18/19,Serie A,20,0,1724
+71019,bartosz,salamon,18/19,Puchar Włoch,1,0,90
+71019,bartosz,salamon,17/18,Serie A,22,0,1722
+71019,bartosz,salamon,16/17,Serie A,15,0,830
+71019,bartosz,salamon,16/17,Puchar Włoch,2,0,102
+71019,bartosz,salamon,15/16,Serie B,33,2,2599
+71019,bartosz,salamon,15/16,Puchar Włoch,1,0,90
+71019,bartosz,salamon,15/16,Kwalifikacje do Ligi Europy,0,0,0
+71019,bartosz,salamon,14/15,Serie B Play-off,5,0,417
+71019,bartosz,salamon,14/15,Serie B,31,1,2532
+71019,bartosz,salamon,14/15,Puchar Włoch,1,0,90
+71019,bartosz,salamon,14/15,Serie A,0,0,0
+71019,bartosz,salamon,14/15,Puchar Włoch,1,0,76
+71019,bartosz,salamon,13/14,Serie A,2,0,76
+71019,bartosz,salamon,13/14,Puchar Włoch,1,0,90
+71019,bartosz,salamon,12/13,Serie A,0,0,0
+71019,bartosz,salamon,12/13,Primavera B,1,0,90
+71019,bartosz,salamon,12/13,Serie B,21,3,1890
+71019,bartosz,salamon,12/13,Puchar Włoch,1,0,120
+71019,bartosz,salamon,11/12,Serie B,25,1,2048
+71019,bartosz,salamon,11/12,Puchar Włoch,0,0,0
+71019,bartosz,salamon,10/11,Lega Pro 1 - B,27,2,1941
+71019,bartosz,salamon,09/10,Primavera Fase Finale,4,0,293
+71019,bartosz,salamon,09/10,Primavera B,15,2,1270
+71019,bartosz,salamon,09/10,Serie B,4,0,72
+71019,bartosz,salamon,09/10,Puchar Włoch,2,1,165
+71019,bartosz,salamon,08/09,Serie B Play-off,0,0,0
+71019,bartosz,salamon,08/09,Serie B,11,0,614
+71019,bartosz,salamon,08/09,Primavera B,6,1,478
+71019,bartosz,salamon,07/08,Serie B,1,0,17
+71019,bartosz,salamon,07/08,Primavera A,8,1,408

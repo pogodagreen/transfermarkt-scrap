@@ -1,19 +1,19 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-386967,przemyslaw-wisniewski,22/23,Serie A,2,0,94
-386967,przemyslaw-wisniewski,22/23,Serie B,19,0,1620
-386967,przemyslaw-wisniewski,22/23,Puchar Włoch,1,0,90
-386967,przemyslaw-wisniewski,21/22,Ekstraklasa,33,0,2938
-386967,przemyslaw-wisniewski,21/22,Fortuna Puchar Polski,3,0,212
-386967,przemyslaw-wisniewski,20/21,Ekstraklasa,29,1,2564
-386967,przemyslaw-wisniewski,20/21,Fortuna Puchar Polski,3,1,270
-386967,przemyslaw-wisniewski,19/20,Ekstraklasa,35,1,3129
-386967,przemyslaw-wisniewski,19/20,Fortuna Puchar Polski,2,1,180
-386967,przemyslaw-wisniewski,18/19,Ekstraklasa,25,0,2007
-386967,przemyslaw-wisniewski,18/19,3 Liga - Grupa III,4,1,350
-386967,przemyslaw-wisniewski,18/19,Fortuna Puchar Polski,2,0,180
-386967,przemyslaw-wisniewski,18/19,Kwalifikacje do Ligi Europy,4,0,360
-386967,przemyslaw-wisniewski,17/18,3 Liga - Grupa III,17,0,1530
-386967,przemyslaw-wisniewski,17/18,Ekstraklasa,0,0,0
-386967,przemyslaw-wisniewski,16/17,3 Liga - Grupa III,13,2,1154
-386967,przemyslaw-wisniewski,16/17,CLJ - Grupa Zachodnia,19,0,1498
-386967,przemyslaw-wisniewski,15/16,CLJ - Grupa Zachodnia,3,0,9
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+386967,przemyslaw,wisniewski,22/23,Serie A,2,0,94
+386967,przemyslaw,wisniewski,22/23,Serie B,19,0,1620
+386967,przemyslaw,wisniewski,22/23,Puchar Włoch,1,0,90
+386967,przemyslaw,wisniewski,21/22,Ekstraklasa,33,0,2938
+386967,przemyslaw,wisniewski,21/22,Fortuna Puchar Polski,3,0,212
+386967,przemyslaw,wisniewski,20/21,Ekstraklasa,29,1,2564
+386967,przemyslaw,wisniewski,20/21,Fortuna Puchar Polski,3,1,270
+386967,przemyslaw,wisniewski,19/20,Ekstraklasa,35,1,3129
+386967,przemyslaw,wisniewski,19/20,Fortuna Puchar Polski,2,1,180
+386967,przemyslaw,wisniewski,18/19,Ekstraklasa,25,0,2007
+386967,przemyslaw,wisniewski,18/19,3 Liga - Grupa III,4,1,350
+386967,przemyslaw,wisniewski,18/19,Fortuna Puchar Polski,2,0,180
+386967,przemyslaw,wisniewski,18/19,Kwalifikacje do Ligi Europy,4,0,360
+386967,przemyslaw,wisniewski,17/18,3 Liga - Grupa III,17,0,1530
+386967,przemyslaw,wisniewski,17/18,Ekstraklasa,0,0,0
+386967,przemyslaw,wisniewski,16/17,3 Liga - Grupa III,13,2,1154
+386967,przemyslaw,wisniewski,16/17,CLJ - Grupa Zachodnia,19,0,1498
+386967,przemyslaw,wisniewski,15/16,CLJ - Grupa Zachodnia,3,0,9

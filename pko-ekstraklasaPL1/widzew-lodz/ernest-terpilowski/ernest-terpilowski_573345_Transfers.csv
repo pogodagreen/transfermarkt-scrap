@@ -1,6 +1,6 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-02-25,Termalica,Widzew Lodz,200000,free transfer
-20/21,2021-06-30,Gornik Polk.,Termalica,125000,End of loan
-20/21,2020-08-20,Termalica,Gornik Polk.,100000,loan transfer
-19/20,2019-07-01,L. Dzierzoniow,Termalica,0,free transfer
-17/18,2018-01-01,Dzierzoniow U19,L. Dzierzoniow,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+573345,ernest,terpilowski,21/22,2022-02-25,Termalica,Widzew Lodz,200000,free transfer
+573345,ernest,terpilowski,20/21,2021-06-30,Gornik Polk.,Termalica,125000,End of loan
+573345,ernest,terpilowski,20/21,2020-08-20,Termalica,Gornik Polk.,100000,loan transfer
+573345,ernest,terpilowski,19/20,2019-07-01,L. Dzierzoniow,Termalica,0,free transfer
+573345,ernest,terpilowski,17/18,2018-01-01,Dzierzoniow U19,L. Dzierzoniow,0,0

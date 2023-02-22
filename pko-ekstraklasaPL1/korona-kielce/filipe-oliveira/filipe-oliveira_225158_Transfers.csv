@@ -1,10 +1,10 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-01,Without Club,Vitória Setúbal,250000,0
-22/23,2022-08-31,Korona Kielce,Without Club,250000,0
-20/21,2021-01-14,Vilafranquense,Korona Kielce,225000,free transfer
-19/20,2019-07-01,Famalicão,Vilafranquense,175000,free transfer
-18/19,2018-07-08,Marítimo,Famalicão,350000,free transfer
-13/14,2013-07-01,Benfica U19,Marítimo,100000,free transfer
-13/14,2013-07-01,Marítimo,Marítimo B,100000,0
-12/13,2012-08-13,Leiria,Benfica U19,100000,free transfer
-11/12,2012-01-01,Leiria U19,Leiria,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+225158,filipe,oliveira,22/23,2023-01-01,Without Club,Vitória Setúbal,250000,0
+225158,filipe,oliveira,22/23,2022-08-31,Korona Kielce,Without Club,250000,0
+225158,filipe,oliveira,20/21,2021-01-14,Vilafranquense,Korona Kielce,225000,free transfer
+225158,filipe,oliveira,19/20,2019-07-01,Famalicão,Vilafranquense,175000,free transfer
+225158,filipe,oliveira,18/19,2018-07-08,Marítimo,Famalicão,350000,free transfer
+225158,filipe,oliveira,13/14,2013-07-01,Benfica U19,Marítimo,100000,free transfer
+225158,filipe,oliveira,13/14,2013-07-01,Marítimo,Marítimo B,100000,0
+225158,filipe,oliveira,12/13,2012-08-13,Leiria,Benfica U19,100000,free transfer
+225158,filipe,oliveira,11/12,2012-01-01,Leiria U19,Leiria,0,0

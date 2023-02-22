@@ -1,4 +1,4 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2021-06-30,Bytovia Bytow,Radomiak,50000,End of loan
-20/21,2021-02-08,Radomiak,Bytovia Bytow,50000,loan transfer
-18/19,2018-07-01,Radomiak U19,Radomiak,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+622369,jakub,nowakowski,20/21,2021-06-30,Bytovia Bytow,Radomiak,50000,End of loan
+622369,jakub,nowakowski,20/21,2021-02-08,Radomiak,Bytovia Bytow,50000,loan transfer
+622369,jakub,nowakowski,18/19,2018-07-01,Radomiak U19,Radomiak,0,0

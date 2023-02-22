@@ -1,26 +1,26 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-187976,krystian-nowak,22/23,SuperLiga,0,0,0
-187976,krystian-nowak,22/23,Cupa României,3,0,94
-187976,krystian-nowak,21/22,1 Liga,26,1,1811
-187976,krystian-nowak,21/22,Fortuna Puchar Polski,2,0,145
-187976,krystian-nowak,20/21,1 Liga,25,1,2108
-187976,krystian-nowak,20/21,Fortuna Puchar Polski,2,1,106
-187976,krystian-nowak,19/20,SuperSport HNL,14,2,964
-187976,krystian-nowak,19/20,Hrvatski nogometni kup,2,0,93
-187976,krystian-nowak,18/19,SuperSport HNL,20,1,1445
-187976,krystian-nowak,18/19,Hrvatski nogometni kup,1,1,90
-187976,krystian-nowak,17/18,Super League,0,0,0
-187976,krystian-nowak,17/18,Kypello Elladas,1,0,15
-187976,krystian-nowak,17/18,Premiership,3,0,57
-187976,krystian-nowak,17/18,League Cup,3,0,247
-187976,krystian-nowak,16/17,Premiership,17,1,1511
-187976,krystian-nowak,16/17,SFA Cup,2,0,101
-187976,krystian-nowak,16/17,League Cup,0,0,0
-187976,krystian-nowak,15/16,Ekstraklasa,21,0,1890
-187976,krystian-nowak,15/16,Fortuna Puchar Polski,0,0,0
-187976,krystian-nowak,14/15,1 Liga,29,3,2610
-187976,krystian-nowak,14/15,Fortuna Puchar Polski,1,0,90
-187976,krystian-nowak,13/14,Ekstraklasa,32,1,2687
-187976,krystian-nowak,13/14,Fortuna Puchar Polski,1,0,90
-187976,krystian-nowak,12/13,Ekstraklasa,17,1,665
-187976,krystian-nowak,12/13,Fortuna Puchar Polski,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+187976,krystian,nowak,22/23,SuperLiga,0,0,0
+187976,krystian,nowak,22/23,Cupa României,3,0,94
+187976,krystian,nowak,21/22,1 Liga,26,1,1811
+187976,krystian,nowak,21/22,Fortuna Puchar Polski,2,0,145
+187976,krystian,nowak,20/21,1 Liga,25,1,2108
+187976,krystian,nowak,20/21,Fortuna Puchar Polski,2,1,106
+187976,krystian,nowak,19/20,SuperSport HNL,14,2,964
+187976,krystian,nowak,19/20,Hrvatski nogometni kup,2,0,93
+187976,krystian,nowak,18/19,SuperSport HNL,20,1,1445
+187976,krystian,nowak,18/19,Hrvatski nogometni kup,1,1,90
+187976,krystian,nowak,17/18,Super League,0,0,0
+187976,krystian,nowak,17/18,Kypello Elladas,1,0,15
+187976,krystian,nowak,17/18,Premiership,3,0,57
+187976,krystian,nowak,17/18,League Cup,3,0,247
+187976,krystian,nowak,16/17,Premiership,17,1,1511
+187976,krystian,nowak,16/17,SFA Cup,2,0,101
+187976,krystian,nowak,16/17,League Cup,0,0,0
+187976,krystian,nowak,15/16,Ekstraklasa,21,0,1890
+187976,krystian,nowak,15/16,Fortuna Puchar Polski,0,0,0
+187976,krystian,nowak,14/15,1 Liga,29,3,2610
+187976,krystian,nowak,14/15,Fortuna Puchar Polski,1,0,90
+187976,krystian,nowak,13/14,Ekstraklasa,32,1,2687
+187976,krystian,nowak,13/14,Fortuna Puchar Polski,1,0,90
+187976,krystian,nowak,12/13,Ekstraklasa,17,1,665
+187976,krystian,nowak,12/13,Fortuna Puchar Polski,0,0,0

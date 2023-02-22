@@ -1,39 +1,39 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-139918,ognjen-mudrinski,22/23,NB I.,3,1,265
-139918,ognjen-mudrinski,22/23,Magyar Kupa,1,0,90
-139918,ognjen-mudrinski,22/23,Thai FA Cup,2,1,93
-139918,ognjen-mudrinski,22/23,Thai League,13,0,477
-139918,ognjen-mudrinski,22/23,Thai League Cup,1,2,90
-139918,ognjen-mudrinski,21/22,Prva Liga,27,17,2132
-139918,ognjen-mudrinski,21/22,Pokal Slovenije,1,0,23
-139918,ognjen-mudrinski,21/22,3 Liga - Grupa I,1,1,45
-139918,ognjen-mudrinski,20/21,SuperSport HNL,27,9,1166
-139918,ognjen-mudrinski,20/21,Hrvatski nogometni kup,3,0,104
-139918,ognjen-mudrinski,19/20,SuperSport HNL,12,4,465
-139918,ognjen-mudrinski,19/20,Ekstraklasa,12,1,315
-139918,ognjen-mudrinski,19/20,Fortuna Puchar Polski,0,0,0
-139918,ognjen-mudrinski,18/19,Super liga,34,18,2318
-139918,ognjen-mudrinski,18/19,Kup Srbije,2,0,42
-139918,ognjen-mudrinski,17/18,Kup Srbije,3,1,175
-139918,ognjen-mudrinski,17/18,Super liga,21,7,1103
-139918,ognjen-mudrinski,16/17,Super liga,33,16,2579
-139918,ognjen-mudrinski,16/17,Kup Srbije,1,1,63
-139918,ognjen-mudrinski,15/16,Super liga,13,2,786
-139918,ognjen-mudrinski,15/16,Kup Srbije,2,2,112
-139918,ognjen-mudrinski,14/15,Super League,12,0,337
-139918,ognjen-mudrinski,14/15,Schweizer Cup,3,0,122
-139918,ognjen-mudrinski,14/15,DFB-Pokal,1,1,90
-139918,ognjen-mudrinski,14/15,2. Bundesliga,0,0,0
-139918,ognjen-mudrinski,13/14,Relegation 1. Bundesliga,1,0,2
-139918,ognjen-mudrinski,13/14,2. Bundesliga,14,3,613
-139918,ognjen-mudrinski,13/14,DFB-Pokal,1,0,87
-139918,ognjen-mudrinski,12/13,Jelen SuperLiga,23,11,1727
-139918,ognjen-mudrinski,12/13,Kup Srbije,2,1,131
-139918,ognjen-mudrinski,12/13,Jelen SuperLiga,3,0,215
-139918,ognjen-mudrinski,12/13,Kwalifikacje do Ligi Europy,2,0,158
-139918,ognjen-mudrinski,11/12,Jelen SuperLiga,27,9,1479
-139918,ognjen-mudrinski,11/12,Kup Srbije,2,2,152
-139918,ognjen-mudrinski,10/11,Prva liga Srbije,7,0,154
-139918,ognjen-mudrinski,10/11,Jelen SuperLiga,1,0,30
-139918,ognjen-mudrinski,10/11,Jelen SuperLiga,2,0,69
-139918,ognjen-mudrinski,09/10,Jelen SuperLiga,6,2,172
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+139918,ognjen,mudrinski,22/23,NB I.,4,1,355
+139918,ognjen,mudrinski,22/23,Magyar Kupa,1,0,90
+139918,ognjen,mudrinski,22/23,Thai FA Cup,2,1,93
+139918,ognjen,mudrinski,22/23,Thai League,13,0,477
+139918,ognjen,mudrinski,22/23,Thai League Cup,1,2,90
+139918,ognjen,mudrinski,21/22,Prva Liga,27,17,2132
+139918,ognjen,mudrinski,21/22,Pokal Slovenije,1,0,23
+139918,ognjen,mudrinski,21/22,3 Liga - Grupa I,1,1,45
+139918,ognjen,mudrinski,20/21,SuperSport HNL,27,9,1166
+139918,ognjen,mudrinski,20/21,Hrvatski nogometni kup,3,0,104
+139918,ognjen,mudrinski,19/20,SuperSport HNL,12,4,465
+139918,ognjen,mudrinski,19/20,Ekstraklasa,12,1,315
+139918,ognjen,mudrinski,19/20,Fortuna Puchar Polski,0,0,0
+139918,ognjen,mudrinski,18/19,Super liga,34,18,2318
+139918,ognjen,mudrinski,18/19,Kup Srbije,2,0,42
+139918,ognjen,mudrinski,17/18,Kup Srbije,3,1,175
+139918,ognjen,mudrinski,17/18,Super liga,21,7,1103
+139918,ognjen,mudrinski,16/17,Super liga,33,16,2579
+139918,ognjen,mudrinski,16/17,Kup Srbije,1,1,63
+139918,ognjen,mudrinski,15/16,Super liga,13,2,786
+139918,ognjen,mudrinski,15/16,Kup Srbije,2,2,112
+139918,ognjen,mudrinski,14/15,Super League,12,0,337
+139918,ognjen,mudrinski,14/15,Schweizer Cup,3,0,122
+139918,ognjen,mudrinski,14/15,DFB-Pokal,1,1,90
+139918,ognjen,mudrinski,14/15,2. Bundesliga,0,0,0
+139918,ognjen,mudrinski,13/14,Relegation 1. Bundesliga,1,0,2
+139918,ognjen,mudrinski,13/14,2. Bundesliga,14,3,613
+139918,ognjen,mudrinski,13/14,DFB-Pokal,1,0,87
+139918,ognjen,mudrinski,12/13,Jelen SuperLiga,23,11,1727
+139918,ognjen,mudrinski,12/13,Kup Srbije,2,1,131
+139918,ognjen,mudrinski,12/13,Jelen SuperLiga,3,0,215
+139918,ognjen,mudrinski,12/13,Kwalifikacje do Ligi Europy,2,0,158
+139918,ognjen,mudrinski,11/12,Jelen SuperLiga,27,9,1479
+139918,ognjen,mudrinski,11/12,Kup Srbije,2,2,152
+139918,ognjen,mudrinski,10/11,Prva liga Srbije,7,0,154
+139918,ognjen,mudrinski,10/11,Jelen SuperLiga,1,0,30
+139918,ognjen,mudrinski,10/11,Jelen SuperLiga,2,0,69
+139918,ognjen,mudrinski,09/10,Jelen SuperLiga,6,2,172

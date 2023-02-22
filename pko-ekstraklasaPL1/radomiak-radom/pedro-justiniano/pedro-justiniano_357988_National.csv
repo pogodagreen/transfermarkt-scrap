@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-357988,pedro-justiniano,2000,Guinea,"1,90",Centre-Back,8,5,6,1,0,0,0,0
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+357988,pedro,justiniano,2000,Guinea,"1,90",Centre-Back,8,5,6,1,0,0,0,0

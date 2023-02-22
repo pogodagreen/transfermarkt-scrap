@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2023-01-25,Legia II,Legia Warszawa,0,0
-22/23,2022-08-01,Legia U19,Legia II,0,0
-22/23,2022-08-01,Legia U19,Legia II,0,0
-22/23,2022-07-01,MKS Polonia U19,Legia U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+1046867,jan,ziolkowski,22/23,2023-01-25,Legia II,Legia Warszawa,0,0
+1046867,jan,ziolkowski,22/23,2022-08-01,Legia U19,Legia II,0,0
+1046867,jan,ziolkowski,22/23,2022-08-01,Legia U19,Legia II,0,0
+1046867,jan,ziolkowski,22/23,2022-07-01,MKS Polonia U19,Legia U19,0,0

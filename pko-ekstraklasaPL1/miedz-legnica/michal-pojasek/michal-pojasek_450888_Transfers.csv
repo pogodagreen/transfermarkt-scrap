@@ -1,5 +1,5 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2021-07-15,M. Legnica II,Miedz Legnica,50000,0
-16/17,2016-07-01,Miedz U19,M. Legnica II,0,0
-14/15,2015-01-01,Polonia-Stal,Miedz U19,0,0
-14/15,2014-07-01,Unknown,Polonia-Stal,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+450888,michal,pojasek,21/22,2021-07-15,M. Legnica II,Miedz Legnica,50000,0
+450888,michal,pojasek,16/17,2016-07-01,Miedz U19,M. Legnica II,0,0
+450888,michal,pojasek,14/15,2015-01-01,Polonia-Stal,Miedz U19,0,0
+450888,michal,pojasek,14/15,2014-07-01,Unknown,Polonia-Stal,0,0

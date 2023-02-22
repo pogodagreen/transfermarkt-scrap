@@ -1,2 +1,2 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2020-12-03,Miedz U19,Miedz Legnica,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+842939,hubert,kwolek,20/21,2020-12-03,Miedz U19,Miedz Legnica,0,0

@@ -1,16 +1,16 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-384789,szymon-lewkot,22/23,Fortuna 1 Liga,11,0,408
-384789,szymon-lewkot,22/23,Fortuna Puchar Polski,2,0,210
-384789,szymon-lewkot,22/23,eWinner 2 liga,4,0,360
-384789,szymon-lewkot,21/22,Ekstraklasa,21,1,1610
-384789,szymon-lewkot,21/22,Fortuna Puchar Polski,1,0,90
-384789,szymon-lewkot,21/22,UECL Kwalifikacje,6,1,510
-384789,szymon-lewkot,20/21,Ekstraklasa,7,0,396
-384789,szymon-lewkot,20/21,eWinner 2 liga,16,0,1383
-384789,szymon-lewkot,19/20,3 Liga - Grupa III,14,3,1181
-384789,szymon-lewkot,19/20,3 Liga - Grupa III,3,0,68
-384789,szymon-lewkot,18/19,3 Liga - Grupa III,31,5,1809
-384789,szymon-lewkot,17/18,CLJ - Runda Finałowa,1,0,9
-384789,szymon-lewkot,17/18,CLJ - Grupa Zachodnia,28,5,1533
-384789,szymon-lewkot,16/17,CLJ - Grupa Zachodnia,27,1,2231
-384789,szymon-lewkot,15/16,CLJ - Grupa Zachodnia,13,0,368
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+384789,szymon,lewkot,22/23,Fortuna 1 Liga,12,0,498
+384789,szymon,lewkot,22/23,Fortuna Puchar Polski,2,0,210
+384789,szymon,lewkot,22/23,eWinner 2 liga,4,0,360
+384789,szymon,lewkot,21/22,Ekstraklasa,21,1,1610
+384789,szymon,lewkot,21/22,Fortuna Puchar Polski,1,0,90
+384789,szymon,lewkot,21/22,UECL Kwalifikacje,6,1,510
+384789,szymon,lewkot,20/21,Ekstraklasa,7,0,396
+384789,szymon,lewkot,20/21,eWinner 2 liga,16,0,1383
+384789,szymon,lewkot,19/20,3 Liga - Grupa III,14,3,1181
+384789,szymon,lewkot,19/20,3 Liga - Grupa III,3,0,68
+384789,szymon,lewkot,18/19,3 Liga - Grupa III,31,5,1809
+384789,szymon,lewkot,17/18,CLJ - Runda Finałowa,1,0,9
+384789,szymon,lewkot,17/18,CLJ - Grupa Zachodnia,28,5,1533
+384789,szymon,lewkot,16/17,CLJ - Grupa Zachodnia,27,1,2231
+384789,szymon,lewkot,15/16,CLJ - Grupa Zachodnia,13,0,368

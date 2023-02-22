@@ -1,24 +1,24 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-278676,dominik-hladun,22/23,Ekstraklasa,0,0,0
-278676,dominik-hladun,22/23,3 Liga - Grupa I,4,0,1
-278676,dominik-hladun,22/23,Fortuna Puchar Polski,0,0,0
-278676,dominik-hladun,21/22,Ekstraklasa,23,0,4
-278676,dominik-hladun,21/22,Fortuna Puchar Polski,3,0,2
-278676,dominik-hladun,20/21,Ekstraklasa,30,0,7
-278676,dominik-hladun,20/21,Fortuna Puchar Polski,1,0,0
-278676,dominik-hladun,19/20,Ekstraklasa,18,0,2
-278676,dominik-hladun,19/20,Fortuna Puchar Polski,1,0,1
-278676,dominik-hladun,19/20,3 Liga - Grupa III,1,0,0
-278676,dominik-hladun,18/19,Ekstraklasa,23,0,5
-278676,dominik-hladun,17/18,Ekstraklasa,15,0,7
-278676,dominik-hladun,17/18,3 Liga - Grupa III,12,0,2
-278676,dominik-hladun,17/18,Fortuna Puchar Polski,0,0,0
-278676,dominik-hladun,17/18,Fortuna Puchar Polski,1,0,0
-278676,dominik-hladun,16/17,Ekstraklasa,0,0,0
-278676,dominik-hladun,16/17,Fortuna Puchar Polski,0,0,0
-278676,dominik-hladun,15/16,1 Liga,10,0,1
-278676,dominik-hladun,15/16,Fortuna Puchar Polski,4,0,0
-278676,dominik-hladun,14/15,1 Liga,0,0,0
-278676,dominik-hladun,14/15,Fortuna Puchar Polski,1,0,0
-278676,dominik-hladun,13/14,Ekstraklasa,0,0,0
-278676,dominik-hladun,13/14,Fortuna Puchar Polski,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+278676,dominik,hladun,22/23,Ekstraklasa,0,0,0
+278676,dominik,hladun,22/23,3 Liga - Grupa I,4,0,1
+278676,dominik,hladun,22/23,Fortuna Puchar Polski,0,0,0
+278676,dominik,hladun,21/22,Ekstraklasa,23,0,4
+278676,dominik,hladun,21/22,Fortuna Puchar Polski,3,0,2
+278676,dominik,hladun,20/21,Ekstraklasa,30,0,7
+278676,dominik,hladun,20/21,Fortuna Puchar Polski,1,0,0
+278676,dominik,hladun,19/20,Ekstraklasa,18,0,2
+278676,dominik,hladun,19/20,Fortuna Puchar Polski,1,0,1
+278676,dominik,hladun,19/20,3 Liga - Grupa III,1,0,0
+278676,dominik,hladun,18/19,Ekstraklasa,23,0,5
+278676,dominik,hladun,17/18,Ekstraklasa,15,0,7
+278676,dominik,hladun,17/18,3 Liga - Grupa III,12,0,2
+278676,dominik,hladun,17/18,Fortuna Puchar Polski,0,0,0
+278676,dominik,hladun,17/18,Fortuna Puchar Polski,1,0,0
+278676,dominik,hladun,16/17,Ekstraklasa,0,0,0
+278676,dominik,hladun,16/17,Fortuna Puchar Polski,0,0,0
+278676,dominik,hladun,15/16,1 Liga,10,0,1
+278676,dominik,hladun,15/16,Fortuna Puchar Polski,4,0,0
+278676,dominik,hladun,14/15,1 Liga,0,0,0
+278676,dominik,hladun,14/15,Fortuna Puchar Polski,1,0,0
+278676,dominik,hladun,13/14,Ekstraklasa,0,0,0
+278676,dominik,hladun,13/14,Fortuna Puchar Polski,0,0,0

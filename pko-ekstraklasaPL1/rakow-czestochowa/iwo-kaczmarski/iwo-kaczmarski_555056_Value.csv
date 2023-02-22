@@ -1,4 +1,4 @@
-id,name,dates,marketValue
-555056,iwo-kaczmarski,2020-08-17,150000
-555056,iwo-kaczmarski,2021-05-20,300000
-555056,iwo-kaczmarski,2021-12-30,400000
+id,firstName,lastName,dates,marketValue
+555056,iwo,kaczmarski,2020-08-17,150000
+555056,iwo,kaczmarski,2021-05-20,300000
+555056,iwo,kaczmarski,2021-12-30,400000

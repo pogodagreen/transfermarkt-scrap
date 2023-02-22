@@ -1,10 +1,10 @@
-season,date,sourceTeam,destTeam,marketValue,price
-16/17,2016-07-29,Jarota Jarocin,Warta Poznan,100000,free transfer
-15/16,2015-10-23,Termalica,Jarota Jarocin,100000,free transfer
-14/15,2015-06-30,Chrobry Glogow,Termalica,100000,End of loan
-14/15,2014-07-11,Termalica,Chrobry Glogow,175000,loan transfer
-13/14,2013-07-18,Tur Turek,Termalica,100000,free transfer
-12/13,2013-04-18,LKS Lodz,Tur Turek,100000,free transfer
-12/13,2013-02-25,Tur Turek,LKS Lodz,0,free transfer
-11/12,2011-07-01,SMS Lodz,Tur Turek,0,free transfer
-10/11,2010-07-01,UKS SMS U19,SMS Lodz,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+181119,jakub,kielb,16/17,2016-07-29,Jarota Jarocin,Warta Poznan,100000,free transfer
+181119,jakub,kielb,15/16,2015-10-23,Termalica,Jarota Jarocin,100000,free transfer
+181119,jakub,kielb,14/15,2015-06-30,Chrobry Glogow,Termalica,100000,End of loan
+181119,jakub,kielb,14/15,2014-07-11,Termalica,Chrobry Glogow,175000,loan transfer
+181119,jakub,kielb,13/14,2013-07-18,Tur Turek,Termalica,100000,free transfer
+181119,jakub,kielb,12/13,2013-04-18,LKS Lodz,Tur Turek,100000,free transfer
+181119,jakub,kielb,12/13,2013-02-25,Tur Turek,LKS Lodz,0,free transfer
+181119,jakub,kielb,11/12,2011-07-01,SMS Lodz,Tur Turek,0,free transfer
+181119,jakub,kielb,10/11,2010-07-01,UKS SMS U19,SMS Lodz,0,0

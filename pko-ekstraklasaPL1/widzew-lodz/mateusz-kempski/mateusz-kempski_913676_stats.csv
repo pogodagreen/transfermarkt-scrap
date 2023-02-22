@@ -1,4 +1,4 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-913676,mateusz-kempski,22/23,Ekstraklasa,1,0,0
-913676,mateusz-kempski,21/22,eWinner 2 liga,5,0,18
-913676,mateusz-kempski,21/22,Fortuna Puchar Polski,1,0,60
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+913676,mateusz,kempski,22/23,Ekstraklasa,1,0,0
+913676,mateusz,kempski,21/22,eWinner 2 liga,5,0,18
+913676,mateusz,kempski,21/22,Fortuna Puchar Polski,1,0,60

@@ -1,26 +1,26 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-161314,wojciech-golla,22/23,NB I.,0,0,0
-161314,wojciech-golla,21/22,Ekstraklasa,31,0,2737
-161314,wojciech-golla,21/22,Fortuna Puchar Polski,1,0,90
-161314,wojciech-golla,21/22,UECL Kwalifikacje,6,1,540
-161314,wojciech-golla,20/21,Ekstraklasa,8,1,720
-161314,wojciech-golla,20/21,Fortuna Puchar Polski,1,0,120
-161314,wojciech-golla,19/20,Ekstraklasa,19,1,1710
-161314,wojciech-golla,18/19,Ekstraklasa,35,1,3150
-161314,wojciech-golla,18/19,Fortuna Puchar Polski,3,0,270
-161314,wojciech-golla,17/18,Play-Offs Promotie/Deg.,2,0,180
-161314,wojciech-golla,17/18,Jupiler League,32,6,2868
-161314,wojciech-golla,17/18,KNVB beker,2,0,180
-161314,wojciech-golla,16/17,Play-Offs Promotie/Deg.,4,0,360
-161314,wojciech-golla,16/17,Eredivisie,33,0,2909
-161314,wojciech-golla,16/17,KNVB Beker,1,0,120
-161314,wojciech-golla,15/16,Eredivisie,29,0,2572
-161314,wojciech-golla,15/16,KNVB Beker,3,0,232
-161314,wojciech-golla,14/15,Ekstraklasa,34,1,3060
-161314,wojciech-golla,14/15,Fortuna Puchar Polski,2,0,240
-161314,wojciech-golla,13/14,Ekstraklasa,32,1,2746
-161314,wojciech-golla,13/14,Fortuna Puchar Polski,1,0,90
-161314,wojciech-golla,12/13,Ekstraklasa,18,0,982
-161314,wojciech-golla,11/12,1 Liga,11,0,831
-161314,wojciech-golla,11/12,Ekstraklasa,0,0,0
-161314,wojciech-golla,10/11,Ekstraklasa,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+161314,wojciech,golla,22/23,NB I.,0,0,0
+161314,wojciech,golla,21/22,Ekstraklasa,31,0,2737
+161314,wojciech,golla,21/22,Fortuna Puchar Polski,1,0,90
+161314,wojciech,golla,21/22,UECL Kwalifikacje,6,1,540
+161314,wojciech,golla,20/21,Ekstraklasa,8,1,720
+161314,wojciech,golla,20/21,Fortuna Puchar Polski,1,0,120
+161314,wojciech,golla,19/20,Ekstraklasa,19,1,1710
+161314,wojciech,golla,18/19,Ekstraklasa,35,1,3150
+161314,wojciech,golla,18/19,Fortuna Puchar Polski,3,0,270
+161314,wojciech,golla,17/18,Play-Offs Promotie/Deg.,2,0,180
+161314,wojciech,golla,17/18,Jupiler League,32,6,2868
+161314,wojciech,golla,17/18,KNVB beker,2,0,180
+161314,wojciech,golla,16/17,Play-Offs Promotie/Deg.,4,0,360
+161314,wojciech,golla,16/17,Eredivisie,33,0,2909
+161314,wojciech,golla,16/17,KNVB Beker,1,0,120
+161314,wojciech,golla,15/16,Eredivisie,29,0,2572
+161314,wojciech,golla,15/16,KNVB Beker,3,0,232
+161314,wojciech,golla,14/15,Ekstraklasa,34,1,3060
+161314,wojciech,golla,14/15,Fortuna Puchar Polski,2,0,240
+161314,wojciech,golla,13/14,Ekstraklasa,32,1,2746
+161314,wojciech,golla,13/14,Fortuna Puchar Polski,1,0,90
+161314,wojciech,golla,12/13,Ekstraklasa,18,0,982
+161314,wojciech,golla,11/12,1 Liga,11,0,831
+161314,wojciech,golla,11/12,Ekstraklasa,0,0,0
+161314,wojciech,golla,10/11,Ekstraklasa,0,0,0

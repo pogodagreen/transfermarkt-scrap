@@ -1,16 +1,16 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-357988,pedro-justiniano,22/23,Ekstraklasa,10,0,736
-357988,pedro-justiniano,22/23,Fortuna Puchar Polski,2,0,90
-357988,pedro-justiniano,21/22,Liga Sabseg,18,0,1286
-357988,pedro-justiniano,21/22,Taça de Portugal,2,0,171
-357988,pedro-justiniano,20/21,Liga Sabseg,19,0,1438
-357988,pedro-justiniano,19/20,LigaPro,11,0,893
-357988,pedro-justiniano,19/20,Liga Młodzieżowa UEFA,3,0,300
-357988,pedro-justiniano,18/19,Liga Młodzieżowa UEFA,5,0,450
-357988,pedro-justiniano,18/19,Ledman LigaPro,6,0,387
-357988,pedro-justiniano,17/18,Liga Młodzieżowa UEFA,5,0,307
-357988,pedro-justiniano,17/18,Ledman LigaPro,1,0,78
-357988,pedro-justiniano,16/17,Under 17 - finals,1,0,120
-357988,pedro-justiniano,16/17,Under 17 - A,18,0,1521
-357988,pedro-justiniano,15/16,Under 17 - finals,1,0,34
-357988,pedro-justiniano,15/16,Under 17 - A,14,0,932
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+357988,pedro,justiniano,22/23,Ekstraklasa,10,0,736
+357988,pedro,justiniano,22/23,Fortuna Puchar Polski,2,0,90
+357988,pedro,justiniano,21/22,Liga Sabseg,18,0,1286
+357988,pedro,justiniano,21/22,Taça de Portugal,2,0,171
+357988,pedro,justiniano,20/21,Liga Sabseg,19,0,1438
+357988,pedro,justiniano,19/20,LigaPro,11,0,893
+357988,pedro,justiniano,19/20,Liga Młodzieżowa UEFA,3,0,300
+357988,pedro,justiniano,18/19,Liga Młodzieżowa UEFA,5,0,450
+357988,pedro,justiniano,18/19,Ledman LigaPro,6,0,387
+357988,pedro,justiniano,17/18,Liga Młodzieżowa UEFA,5,0,307
+357988,pedro,justiniano,17/18,Ledman LigaPro,1,0,78
+357988,pedro,justiniano,16/17,Under 17 - finals,1,0,120
+357988,pedro,justiniano,16/17,Under 17 - A,18,0,1521
+357988,pedro,justiniano,15/16,Under 17 - finals,1,0,34
+357988,pedro,justiniano,15/16,Under 17 - A,14,0,932

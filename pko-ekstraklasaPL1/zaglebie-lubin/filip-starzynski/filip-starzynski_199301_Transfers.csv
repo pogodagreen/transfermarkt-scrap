@@ -1,6 +1,6 @@
-season,date,sourceTeam,destTeam,marketValue,price
-16/17,2016-07-19,KSC Lokeren,Zaglebie Lubin,1000000,500000
-15/16,2016-06-30,Zaglebie Lubin,KSC Lokeren,1000000,End of loan
-15/16,2016-01-27,KSC Lokeren,Zaglebie Lubin,500000,loan transfer
-15/16,2015-07-01,Ruch Chorzow,KSC Lokeren,750000,free transfer
-10/11,2011-01-01,Ruch Chorzow II,Ruch Chorzow,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+199301,filip,starzynski,16/17,2016-07-19,KSC Lokeren,Zaglebie Lubin,1000000,500000
+199301,filip,starzynski,15/16,2016-06-30,Zaglebie Lubin,KSC Lokeren,1000000,End of loan
+199301,filip,starzynski,15/16,2016-01-27,KSC Lokeren,Zaglebie Lubin,500000,loan transfer
+199301,filip,starzynski,15/16,2015-07-01,Ruch Chorzow,KSC Lokeren,750000,free transfer
+199301,filip,starzynski,10/11,2011-01-01,Ruch Chorzow II,Ruch Chorzow,0,0

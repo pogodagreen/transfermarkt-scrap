@@ -1,19 +1,19 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-292130,milosz-trojak,22/23,Ekstraklasa,19,1,1705
-292130,milosz-trojak,22/23,Fortuna Puchar Polski,2,0,164
-292130,milosz-trojak,21/22,Baraze o udzial w Ekstraklasie,1,0,90
-292130,milosz-trojak,21/22,1 Liga,31,1,2706
-292130,milosz-trojak,21/22,Fortuna Puchar Polski,1,0,30
-292130,milosz-trojak,20/21,1 Liga,30,0,2596
-292130,milosz-trojak,20/21,Fortuna Puchar Polski,1,0,83
-292130,milosz-trojak,19/20,1 Liga,24,2,1663
-292130,milosz-trojak,19/20,Fortuna Puchar Polski,2,1,180
-292130,milosz-trojak,18/19,Fortuna 1 Liga,12,0,747
-292130,milosz-trojak,18/19,Fortuna Puchar Polski,1,0,90
-292130,milosz-trojak,18/19,Fortuna 1 Liga,19,1,1520
-292130,milosz-trojak,18/19,Fortuna Puchar Polski,1,0,90
-292130,milosz-trojak,17/18,Nice 1 Liga,27,0,2029
-292130,milosz-trojak,17/18,Fortuna Puchar Polski,1,0,90
-292130,milosz-trojak,16/17,Ekstraklasa,12,0,217
-292130,milosz-trojak,15/16,Ekstraklasa,0,0,0
-292130,milosz-trojak,13/14,Ekstraklasa,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+292130,milosz,trojak,22/23,Ekstraklasa,20,1,1795
+292130,milosz,trojak,22/23,Fortuna Puchar Polski,2,0,164
+292130,milosz,trojak,21/22,Baraze o udzial w Ekstraklasie,1,0,90
+292130,milosz,trojak,21/22,1 Liga,31,1,2706
+292130,milosz,trojak,21/22,Fortuna Puchar Polski,1,0,30
+292130,milosz,trojak,20/21,1 Liga,30,0,2596
+292130,milosz,trojak,20/21,Fortuna Puchar Polski,1,0,83
+292130,milosz,trojak,19/20,1 Liga,24,2,1663
+292130,milosz,trojak,19/20,Fortuna Puchar Polski,2,1,180
+292130,milosz,trojak,18/19,Fortuna 1 Liga,12,0,747
+292130,milosz,trojak,18/19,Fortuna Puchar Polski,1,0,90
+292130,milosz,trojak,18/19,Fortuna 1 Liga,19,1,1520
+292130,milosz,trojak,18/19,Fortuna Puchar Polski,1,0,90
+292130,milosz,trojak,17/18,Nice 1 Liga,27,0,2029
+292130,milosz,trojak,17/18,Fortuna Puchar Polski,1,0,90
+292130,milosz,trojak,16/17,Ekstraklasa,12,0,217
+292130,milosz,trojak,15/16,Ekstraklasa,0,0,0
+292130,milosz,trojak,13/14,Ekstraklasa,0,0,0

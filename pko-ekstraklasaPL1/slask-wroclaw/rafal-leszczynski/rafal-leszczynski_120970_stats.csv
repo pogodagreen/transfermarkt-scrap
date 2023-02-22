@@ -1,29 +1,29 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-120970,rafal-leszczynski,22/23,Ekstraklasa,9,0,2
-120970,rafal-leszczynski,22/23,Fortuna Puchar Polski,3,0,1
-120970,rafal-leszczynski,22/23,eWinner 2 liga,1,0,0
-120970,rafal-leszczynski,21/22,Baraze o udzial w Ekstraklasie,2,0,1
-120970,rafal-leszczynski,21/22,1 Liga,34,0,17
-120970,rafal-leszczynski,21/22,Fortuna Puchar Polski,0,0,0
-120970,rafal-leszczynski,20/21,1 Liga,15,0,6
-120970,rafal-leszczynski,20/21,Ekstraklasa,3,0,1
-120970,rafal-leszczynski,20/21,Fortuna Puchar Polski,0,0,0
-120970,rafal-leszczynski,19/20,1 Liga,8,0,2
-120970,rafal-leszczynski,19/20,Fortuna Puchar Polski,1,0,0
-120970,rafal-leszczynski,18/19,Fortuna 1 Liga,15,0,3
-120970,rafal-leszczynski,18/19,Fortuna Puchar Polski,1,0,0
-120970,rafal-leszczynski,17/18,Nice 1 Liga,20,0,8
-120970,rafal-leszczynski,17/18,Fortuna Puchar Polski,2,0,0
-120970,rafal-leszczynski,16/17,Nice 1 Liga,31,0,11
-120970,rafal-leszczynski,16/17,Fortuna Puchar Polski,0,0,0
-120970,rafal-leszczynski,15/16,Ekstraklasa,0,0,0
-120970,rafal-leszczynski,15/16,Fortuna Puchar Polski,0,0,0
-120970,rafal-leszczynski,14/15,1 Liga,27,0,8
-120970,rafal-leszczynski,14/15,Fortuna Puchar Polski,1,0,0
-120970,rafal-leszczynski,13/14,1 Liga,24,0,5
-120970,rafal-leszczynski,13/14,Fortuna Puchar Polski,1,0,0
-120970,rafal-leszczynski,12/13,1 Liga,31,0,9
-120970,rafal-leszczynski,12/13,Fortuna Puchar Polski,1,0,0
-120970,rafal-leszczynski,11/12,1 Liga,17,0,4
-120970,rafal-leszczynski,11/12,Fortuna Puchar Polski,2,0,1
-120970,rafal-leszczynski,10/11,1 Liga,3,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+120970,rafal,leszczynski,22/23,Ekstraklasa,10,0,2
+120970,rafal,leszczynski,22/23,Fortuna Puchar Polski,3,0,1
+120970,rafal,leszczynski,22/23,eWinner 2 liga,1,0,0
+120970,rafal,leszczynski,21/22,Baraze o udzial w Ekstraklasie,2,0,1
+120970,rafal,leszczynski,21/22,1 Liga,34,0,17
+120970,rafal,leszczynski,21/22,Fortuna Puchar Polski,0,0,0
+120970,rafal,leszczynski,20/21,1 Liga,15,0,6
+120970,rafal,leszczynski,20/21,Ekstraklasa,3,0,1
+120970,rafal,leszczynski,20/21,Fortuna Puchar Polski,0,0,0
+120970,rafal,leszczynski,19/20,1 Liga,8,0,2
+120970,rafal,leszczynski,19/20,Fortuna Puchar Polski,1,0,0
+120970,rafal,leszczynski,18/19,Fortuna 1 Liga,15,0,3
+120970,rafal,leszczynski,18/19,Fortuna Puchar Polski,1,0,0
+120970,rafal,leszczynski,17/18,Nice 1 Liga,20,0,8
+120970,rafal,leszczynski,17/18,Fortuna Puchar Polski,2,0,0
+120970,rafal,leszczynski,16/17,Nice 1 Liga,31,0,11
+120970,rafal,leszczynski,16/17,Fortuna Puchar Polski,0,0,0
+120970,rafal,leszczynski,15/16,Ekstraklasa,0,0,0
+120970,rafal,leszczynski,15/16,Fortuna Puchar Polski,0,0,0
+120970,rafal,leszczynski,14/15,1 Liga,27,0,8
+120970,rafal,leszczynski,14/15,Fortuna Puchar Polski,1,0,0
+120970,rafal,leszczynski,13/14,1 Liga,24,0,5
+120970,rafal,leszczynski,13/14,Fortuna Puchar Polski,1,0,0
+120970,rafal,leszczynski,12/13,1 Liga,31,0,9
+120970,rafal,leszczynski,12/13,Fortuna Puchar Polski,1,0,0
+120970,rafal,leszczynski,11/12,1 Liga,17,0,4
+120970,rafal,leszczynski,11/12,Fortuna Puchar Polski,2,0,1
+120970,rafal,leszczynski,10/11,1 Liga,3,0,0

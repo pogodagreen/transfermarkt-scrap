@@ -1,25 +1,25 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-338031,jurich-carolina,22/23,Ekstraklasa,11,0,944
-338031,jurich-carolina,22/23,3 Liga - Grupa III,5,1,405
-338031,jurich-carolina,22/23,Fortuna Puchar Polski,1,0,90
-338031,jurich-carolina,21/22,1 Liga,27,2,2329
-338031,jurich-carolina,21/22,Fortuna Puchar Polski,1,0,29
-338031,jurich-carolina,20/21,1 Liga,29,1,2164
-338031,jurich-carolina,20/21,Fortuna Puchar Polski,1,0,90
-338031,jurich-carolina,19/20,1 Liga,11,0,772
-338031,jurich-carolina,19/20,Reserve Erediv.,2,0,114
-338031,jurich-carolina,19/20,Beloften Runda Wstępna,3,0,179
-338031,jurich-carolina,18/19,Keuken Kampioen Divisie,0,0,0
-338031,jurich-carolina,18/19,Eredivisie,6,0,524
-338031,jurich-carolina,18/19,KNVB beker,1,0,90
-338031,jurich-carolina,18/19,Beloften Runda Wstępna,3,0,270
-338031,jurich-carolina,17/18,Jupiler League,31,0,2412
-338031,jurich-carolina,16/17,Jupiler League,18,0,1460
-338031,jurich-carolina,16/17,U19 Eredivisie,2,0,180
-338031,jurich-carolina,16/17,Liga Młodzieżowa UEFA,7,0,615
-338031,jurich-carolina,16/17,Runda U19 Eredivisie,7,0,608
-338031,jurich-carolina,15/16,Play-Offs U19 Eredivisie,1,0,44
-338031,jurich-carolina,15/16,U19 Eredivisie,14,0,1260
-338031,jurich-carolina,15/16,Jupiler League,9,0,733
-338031,jurich-carolina,15/16,Liga Młodzieżowa UEFA,7,0,642
-338031,jurich-carolina,15/16,Runda U19 Eredivisie,8,0,720
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+338031,jurich,carolina,22/23,Ekstraklasa,12,0,1034
+338031,jurich,carolina,22/23,3 Liga - Grupa III,5,1,405
+338031,jurich,carolina,22/23,Fortuna Puchar Polski,1,0,90
+338031,jurich,carolina,21/22,1 Liga,27,2,2329
+338031,jurich,carolina,21/22,Fortuna Puchar Polski,1,0,29
+338031,jurich,carolina,20/21,1 Liga,29,1,2164
+338031,jurich,carolina,20/21,Fortuna Puchar Polski,1,0,90
+338031,jurich,carolina,19/20,1 Liga,11,0,772
+338031,jurich,carolina,19/20,Reserve Erediv.,2,0,114
+338031,jurich,carolina,19/20,Beloften Runda Wstępna,3,0,179
+338031,jurich,carolina,18/19,Keuken Kampioen Divisie,0,0,0
+338031,jurich,carolina,18/19,Eredivisie,6,0,524
+338031,jurich,carolina,18/19,KNVB beker,1,0,90
+338031,jurich,carolina,18/19,Beloften Runda Wstępna,3,0,270
+338031,jurich,carolina,17/18,Jupiler League,31,0,2412
+338031,jurich,carolina,16/17,Jupiler League,18,0,1460
+338031,jurich,carolina,16/17,U19 Eredivisie,2,0,180
+338031,jurich,carolina,16/17,Liga Młodzieżowa UEFA,7,0,615
+338031,jurich,carolina,16/17,Runda U19 Eredivisie,7,0,608
+338031,jurich,carolina,15/16,Play-Offs U19 Eredivisie,1,0,44
+338031,jurich,carolina,15/16,U19 Eredivisie,14,0,1260
+338031,jurich,carolina,15/16,Jupiler League,9,0,733
+338031,jurich,carolina,15/16,Liga Młodzieżowa UEFA,7,0,642
+338031,jurich,carolina,15/16,Runda U19 Eredivisie,8,0,720

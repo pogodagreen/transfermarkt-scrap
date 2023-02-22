@@ -1,15 +1,15 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-496606,dominick-zator,22/23,Ekstraklasa,3,0,270
-496606,dominick-zator,2022,CanPL,28,1,2506
-496606,dominick-zator,2022,Canadian Championship,3,0,270
-496606,dominick-zator,2021,CanPL Playoffs,1,0,90
-496606,dominick-zator,2021,CanPL,24,1,2046
-496606,dominick-zator,2021,Canadian Championship,2,0,180
-496606,dominick-zator,2021,Superettan,5,0,239
-496606,dominick-zator,2020,CanPL Playoffs,3,0,243
-496606,dominick-zator,2020,CanPL,7,1,630
-496606,dominick-zator,2019,CanPL Playoffs,2,0,180
-496606,dominick-zator,2019,CanPL Fall Season,18,0,1471
-496606,dominick-zator,2019,Canadian Championship,8,2,720
-496606,dominick-zator,2019,CanPL Spring Season,9,1,774
-496606,dominick-zator,2017,USL,8,0,685
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+496606,dominick,zator,22/23,Ekstraklasa,4,0,360
+496606,dominick,zator,2022,CanPL,28,1,2506
+496606,dominick,zator,2022,Canadian Championship,3,0,270
+496606,dominick,zator,2021,CanPL Playoffs,1,0,90
+496606,dominick,zator,2021,CanPL,24,1,2046
+496606,dominick,zator,2021,Canadian Championship,2,0,180
+496606,dominick,zator,2021,Superettan,5,0,239
+496606,dominick,zator,2020,CanPL Playoffs,3,0,243
+496606,dominick,zator,2020,CanPL,7,1,630
+496606,dominick,zator,2019,CanPL Playoffs,2,0,180
+496606,dominick,zator,2019,CanPL Fall Season,18,0,1471
+496606,dominick,zator,2019,Canadian Championship,8,2,720
+496606,dominick,zator,2019,CanPL Spring Season,9,1,774
+496606,dominick,zator,2017,USL,8,0,685

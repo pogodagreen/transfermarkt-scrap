@@ -1,36 +1,36 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-235977,michal-kopczynski,22/23,Ekstraklasa,16,1,1220
-235977,michal-kopczynski,22/23,Fortuna Puchar Polski,0,0,0
-235977,michal-kopczynski,21/22,Ekstraklasa,26,2,1621
-235977,michal-kopczynski,21/22,Fortuna Puchar Polski,0,0,0
-235977,michal-kopczynski,20/21,Ekstraklasa,7,0,393
-235977,michal-kopczynski,20/21,Fortuna Puchar Polski,0,0,0
-235977,michal-kopczynski,19/20,Ekstraklasa,11,0,874
-235977,michal-kopczynski,18/19,A-League Finals,1,0,90
-235977,michal-kopczynski,18/19,A-League,22,0,1434
-235977,michal-kopczynski,18/19,NZ Premiership (- 2021),2,0,180
-235977,michal-kopczynski,18/19,FFA Cup,1,0,83
-235977,michal-kopczynski,17/18,3 Liga - Grupa I,3,0,225
-235977,michal-kopczynski,17/18,Fortuna Puchar Polski,4,0,343
-235977,michal-kopczynski,17/18,Ekstraklasa,17,0,807
-235977,michal-kopczynski,17/18,Kwalifikacje do Ligi Europy,0,0,0
-235977,michal-kopczynski,17/18,Kwalifikacje do Ligi Mistrzów,3,0,155
-235977,michal-kopczynski,17/18,Superpuchar,1,0,120
-235977,michal-kopczynski,16/17,Ekstraklasa,31,0,2096
-235977,michal-kopczynski,16/17,Liga Europy,2,0,172
-235977,michal-kopczynski,16/17,Liga Mistrzów,5,0,283
-235977,michal-kopczynski,16/17,3 Liga - Grupa I,2,0,180
-235977,michal-kopczynski,16/17,Kwalifikacje do Ligi Mistrzów,4,0,209
-235977,michal-kopczynski,16/17,Fortuna Puchar Polski,0,0,0
-235977,michal-kopczynski,16/17,Superpuchar,0,0,0
-235977,michal-kopczynski,15/16,Ekstraklasa,2,0,30
-235977,michal-kopczynski,15/16,Fortuna Puchar Polski,3,0,242
-235977,michal-kopczynski,15/16,Liga Europy,0,0,0
-235977,michal-kopczynski,14/15,1 Liga,25,3,2091
-235977,michal-kopczynski,14/15,Ekstraklasa,0,0,0
-235977,michal-kopczynski,13/14,Ekstraklasa,2,0,11
-235977,michal-kopczynski,13/14,Liga Europy,0,0,0
-235977,michal-kopczynski,12/13,Ekstraklasa,1,0,6
-235977,michal-kopczynski,12/13,Fortuna Puchar Polski,2,1,49
-235977,michal-kopczynski,12/13,Liga Europy,0,0,0
-235977,michal-kopczynski,09/10,Viareggio,2,0,89
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+235977,michal,kopczynski,22/23,Ekstraklasa,17,1,1278
+235977,michal,kopczynski,22/23,Fortuna Puchar Polski,0,0,0
+235977,michal,kopczynski,21/22,Ekstraklasa,26,2,1621
+235977,michal,kopczynski,21/22,Fortuna Puchar Polski,0,0,0
+235977,michal,kopczynski,20/21,Ekstraklasa,7,0,393
+235977,michal,kopczynski,20/21,Fortuna Puchar Polski,0,0,0
+235977,michal,kopczynski,19/20,Ekstraklasa,11,0,874
+235977,michal,kopczynski,18/19,A-League Finals,1,0,90
+235977,michal,kopczynski,18/19,A-League,22,0,1434
+235977,michal,kopczynski,18/19,NZ Premiership (- 2021),2,0,180
+235977,michal,kopczynski,18/19,FFA Cup,1,0,83
+235977,michal,kopczynski,17/18,3 Liga - Grupa I,3,0,225
+235977,michal,kopczynski,17/18,Fortuna Puchar Polski,4,0,343
+235977,michal,kopczynski,17/18,Ekstraklasa,17,0,807
+235977,michal,kopczynski,17/18,Kwalifikacje do Ligi Europy,0,0,0
+235977,michal,kopczynski,17/18,Kwalifikacje do Ligi Mistrzów,3,0,155
+235977,michal,kopczynski,17/18,Superpuchar,1,0,120
+235977,michal,kopczynski,16/17,Ekstraklasa,31,0,2096
+235977,michal,kopczynski,16/17,Liga Europy,2,0,172
+235977,michal,kopczynski,16/17,Liga Mistrzów,5,0,283
+235977,michal,kopczynski,16/17,3 Liga - Grupa I,2,0,180
+235977,michal,kopczynski,16/17,Kwalifikacje do Ligi Mistrzów,4,0,209
+235977,michal,kopczynski,16/17,Fortuna Puchar Polski,0,0,0
+235977,michal,kopczynski,16/17,Superpuchar,0,0,0
+235977,michal,kopczynski,15/16,Ekstraklasa,2,0,30
+235977,michal,kopczynski,15/16,Fortuna Puchar Polski,3,0,242
+235977,michal,kopczynski,15/16,Liga Europy,0,0,0
+235977,michal,kopczynski,14/15,1 Liga,25,3,2091
+235977,michal,kopczynski,14/15,Ekstraklasa,0,0,0
+235977,michal,kopczynski,13/14,Ekstraklasa,2,0,11
+235977,michal,kopczynski,13/14,Liga Europy,0,0,0
+235977,michal,kopczynski,12/13,Ekstraklasa,1,0,6
+235977,michal,kopczynski,12/13,Fortuna Puchar Polski,2,1,49
+235977,michal,kopczynski,12/13,Liga Europy,0,0,0
+235977,michal,kopczynski,09/10,Viareggio,2,0,89

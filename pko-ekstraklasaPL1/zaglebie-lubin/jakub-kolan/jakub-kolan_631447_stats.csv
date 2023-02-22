@@ -1,9 +1,9 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-631447,jakub-kolan,22/23,CLJ,3,0,270
-631447,jakub-kolan,22/23,eWinner 2 liga,16,0,1132
-631447,jakub-kolan,22/23,Fortuna Puchar Polski,0,0,0
-631447,jakub-kolan,22/23,Liga Młodzieżowa UEFA,2,0,180
-631447,jakub-kolan,21/22,3 Liga - Grupa III,13,1,983
-631447,jakub-kolan,21/22,CLJ,20,2,1694
-631447,jakub-kolan,20/21,CLJ,21,0,1713
-631447,jakub-kolan,20/21,3 Liga - Grupa III,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+631447,jakub,kolan,22/23,CLJ,3,0,270
+631447,jakub,kolan,22/23,eWinner 2 liga,16,0,1132
+631447,jakub,kolan,22/23,Fortuna Puchar Polski,0,0,0
+631447,jakub,kolan,22/23,Liga Młodzieżowa UEFA,2,0,180
+631447,jakub,kolan,21/22,3 Liga - Grupa III,13,1,983
+631447,jakub,kolan,21/22,CLJ,20,2,1694
+631447,jakub,kolan,20/21,CLJ,21,0,1713
+631447,jakub,kolan,20/21,3 Liga - Grupa III,0,0,0

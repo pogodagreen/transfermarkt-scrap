@@ -1,2 +1,2 @@
-id,name,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
-152693,tomas-prikryl,1992,Czech,"1,77",Right Midfield,0,9,16,8,23,0,14,0
+id,firstName,lastName,yearOfBirth,nationality,height,position,u15,u16,u17,u18,u19,u20,u21,team
+152693,tomas,prikryl,1992,Czech,"1,77",Right Winger,0,9,16,8,23,0,14,0

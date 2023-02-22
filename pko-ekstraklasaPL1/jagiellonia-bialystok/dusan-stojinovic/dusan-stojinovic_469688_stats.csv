@@ -1,19 +1,19 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-469688,dusan-stojinovic,22/23,Ekstraklasa,1,0,90
-469688,dusan-stojinovic,22/23,Prva Liga,12,0,975
-469688,dusan-stojinovic,22/23,Pokal Slovenije,0,0,0
-469688,dusan-stojinovic,21/22,Prva Liga,10,0,745
-469688,dusan-stojinovic,21/22,Pokal Slovenije,1,0,34
-469688,dusan-stojinovic,21/22,Premier Liga,14,0,908
-469688,dusan-stojinovic,21/22,Puchar Rosji,2,0,210
-469688,dusan-stojinovic,20/21,Pokal Slovenije,4,0,360
-469688,dusan-stojinovic,20/21,Prva Liga,27,0,2266
-469688,dusan-stojinovic,20/21,Kwalifikacje do Ligi Europy,1,0,120
-469688,dusan-stojinovic,20/21,Kwalifikacje do Ligi Mistrzów,0,0,0
-469688,dusan-stojinovic,19/20,Prva Liga,29,1,2504
-469688,dusan-stojinovic,19/20,Pokal Slovenije,2,0,155
-469688,dusan-stojinovic,18/19,Prva Liga,19,0,1582
-469688,dusan-stojinovic,18/19,Pokal Slovenije,1,0,90
-469688,dusan-stojinovic,17/18,Prva Liga,16,0,1396
-469688,dusan-stojinovic,17/18,Pokal Slovenije,2,0,180
-469688,dusan-stojinovic,17/18,Druga Liga,1,0,12
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+469688,dusan,stojinovic,22/23,Ekstraklasa,2,0,180
+469688,dusan,stojinovic,22/23,Prva Liga,12,0,975
+469688,dusan,stojinovic,22/23,Pokal Slovenije,0,0,0
+469688,dusan,stojinovic,21/22,Prva Liga,10,0,745
+469688,dusan,stojinovic,21/22,Pokal Slovenije,1,0,34
+469688,dusan,stojinovic,21/22,Premier Liga,14,0,908
+469688,dusan,stojinovic,21/22,Puchar Rosji,2,0,210
+469688,dusan,stojinovic,20/21,Pokal Slovenije,4,0,360
+469688,dusan,stojinovic,20/21,Prva Liga,27,0,2266
+469688,dusan,stojinovic,20/21,Kwalifikacje do Ligi Europy,1,0,120
+469688,dusan,stojinovic,20/21,Kwalifikacje do Ligi Mistrzów,0,0,0
+469688,dusan,stojinovic,19/20,Prva Liga,29,1,2504
+469688,dusan,stojinovic,19/20,Pokal Slovenije,2,0,155
+469688,dusan,stojinovic,18/19,Prva Liga,19,0,1582
+469688,dusan,stojinovic,18/19,Pokal Slovenije,1,0,90
+469688,dusan,stojinovic,17/18,Prva Liga,16,0,1396
+469688,dusan,stojinovic,17/18,Pokal Slovenije,2,0,180
+469688,dusan,stojinovic,17/18,Druga Liga,1,0,12

@@ -1,16 +1,16 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2021-01-09,SPAL,Lech Poznan,400000,free transfer
-18/19,2019-06-30,Frosinone,SPAL,800000,End of loan
-18/19,2018-08-09,SPAL,Frosinone,1400000,loan transfer
-18/19,2018-07-01,Cagliari Calcio,SPAL,1400000,2000000
-17/18,2018-06-30,SPAL,Cagliari Calcio,1400000,End of loan
-17/18,2017-08-19,Cagliari Calcio,SPAL,1600000,loan transfer
-15/16,2015-08-31,Sampdoria,Cagliari Calcio,1500000,1500000
-14/15,2015-06-30,Pescara,Sampdoria,1500000,End of loan
-14/15,2014-09-01,Sampdoria,Pescara,1800000,loan transfer
-13/14,2013-07-11,AC Milan,Sampdoria,3000000,3400000
-12/13,2013-01-31,Brescia,AC Milan,2800000,3500000
-10/11,2011-06-30,Foggia,Brescia,200000,End of loan
-10/11,2010-07-01,Brescia,Foggia,300000,loan transfer
-08/09,2008-07-01,Brescia U19,Brescia,0,0
-06/07,2006-07-01,Lech U19,Brescia U19,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+71019,bartosz,salamon,20/21,2021-01-09,SPAL,Lech Poznan,400000,free transfer
+71019,bartosz,salamon,18/19,2019-06-30,Frosinone,SPAL,800000,End of loan
+71019,bartosz,salamon,18/19,2018-08-09,SPAL,Frosinone,1400000,loan transfer
+71019,bartosz,salamon,18/19,2018-07-01,Cagliari Calcio,SPAL,1400000,2000000
+71019,bartosz,salamon,17/18,2018-06-30,SPAL,Cagliari Calcio,1400000,End of loan
+71019,bartosz,salamon,17/18,2017-08-19,Cagliari Calcio,SPAL,1600000,loan transfer
+71019,bartosz,salamon,15/16,2015-08-31,Sampdoria,Cagliari Calcio,1500000,1500000
+71019,bartosz,salamon,14/15,2015-06-30,Pescara,Sampdoria,1500000,End of loan
+71019,bartosz,salamon,14/15,2014-09-01,Sampdoria,Pescara,1800000,loan transfer
+71019,bartosz,salamon,13/14,2013-07-11,AC Milan,Sampdoria,3000000,3400000
+71019,bartosz,salamon,12/13,2013-01-31,Brescia,AC Milan,2800000,3500000
+71019,bartosz,salamon,10/11,2011-06-30,Foggia,Brescia,200000,End of loan
+71019,bartosz,salamon,10/11,2010-07-01,Brescia,Foggia,300000,loan transfer
+71019,bartosz,salamon,08/09,2008-07-01,Brescia U19,Brescia,0,0
+71019,bartosz,salamon,06/07,2006-07-01,Lech U19,Brescia U19,0,0

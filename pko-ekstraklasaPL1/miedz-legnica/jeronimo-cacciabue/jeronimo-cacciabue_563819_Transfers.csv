@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-23/24,2023-12-31,Platense,Newell's,500000,End of loan
-22/23,2023-01-13,Newell's,Platense,500000,loan transfer
-22/23,2022-12-31,Miedz Legnica,Newell's,500000,End of loan
-22/23,2022-07-04,Newell's,Miedz Legnica,2100000,loan transfer
-18/19,2018-07-01,Newell's II,Newell's,300000,0
-17/18,2017-07-01,Newell's U20,Newell's II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+563819,jeronimo,cacciabue,23/24,2023-12-31,Platense,Newell's,500000,End of loan
+563819,jeronimo,cacciabue,22/23,2023-01-13,Newell's,Platense,500000,loan transfer
+563819,jeronimo,cacciabue,22/23,2022-12-31,Miedz Legnica,Newell's,500000,End of loan
+563819,jeronimo,cacciabue,22/23,2022-07-04,Newell's,Miedz Legnica,2100000,loan transfer
+563819,jeronimo,cacciabue,18/19,2018-07-01,Newell's II,Newell's,300000,0
+563819,jeronimo,cacciabue,17/18,2017-07-01,Newell's U20,Newell's II,0,0

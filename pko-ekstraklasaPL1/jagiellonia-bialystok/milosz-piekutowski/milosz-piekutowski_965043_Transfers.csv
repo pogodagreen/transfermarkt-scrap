@@ -1,2 +1,2 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-15,Jagiellonia U19,Jagiellonia,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+965043,milosz,piekutowski,22/23,2022-07-15,Jagiellonia U19,Jagiellonia,0,0

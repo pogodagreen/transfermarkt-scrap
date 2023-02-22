@@ -1,12 +1,12 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-07-08,Radomiak,Sivasspor,1500000,1000000
-20/21,2020-08-21,Wisla Plock,Radomiak,150000,free transfer
-18/19,2018-07-01,Piast Gliwice,Wisla Plock,200000,free transfer
-16/17,2017-06-30,Olimpia Grudz.,Piast Gliwice,200000,End of loan
-16/17,2016-07-11,Piast Gliwice,Olimpia Grudz.,100000,loan transfer
-15/16,2016-06-30,Zawisza,Piast Gliwice,100000,End of loan
-15/16,2016-02-14,Piast Gliwice,Zawisza,100000,loan transfer
-15/16,2015-07-01,Slask Wroclaw,Piast Gliwice,100000,free transfer
-14/15,2014-07-01,Korona Kielce,Slask Wroclaw,100000,2000
-12/13,2013-01-01,Korona Kielce II,Korona Kielce,0,0
-12/13,2012-07-01,Korona U19,Korona Kielce II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+253290,karol,angielski,22/23,2022-07-08,Radomiak,Sivasspor,1500000,1000000
+253290,karol,angielski,20/21,2020-08-21,Wisla Plock,Radomiak,150000,free transfer
+253290,karol,angielski,18/19,2018-07-01,Piast Gliwice,Wisla Plock,200000,free transfer
+253290,karol,angielski,16/17,2017-06-30,Olimpia Grudz.,Piast Gliwice,200000,End of loan
+253290,karol,angielski,16/17,2016-07-11,Piast Gliwice,Olimpia Grudz.,100000,loan transfer
+253290,karol,angielski,15/16,2016-06-30,Zawisza,Piast Gliwice,100000,End of loan
+253290,karol,angielski,15/16,2016-02-14,Piast Gliwice,Zawisza,100000,loan transfer
+253290,karol,angielski,15/16,2015-07-01,Slask Wroclaw,Piast Gliwice,100000,free transfer
+253290,karol,angielski,14/15,2014-07-01,Korona Kielce,Slask Wroclaw,100000,2000
+253290,karol,angielski,12/13,2013-01-01,Korona Kielce II,Korona Kielce,0,0
+253290,karol,angielski,12/13,2012-07-01,Korona U19,Korona Kielce II,0,0

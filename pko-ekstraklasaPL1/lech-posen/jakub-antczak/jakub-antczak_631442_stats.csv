@@ -1,9 +1,9 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-631442,jakub-antczak,22/23,eWinner 2 liga,16,1,964
-631442,jakub-antczak,22/23,CLJ,1,0,80
-631442,jakub-antczak,22/23,UECL Kwalifikacje,0,0,0
-631442,jakub-antczak,21/22,eWinner 2 liga,22,3,1119
-631442,jakub-antczak,21/22,CLJ,7,2,585
-631442,jakub-antczak,21/22,Ekstraklasa,1,0,19
-631442,jakub-antczak,21/22,Fortuna Puchar Polski,1,0,14
-631442,jakub-antczak,20/21,CLJ,17,4,1004
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+631442,jakub,antczak,22/23,eWinner 2 liga,16,1,964
+631442,jakub,antczak,22/23,CLJ,1,0,80
+631442,jakub,antczak,22/23,UECL Kwalifikacje,0,0,0
+631442,jakub,antczak,21/22,eWinner 2 liga,22,3,1119
+631442,jakub,antczak,21/22,CLJ,7,2,585
+631442,jakub,antczak,21/22,Ekstraklasa,1,0,19
+631442,jakub,antczak,21/22,Fortuna Puchar Polski,1,0,14
+631442,jakub,antczak,20/21,CLJ,17,4,1004

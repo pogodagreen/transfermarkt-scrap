@@ -1,51 +1,51 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-72462,luciano-narsingh,22/23,Ekstraklasa,17,4,950
-72462,luciano-narsingh,22/23,3 Liga - Grupa III,1,0,45
-72462,luciano-narsingh,22/23,Fortuna Puchar Polski,1,0,-58
-72462,luciano-narsingh,21/22,A-League Men,10,1,312
-72462,luciano-narsingh,2022,AFC Champions League,4,0,221
-72462,luciano-narsingh,20/21,Eredivisie,17,1,1132
-72462,luciano-narsingh,20/21,KNVB beker,0,0,0
-72462,luciano-narsingh,20/21,Eredivisie,9,1,391
-72462,luciano-narsingh,20/21,Liga Europy,2,0,134
-72462,luciano-narsingh,19/20,Eredivisie,15,2,652
-72462,luciano-narsingh,19/20,KNVB beker,2,2,69
-72462,luciano-narsingh,19/20,Reserve Erediv.,2,0,180
-72462,luciano-narsingh,19/20,Liga Europy,5,0,87
-72462,luciano-narsingh,19/20,Beloften Runda Wstępna,4,2,360
-72462,luciano-narsingh,19/20,Kwalifikacje do Ligi Europy,4,1,288
-72462,luciano-narsingh,18/19,Championship,2,0,43
-72462,luciano-narsingh,18/19,FA Cup,0,0,0
-72462,luciano-narsingh,18/19,Premier League 2,2,0,135
-72462,luciano-narsingh,17/18,Premier League,18,1,619
-72462,luciano-narsingh,17/18,FA Cup,5,1,361
-72462,luciano-narsingh,17/18,EFL Cup,2,0,85
-72462,luciano-narsingh,17/18,Premier League 2,1,1,90
-72462,luciano-narsingh,16/17,Premier League,13,0,408
-72462,luciano-narsingh,16/17,Eredivisie,15,1,800
-72462,luciano-narsingh,16/17,Liga Mistrzów,5,1,285
-72462,luciano-narsingh,16/17,KNVB Beker,2,1,59
-72462,luciano-narsingh,16/17,Johan Cruijff Schaal,1,0,30
-72462,luciano-narsingh,15/16,Eredivisie,30,8,2086
-72462,luciano-narsingh,15/16,Liga Mistrzów,7,1,438
-72462,luciano-narsingh,15/16,KNVB Beker,2,0,100
-72462,luciano-narsingh,15/16,Johan Cruijff Schaal,1,0,90
-72462,luciano-narsingh,14/15,Eredivisie,32,6,2552
-72462,luciano-narsingh,14/15,Liga Europy,9,1,617
-72462,luciano-narsingh,14/15,KNVB Beker,3,1,180
-72462,luciano-narsingh,14/15,Kwalifikacje do Ligi Europy,2,0,134
-72462,luciano-narsingh,13/14,Eredivisie,20,0,756
-72462,luciano-narsingh,13/14,Liga Europy,3,0,219
-72462,luciano-narsingh,13/14,KNVB beker,1,0,65
-72462,luciano-narsingh,13/14,Jupiler League,3,3,178
-72462,luciano-narsingh,12/13,Eredivisie,18,6,1199
-72462,luciano-narsingh,12/13,KNVB beker,2,0,180
-72462,luciano-narsingh,12/13,Liga Europy,5,0,354
-72462,luciano-narsingh,12/13,Johan Cruijff Schaal,1,0,84
-72462,luciano-narsingh,11/12,Eredivisie,34,8,2902
-72462,luciano-narsingh,11/12,KNVB beker,5,4,450
-72462,luciano-narsingh,10/11,Eredivisie,24,5,1509
-72462,luciano-narsingh,10/11,KNVB beker,2,0,105
-72462,luciano-narsingh,09/10,Eredivisie,2,0,30
-72462,luciano-narsingh,09/10,KNVB beker,1,0,51
-72462,luciano-narsingh,08/09,Eredivisie,2,0,59
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+72462,luciano,narsingh,22/23,Ekstraklasa,18,4,1017
+72462,luciano,narsingh,22/23,3 Liga - Grupa III,1,0,45
+72462,luciano,narsingh,22/23,Fortuna Puchar Polski,1,0,-58
+72462,luciano,narsingh,21/22,A-League Men,10,1,312
+72462,luciano,narsingh,2022,AFC Champions League,4,0,221
+72462,luciano,narsingh,20/21,Eredivisie,17,1,1132
+72462,luciano,narsingh,20/21,KNVB beker,0,0,0
+72462,luciano,narsingh,20/21,Eredivisie,9,1,391
+72462,luciano,narsingh,20/21,Liga Europy,2,0,134
+72462,luciano,narsingh,19/20,Eredivisie,15,2,652
+72462,luciano,narsingh,19/20,KNVB beker,2,2,69
+72462,luciano,narsingh,19/20,Reserve Erediv.,2,0,180
+72462,luciano,narsingh,19/20,Liga Europy,5,0,87
+72462,luciano,narsingh,19/20,Beloften Runda Wstępna,4,2,360
+72462,luciano,narsingh,19/20,Kwalifikacje do Ligi Europy,4,1,288
+72462,luciano,narsingh,18/19,Championship,2,0,43
+72462,luciano,narsingh,18/19,FA Cup,0,0,0
+72462,luciano,narsingh,18/19,Premier League 2,2,0,135
+72462,luciano,narsingh,17/18,Premier League,18,1,619
+72462,luciano,narsingh,17/18,FA Cup,5,1,361
+72462,luciano,narsingh,17/18,EFL Cup,2,0,85
+72462,luciano,narsingh,17/18,Premier League 2,1,1,90
+72462,luciano,narsingh,16/17,Premier League,13,0,408
+72462,luciano,narsingh,16/17,Eredivisie,15,1,800
+72462,luciano,narsingh,16/17,Liga Mistrzów,5,1,285
+72462,luciano,narsingh,16/17,KNVB Beker,2,1,59
+72462,luciano,narsingh,16/17,Johan Cruijff Schaal,1,0,30
+72462,luciano,narsingh,15/16,Eredivisie,30,8,2086
+72462,luciano,narsingh,15/16,Liga Mistrzów,7,1,438
+72462,luciano,narsingh,15/16,KNVB Beker,2,0,100
+72462,luciano,narsingh,15/16,Johan Cruijff Schaal,1,0,90
+72462,luciano,narsingh,14/15,Eredivisie,32,6,2552
+72462,luciano,narsingh,14/15,Liga Europy,9,1,617
+72462,luciano,narsingh,14/15,KNVB Beker,3,1,180
+72462,luciano,narsingh,14/15,Kwalifikacje do Ligi Europy,2,0,134
+72462,luciano,narsingh,13/14,Eredivisie,20,0,756
+72462,luciano,narsingh,13/14,Liga Europy,3,0,219
+72462,luciano,narsingh,13/14,KNVB beker,1,0,65
+72462,luciano,narsingh,13/14,Jupiler League,3,3,178
+72462,luciano,narsingh,12/13,Eredivisie,18,6,1199
+72462,luciano,narsingh,12/13,KNVB beker,2,0,180
+72462,luciano,narsingh,12/13,Liga Europy,5,0,354
+72462,luciano,narsingh,12/13,Johan Cruijff Schaal,1,0,84
+72462,luciano,narsingh,11/12,Eredivisie,34,8,2902
+72462,luciano,narsingh,11/12,KNVB beker,5,4,450
+72462,luciano,narsingh,10/11,Eredivisie,24,5,1509
+72462,luciano,narsingh,10/11,KNVB beker,2,0,105
+72462,luciano,narsingh,09/10,Eredivisie,2,0,30
+72462,luciano,narsingh,09/10,KNVB beker,1,0,51
+72462,luciano,narsingh,08/09,Eredivisie,2,0,59

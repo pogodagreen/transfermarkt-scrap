@@ -9,6 +9,11 @@ headers = {'User-Agent':
 
 def transferHistory(link,file):
     playerName=link.split("/")[3]
+    playerFirstName=playerName.split("-")[0]
+    try:
+      playerLastName=playerName.split("-")[1]
+    except:
+      playerLastName="-"
 
     try:
         link=link.replace(".pl/",".co.uk/")
@@ -50,7 +55,13 @@ def transferHistory(link,file):
 
         df.columns=cols
         df=df.drop([0])
+        playerIdTable=[]
+        playerLastNameTable=[]
+        playerFirstNameTable=[]
         for index, row in df.iterrows():
+            playerIdTable.append(playerId)
+            playerLastNameTable.append(playerLastName)
+            playerFirstNameTable.append(playerFirstName)
             if row['date'] == "0":
                 df=df.drop(index)
             else:
@@ -71,6 +82,10 @@ def transferHistory(link,file):
                 row['price']=str(int(row['price'][1:-1])*1000)
             elif row['price'][-1:]=='m':
                 row['price']=str(int(row['price'][1:-1].replace('.',''))*10000)
+        idx=0
+        df.insert(loc=idx, column='lastName', value=playerLastNameTable)
+        df.insert(loc=idx, column='firstName', value=playerFirstNameTable)
+        df.insert(loc=idx, column='id', value=playerId)
         fileName=playerName+"_"+playerId+"_Transfers.csv"
         df.to_csv(fileName, index=False)
 

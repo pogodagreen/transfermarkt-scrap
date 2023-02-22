@@ -1,4 +1,4 @@
-id,name,dates,marketValue
-985983,kacper-bojanczyk,2022-03-21,25000
-985983,kacper-bojanczyk,2022-06-23,25000
-985983,kacper-bojanczyk,2022-11-15,25000
+id,firstName,lastName,dates,marketValue
+985983,kacper,bojanczyk,2022-03-21,25000
+985983,kacper,bojanczyk,2022-06-23,25000
+985983,kacper,bojanczyk,2022-11-15,25000

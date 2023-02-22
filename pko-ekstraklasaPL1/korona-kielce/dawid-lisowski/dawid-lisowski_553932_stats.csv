@@ -1,11 +1,11 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-553932,dawid-lisowski,22/23,3 Liga - Grupa IV,16,2,1284
-553932,dawid-lisowski,21/22,1 Liga,2,0,76
-553932,dawid-lisowski,20/21,1 Liga,24,0,1445
-553932,dawid-lisowski,20/21,Fortuna Puchar Polski,1,0,4
-553932,dawid-lisowski,20/21,3 Liga - Grupa IV,12,1,983
-553932,dawid-lisowski,19/20,Ekstraklasa,7,0,204
-553932,dawid-lisowski,19/20,3 Liga - Grupa IV,17,2,1097
-553932,dawid-lisowski,19/20,Liga Młodzieżowa UEFA,2,1,173
-553932,dawid-lisowski,18/19,CLJ,29,6,2131
-553932,dawid-lisowski,17/18,CLJ - Grupa Wschodnia,3,0,162
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+553932,dawid,lisowski,22/23,3 Liga - Grupa IV,16,2,1284
+553932,dawid,lisowski,21/22,1 Liga,2,0,76
+553932,dawid,lisowski,20/21,1 Liga,24,0,1445
+553932,dawid,lisowski,20/21,Fortuna Puchar Polski,1,0,4
+553932,dawid,lisowski,20/21,3 Liga - Grupa IV,12,1,983
+553932,dawid,lisowski,19/20,Ekstraklasa,7,0,204
+553932,dawid,lisowski,19/20,3 Liga - Grupa IV,17,2,1097
+553932,dawid,lisowski,19/20,Liga Młodzieżowa UEFA,2,1,173
+553932,dawid,lisowski,18/19,CLJ,29,6,2131
+553932,dawid,lisowski,17/18,CLJ - Grupa Wschodnia,3,0,162

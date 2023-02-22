@@ -1,6 +1,6 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-972610,yadegar-rostami,22/23,CLJ,6,10,488
-972610,yadegar-rostami,22/23,Ekstraklasa,0,0,0
-972610,yadegar-rostami,22/23,3 Liga - Grupa II,9,2,656
-972610,yadegar-rostami,22/23,Fortuna Puchar Polski,1,0,32
-972610,yadegar-rostami,21/22,3 Liga - Grupa II,7,1,381
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+972610,yadegar,rostami,22/23,CLJ,6,10,488
+972610,yadegar,rostami,22/23,Ekstraklasa,0,0,0
+972610,yadegar,rostami,22/23,3 Liga - Grupa II,9,2,656
+972610,yadegar,rostami,22/23,Fortuna Puchar Polski,1,0,32
+972610,yadegar,rostami,21/22,3 Liga - Grupa II,7,1,381

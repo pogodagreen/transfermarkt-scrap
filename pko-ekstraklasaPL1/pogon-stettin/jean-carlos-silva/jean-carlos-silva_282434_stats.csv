@@ -1,19 +1,19 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-282434,jean-carlos-silva,22/23,Ekstraklasa,3,0,228
-282434,jean-carlos-silva,22/23,Fortuna Puchar Polski,2,0,72
-282434,jean-carlos-silva,22/23,Ekstraklasa,15,1,653
-282434,jean-carlos-silva,22/23,UECL Kwalifikacje,4,0,328
-282434,jean-carlos-silva,21/22,Ekstraklasa,34,2,1772
-282434,jean-carlos-silva,21/22,Fortuna Puchar Polski,1,0,28
-282434,jean-carlos-silva,21/22,UECL Kwalifikacje,2,0,102
-282434,jean-carlos-silva,20/21,Ekstraklasa,22,3,1400
-282434,jean-carlos-silva,20/21,Fortuna Puchar Polski,1,0,69
-282434,jean-carlos-silva,19/20,Ekstraklasa,17,0,1036
-282434,jean-carlos-silva,19/20,Fortuna Puchar Polski,1,0,61
-282434,jean-carlos-silva,18/19,2ª B - Grupo IV,34,2,2561
-282434,jean-carlos-silva,17/18,LaLiga 1|2|3,0,0,0
-282434,jean-carlos-silva,17/18,2ª B - Grupo IV,24,1,1282
-282434,jean-carlos-silva,16/17,LaLiga,1,0,29
-282434,jean-carlos-silva,16/17,2ª B - Grupo IV,19,1,1216
-282434,jean-carlos-silva,15/16,2ª B - Grupo II,18,1,783
-282434,jean-carlos-silva,14/15,Liga Młodzieżowa UEFA,3,0,194
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+282434,jean,carlos,22/23,Ekstraklasa,4,1,318
+282434,jean,carlos,22/23,Fortuna Puchar Polski,2,0,72
+282434,jean,carlos,22/23,Ekstraklasa,15,1,653
+282434,jean,carlos,22/23,UECL Kwalifikacje,4,0,328
+282434,jean,carlos,21/22,Ekstraklasa,34,2,1772
+282434,jean,carlos,21/22,Fortuna Puchar Polski,1,0,28
+282434,jean,carlos,21/22,UECL Kwalifikacje,2,0,102
+282434,jean,carlos,20/21,Ekstraklasa,22,3,1400
+282434,jean,carlos,20/21,Fortuna Puchar Polski,1,0,69
+282434,jean,carlos,19/20,Ekstraklasa,17,0,1036
+282434,jean,carlos,19/20,Fortuna Puchar Polski,1,0,61
+282434,jean,carlos,18/19,2ª B - Grupo IV,34,2,2561
+282434,jean,carlos,17/18,LaLiga 1|2|3,0,0,0
+282434,jean,carlos,17/18,2ª B - Grupo IV,24,1,1282
+282434,jean,carlos,16/17,LaLiga,1,0,29
+282434,jean,carlos,16/17,2ª B - Grupo IV,19,1,1216
+282434,jean,carlos,15/16,2ª B - Grupo II,18,1,783
+282434,jean,carlos,14/15,Liga Młodzieżowa UEFA,3,0,194

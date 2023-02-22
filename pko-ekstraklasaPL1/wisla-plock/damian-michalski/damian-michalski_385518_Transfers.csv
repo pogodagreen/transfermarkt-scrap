@@ -1,7 +1,7 @@
-season,date,sourceTeam,destTeam,marketValue,price
-22/23,2022-08-29,Wisla Plock,Greuther Fürth,1000000,500000
-19/20,2019-07-01,GKS Belchatow,Wisla Plock,0,free transfer
-17/18,2017-12-31,Gornik Polk.,GKS Belchatow,0,End of loan
-17/18,2017-08-01,GKS Belchatow,Gornik Polk.,0,loan transfer
-15/16,2016-03-11,Belchatow II,GKS Belchatow,0,0
-14/15,2015-01-01,Belchatow U19,Belchatow II,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+385518,damian,michalski,22/23,2022-08-29,Wisla Plock,Greuther Fürth,1000000,500000
+385518,damian,michalski,19/20,2019-07-01,GKS Belchatow,Wisla Plock,0,free transfer
+385518,damian,michalski,17/18,2017-12-31,Gornik Polk.,GKS Belchatow,0,End of loan
+385518,damian,michalski,17/18,2017-08-01,GKS Belchatow,Gornik Polk.,0,loan transfer
+385518,damian,michalski,15/16,2016-03-11,Belchatow II,GKS Belchatow,0,0
+385518,damian,michalski,14/15,2015-01-01,Belchatow U19,Belchatow II,0,0

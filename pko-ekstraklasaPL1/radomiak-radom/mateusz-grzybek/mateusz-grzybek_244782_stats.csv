@@ -1,22 +1,22 @@
-id,name,season,competition,gamesPlayed,goals,minutes
-244782,mateusz-grzybek,22/23,Ekstraklasa,3,0,42
-244782,mateusz-grzybek,22/23,Ekstraklasa,16,2,1356
-244782,mateusz-grzybek,22/23,Fortuna Puchar Polski,1,0,45
-244782,mateusz-grzybek,21/22,Ekstraklasa,26,2,2150
-244782,mateusz-grzybek,21/22,Fortuna Puchar Polski,2,0,179
-244782,mateusz-grzybek,20/21,1 Liga,27,4,2066
-244782,mateusz-grzybek,20/21,Fortuna Puchar Polski,1,0,90
-244782,mateusz-grzybek,19/20,Baraze o udzial w Ekstraklasie,1,0,90
-244782,mateusz-grzybek,19/20,1 Liga,30,2,2666
-244782,mateusz-grzybek,19/20,Fortuna Puchar Polski,1,0,90
-244782,mateusz-grzybek,18/19,Fortuna 1 Liga,26,1,2124
-244782,mateusz-grzybek,18/19,Fortuna Puchar Polski,1,0,77
-244782,mateusz-grzybek,17/18,Nice 1 Liga,23,0,1699
-244782,mateusz-grzybek,17/18,Fortuna Puchar Polski,1,0,65
-244782,mateusz-grzybek,16/17,Nice 1 Liga,29,1,2149
-244782,mateusz-grzybek,16/17,Fortuna Puchar Polski,1,0,45
-244782,mateusz-grzybek,15/16,eWinner 2 liga,26,0,2022
-244782,mateusz-grzybek,15/16,Fortuna Puchar Polski,1,0,90
-244782,mateusz-grzybek,14/15,1 Liga,22,0,1914
-244782,mateusz-grzybek,13/14,1 Liga,14,0,726
-244782,mateusz-grzybek,13/14,Fortuna Puchar Polski,0,0,0
+id,firstName,lastName,season,competition,gamesPlayed,goals,minutes
+244782,mateusz,grzybek,22/23,Ekstraklasa,4,0,132
+244782,mateusz,grzybek,22/23,Ekstraklasa,16,2,1356
+244782,mateusz,grzybek,22/23,Fortuna Puchar Polski,1,0,45
+244782,mateusz,grzybek,21/22,Ekstraklasa,26,2,2150
+244782,mateusz,grzybek,21/22,Fortuna Puchar Polski,2,0,179
+244782,mateusz,grzybek,20/21,1 Liga,27,4,2066
+244782,mateusz,grzybek,20/21,Fortuna Puchar Polski,1,0,90
+244782,mateusz,grzybek,19/20,Baraze o udzial w Ekstraklasie,1,0,90
+244782,mateusz,grzybek,19/20,1 Liga,30,2,2666
+244782,mateusz,grzybek,19/20,Fortuna Puchar Polski,1,0,90
+244782,mateusz,grzybek,18/19,Fortuna 1 Liga,26,1,2124
+244782,mateusz,grzybek,18/19,Fortuna Puchar Polski,1,0,77
+244782,mateusz,grzybek,17/18,Nice 1 Liga,23,0,1699
+244782,mateusz,grzybek,17/18,Fortuna Puchar Polski,1,0,65
+244782,mateusz,grzybek,16/17,Nice 1 Liga,29,1,2149
+244782,mateusz,grzybek,16/17,Fortuna Puchar Polski,1,0,45
+244782,mateusz,grzybek,15/16,eWinner 2 liga,26,0,2022
+244782,mateusz,grzybek,15/16,Fortuna Puchar Polski,1,0,90
+244782,mateusz,grzybek,14/15,1 Liga,22,0,1914
+244782,mateusz,grzybek,13/14,1 Liga,14,0,726
+244782,mateusz,grzybek,13/14,Fortuna Puchar Polski,0,0,0

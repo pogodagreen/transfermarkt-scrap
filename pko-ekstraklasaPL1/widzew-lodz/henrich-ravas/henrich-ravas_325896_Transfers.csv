@@ -1,9 +1,9 @@
-season,date,sourceTeam,destTeam,marketValue,price
-21/22,2022-03-29,FK Senica,Widzew Lodz,250000,free transfer
-21/22,2021-07-02,Derby,FK Senica,100000,free transfer
-20/21,2021-06-30,Hartlepool,Derby,100000,End of loan
-20/21,2020-10-01,Derby,Hartlepool,25000,loan transfer
-20/21,2020-07-01,Derby U23,Derby,25000,0
-15/16,2016-01-04,Boston United U19,Derby U23,25000,0
-15/16,2015-08-04,Peterb. U18,Boston United U19,25000,free transfer
-14/15,2014-07-01,Myjava U19,Peterb. U18,25000,free transfer
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+325896,henrich,ravas,21/22,2022-03-29,FK Senica,Widzew Lodz,250000,free transfer
+325896,henrich,ravas,21/22,2021-07-02,Derby,FK Senica,100000,free transfer
+325896,henrich,ravas,20/21,2021-06-30,Hartlepool,Derby,100000,End of loan
+325896,henrich,ravas,20/21,2020-10-01,Derby,Hartlepool,25000,loan transfer
+325896,henrich,ravas,20/21,2020-07-01,Derby U23,Derby,25000,0
+325896,henrich,ravas,15/16,2016-01-04,Boston United U19,Derby U23,25000,0
+325896,henrich,ravas,15/16,2015-08-04,Peterb. U18,Boston United U19,25000,free transfer
+325896,henrich,ravas,14/15,2014-07-01,Myjava U19,Peterb. U18,25000,free transfer

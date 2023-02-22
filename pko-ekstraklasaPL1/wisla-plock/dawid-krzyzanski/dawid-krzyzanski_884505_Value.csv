@@ -1,5 +1,5 @@
-id,name,dates,marketValue
-884505,dawid-krzyzanski,2021-05-20,25000
-884505,dawid-krzyzanski,2021-09-10,0
-884505,dawid-krzyzanski,2022-09-28,25000
-884505,dawid-krzyzanski,2022-11-15,25000
+id,firstName,lastName,dates,marketValue
+884505,dawid,krzyzanski,2021-05-20,25000
+884505,dawid,krzyzanski,2021-09-10,0
+884505,dawid,krzyzanski,2022-09-28,25000
+884505,dawid,krzyzanski,2022-11-15,25000

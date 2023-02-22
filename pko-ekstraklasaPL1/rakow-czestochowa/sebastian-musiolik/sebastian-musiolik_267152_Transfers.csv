@@ -1,11 +1,11 @@
-season,date,sourceTeam,destTeam,marketValue,price
-20/21,2021-06-30,Pordenone,Rakow,600000,End of loan
-20/21,2020-10-01,Rakow,Pordenone,550000,loan transfer
-18/19,2018-07-01,ROW Rybnik,Rakow,0,free transfer
-17/18,2017-07-14,Piast Gliwice,ROW Rybnik,75000,free transfer
-16/17,2017-06-30,ROW Rybnik,Piast Gliwice,100000,End of loan
-16/17,2017-01-09,Piast Gliwice,ROW Rybnik,100000,loan transfer
-15/16,2016-06-30,ROW Rybnik,Piast Gliwice,100000,End of loan
-15/16,2016-02-12,Piast Gliwice,ROW Rybnik,100000,loan transfer
-15/16,2015-07-01,ROW Rybnik,Piast Gliwice,150000,free transfer
-12/13,2013-03-01,ROW Rybnik U19,ROW Rybnik,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+267152,sebastian,musiolik,20/21,2021-06-30,Pordenone,Rakow,600000,End of loan
+267152,sebastian,musiolik,20/21,2020-10-01,Rakow,Pordenone,550000,loan transfer
+267152,sebastian,musiolik,18/19,2018-07-01,ROW Rybnik,Rakow,0,free transfer
+267152,sebastian,musiolik,17/18,2017-07-14,Piast Gliwice,ROW Rybnik,75000,free transfer
+267152,sebastian,musiolik,16/17,2017-06-30,ROW Rybnik,Piast Gliwice,100000,End of loan
+267152,sebastian,musiolik,16/17,2017-01-09,Piast Gliwice,ROW Rybnik,100000,loan transfer
+267152,sebastian,musiolik,15/16,2016-06-30,ROW Rybnik,Piast Gliwice,100000,End of loan
+267152,sebastian,musiolik,15/16,2016-02-12,Piast Gliwice,ROW Rybnik,100000,loan transfer
+267152,sebastian,musiolik,15/16,2015-07-01,ROW Rybnik,Piast Gliwice,150000,free transfer
+267152,sebastian,musiolik,12/13,2013-03-01,ROW Rybnik U19,ROW Rybnik,0,0

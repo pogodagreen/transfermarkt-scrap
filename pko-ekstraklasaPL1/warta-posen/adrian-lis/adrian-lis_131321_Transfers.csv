@@ -1,8 +1,8 @@
-season,date,sourceTeam,destTeam,marketValue,price
-17/18,2017-07-01,Polonia Sroda,Warta Poznan,0,free transfer
-13/14,2014-02-14,Warta Poznan,Polonia Sroda,150000,free transfer
-11/12,2012-06-30,Pol. Warsaw,Warta Poznan,50000,End of loan
-11/12,2011-08-01,Warta Poznan,Pol. Warsaw,25000,Loan
-10/11,2011-06-30,Polonia Sroda,Warta Poznan,25000,End of loan
-10/11,2011-03-06,Warta Poznan,Polonia Sroda,25000,loan transfer
-09/10,2009-07-01,Wa. Poznan U19,Warta Poznan,0,0
+id,firstName,lastName,season,date,sourceTeam,destTeam,marketValue,price
+131321,adrian,lis,17/18,2017-07-01,Polonia Sroda,Warta Poznan,0,free transfer
+131321,adrian,lis,13/14,2014-02-14,Warta Poznan,Polonia Sroda,150000,free transfer
+131321,adrian,lis,11/12,2012-06-30,Pol. Warsaw,Warta Poznan,50000,End of loan
+131321,adrian,lis,11/12,2011-08-01,Warta Poznan,Pol. Warsaw,25000,Loan
+131321,adrian,lis,10/11,2011-06-30,Polonia Sroda,Warta Poznan,25000,End of loan
+131321,adrian,lis,10/11,2011-03-06,Warta Poznan,Polonia Sroda,25000,loan transfer
+131321,adrian,lis,09/10,2009-07-01,Wa. Poznan U19,Warta Poznan,0,0
